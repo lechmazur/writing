@@ -18,7 +18,7 @@ The grading LLMs are:
 1. GPT-4o
 2. Claude 3.5 Sonnet 2024-10-22
 3. LLama 3.1 405B
-4. Deepseek-V3
+4. DeepSeek-V3
 5. Grok 2 12-12
 6. Gemini 1.5 Pro (Sept)
 
@@ -28,42 +28,88 @@ In total, 20 * 500 * 6 * 16 = 960,000 grades are generated.
 ### Overall LLM Means
 Chart:
 
-Leaderboard:
+![llm_overall_bar_zoomed](https://github.com/user-attachments/assets/7e2a36c5-1eb5-4671-95e2-ed9bc0fae45a)
 
-Claude 3.5 Sonnet emerges as the clear overall winner. Notably, Claude 3.5 Haiku shows a large over Claude 3 Haiku, achieving a strong performance. Gemini models perform well, while Llama models lag behind. Interestingly, larger, more expensive models did not outperform smaller models by as much as one might expect.
+**Leaderboard:**
+| Rank | LLM Full          | Mean  |
+|-----:|-------------------|------:|
+| 1 | Claude 3.5 Sonnet 2024-10-22 | 8.47 |
+| 2 | Claude 3.5 Haiku | 8.07 |
+| 3 | Gemini 1.5 Flash | 7.99 |
+| 4 | Gemini 1.5 Pro (Sept) | 7.97 |
+| 5 | Gemini 2.0 Flash Thinking Exp | 7.87 |
+| 6 | o1-preview | 7.74 |
+| 7 | Gemini 2.0 Flash Exp | 7.65 |
+| 8 | DeepSeek-V3 | 7.62 |
+| 9 | Mistral Large 2 | 7.54 |
+| 10 | Gemma 2 27B | 7.49 |
+| 11 | Qwen QwQ | 7.44 |
+| 12 | GPT-4o mini | 7.37 |
+| 13 | GPT-4o | 7.36 |
+| 14 | o1-mini | 7.30 |
+| 15 | Claude 3 Opus | 7.17 |
+| 16 | Qwen 2.5 72B | 7.00 |
+| 17 | Grok 2 12-12 | 6.98 |
+| 18 | Llama 3.1 405B | 6.60 |
+| 19 | Llama 3.3 70B | 5.95 |
+| 20 | Claude 3 Haiku | 5.83 |
+
+Claude 3.5 Sonnet emerges as the clear overall winner. Notably, Claude 3.5 Haiku shows a very large improvement over Claude 3 Haiku. Gemini models perform well, while Llama models lag behind. Interestingly, larger, more expensive models did not outperform smaller models by as much as one might expect.
 
 ### Overall Strip Plot of Questions
-A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all questions:
+A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all questions, with Grader LLMs marked in different colors:
 
-The plot reveals that Llama 3.1 405B occasionally, and Deepseek-v3 sporadically, award a perfect 10 across the board, despite prompts explicitly asking them to be strict graders.
+![questions_overall_strip](https://github.com/user-attachments/assets/bca4eefb-a25f-4178-9d5f-046150cfba76)
+
+The plot reveals that Llama 3.1 405B occasionally, and DeepSeek-V3 sporadically, award a perfect 10 across the board, despite prompts explicitly asking them to be strict graders.
 
 ### LLM vs. Question (Detailed)
 A heatmap showing each LLM's mean rating per question:
+
+![llm_vs_question_detailed](https://github.com/user-attachments/assets/6686b012-d935-49a7-bc23-cce49e3adb54)
 
 Claude 3.5 Sonnet ranks #1 on every single question!
 
 ### LLM #1 Finishes
 Which LLM ranked #1 the most times across all stories? This pie chart shows the distribution of #1 finishes:
 
-Claude 3.5 Sonnet’s dominance is undeniable when analyzing the best scores by story.
+![llm_best_pie](https://github.com/user-attachments/assets/a9c37814-4cd9-4169-adf9-b7ec3355b0c3)
+
+Claude 3.5 Sonnet's dominance is undeniable when analyzing the best scores by story.
 
 ### Grader-LLM Mean Heatmap
 A heatmap of Grader (row) vs. LLM (column) average scores:
+
+![grader_vs_llm_means](https://github.com/user-attachments/assets/0292c777-4d9d-45be-b4ec-f8e8e2025c8d)
 
 The chart highlights that grading LLMs do not disproportionately overrate their own stories. Claude 3.5 Sonnet achieves the top score for nearly all grading LLMs, except when graded by Llama 3.1 405B, where it comes a very close second to Claude 3.5 Haiku.
 
 ### Grader-Grader Correlation
 A correlation matrix (−1 to 1 scale) measuring how strongly multiple LLMs correlate when cross-grading the same stories:
 
+![teacher_grader_correlation](https://github.com/user-attachments/assets/e3bbaf7b-0909-4e1c-9221-e5c7187c4374)
+
 Llama 3.1 405B's grades show the least correlation with other LLMs, though the correlation remains relatively high, with a minimum of 0.66.
 
 ## Story Length
 A basic prompt asking LLMs to create a 400-500 word story resulted in an unacceptable range of story lengths. A revised prompt instructing each LLM to track the number of words after each sentence improved consistency somewhat but still fell short of the accuracy needed for fair grading. These stories are available in [stories_first/](stories_first/). For example, Claude 3.5 Haiku consistently produced stories that were significantly too short:
 
+![count-before](https://github.com/user-attachments/assets/b2a2f691-478a-49c0-a6c2-409b9342ac94)
+
 Since the benchmark aims to evaluate how well LLMs write, not how well they count or follow prompts about the format, we adjusted the word counts in the prompt for different LLMs to approximately match the target story length - an approach similar to what someone dissatisfied with the initial story length might adopt. Qwen QwQ and Llama 3.x models required the most extensive prompt engineering to achieve the required word counts and to adhere to the proper output format across all 500 stories. Note that this did not require any evaluation of the story's content itself. These final stories were then graded and they are available in [stories_wc/](stories_wc/).
 
-## Best and worst stories
-Here, we list the top 3 and the bottom 3 stories out of the 10,000 generated, based on the average scores from our grader LLMs, and include the required elements for each. Feel free to evaluate their quality for yourself!
+![count-after](https://github.com/user-attachments/assets/39b47c19-da29-4036-bb54-cccfc46ec704)
+
+This chart shows the correlations between each LLM's scores and their story lengths:
+
+![len_vs_score_overall_enhanced](https://github.com/user-attachments/assets/6c41dcaa-9e78-4c6c-b793-d20a50010f1c)
+
+This chart shows the correlations between each Grader LLM's scores and the lengths of stories they graded:
+
+![len_vs_score_grader_enhanced](https://github.com/user-attachments/assets/019b90d9-ed03-4edb-ae6d-f980c7ea1671)
+
+## Best and Worst Stories
+Here, we list the top 3 and the bottom 3 individual stories (written by any LLM) out of the 10,000 generated, based on the average scores from our grader LLMs, and include the required elements for each. Feel free to evaluate their quality for yourself!
 
 ### Top 3 Individual Stories (All Graders)
 
@@ -161,7 +207,7 @@ Here, we list the top 3 and the bottom 3 stories out of the 10,000 generated, ba
 
 
 ## Easiest and Hardest Combinations of Elements
-This reveals which story concepts or sets of required elements consistently excelled or faltered, regardless of the LLM that authored them
+This reveals which story concepts or sets of required elements consistently excelled or faltered, regardless of the LLM that authored them.
 
 ### Top 3 Highest-Rated Element Combinations
 
@@ -259,15 +305,73 @@ This reveals which story concepts or sets of required elements consistently exce
     - Tone: flippant solemnity
 
 
+## Ablation
+
+Excluding 10% worst stories per LLM does not significantly change the rankings:
+### Rankings After Excluding the 50 Lowest-Rated Stories per LLM
+
+| LLM      | Old Rank | Old Mean | New Rank | New Mean |
+|----------|---------:|---------:|---------:|---------:|
+| Claude 3.5 Sonnet 2024-10-22 | 1 | 8.47 | 1 | 8.54 |
+| Claude 3.5 Haiku | 2 | 8.07 | 2 | 8.15 |
+| Gemini 1.5 Flash | 3 | 7.99 | 3 | 8.09 |
+| Gemini 1.5 Pro (Sept) | 4 | 7.97 | 4 | 8.06 |
+| Gemini 2.0 Flash Thinking Exp | 5 | 7.87 | 5 | 7.96 |
+| o1-preview | 6 | 7.74 | 6 | 7.85 |
+| Gemini 2.0 Flash Exp | 7 | 7.65 | 7 | 7.76 |
+| DeepSeek-V3 | 8 | 7.62 | 8 | 7.74 |
+| Mistral Large 2 | 9 | 7.54 | 9 | 7.65 |
+| Gemma 2 27B | 10 | 7.49 | 10 | 7.60 |
+| Qwen QwQ | 11 | 7.44 | 11 | 7.55 |
+| GPT-4o | 13 | 7.36 | 12 | 7.47 |
+| GPT-4o mini | 12 | 7.37 | 13 | 7.46 |
+| o1-mini | 14 | 7.30 | 14 | 7.44 |
+| Claude 3 Opus | 15 | 7.17 | 15 | 7.30 |
+| Grok 2 12-12 | 17 | 6.98 | 16 | 7.12 |
+| Qwen 2.5 72B | 16 | 7.00 | 17 | 7.12 |
+| Llama 3.1 405B | 18 | 6.60 | 18 | 6.72 |
+| Llama 3.3 70B | 19 | 5.95 | 19 | 6.08 |
+| Claude 3 Haiku | 20 | 5.83 | 20 | 5.97 |
 
 
-### Ablation
+Excluding any one LLM from grading also does not siginificantly change the rankings. For example, here is what happens when LLama 3.1 405B is excluded:
+### Ranking after Excluding LLama 3.1 405B from Grading
 
-Excluding 10% worst stories per LLM does not siginificantly change the rankings:
+| LLM                | Old Rank | Old Mean | New Rank | New Mean |
+|--------------------|---------:|---------:|---------:|---------:|
+| Claude 3.5 Sonnet 2024-10-22 | 1 | 8.47 | 1 | 8.25 |
+| Claude 3.5 Haiku | 2 | 8.07 | 2 | 7.75 |
+| Gemini 1.5 Flash | 3 | 7.99 | 3 | 7.73 |
+| Gemini 1.5 Pro (Sept) | 4 | 7.97 | 4 | 7.73 |
+| Gemini 2.0 Flash Thinking Exp | 5 | 7.87 | 5 | 7.64 |
+| o1-preview | 6 | 7.74 | 6 | 7.47 |
+| DeepSeek-V3 | 8 | 7.62 | 7 | 7.36 |
+| Gemini 2.0 Flash Exp | 7 | 7.65 | 8 | 7.36 |
+| Gemma 2 27B | 10 | 7.49 | 9 | 7.29 |
+| Mistral Large 2 | 9 | 7.54 | 10 | 7.24 |
+| Qwen QwQ | 11 | 7.44 | 11 | 7.18 |
+| GPT-4o mini | 12 | 7.37 | 12 | 7.09 |
+| GPT-4o | 13 | 7.36 | 13 | 7.03 |
+| o1-mini | 14 | 7.30 | 14 | 6.91 |
+| Claude 3 Opus | 15 | 7.17 | 15 | 6.84 |
+| Qwen 2.5 72B | 16 | 7.00 | 16 | 6.66 |
+| Grok 2 12-12 | 17 | 6.98 | 17 | 6.63 |
+| Llama 3.1 405B | 18 | 6.60 | 18 | 6.18 |
+| Llama 3.3 70B | 19 | 5.95 | 19 | 5.41 |
+| Claude 3 Haiku | 20 | 5.83 | 20 | 5.32 |
 
-Excluding any one LLM from grading does not siginificantly change the rankings:
 
 
+## Details
+Strip plots divided between questions 1-6 and questions 7A-7J:
+
+![questions_1to6_strip](https://github.com/user-attachments/assets/4e860b4c-4a13-43ad-b357-54095c491efc)
+
+![questions_7A_J_strip](https://github.com/user-attachments/assets/3e6aff05-0d27-4c5f-ab31-19fc518f88d8)
+
+Full range of scores:
+
+![llm_overall_bar_start0](https://github.com/user-attachments/assets/74003aa9-1d20-469b-b5e1-2ffce93c446f)
 
 
 ## Updates and Other Benchmarks
