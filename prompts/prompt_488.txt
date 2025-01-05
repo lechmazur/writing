@@ -1,0 +1,24 @@
+Create a 400-500 word story that combines all elements below. It must make the most sense possible and every single element must be used. Each element should tightly fit into the story's logic, tone, and momentum. Each element should shape the narrative arc, enrich the setting, deepen character motives, and support the theme. If another element in the category was used, the story would be less cohesive or compelling. Among other factors, the story will be graded on Story Integration, Character Development & Motivation, Plot Structure & Coherence, World & Atmosphere, Storytelling Impact & Craft, Authenticity & Originality. Make sure you make the best story possible.
+
+Enclose the whole story in <story></story> tags in your output. After each sentence put the precise total number of words that you wrote for this story so far in <words></words> tag, so so you can keep count while writing. We do not need any other comments besides the story itself and these counts after each sentence.
+
+Character: solitary summoner
+
+Object: map drawn on a leaf
+
+Core Concept: the spark of invention
+
+Attribute: oddly authentic
+
+Action: prowl
+
+Method: a unique way the family celebrates a certain holiday  
+
+Setting: quantum beach
+
+Timeframe: at the hush just before a condemned building is demolished
+
+Motivation: to outshine your own reflection
+
+Tone: corroded rapture  
+

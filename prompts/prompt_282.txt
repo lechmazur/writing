@@ -1,0 +1,24 @@
+Create a 400-500 word story that combines all elements below. It must make the most sense possible and every single element must be used. Each element should tightly fit into the story's logic, tone, and momentum. Each element should shape the narrative arc, enrich the setting, deepen character motives, and support the theme. If another element in the category was used, the story would be less cohesive or compelling. Among other factors, the story will be graded on Story Integration, Character Development & Motivation, Plot Structure & Coherence, World & Atmosphere, Storytelling Impact & Craft, Authenticity & Originality. Make sure you make the best story possible.
+
+Enclose the whole story in <story></story> tags in your output. After each sentence put the precise total number of words that you wrote for this story so far in <words></words> tag, so so you can keep count while writing. We do not need any other comments besides the story itself and these counts after each sentence.
+
+Character: brash blacksmith
+
+Object: war medal from a forgotten battle
+
+Core Concept: the warmth of reciprocity
+
+Attribute: consciously wild
+
+Action: detonate
+
+Method: through the patterns in a nautilus shell  
+
+Setting: dancing dust particle chamber
+
+Timeframe: in the hush of a discount store at closing time
+
+Motivation: to preserve traditional games
+
+Tone: dusty exuberance  
+
