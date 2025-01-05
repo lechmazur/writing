@@ -2,6 +2,8 @@
 
 This benchmark tests how well large language models (LLMs) incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short narrative. This is particularly relevant for creative LLM use cases. Because every story has the same required building blocks and similar length, their resulting cohesiveness and creativity become directly comparable across models. A wide variety of required random elements ensures that LLMs must create diverse stories and cannot resort to repetition. The benchmark captures both constraint satisfaction (did the LLM incorporate all elements properly?) and literary quality (how engaging or coherent is the final piece?). By applying a multi-question grading rubric and multiple "grader" LLMs, we can pinpoint differences in how well each model integrates the assigned elements, develops characters, maintains atmosphere, and sustains an overall coherent plot. It measures more than fluency or style: it probes whether each model can adapt to rigid requirements, remain original, and produce a cohesive story that meaningfully uses every single assigned element.
 
+![llm_overall_bar_zoomed](https://github.com/user-attachments/assets/7e2a36c5-1eb5-4671-95e2-ed9bc0fae45a)
+
 ## Method Summary
 Each of the 20 LLMs produces 500 short stories - each targetted at 400–500 words long - that must organically integrate all assigned random elements. In total, 20 * 500 = 10,000 unique stories are generated.
 
@@ -26,9 +28,6 @@ In total, 20 * 500 * 6 * 16 = 960,000 grades are generated.
 
 ## Results
 ### Overall LLM Means
-Chart:
-
-![llm_overall_bar_zoomed](https://github.com/user-attachments/assets/7e2a36c5-1eb5-4671-95e2-ed9bc0fae45a)
 
 **Leaderboard:**
 | Rank | LLM Full          | Mean  |
