@@ -333,7 +333,7 @@ Excluding 10% worst stories per LLM does not significantly change the rankings:
 | Claude 3 Haiku | 20 | 5.83 | 20 | 5.97 |
 
 
-Excluding any one LLM from grading also does not siginificantly change the rankings. For example, here is what happens when LLama 3.1 405B is excluded:
+Excluding any one LLM from grading also does not significantly change the rankings. For example, here is what happens when LLama 3.1 405B is excluded:
 ### Ranking after Excluding LLama 3.1 405B from Grading
 
 | LLM                | Old Rank | Old Mean | New Rank | New Mean |
