@@ -5,7 +5,7 @@ This benchmark tests how well large language models (LLMs) incorporate a set of 
 ![llm_overall_bar_zoomed](https://github.com/user-attachments/assets/7e2a36c5-1eb5-4671-95e2-ed9bc0fae45a)
 
 ## Method Summary
-Each of the 20 LLMs produces 500 short stories - each targetted at 400–500 words long - that must organically integrate all assigned random elements. In total, 20 * 500 = 10,000 unique stories are generated.
+Each of the 20 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 20 * 500 = 10,000 unique stories are generated.
 
 Six LLMs grade each of these stories on 16 questions regarding:
 1. Character Development & Motivation
