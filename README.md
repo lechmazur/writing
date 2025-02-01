@@ -242,6 +242,39 @@ Excluding any one LLM from grading also does not significantly change the rankin
 | Llama 3.3 70B | 25 | 5.95 | 25 | 5.41 |
 | Claude 3 Haiku | 26 | 5.83 | 26 | 5.32 |
 
+Normalizing each grader’s scores doesn’t significantly alter the rankings:
+
+### Normalized Mean Leaderboard
+
+| Rank | LLM                    | Normalized Mean |
+|-----:|------------------------|-----------------:|
+| 1 | DeepSeek R1 | 1.092 |
+| 2 | Claude 3.5 Sonnet 2024-10-22 | 1.044 |
+| 3 | Claude 3.5 Haiku | 0.641 |
+| 4 | Gemini 1.5 Flash | 0.564 |
+| 5 | Gemini 1.5 Pro (Sept) | 0.543 |
+| 6 | Gemini 2.0 Flash Thinking Exp Old | 0.449 |
+| 7 | Gemini 2.0 Flash Thinking Exp 01-21 | 0.399 |
+| 8 | o1-preview | 0.332 |
+| 9 | Gemini 2.0 Flash Exp | 0.255 |
+| 10 | DeepSeek-V3 | 0.200 |
+| 11 | Qwen 2.5 Max | 0.193 |
+| 12 | o1 | 0.156 |
+| 13 | Mistral Large 2 | 0.142 |
+| 14 | Gemma 2 27B | 0.024 |
+| 15 | Qwen QwQ | -0.018 |
+| 16 | GPT-4o | -0.040 |
+| 17 | o1-mini | -0.048 |
+| 18 | GPT-4o mini | -0.054 |
+| 19 | Claude 3 Opus | -0.229 |
+| 20 | Grok 2 12-12 | -0.388 |
+| 21 | Qwen 2.5 72B | -0.399 |
+| 22 | Microsoft Phi-4 | -0.496 |
+| 23 | Amazon Nova Pro | -0.718 |
+| 24 | Llama 3.1 405B | -0.747 |
+| 25 | Llama 3.3 70B | -1.358 |
+| 26 | Claude 3 Haiku | -1.537 |
+
 
 
 ## Details
