@@ -64,7 +64,9 @@ DeepSeek R1 and Claude 3.5 Sonnet emerge as the clear overall winners. Notably, 
 ### Overall Strip Plot of Questions
 A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all questions, with Grader LLMs marked in different colors:
 
-![questions_overall_strip](https://github.com/user-attachments/assets/764c9dd3-a19b-4548-abb6-0674cdc754f7)
+![questions_overall_strip](https://github.com/user-attachments/assets/357b2855-62e1-47d1-b824-c5a5cf590fa1)
+
+![normalized_scores_strip](https://github.com/user-attachments/assets/4cc77170-5445-4d73-973c-bf2f2b72a64b)
 
 The plot reveals that Llama 3.1 405B occasionally, and DeepSeek-V3 sporadically, award a perfect 10 across the board, despite prompts explicitly asking them to be strict graders.
 
