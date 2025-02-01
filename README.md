@@ -62,11 +62,11 @@ In total, 26 * 500 * 6 * 16 = 1,248,000 grades are generated.
 DeepSeek R1 and Claude 3.5 Sonnet emerge as the clear overall winners. Notably, Claude 3.5 Haiku shows a large improvement over Claude 3 Haiku. Gemini models perform well, while Llama models lag behind. Interestingly, larger, more expensive models did not outperform smaller models by as much as one might expect.
 
 ### Overall Strip Plot of Questions
-A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all questions, with Grader LLMs marked in different colors:
+A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all stories, with Grader LLMs marked in different colors:
 
-![questions_overall_strip](https://github.com/user-attachments/assets/357b2855-62e1-47d1-b824-c5a5cf590fa1)
+![questions_overall_strip](https://github.com/user-attachments/assets/d3fe8bc4-e6c1-4ae9-8c64-6656f353cd28)
 
-![normalized_scores_strip](https://github.com/user-attachments/assets/4cc77170-5445-4d73-973c-bf2f2b72a64b)
+![normalized_scores_strip](https://github.com/user-attachments/assets/bfc1e1d3-e9b5-441c-b936-85814a2246f4)
 
 The plot reveals that Llama 3.1 405B occasionally, and DeepSeek-V3 sporadically, award a perfect 10 across the board, despite prompts explicitly asking them to be strict graders.
 
