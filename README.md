@@ -2,10 +2,10 @@
 
 This benchmark tests how well large language models (LLMs) incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short narrative. This is particularly relevant for creative LLM use cases. Because every story has the same required building blocks and similar length, their resulting cohesiveness and creativity become directly comparable across models. A wide variety of required random elements ensures that LLMs must create diverse stories and cannot resort to repetition. The benchmark captures both constraint satisfaction (did the LLM incorporate all elements properly?) and literary quality (how engaging or coherent is the final piece?). By applying a multi-question grading rubric and multiple "grader" LLMs, we can pinpoint differences in how well each model integrates the assigned elements, develops characters, maintains atmosphere, and sustains an overall coherent plot. It measures more than fluency or style: it probes whether each model can adapt to rigid requirements, remain original, and produce a cohesive story that meaningfully uses every single assigned element.
 
-![llm_overall_bar_zoomed_with_err](https://github.com/user-attachments/assets/75c398f4-acec-4754-80f9-bebc17966288)
+![llm_overall_bar_zoomed](https://github.com/user-attachments/assets/1e7bccf1-6777-48f2-b590-9d770b7c3c72)
 
 ## Method Summary
-Each of the 25 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 26 * 500 = 13,000 unique stories are generated.
+Each of the 27 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 27 * 500 = 13,500 unique stories are generated.
 
 Six LLMs grade each of these stories on 16 questions regarding:
 1. Character Development & Motivation
@@ -24,7 +24,7 @@ The grading LLMs are:
 5. Grok 2 12-12
 6. Gemini 1.5 Pro (Sept)
 
-In total, 26 * 500 * 6 * 16 = 1,248,000 grades are generated.
+In total, 27 * 500 * 6 * 16 = 1,296,000 grades are generated.
 
 ## Results
 ### Overall LLM Means
@@ -53,48 +53,51 @@ In total, 26 * 500 * 6 * 16 = 1,248,000 grades are generated.
 | 19 | Claude 3 Opus | 7.17 |
 | 20 | Qwen 2.5 72B | 7.00 |
 | 21 | Grok 2 12-12 | 6.98 |
-| 22 | Microsoft Phi-4 | 6.89 |
-| 23 | Amazon Nova Pro | 6.70 |
-| 24 | Llama 3.1 405B | 6.60 |
-| 25 | Llama 3.3 70B | 5.95 |
-| 26 | Claude 3 Haiku | 5.83 |
+| 22 | o3-mini | 6.90 |
+| 23 | Microsoft Phi-4 | 6.89 |
+| 24 | Amazon Nova Pro | 6.70 |
+| 25 | Llama 3.1 405B | 6.60 |
+| 26 | Llama 3.3 70B | 5.95 |
+| 27 | Claude 3 Haiku | 5.83 |
 
-DeepSeek R1 and Claude 3.5 Sonnet emerge as the clear overall winners. Notably, Claude 3.5 Haiku shows a large improvement over Claude 3 Haiku. Gemini models perform well, while Llama models lag behind. Interestingly, larger, more expensive models did not outperform smaller models by as much as one might expect.
+DeepSeek R1 and Claude 3.5 Sonnet emerge as the clear overall winners. Notably, Claude 3.5 Haiku shows a large improvement over Claude 3 Haiku. Gemini models perform well, while Llama models lag behind. Interestingly, larger, more expensive models did not outperform smaller models by as much as one might expect. o3-mini performs worse than expected.
 
 ### Overall Strip Plot of Questions
-A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all questions, with Grader LLMs marked in different colors:
+A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all stories, with Grader LLMs marked in different colors:
 
-![questions_overall_strip](https://github.com/user-attachments/assets/764c9dd3-a19b-4548-abb6-0674cdc754f7)
+![questions_overall_strip](https://github.com/user-attachments/assets/be4a20cd-8a07-48e1-9a37-62b7ca322abb)
+
+![normalized_scores_strip](https://github.com/user-attachments/assets/32494af1-c5b0-4e57-b567-5706b4a68284)
 
 The plot reveals that Llama 3.1 405B occasionally, and DeepSeek-V3 sporadically, award a perfect 10 across the board, despite prompts explicitly asking them to be strict graders.
 
 ### LLM vs. Question (Detailed)
 A heatmap showing each LLM's mean rating per question:
 
-![llm_vs_question_detailed](https://github.com/user-attachments/assets/70dd58e1-c1b3-40c8-b49a-b0bf2b2ff9ef)
+![llm_vs_question_detailed](https://github.com/user-attachments/assets/d963ae83-b9a3-4c98-9edd-f03b34a17c3b)
 
 Before DeepSeek R1's release, Claude 3.5 Sonnet ranked #1 on every single question.
 
 ### LLM #1 Finishes
 Which LLM ranked #1 the most times across all stories? This pie chart shows the distribution of #1 finishes:
 
-![llm_best_pie](https://github.com/user-attachments/assets/9faceac4-2ac3-49a4-a3f5-f3fa9ef2e1f2)
+![llm_best_pie](https://github.com/user-attachments/assets/f60c5ce4-7522-47ee-b311-fece216bcfdb)
 
 Claude 3.5 Sonnet's and R1's dominance is undeniable when analyzing the best scores by story.
 
 ### Grader - LLM Mean Heatmap
 A heatmap of Grader (row) vs. LLM (column) average scores:
 
-![grader_vs_llm_means](https://github.com/user-attachments/assets/53c4879c-32f9-463d-bfb9-c0574eeb5909)
+![grader_vs_llm_means](https://github.com/user-attachments/assets/284ca6e3-f9d0-4b68-bd25-73afcb398134)
 
-The chart highlights that grading LLMs do not disproportionately overrate their own stories. 
+The chart highlights that grading LLMs do not disproportionately overrate their own stories. Llama 3.1 405B is impressed by the o3-mini, while other grading LLMs dislike its stories.
 
 ### Grader-Grader Correlation
 A correlation matrix (−1 to 1 scale) measuring how strongly multiple LLMs correlate when cross-grading the same stories:
 
-![teacher_grader_correlation](https://github.com/user-attachments/assets/bb20ca48-ea7b-4fd2-8cef-d0e6d21e1bd5)
+![teacher_grader_correlation](https://github.com/user-attachments/assets/d3567535-6b6e-44b9-ad89-6ecffb6958bb)
 
-Llama 3.1 405B's grades show the least correlation with other LLMs, though the correlation remains relatively high, with a minimum of 0.66.
+Llama 3.1 405B's grades show the least correlation with other LLMs.
 
 ## Story Length
 A basic prompt asking LLMs to create a 400-500 word story resulted in an unacceptable range of story lengths. A revised prompt instructing each LLM to track the number of words after each sentence improved consistency somewhat but still fell short of the accuracy needed for fair grading. These stories are available in [stories_first/](stories_first/). For example, Claude 3.5 Haiku consistently produced stories that were significantly too short:
@@ -103,15 +106,18 @@ A basic prompt asking LLMs to create a 400-500 word story resulted in an unaccep
 
 Since the benchmark aims to evaluate how well LLMs write, not how well they count or follow prompts about the format, we adjusted the word counts in the prompt for different LLMs to approximately match the target story length - an approach similar to what someone dissatisfied with the initial story length might adopt. Qwen QwQ and Llama 3.x models required the most extensive prompt engineering to achieve the required word counts and to adhere to the proper output format across all 500 stories. Note that this did not require any evaluation of the story's content itself. These final stories were then graded and they are available in [stories_wc/](stories_wc/).
 
-![word_count](https://github.com/user-attachments/assets/21a2aa55-d359-4680-a058-d279481d27b9)
+![word_count](https://github.com/user-attachments/assets/b2b98cb6-3eed-4c6b-a6d1-70c56a3b79e8)
 
 This chart shows the correlations between each LLM's scores and their story lengths:
 
-![len_vs_score_overall_enhanced](https://github.com/user-attachments/assets/bc01b859-73cb-4ae2-a77a-d8a1f10163f0)
+![len_vs_score_overall_enhanced](https://github.com/user-attachments/assets/313ef86f-5132-4dcc-ac83-d1da2ae72b37)
+
+o3-mini and o1 seem to force too many of their stories to be exactly within the specified limits, which may hurt their grades.
 
 This chart shows the correlations between each Grader LLM's scores and the lengths of stories they graded:
 
-![len_vs_score_grader_enhanced](https://github.com/user-attachments/assets/12f14a43-5cc2-4e66-96d1-e964424093d7)
+![len_vs_score_grader_enhanced](https://github.com/user-attachments/assets/bf3fab11-c4d8-4642-9115-455e946acc93)
+
 
 ## Best and Worst Stories
 Here, we list the top 3 and the bottom 3 individual stories (written by any LLM) out of the 13,000 generated, based on the average scores from our grader LLMs, and include the required elements for each. Feel free to evaluate their quality for yourself!
@@ -171,11 +177,11 @@ Here, we list the top 3 and the bottom 3 individual stories (written by any LLM)
 
 ## Ablation
 
-A valid concern is whether LLM graders can accurately score questions 1 to 6 (Major Story Aspects), such as Character Development & Motivation. However, questions 7A to 7J (Element Integration) are clearly much easier for LLM graders to evaluate correctly, and we observe a very high correlation between the grades for questions 1 to 6 and 7A to 7J across all grader - LLM combinations. We also observe a very high correlation among the grader LLMs themselves. Overall, the per-story correlation is 0.949 (N=78,000). While we cannot be certain that these ratings are correct without human validation, the consistency suggests that something real is being measured. But we can simply ignore questions 1 to 6 and just use ratings for 7A to 7J.
+A valid concern is whether LLM graders can accurately score questions 1 to 6 (Major Story Aspects), such as Character Development & Motivation. However, questions 7A to 7J (Element Integration) are clearly much easier for LLM graders to evaluate correctly, and we observe a very high correlation between the grades for questions 1 to 6 and 7A to 7J across all grader - LLM combinations. We also observe a high correlation among the grader LLMs themselves. Overall, the per-story correlation of 1-6 vs 7A-7J is 0.949 (N=78,000). While we cannot be certain that these ratings are correct without human validation, the consistency suggests that something real is being measured. But we can simply ignore questions 1 to 6 and just use ratings for 7A to 7J:
 
 ### Questions 7A to 7J Only: Element Integration
 
-![llm_overall_bar_zoomed_7Ato7J](https://github.com/user-attachments/assets/58df1484-999f-4bb6-849c-5819e1beaa99)
+![llm_overall_bar_zoomed_7Ato7J](https://github.com/user-attachments/assets/b75faed6-2978-4d75-84d7-b8bcdac31ad2)
 
 Excluding 10% worst stories per LLM does not significantly change the rankings:
 ### Rankings After Excluding the 50 Lowest-Rated Stories per LLM
@@ -203,11 +209,12 @@ Excluding 10% worst stories per LLM does not significantly change the rankings:
 | Claude 3 Opus | 19 | 7.17 | 19 | 7.30 |
 | Grok 2 12-12 | 21 | 6.98 | 20 | 7.12 |
 | Qwen 2.5 72B | 20 | 7.00 | 21 | 7.12 |
-| Microsoft Phi-4 | 22 | 6.89 | 22 | 7.02 |
-| Amazon Nova Pro | 23 | 6.70 | 23 | 6.84 |
-| Llama 3.1 405B | 24 | 6.60 | 24 | 6.72 |
-| Llama 3.3 70B | 25 | 5.95 | 25 | 6.08 |
-| Claude 3 Haiku | 26 | 5.83 | 26 | 5.97 |
+| o3-mini | 22 | 6.90 | 22 | 7.04 |
+| Microsoft Phi-4 | 23 | 6.89 | 23 | 7.02 |
+| Amazon Nova Pro | 24 | 6.70 | 24 | 6.84 |
+| Llama 3.1 405B | 25 | 6.60 | 25 | 6.72 |
+| Llama 3.3 70B | 26 | 5.95 | 26 | 6.08 |
+| Claude 3 Haiku | 27 | 5.83 | 27 | 5.97 |
 
 
 Excluding any one LLM from grading also does not significantly change the rankings. For example, here is what happens when LLama 3.1 405B is excluded:
@@ -236,27 +243,57 @@ Excluding any one LLM from grading also does not significantly change the rankin
 | Claude 3 Opus | 19 | 7.17 | 19 | 6.84 |
 | Qwen 2.5 72B | 20 | 7.00 | 20 | 6.66 |
 | Grok 2 12-12 | 21 | 6.98 | 21 | 6.63 |
-| Microsoft Phi-4 | 22 | 6.89 | 22 | 6.49 |
-| Amazon Nova Pro | 23 | 6.70 | 23 | 6.34 |
-| Llama 3.1 405B | 24 | 6.60 | 24 | 6.18 |
-| Llama 3.3 70B | 25 | 5.95 | 25 | 5.41 |
-| Claude 3 Haiku | 26 | 5.83 | 26 | 5.32 |
+| Microsoft Phi-4 | 23 | 6.89 | 22 | 6.49 |
+| o3-mini | 22 | 6.90 | 23 | 6.38 |
+| Amazon Nova Pro | 24 | 6.70 | 24 | 6.34 |
+| Llama 3.1 405B | 25 | 6.60 | 25 | 6.18 |
+| Llama 3.3 70B | 26 | 5.95 | 26 | 5.41 |
+| Claude 3 Haiku | 27 | 5.83 | 27 | 5.32 |
+
+Normalizing each grader’s scores doesn’t significantly alter the rankings:
+
+### Normalized Mean Leaderboard
+
+| Rank | LLM                    | Normalized Mean |
+|-----:|------------------------|-----------------:|
+| 1 | DeepSeek R1 | 1.103 |
+| 2 | Claude 3.5 Sonnet 2024-10-22 | 1.055 |
+| 3 | Claude 3.5 Haiku | 0.653 |
+| 4 | Gemini 1.5 Flash | 0.577 |
+| 5 | Gemini 1.5 Pro (Sept) | 0.556 |
+| 6 | Gemini 2.0 Flash Thinking Exp Old | 0.463 |
+| 7 | Gemini 2.0 Flash Thinking Exp 01-21 | 0.413 |
+| 8 | o1-preview | 0.346 |
+| 9 | Gemini 2.0 Flash Exp | 0.270 |
+| 10 | DeepSeek-V3 | 0.215 |
+| 11 | Qwen 2.5 Max | 0.208 |
+| 12 | o1 | 0.172 |
+| 13 | Mistral Large 2 | 0.157 |
+| 14 | Gemma 2 27B | 0.041 |
+| 15 | Qwen QwQ | -0.002 |
+| 16 | GPT-4o | -0.024 |
+| 17 | o1-mini | -0.031 |
+| 18 | GPT-4o mini | -0.038 |
+| 19 | Claude 3 Opus | -0.211 |
+| 20 | Grok 2 12-12 | -0.370 |
+| 21 | Qwen 2.5 72B | -0.381 |
+| 22 | o3-mini | -0.423 |
+| 23 | Microsoft Phi-4 | -0.477 |
+| 24 | Amazon Nova Pro | -0.697 |
+| 25 | Llama 3.1 405B | -0.727 |
+| 26 | Llama 3.3 70B | -1.334 |
+| 27 | Claude 3 Haiku | -1.513 |
 
 
 
 ## Details
-Strip plots divided between questions 1-6 and questions 7A-7J:
-
-![questions_1to6_strip](https://github.com/user-attachments/assets/bb462817-9d86-4bf2-9ea1-40963908002d)
-
-![questions_7A_J_strip](https://github.com/user-attachments/assets/12ba3463-1a8e-4809-9e4c-50c48960bb59)
-
 Full range of scores:
 
-![llm_overall_bar_start0_with_err](https://github.com/user-attachments/assets/305d7170-a324-46e7-9fb9-f5c9fee9b5bd)
+![llm_overall_bar_start0_with_err](https://github.com/user-attachments/assets/d966765a-a4af-4969-a840-7caa4ee0f426)
 
 
 ## Updates and Other Benchmarks
+- Feb 1, 2025: o3-mini added.
 - Jan 31, 2025: DeepSeek R1, o1, Gemini 2.0 Flash Thinking Exp 01-21, Microsoft Phi-4, Amazon Nova Pro added.
 - Also check out the [LLM Step Game](https://github.com/lechmazur/step_game), [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization), [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/), [NYT Connections Benchmark](https://github.com/lechmazur/nyt-connections/), [LLM Deception Benchmark](https://github.com/lechmazur/deception) and [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent).
 - Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.
