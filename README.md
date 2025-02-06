@@ -2,10 +2,10 @@
 
 This benchmark tests how well large language models (LLMs) incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short narrative. This is particularly relevant for creative LLM use cases. Because every story has the same required building blocks and similar length, their resulting cohesiveness and creativity become directly comparable across models. A wide variety of required random elements ensures that LLMs must create diverse stories and cannot resort to repetition. The benchmark captures both constraint satisfaction (did the LLM incorporate all elements properly?) and literary quality (how engaging or coherent is the final piece?). By applying a multi-question grading rubric and multiple "grader" LLMs, we can pinpoint differences in how well each model integrates the assigned elements, develops characters, maintains atmosphere, and sustains an overall coherent plot. It measures more than fluency or style: it probes whether each model can adapt to rigid requirements, remain original, and produce a cohesive story that meaningfully uses every single assigned element.
 
-![llm_overall_bar_zoomed](https://github.com/user-attachments/assets/1e7bccf1-6777-48f2-b590-9d770b7c3c72)
+![llm_overall_bar_zoomed_with_err](https://github.com/user-attachments/assets/9cdc4367-5ffe-405e-af40-09d178070ca2)
 
 ## Method Summary
-Each of the 27 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 27 * 500 = 13,500 unique stories are generated.
+Each of the 26 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 26 * 500 = 13,000 unique stories are generated.
 
 Six LLMs grade each of these stories on 16 questions regarding:
 1. Character Development & Motivation
@@ -24,7 +24,7 @@ The grading LLMs are:
 5. Grok 2 12-12
 6. Gemini 1.5 Pro (Sept)
 
-In total, 27 * 500 * 6 * 16 = 1,296,000 grades are generated.
+In total, 26 * 500 * 6 * 16 = 1,248,000 grades are generated.
 
 ## Results
 ### Overall LLM Means
@@ -35,67 +35,64 @@ In total, 27 * 500 * 6 * 16 = 1,296,000 grades are generated.
 | 1 | DeepSeek R1 | 8.54 |
 | 2 | Claude 3.5 Sonnet 2024-10-22 | 8.47 |
 | 3 | Claude 3.5 Haiku | 8.07 |
-| 4 | Gemini 1.5 Flash | 7.99 |
-| 5 | Gemini 1.5 Pro (Sept) | 7.97 |
-| 6 | Gemini 2.0 Flash Thinking Exp Old | 7.87 |
-| 7 | Gemini 2.0 Flash Thinking Exp 01-21 | 7.82 |
-| 8 | o1-preview | 7.74 |
-| 9 | Gemini 2.0 Flash Exp | 7.65 |
-| 10 | Qwen 2.5 Max | 7.64 |
-| 11 | DeepSeek-V3 | 7.62 |
-| 12 | o1 | 7.57 |
-| 13 | Mistral Large 2 | 7.54 |
-| 14 | Gemma 2 27B | 7.49 |
-| 15 | Qwen QwQ | 7.44 |
-| 16 | GPT-4o mini | 7.37 |
-| 17 | GPT-4o | 7.36 |
-| 18 | o1-mini | 7.30 |
-| 19 | Claude 3 Opus | 7.17 |
-| 20 | Qwen 2.5 72B | 7.00 |
-| 21 | Grok 2 12-12 | 6.98 |
-| 22 | o3-mini | 6.90 |
-| 23 | Microsoft Phi-4 | 6.89 |
-| 24 | Amazon Nova Pro | 6.70 |
-| 25 | Llama 3.1 405B | 6.60 |
-| 26 | Llama 3.3 70B | 5.95 |
-| 27 | Claude 3 Haiku | 5.83 |
+| 4 | Gemini 1.5 Pro (Sept) | 7.97 |
+| 5 | Gemini 2.0 Flash Thinking Exp Old | 7.87 |
+| 6 | Gemini 2.0 Flash Thinking Exp 01-21 | 7.82 |
+| 7 | o1-preview | 7.74 |
+| 8 | Gemini 2.0 Flash Exp | 7.65 |
+| 9 | Qwen 2.5 Max | 7.64 |
+| 10 | DeepSeek-V3 | 7.62 |
+| 11 | o1 | 7.57 |
+| 12 | Mistral Large 2 | 7.54 |
+| 13 | Gemma 2 27B | 7.49 |
+| 14 | Qwen QwQ | 7.44 |
+| 15 | GPT-4o mini | 7.37 |
+| 16 | GPT-4o | 7.36 |
+| 17 | o1-mini | 7.30 |
+| 18 | Claude 3 Opus | 7.17 |
+| 19 | Qwen 2.5 72B | 7.00 |
+| 20 | Grok 2 12-12 | 6.98 |
+| 21 | o3-mini | 6.90 |
+| 22 | Microsoft Phi-4 | 6.89 |
+| 23 | Amazon Nova Pro | 6.70 |
+| 24 | Llama 3.1 405B | 6.60 |
+| 25 | Llama 3.3 70B | 5.95 |
+| 26 | Claude 3 Haiku | 5.83 |
 
 DeepSeek R1 and Claude 3.5 Sonnet emerge as the clear overall winners. Notably, Claude 3.5 Haiku shows a large improvement over Claude 3 Haiku. Gemini models perform well, while Llama models lag behind. Interestingly, larger, more expensive models did not outperform smaller models by as much as one might expect. o3-mini performs worse than expected.
 
 ### Overall Strip Plot of Questions
 A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all stories, with Grader LLMs marked in different colors:
 
-![questions_overall_strip](https://github.com/user-attachments/assets/be4a20cd-8a07-48e1-9a37-62b7ca322abb)
-
-![normalized_scores_strip](https://github.com/user-attachments/assets/32494af1-c5b0-4e57-b567-5706b4a68284)
+![normalized_scores_strip](https://github.com/user-attachments/assets/98078c7d-0d2e-4480-8bbb-20e0b9b9a141)
 
 The plot reveals that Llama 3.1 405B occasionally, and DeepSeek-V3 sporadically, award a perfect 10 across the board, despite prompts explicitly asking them to be strict graders.
 
 ### LLM vs. Question (Detailed)
 A heatmap showing each LLM's mean rating per question:
 
-![llm_vs_question_detailed](https://github.com/user-attachments/assets/d963ae83-b9a3-4c98-9edd-f03b34a17c3b)
+![llm_vs_question_detailed](https://github.com/user-attachments/assets/ce7bd0a5-9ba5-4695-9706-a0501ca87bdd)
 
 Before DeepSeek R1's release, Claude 3.5 Sonnet ranked #1 on every single question.
 
 ### LLM #1 Finishes
 Which LLM ranked #1 the most times across all stories? This pie chart shows the distribution of #1 finishes:
 
-![llm_best_pie](https://github.com/user-attachments/assets/f60c5ce4-7522-47ee-b311-fece216bcfdb)
+![llm_best_pie](https://github.com/user-attachments/assets/3739fe1c-cf50-4d53-80da-112524c2f286)
 
 Claude 3.5 Sonnet's and R1's dominance is undeniable when analyzing the best scores by story.
 
 ### Grader - LLM Mean Heatmap
 A heatmap of Grader (row) vs. LLM (column) average scores:
 
-![grader_vs_llm_means](https://github.com/user-attachments/assets/284ca6e3-f9d0-4b68-bd25-73afcb398134)
+![grader_vs_llm_means](https://github.com/user-attachments/assets/173d6a73-dff3-4629-9b52-63695ff0ed24)
 
 The chart highlights that grading LLMs do not disproportionately overrate their own stories. Llama 3.1 405B is impressed by the o3-mini, while other grading LLMs dislike its stories.
 
 ### Grader-Grader Correlation
 A correlation matrix (−1 to 1 scale) measuring how strongly multiple LLMs correlate when cross-grading the same stories:
 
-![teacher_grader_correlation](https://github.com/user-attachments/assets/d3567535-6b6e-44b9-ad89-6ecffb6958bb)
+![teacher_grader_correlation](https://github.com/user-attachments/assets/cb314c9c-fba5-44e8-818a-f36fc98b7dfa)
 
 Llama 3.1 405B's grades show the least correlation with other LLMs.
 
@@ -106,17 +103,17 @@ A basic prompt asking LLMs to create a 400-500 word story resulted in an unaccep
 
 Since the benchmark aims to evaluate how well LLMs write, not how well they count or follow prompts about the format, we adjusted the word counts in the prompt for different LLMs to approximately match the target story length - an approach similar to what someone dissatisfied with the initial story length might adopt. Qwen QwQ and Llama 3.x models required the most extensive prompt engineering to achieve the required word counts and to adhere to the proper output format across all 500 stories. Note that this did not require any evaluation of the story's content itself. These final stories were then graded and they are available in [stories_wc/](stories_wc/).
 
-![word_count](https://github.com/user-attachments/assets/b2b98cb6-3eed-4c6b-a6d1-70c56a3b79e8)
+![word_count](https://github.com/user-attachments/assets/cfca084c-ab4f-46c8-9ce7-3591be40076c)
 
 This chart shows the correlations between each LLM's scores and their story lengths:
 
-![len_vs_score_overall_enhanced](https://github.com/user-attachments/assets/313ef86f-5132-4dcc-ac83-d1da2ae72b37)
+![len_vs_score_overall_enhanced](https://github.com/user-attachments/assets/ad14c66a-9ac9-4f56-aba9-2df382d54ec0)
 
 o3-mini and o1 seem to force too many of their stories to be exactly within the specified limits, which may hurt their grades.
 
 This chart shows the correlations between each Grader LLM's scores and the lengths of stories they graded:
 
-![len_vs_score_grader_enhanced](https://github.com/user-attachments/assets/bf3fab11-c4d8-4642-9115-455e946acc93)
+![len_vs_score_grader_enhanced](https://github.com/user-attachments/assets/aa7bd19d-277b-4e82-84d1-80b7c2531fae)
 
 
 ## Best and Worst Stories
@@ -181,7 +178,7 @@ A valid concern is whether LLM graders can accurately score questions 1 to 6 (Ma
 
 ### Questions 7A to 7J Only: Element Integration
 
-![llm_overall_bar_zoomed_7Ato7J](https://github.com/user-attachments/assets/b75faed6-2978-4d75-84d7-b8bcdac31ad2)
+![llm_overall_bar_zoomed_7Ato7J](https://github.com/user-attachments/assets/bf041d9a-074d-448e-8644-bd714fd926b8)
 
 Excluding 10% worst stories per LLM does not significantly change the rankings:
 ### Rankings After Excluding the 50 Lowest-Rated Stories per LLM
@@ -191,7 +188,6 @@ Excluding 10% worst stories per LLM does not significantly change the rankings:
 | DeepSeek R1 | 1 | 8.54 | 1 | 8.60 |
 | Claude 3.5 Sonnet 2024-10-22 | 2 | 8.47 | 2 | 8.54 |
 | Claude 3.5 Haiku | 3 | 8.07 | 3 | 8.15 |
-| Gemini 1.5 Flash | 4 | 7.99 | 4 | 8.09 |
 | Gemini 1.5 Pro (Sept) | 5 | 7.97 | 5 | 8.06 |
 | Gemini 2.0 Flash Thinking Exp Old | 6 | 7.87 | 6 | 7.96 |
 | Gemini 2.0 Flash Thinking Exp 01-21 | 7 | 7.82 | 7 | 7.93 |
@@ -225,7 +221,6 @@ Excluding any one LLM from grading also does not significantly change the rankin
 | DeepSeek R1 | 1 | 8.54 | 1 | 8.36 |
 | Claude 3.5 Sonnet 2024-10-22 | 2 | 8.47 | 2 | 8.25 |
 | Claude 3.5 Haiku | 3 | 8.07 | 3 | 7.75 |
-| Gemini 1.5 Flash | 4 | 7.99 | 4 | 7.73 |
 | Gemini 1.5 Pro (Sept) | 5 | 7.97 | 5 | 7.73 |
 | Gemini 2.0 Flash Thinking Exp Old | 6 | 7.87 | 6 | 7.64 |
 | Gemini 2.0 Flash Thinking Exp 01-21 | 7 | 7.82 | 7 | 7.54 |
@@ -259,7 +254,6 @@ Normalizing each grader’s scores doesn’t significantly alter the rankings:
 | 1 | DeepSeek R1 | 1.103 |
 | 2 | Claude 3.5 Sonnet 2024-10-22 | 1.055 |
 | 3 | Claude 3.5 Haiku | 0.653 |
-| 4 | Gemini 1.5 Flash | 0.577 |
 | 5 | Gemini 1.5 Pro (Sept) | 0.556 |
 | 6 | Gemini 2.0 Flash Thinking Exp Old | 0.463 |
 | 7 | Gemini 2.0 Flash Thinking Exp 01-21 | 0.413 |
@@ -289,7 +283,7 @@ Normalizing each grader’s scores doesn’t significantly alter the rankings:
 ## Details
 Full range of scores:
 
-![llm_overall_bar_start0_with_err](https://github.com/user-attachments/assets/d966765a-a4af-4969-a840-7caa4ee0f426)
+![llm_overall_bar_start0_with_err](https://github.com/user-attachments/assets/091988c1-cb6b-4400-b10e-0dc76c078e34)
 
 
 ## Updates and Other Benchmarks
