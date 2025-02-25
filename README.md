@@ -183,7 +183,7 @@ A valid concern is whether LLM graders can accurately score questions 1 to 6 (Ma
 
 ### Questions 7A to 7J Only: Element Integration
 
-![llm_overall_bar_zoomed_7Ato7J](https://github.com/user-attachments/assets/bf041d9a-074d-448e-8644-bd714fd926b8)
+![llm_overall_bar_zoomed_7Ato7J](https://github.com/user-attachments/assets/3bddd4ce-7d45-4d4d-b364-46c58911a07b)
 
 Excluding 10% worst stories per LLM does not significantly change the rankings:
 ### Rankings After Excluding the 50 Lowest-Rated Stories per LLM
