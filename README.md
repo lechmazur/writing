@@ -2,10 +2,10 @@
 
 This benchmark tests how well large language models (LLMs) incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short narrative. This is particularly relevant for creative LLM use cases. Because every story has the same required building blocks and similar length, their resulting cohesiveness and creativity become directly comparable across models. A wide variety of required random elements ensures that LLMs must create diverse stories and cannot resort to repetition. The benchmark captures both constraint satisfaction (did the LLM incorporate all elements properly?) and literary quality (how engaging or coherent is the final piece?). By applying a multi-question grading rubric and multiple "grader" LLMs, we can pinpoint differences in how well each model integrates the assigned elements, develops characters, maintains atmosphere, and sustains an overall coherent plot. It measures more than fluency or style: it probes whether each model can adapt to rigid requirements, remain original, and produce a cohesive story that meaningfully uses every single assigned element.
 
-![llm_overall_bar_zoomed_with_err](https://github.com/user-attachments/assets/a6820f9b-b2a0-4aca-9817-edd16d7fe74c)
+![llm_overall_bar_zoomed_with_err](https://github.com/user-attachments/assets/9086bbd0-ae54-49a0-8ce7-1e613a103d40)
 
 ## Method Summary
-Each of the 31 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 31 * 500 = 15,500 unique stories are generated.
+Each of the 31 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 32 * 500 = 16,000 unique stories are generated.
 
 Six LLMs grade each of these stories on 16 questions regarding:
 1. Character Development & Motivation
@@ -24,7 +24,7 @@ The grading LLMs are:
 5. Grok 2 12-12
 6. Gemini 1.5 Pro (Sept)
 
-In total, 31 * 500 * 6 * 16 = 1,488,000 grades are generated.
+In total, 32 * 500 * 6 * 16 = 1,536,000 grades are generated.
 
 ## Results
 ### Overall LLM Means
@@ -32,72 +32,74 @@ In total, 31 * 500 * 6 * 16 = 1,488,000 grades are generated.
 **Leaderboard:**
 | Rank | LLM               | Mean  |
 |-----:|-------------------|------:|
-| 1 | DeepSeek R1 | 8.54 |
-| 2 | Claude 3.7 Sonnet Thinking 16K | 8.51 |
-| 3 | Claude 3.5 Sonnet 2024-10-22 | 8.47 |
-| 4 | Claude 3.7 Sonnet | 8.39 |
-| 5 | Gemini 2.0 Pro Exp 02-05 | 8.08 |
-| 6 | Claude 3.5 Haiku | 8.07 |
-| 7 | Gemini 1.5 Pro (Sept) | 7.97 |
-| 8 | GPT-4o Feb 2025 | 7.96 |
-| 9 | Gemini 2.0 Flash Thinking Exp Old | 7.87 |
-| 10 | GPT-4o 2024-11-20 | 7.87 |
-| 11 | Gemini 2.0 Flash Thinking Exp 01-21 | 7.82 |
-| 12 | o1-preview | 7.74 |
-| 13 | Gemini 2.0 Flash Exp | 7.65 |
-| 14 | Qwen 2.5 Max | 7.64 |
-| 15 | DeepSeek-V3 | 7.62 |
-| 16 | o1 | 7.57 |
-| 17 | Mistral Large 2 | 7.54 |
-| 18 | Gemma 2 27B | 7.49 |
-| 19 | Qwen QwQ | 7.44 |
-| 20 | GPT-4o mini | 7.37 |
-| 21 | GPT-4o 2024-08-06 | 7.36 |
-| 22 | o1-mini | 7.30 |
-| 23 | Claude 3 Opus | 7.17 |
-| 24 | Qwen 2.5 72B | 7.00 |
-| 25 | Grok 2 12-12 | 6.98 |
-| 26 | o3-mini | 6.90 |
-| 27 | Microsoft Phi-4 | 6.89 |
-| 28 | Amazon Nova Pro | 6.70 |
-| 29 | Llama 3.1 405B | 6.60 |
-| 30 | Llama 3.3 70B | 5.95 |
-| 31 | Claude 3 Haiku | 5.83 |
+| 1 | DeepSeek R1 | 0.991 |
+| 2 | Claude 3.7 Sonnet Thinking 16K | 0.970 |
+| 3 | Claude 3.5 Sonnet 2024-10-22 | 0.942 |
+| 4 | Claude 3.7 Sonnet | 0.843 |
+| 5 | GPT-4.5 Preview | 0.546 |
+| 6 | Claude 3.5 Haiku | 0.541 |
+| 7 | Gemini 2.0 Pro Exp 02-05 | 0.529 |
+| 8 | Gemini 1.5 Pro (Sept) | 0.443 |
+| 9 | GPT-4o Feb 2025 | 0.407 |
+| 10 | Gemini 2.0 Flash Thinking Exp Old | 0.349 |
+| 11 | GPT-4o 2024-11-20 | 0.302 |
+| 12 | Gemini 2.0 Flash Thinking Exp 01-21 | 0.299 |
+| 13 | o1-preview | 0.232 |
+| 14 | Gemini 2.0 Flash Exp | 0.156 |
+| 15 | DeepSeek-V3 | 0.101 |
+| 16 | Qwen 2.5 Max | 0.092 |
+| 17 | o1 | 0.056 |
+| 18 | Mistral Large 2 | 0.044 |
+| 19 | Gemma 2 27B | -0.075 |
+| 20 | Qwen QwQ | -0.117 |
+| 21 | GPT-4o 2024-08-06 | -0.138 |
+| 22 | o1-mini | -0.147 |
+| 23 | GPT-4o mini | -0.152 |
+| 24 | Claude 3 Opus | -0.330 |
+| 25 | Grok 2 12-12 | -0.488 |
+| 26 | Qwen 2.5 72B | -0.499 |
+| 27 | o3-mini | -0.543 |
+| 28 | Microsoft Phi-4 | -0.594 |
+| 29 | Amazon Nova Pro | -0.819 |
+| 30 | Llama 3.1 405B | -0.848 |
+| 31 | Llama 3.3 70B | -1.458 |
+| 32 | Claude 3 Haiku | -1.639 |
 
 DeepSeek R1 and Claude Sonnet emerge as the clear overall winners. Notably, Claude 3.5 Haiku shows a large improvement over Claude 3 Haiku. Gemini models perform well, while Llama models lag behind. Interestingly, larger, more expensive models did not outperform smaller models by as much as one might expect. o3-mini performs worse than expected.
 
 ### Overall Strip Plot of Questions
 A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all stories, with Grader LLMs marked in different colors:
 
-![normalized_scores_strip](https://github.com/user-attachments/assets/3677a8df-a966-4e9c-a31d-cfae13109cec)
+![normalized_scores_strip](https://github.com/user-attachments/assets/12bfe8d0-1577-447e-a8ff-a1bad67b796e)
 
 The plot reveals that Llama 3.1 405B occasionally, and DeepSeek-V3 sporadically, award a perfect 10 across the board, despite prompts explicitly asking them to be strict graders.
 
 ### LLM vs. Question (Detailed)
 A heatmap showing each LLM's mean rating per question:
 
-![llm_vs_question_detailed](https://github.com/user-attachments/assets/bd996829-9e17-49dc-9427-c1fd1bf46cf9)
+![llm_vs_question_detailed](https://github.com/user-attachments/assets/47864eda-6e9c-4653-9fdb-55bfada0cd0d)
 
 Before DeepSeek R1's release, Claude 3.5 Sonnet ranked #1 on every single question.
 
 ### LLM #1 Finishes
 Which LLM ranked #1 the most times across all stories? This pie chart shows the distribution of #1 finishes:
 
-![llm_best_pie](https://github.com/user-attachments/assets/ca1a680d-4c32-449f-86ac-e66cc112f618)
+![llm_best_pie](https://github.com/user-attachments/assets/ac880a65-8dda-48ac-a481-5b06bf287c29)
 
 Claude Sonnet's and R1's dominance is undeniable when analyzing the best scores by story.
 
 ### Grader - LLM Mean Heatmap
 A heatmap of Grader (row) vs. LLM (column) average scores:
 
-![grader_vs_llm_means](https://github.com/user-attachments/assets/816b1063-a116-4b21-be80-a343bfb2e7d4)
+![grader_vs_llm_means](https://github.com/user-attachments/assets/c6e5e32f-c436-46f1-ace7-b7e274dc3c20)
+
 
 The chart highlights that grading LLMs do not disproportionately overrate their own stories. Llama 3.1 405B is impressed by the o3-mini, while other grading LLMs dislike its stories.
 
 ### Grader-Grader Correlation
 A correlation matrix (−1 to 1 scale) measuring how strongly multiple LLMs correlate when cross-grading the same stories:
 
-![teacher_grader_correlation](https://github.com/user-attachments/assets/8399bb60-aea1-4212-8c96-0db42cec23ff)
+![teacher_grader_correlation](https://github.com/user-attachments/assets/91dcd65d-d4dc-4f8d-9de6-076ee01a9bdc)
 
 Llama 3.1 405B's grades show the least correlation with other LLMs.
 
@@ -108,17 +110,17 @@ A basic prompt asking LLMs to create a 400-500 word story resulted in an unaccep
 
 Since the benchmark aims to evaluate how well LLMs write, not how well they count or follow prompts about the format, we adjusted the word counts in the prompt for different LLMs to approximately match the target story length - an approach similar to what someone dissatisfied with the initial story length might adopt. Qwen QwQ and Llama 3.x models required the most extensive prompt engineering to achieve the required word counts and to adhere to the proper output format across all 500 stories. Note that this did not require any evaluation of the story's content itself. These final stories were then graded and they are available in [stories_wc/](stories_wc/).
 
-![word_count](https://github.com/user-attachments/assets/b95eda4a-1164-4084-9ce1-1b34f175d71d)
+![word_count](https://github.com/user-attachments/assets/ab51a248-f6f9-4725-8f38-64ac53b00c99)
 
 This chart shows the correlations between each LLM's scores and their story lengths:
 
-![len_vs_score_overall_enhanced](https://github.com/user-attachments/assets/7673803d-1205-484e-bc8c-1e768c8b36bb)
+![len_vs_score_overall_enhanced](https://github.com/user-attachments/assets/49804639-34bc-4b51-941a-22342d3eb481)
 
 o3-mini and o1 seem to force too many of their stories to be exactly within the specified limits, which may hurt their grades.
 
 This chart shows the correlations between each Grader LLM's scores and the lengths of stories they graded:
 
-![len_vs_score_grader_enhanced](https://github.com/user-attachments/assets/7c1b9854-357d-4278-90a6-cbcb75fea9fd)
+![len_vs_score_grader_enhanced](https://github.com/user-attachments/assets/da939e47-f330-4e34-bf69-90993e7b4eb6)
 
 ## Best and Worst Stories
 Here, we list the top 3 and the bottom 3 individual stories (written by any LLM) out of the 13,000 generated, based on the average scores from our grader LLMs, and include the required elements for each. Feel free to evaluate their quality for yourself!
@@ -183,7 +185,8 @@ A valid concern is whether LLM graders can accurately score questions 1 to 6 (Ma
 
 ### Questions 7A to 7J Only: Element Integration
 
-![llm_overall_bar_zoomed_7Ato7J](https://github.com/user-attachments/assets/3bddd4ce-7d45-4d4d-b364-46c58911a07b)
+![llm_overall_bar_zoomed_7Ato7J](https://github.com/user-attachments/assets/9f686557-6ca0-4dd3-af1f-32b5128e4af5)
+
 
 Excluding 10% worst stories per LLM does not significantly change the rankings:
 ### Rankings After Excluding the 50 Lowest-Rated Stories per LLM
@@ -195,32 +198,33 @@ Excluding 10% worst stories per LLM does not significantly change the rankings:
 | Claude 3.5 Sonnet 2024-10-22 | 3 | 8.47 | 3 | 8.54 |
 | Claude 3.7 Sonnet | 4 | 8.39 | 4 | 8.45 |
 | Gemini 2.0 Pro Exp 02-05 | 5 | 8.08 | 5 | 8.16 |
-| Claude 3.5 Haiku | 6 | 8.07 | 6 | 8.15 |
-| Gemini 1.5 Pro (Sept) | 7 | 7.97 | 7 | 8.06 |
-| GPT-4o Feb 2025 | 8 | 7.96 | 8 | 8.05 |
-| Gemini 2.0 Flash Thinking Exp Old | 9 | 7.87 | 9 | 7.96 |
-| GPT-4o 2024-11-20 | 10 | 7.87 | 10 | 7.95 |
-| Gemini 2.0 Flash Thinking Exp 01-21 | 11 | 7.82 | 11 | 7.93 |
-| o1-preview | 12 | 7.74 | 12 | 7.85 |
-| Gemini 2.0 Flash Exp | 13 | 7.65 | 13 | 7.76 |
-| DeepSeek-V3 | 15 | 7.62 | 14 | 7.74 |
-| Qwen 2.5 Max | 14 | 7.64 | 15 | 7.74 |
-| o1 | 16 | 7.57 | 16 | 7.68 |
-| Mistral Large 2 | 17 | 7.54 | 17 | 7.65 |
-| Gemma 2 27B | 18 | 7.49 | 18 | 7.60 |
-| Qwen QwQ | 19 | 7.44 | 19 | 7.55 |
-| GPT-4o 2024-08-06 | 21 | 7.36 | 20 | 7.47 |
-| GPT-4o mini | 20 | 7.37 | 21 | 7.46 |
-| o1-mini | 22 | 7.30 | 22 | 7.44 |
-| Claude 3 Opus | 23 | 7.17 | 23 | 7.30 |
-| Grok 2 12-12 | 25 | 6.98 | 24 | 7.12 |
-| Qwen 2.5 72B | 24 | 7.00 | 25 | 7.12 |
-| o3-mini | 26 | 6.90 | 26 | 7.04 |
-| Microsoft Phi-4 | 27 | 6.89 | 27 | 7.02 |
-| Amazon Nova Pro | 28 | 6.70 | 28 | 6.84 |
-| Llama 3.1 405B | 29 | 6.60 | 29 | 6.72 |
-| Llama 3.3 70B | 30 | 5.95 | 30 | 6.08 |
-| Claude 3 Haiku | 31 | 5.83 | 31 | 5.97 |
+| GPT-4.5 Preview | 6 | 8.07 | 6 | 8.16 |
+| Claude 3.5 Haiku | 7 | 8.07 | 7 | 8.15 |
+| Gemini 1.5 Pro (Sept) | 8 | 7.97 | 8 | 8.06 |
+| GPT-4o Feb 2025 | 9 | 7.96 | 9 | 8.05 |
+| Gemini 2.0 Flash Thinking Exp Old | 10 | 7.87 | 10 | 7.96 |
+| GPT-4o 2024-11-20 | 11 | 7.87 | 11 | 7.95 |
+| Gemini 2.0 Flash Thinking Exp 01-21 | 12 | 7.82 | 12 | 7.93 |
+| o1-preview | 13 | 7.74 | 13 | 7.85 |
+| Gemini 2.0 Flash Exp | 14 | 7.65 | 14 | 7.76 |
+| DeepSeek-V3 | 16 | 7.62 | 15 | 7.74 |
+| Qwen 2.5 Max | 15 | 7.64 | 16 | 7.74 |
+| o1 | 17 | 7.57 | 17 | 7.68 |
+| Mistral Large 2 | 18 | 7.54 | 18 | 7.65 |
+| Gemma 2 27B | 19 | 7.49 | 19 | 7.60 |
+| Qwen QwQ | 20 | 7.44 | 20 | 7.55 |
+| GPT-4o 2024-08-06 | 22 | 7.36 | 21 | 7.47 |
+| GPT-4o mini | 21 | 7.37 | 22 | 7.46 |
+| o1-mini | 23 | 7.30 | 23 | 7.44 |
+| Claude 3 Opus | 24 | 7.17 | 24 | 7.30 |
+| Grok 2 12-12 | 26 | 6.98 | 25 | 7.12 |
+| Qwen 2.5 72B | 25 | 7.00 | 26 | 7.12 |
+| o3-mini | 27 | 6.90 | 27 | 7.04 |
+| Microsoft Phi-4 | 28 | 6.89 | 28 | 7.02 |
+| Amazon Nova Pro | 29 | 6.70 | 29 | 6.84 |
+| Llama 3.1 405B | 30 | 6.60 | 30 | 6.72 |
+| Llama 3.3 70B | 31 | 5.95 | 31 | 6.08 |
+| Claude 3 Haiku | 32 | 5.83 | 32 | 5.97 |
 
 
 Excluding any one LLM from grading also does not significantly change the rankings. For example, here is what happens when LLama 3.1 405B is excluded:
@@ -228,37 +232,38 @@ Excluding any one LLM from grading also does not significantly change the rankin
 
 | LLM                | Old Rank | Old Mean | New Rank | New Mean |
 |--------------------|---------:|---------:|---------:|---------:|
-| DeepSeek R1 | 1 | 8.54 | 1 | 8.36 |
-| Claude 3.7 Sonnet Thinking 16K | 2 | 8.51 | 2 | 8.29 |
-| Claude 3.5 Sonnet 2024-10-22 | 3 | 8.47 | 3 | 8.25 |
-| Claude 3.7 Sonnet | 4 | 8.39 | 4 | 8.17 |
-| Gemini 2.0 Pro Exp 02-05 | 5 | 8.08 | 5 | 7.87 |
-| GPT-4o Feb 2025 | 8 | 7.96 | 6 | 7.78 |
-| Claude 3.5 Haiku | 6 | 8.07 | 7 | 7.75 |
-| Gemini 1.5 Pro (Sept) | 7 | 7.97 | 8 | 7.73 |
-| GPT-4o 2024-11-20 | 10 | 7.87 | 9 | 7.69 |
-| Gemini 2.0 Flash Thinking Exp Old | 9 | 7.87 | 10 | 7.64 |
-| Gemini 2.0 Flash Thinking Exp 01-21 | 11 | 7.82 | 11 | 7.54 |
-| o1-preview | 12 | 7.74 | 12 | 7.47 |
-| Qwen 2.5 Max | 14 | 7.64 | 13 | 7.42 |
-| DeepSeek-V3 | 15 | 7.62 | 14 | 7.36 |
-| Gemini 2.0 Flash Exp | 13 | 7.65 | 15 | 7.36 |
-| o1 | 16 | 7.57 | 16 | 7.29 |
-| Gemma 2 27B | 18 | 7.49 | 17 | 7.29 |
-| Mistral Large 2 | 17 | 7.54 | 18 | 7.24 |
-| Qwen QwQ | 19 | 7.44 | 19 | 7.18 |
-| GPT-4o mini | 20 | 7.37 | 20 | 7.09 |
-| GPT-4o 2024-08-06 | 21 | 7.36 | 21 | 7.03 |
-| o1-mini | 22 | 7.30 | 22 | 6.91 |
-| Claude 3 Opus | 23 | 7.17 | 23 | 6.84 |
-| Qwen 2.5 72B | 24 | 7.00 | 24 | 6.66 |
-| Grok 2 12-12 | 25 | 6.98 | 25 | 6.63 |
-| Microsoft Phi-4 | 27 | 6.89 | 26 | 6.49 |
-| o3-mini | 26 | 6.90 | 27 | 6.38 |
-| Amazon Nova Pro | 28 | 6.70 | 28 | 6.34 |
-| Llama 3.1 405B | 29 | 6.60 | 29 | 6.18 |
-| Llama 3.3 70B | 30 | 5.95 | 30 | 5.41 |
-| Claude 3 Haiku | 31 | 5.83 | 31 | 5.32 |
+| 1 | DeepSeek R1 | 8.54 |
+| 2 | Claude 3.7 Sonnet Thinking 16K | 8.51 |
+| 3 | Claude 3.5 Sonnet 2024-10-22 | 8.47 |
+| 4 | Claude 3.7 Sonnet | 8.39 |
+| 5 | Gemini 2.0 Pro Exp 02-05 | 8.08 |
+| 6 | GPT-4.5 Preview | 8.07 |
+| 7 | Claude 3.5 Haiku | 8.07 |
+| 8 | Gemini 1.5 Pro (Sept) | 7.97 |
+| 9 | GPT-4o Feb 2025 | 7.96 |
+| 10 | Gemini 2.0 Flash Thinking Exp Old | 7.87 |
+| 11 | GPT-4o 2024-11-20 | 7.87 |
+| 12 | Gemini 2.0 Flash Thinking Exp 01-21 | 7.82 |
+| 13 | o1-preview | 7.74 |
+| 14 | Gemini 2.0 Flash Exp | 7.65 |
+| 15 | Qwen 2.5 Max | 7.64 |
+| 16 | DeepSeek-V3 | 7.62 |
+| 17 | o1 | 7.57 |
+| 18 | Mistral Large 2 | 7.54 |
+| 19 | Gemma 2 27B | 7.49 |
+| 20 | Qwen QwQ | 7.44 |
+| 21 | GPT-4o mini | 7.37 |
+| 22 | GPT-4o 2024-08-06 | 7.36 |
+| 23 | o1-mini | 7.30 |
+| 24 | Claude 3 Opus | 7.17 |
+| 25 | Qwen 2.5 72B | 7.00 |
+| 26 | Grok 2 12-12 | 6.98 |
+| 27 | o3-mini | 6.90 |
+| 28 | Microsoft Phi-4 | 6.89 |
+| 29 | Amazon Nova Pro | 6.70 |
+| 30 | Llama 3.1 405B | 6.60 |
+| 31 | Llama 3.3 70B | 5.95 |
+| 32 | Claude 3 Haiku | 5.83 |
 
 Normalizing each grader’s scores doesn’t significantly alter the rankings:
 
@@ -266,37 +271,39 @@ Normalizing each grader’s scores doesn’t significantly alter the rankings:
 
 | Rank | LLM                    | Normalized Mean |
 |-----:|------------------------|-----------------:|
-| 1 | DeepSeek R1 | 1.003 |
-| 2 | Claude 3.7 Sonnet Thinking 16K | 0.983 |
-| 3 | Claude 3.5 Sonnet 2024-10-22 | 0.955 |
-| 4 | Claude 3.7 Sonnet | 0.857 |
-| 5 | Claude 3.5 Haiku | 0.557 |
-| 6 | Gemini 2.0 Pro Exp 02-05 | 0.544 |
-| 7 | Gemini 1.5 Pro (Sept) | 0.459 |
-| 8 | GPT-4o Feb 2025 | 0.422 |
-| 9 | Gemini 2.0 Flash Thinking Exp Old | 0.365 |
-| 10 | GPT-4o 2024-11-20 | 0.317 |
-| 11 | Gemini 2.0 Flash Thinking Exp 01-21 | 0.315 |
-| 12 | o1-preview | 0.248 |
-| 13 | Gemini 2.0 Flash Exp | 0.173 |
-| 14 | DeepSeek-V3 | 0.117 |
-| 15 | Qwen 2.5 Max | 0.108 |
-| 16 | o1 | 0.074 |
-| 17 | Mistral Large 2 | 0.061 |
-| 18 | Gemma 2 27B | -0.058 |
-| 19 | Qwen QwQ | -0.099 |
-| 20 | GPT-4o 2024-08-06 | -0.119 |
-| 21 | o1-mini | -0.128 |
-| 22 | GPT-4o mini | -0.134 |
-| 23 | Claude 3 Opus | -0.311 |
-| 24 | Grok 2 12-12 | -0.468 |
-| 25 | Qwen 2.5 72B | -0.479 |
-| 26 | o3-mini | -0.521 |
-| 27 | Microsoft Phi-4 | -0.573 |
-| 28 | Amazon Nova Pro | -0.798 |
-| 29 | Llama 3.1 405B | -0.826 |
-| 30 | Llama 3.3 70B | -1.432 |
-| 31 | Claude 3 Haiku | -1.613 |
+| 1 | DeepSeek R1 | 0.991 |
+| 2 | Claude 3.7 Sonnet Thinking 16K | 0.970 |
+| 3 | Claude 3.5 Sonnet 2024-10-22 | 0.942 |
+| 4 | Claude 3.7 Sonnet | 0.843 |
+| 5 | GPT-4.5 Preview | 0.546 |
+| 6 | Claude 3.5 Haiku | 0.541 |
+| 7 | Gemini 2.0 Pro Exp 02-05 | 0.529 |
+| 8 | Gemini 1.5 Pro (Sept) | 0.443 |
+| 9 | GPT-4o Feb 2025 | 0.407 |
+| 10 | Gemini 2.0 Flash Thinking Exp Old | 0.349 |
+| 11 | GPT-4o 2024-11-20 | 0.302 |
+| 12 | Gemini 2.0 Flash Thinking Exp 01-21 | 0.299 |
+| 13 | o1-preview | 0.232 |
+| 14 | Gemini 2.0 Flash Exp | 0.156 |
+| 15 | DeepSeek-V3 | 0.101 |
+| 16 | Qwen 2.5 Max | 0.092 |
+| 17 | o1 | 0.056 |
+| 18 | Mistral Large 2 | 0.044 |
+| 19 | Gemma 2 27B | -0.075 |
+| 20 | Qwen QwQ | -0.117 |
+| 21 | GPT-4o 2024-08-06 | -0.138 |
+| 22 | o1-mini | -0.147 |
+| 23 | GPT-4o mini | -0.152 |
+| 24 | Claude 3 Opus | -0.330 |
+| 25 | Grok 2 12-12 | -0.488 |
+| 26 | Qwen 2.5 72B | -0.499 |
+| 27 | o3-mini | -0.543 |
+| 28 | Microsoft Phi-4 | -0.594 |
+| 29 | Amazon Nova Pro | -0.819 |
+| 30 | Llama 3.1 405B | -0.848 |
+| 31 | Llama 3.3 70B | -1.458 |
+| 32 | Claude 3 Haiku | -1.639 |
+
 
 
 ## Details
@@ -306,6 +313,7 @@ Full range of scores:
 
 
 ## Updates and Other Benchmarks
+- Feb 26, 2025: GPT-4.5 Preview added.
 - Feb 25, 2025: Claude 3.7 Sonnet, Claude 3.7 Sonnet Thinking, GPT-4o Feb 2025, GPT-4o 2024-11-20, Gemini 2.0 Pro Exp 02-05 added.
 - Feb 1, 2025: o3-mini (medium reasoning effort) added.
 - Jan 31, 2025: DeepSeek R1, o1, Gemini 2.0 Flash Thinking Exp 01-21, Microsoft Phi-4, Amazon Nova Pro added.
