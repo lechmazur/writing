@@ -92,8 +92,7 @@ Claude Sonnet's and R1's dominance is undeniable when analyzing the best scores 
 ### Grader - LLM Mean Heatmap
 A heatmap of Grader (row) vs. LLM (column) average scores:
 
-![grader_vs_llm_means](https://github.com/user-attachments/assets/970a23c2-9f7c-497b-9f87-34be7a85a7f4)
-
+![grader_vs_llm_means](https://github.com/user-attachments/assets/67013074-cd7e-483a-9c11-bacd80e9ff1f)
 
 The chart highlights that grading LLMs do not disproportionately overrate their own stories. Llama 3.1 405B is impressed by the o3-mini, while other grading LLMs dislike its stories.
 
