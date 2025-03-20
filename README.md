@@ -2,8 +2,10 @@
 
 This benchmark tests how well large language models (LLMs) incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short narrative. This is particularly relevant for creative LLM use cases. Because every story has the same required building blocks and similar length, their resulting cohesiveness and creativity become directly comparable across models. A wide variety of required random elements ensures that LLMs must create diverse stories and cannot resort to repetition. The benchmark captures both constraint satisfaction (did the LLM incorporate all elements properly?) and literary quality (how engaging or coherent is the final piece?). By applying a multi-question grading rubric and multiple "grader" LLMs, we can pinpoint differences in how well each model integrates the assigned elements, develops characters, maintains atmosphere, and sustains an overall coherent plot. It measures more than fluency or style: it probes whether each model can adapt to rigid requirements, remain original, and produce a cohesive story that meaningfully uses every single assigned element.
 
+---
 ![llm_overall_bar_zoomed_with_err](https://github.com/user-attachments/assets/780ce7f3-9c8f-4780-826d-2357c179f955)
 
+---
 ## Method Summary
 Each of the 34 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 34 * 500 = 17,000 unique stories are generated.
 
@@ -26,6 +28,7 @@ The grading LLMs are:
 
 In total, 34 * 500 * 6 * 16 = 1,632,000 grades are generated.
 
+---
 ## Results
 ### Overall LLM Means
 
@@ -123,7 +126,7 @@ This chart shows the correlations between each Grader LLM's scores and the lengt
 
 ![len_vs_score_grader_enhanced](https://github.com/user-attachments/assets/9dd09881-3ccd-4437-a0e8-610f09bc9462)
 
-
+---
 ## Best and Worst Stories
 Here, we list the top 3 and the bottom 3 individual stories (written by any LLM) out of the 13,000 generated, based on the average scores from our grader LLMs, and include the required elements for each. Feel free to evaluate their quality for yourself!
 
@@ -180,6 +183,8 @@ Here, we list the top 3 and the bottom 3 individual stories (written by any LLM)
 * **Story**: [story_385.txt](stories_wc/claude_mini/story_385.txt) by Claude 3 Haiku. 3.77
 * **Story**: [story_450.txt](stories_wc/llama33_70b/story_450.txt) by Llama 3.3 70B. 3.88
 * **Story**: [story_4.txt](stories_wc/claude_mini/story_4.txt) by Claude 3 Haiku. 3.86
+
+---
 
 ## Ablation
 
@@ -313,13 +318,25 @@ Normalizing each grader’s scores doesn’t significantly alter the rankings:
 | 34 | Claude 3 Haiku | -1.687 |
 
 
-
+---
 ## Details
 Full range of scores:
 
 ![llm_overall_bar_start0_with_err](https://github.com/user-attachments/assets/90485dea-d800-4171-9abb-d945426a08d9)
 
+---
+## Other multi-agent benchmarks
+- [Public Goods Game (PGG) Benchmark: Contribute & Punish](https://github.com/lechmazur/pgg_bench/)
+- [Elimination Game: Social Reasoning and Deception in Multi-Agent LLMs](https://github.com/lechmazur/elimination_game/)
+- [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/)
 
+## Other benchmarks
+- [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/)
+- [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization/)
+- [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
+- [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/)
+- [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
+---
 ## Updates and Other Benchmarks
 - Mar 13, 2025: Gemma 3 27B added.
 - Mar 10, 2025: Qwen QwQ-32B added.
