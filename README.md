@@ -78,7 +78,7 @@ Qwen QwQ-32B joins DeepSeek R1 and Claude Sonnet as the clear overall winners. N
 ### Overall Strip Plot of Questions
 A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all stories, with Grader LLMs marked in different colors:
 
-![Normalized scores strip chart](/images/normalized_scores_strip)
+![Normalized scores strip chart](/images/normalized_scores_strip.png)
 
 The plot reveals that Llama 3.1 405B occasionally, and DeepSeek-V3 sporadically, award a perfect 10 across the board, despite prompts explicitly asking them to be strict graders.
 
