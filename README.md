@@ -325,6 +325,12 @@ Full range of scores:
 ![llm_overall_bar_start0_with_err](https://github.com/user-attachments/assets/90485dea-d800-4171-9abb-d945426a08d9)
 
 ---
+## Limitations
+
+It's important to note that each story is graded individually rather than as part of a collection. Consequently, LLMs may exhibit repetitive creative patterns, such as recurring plot devices, themes, or character archetypes across different stories. Future assessments will include criteria evaluating originality and variety.
+
+---
+
 ## Other multi-agent benchmarks
 - [Public Goods Game (PGG) Benchmark: Contribute & Punish](https://github.com/lechmazur/pgg_bench/)
 - [Elimination Game: Social Reasoning and Deception in Multi-Agent LLMs](https://github.com/lechmazur/elimination_game/)
