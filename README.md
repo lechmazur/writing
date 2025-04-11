@@ -7,7 +7,7 @@ This benchmark tests how well large language models (LLMs) incorporate a set of 
 
 ---
 ## Method Summary
-Each of the 38 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 39 * 500 = 19,500 unique stories are generated.
+Each of the 38 LLMs produces 500 short stories - each targeted at 400–500 words long - that must organically integrate all assigned random elements. In total, 41 * 500 = 20,500 unique stories are generated.
 
 Six LLMs grade each of these stories on 16 questions regarding:
 1. Character Development & Motivation
@@ -28,7 +28,7 @@ The grading LLMs are:
 
 *Note: they will be updated once Grok 3 API is available.*
 
-In total, 39 * 500 * 6 * 16 = 1,872,000 grades are generated.
+In total, 41 * 500 * 6 * 16 = 1,968,000 grades are generated.
 
 ---
 ## Results
@@ -45,37 +45,39 @@ In total, 39 * 500 * 6 * 16 = 1,872,000 grades are generated.
 | 6 | Qwen QwQ-32B 16K | 8.34 |
 | 7 | Gemini 2.5 Pro Exp 03-24 | 8.30 |
 | 8 | Gemma 3 27B | 8.22 |
-| 9 | DeepSeek V3-0324 | 8.09 |
-| 10 | Gemini 2.0 Pro Exp 02-05 | 8.08 |
-| 11 | GPT-4.5 Preview | 8.07 |
-| 12 | Claude 3.5 Haiku | 8.07 |
-| 13 | Gemini 1.5 Pro (Sept) | 7.97 |
-| 14 | GPT-4o Feb 2025 | 7.96 |
-| 15 | Gemini 2.0 Flash Thinking Exp Old | 7.87 |
-| 16 | GPT-4o 2024-11-20 | 7.87 |
-| 17 | Gemini 2.0 Flash Thinking Exp 01-21 | 7.82 |
-| 18 | o1-preview | 7.74 |
-| 19 | Gemini 2.0 Flash Exp | 7.65 |
-| 20 | Qwen 2.5 Max | 7.64 |
-| 21 | DeepSeek-V3 | 7.62 |
-| 22 | o1 | 7.57 |
-| 23 | Mistral Large 2 | 7.54 |
-| 24 | Gemma 2 27B | 7.49 |
-| 25 | Qwen QwQ Preview | 7.44 |
-| 26 | GPT-4o mini | 7.37 |
-| 27 | GPT-4o 2024-08-06 | 7.36 |
-| 28 | o1-mini | 7.30 |
-| 29 | Claude 3 Opus | 7.17 |
-| 30 | Qwen 2.5 72B | 7.00 |
-| 31 | o3-mini-high | 6.99 |
-| 32 | Grok 2 12-12 | 6.98 |
-| 33 | o3-mini | 6.90 |
-| 34 | Microsoft Phi-4 | 6.89 |
-| 35 | Amazon Nova Pro | 6.70 |
-| 36 | Llama 4 Maverick | 6.67 |
-| 37 | Llama 3.1 405B | 6.60 |
-| 38 | Llama 3.3 70B | 5.95 |
-| 39 | Claude 3 Haiku | 5.83 |
+| 9 | Grok 3 Beta (No reasoning) | 8.17 |
+| 10 | DeepSeek V3-0324 | 8.09 |
+| 11 | Gemini 2.0 Pro Exp 02-05 | 8.08 |
+| 12 | GPT-4.5 Preview | 8.07 |
+| 13 | Claude 3.5 Haiku | 8.07 |
+| 14 | Grok 3 Mini Beta (Low) | 7.99 |
+| 15 | Gemini 1.5 Pro (Sept) | 7.97 |
+| 16 | GPT-4o Feb 2025 | 7.96 |
+| 17 | Gemini 2.0 Flash Thinking Exp Old | 7.87 |
+| 18 | GPT-4o 2024-11-20 | 7.87 |
+| 19 | Gemini 2.0 Flash Thinking Exp 01-21 | 7.82 |
+| 20 | o1-preview | 7.74 |
+| 21 | Gemini 2.0 Flash Exp | 7.65 |
+| 22 | Qwen 2.5 Max | 7.64 |
+| 23 | DeepSeek-V3 | 7.62 |
+| 24 | o1 | 7.57 |
+| 25 | Mistral Large 2 | 7.54 |
+| 26 | Gemma 2 27B | 7.49 |
+| 27 | Qwen QwQ Preview | 7.44 |
+| 28 | GPT-4o mini | 7.37 |
+| 29 | GPT-4o 2024-08-06 | 7.36 |
+| 30 | o1-mini | 7.30 |
+| 31 | Claude 3 Opus | 7.17 |
+| 32 | Qwen 2.5 72B | 7.00 |
+| 33 | o3-mini-high | 6.99 |
+| 34 | Grok 2 12-12 | 6.98 |
+| 35 | o3-mini | 6.90 |
+| 36 | Microsoft Phi-4 | 6.89 |
+| 37 | Amazon Nova Pro | 6.70 |
+| 38 | Llama 4 Maverick | 6.67 |
+| 39 | Llama 3.1 405B | 6.60 |
+| 40 | Llama 3.3 70B | 5.95 |
+| 41 | Claude 3 Haiku | 5.83 |
 
 Qwen QwQ-32B joins DeepSeek R1 and Claude Sonnet as the clear overall winners. Notably, Claude 3.5 Haiku shows a large improvement upon Claude 3 Haiku and Gemma 3 shows a large improvement upon Gemma 2. Gemini models perform well, while Llama models lag behind. Interestingly, larger, more expensive models did not outperform smaller models by as much as one might expect. o3-mini performs worse than expected.
 
@@ -215,37 +217,39 @@ Excluding 10% worst stories per LLM does not significantly change the rankings:
 | Qwen QwQ-32B 16K | 6 | 8.34 | 6 | 8.41 |
 | Gemini 2.5 Pro Exp 03-24 | 7 | 8.30 | 7 | 8.36 |
 | Gemma 3 27B | 8 | 8.22 | 8 | 8.29 |
-| DeepSeek V3-0324 | 9 | 8.09 | 9 | 8.17 |
-| Gemini 2.0 Pro Exp 02-05 | 10 | 8.08 | 10 | 8.16 |
-| GPT-4.5 Preview | 11 | 8.07 | 11 | 8.16 |
-| Claude 3.5 Haiku | 12 | 8.07 | 12 | 8.15 |
-| Gemini 1.5 Pro (Sept) | 13 | 7.97 | 13 | 8.06 |
-| GPT-4o Feb 2025 | 14 | 7.96 | 14 | 8.05 |
-| Gemini 2.0 Flash Thinking Exp Old | 15 | 7.87 | 15 | 7.96 |
-| GPT-4o 2024-11-20 | 16 | 7.87 | 16 | 7.95 |
-| Gemini 2.0 Flash Thinking Exp 01-21 | 17 | 7.82 | 17 | 7.93 |
-| o1-preview | 18 | 7.74 | 18 | 7.85 |
-| Gemini 2.0 Flash Exp | 19 | 7.65 | 19 | 7.76 |
-| DeepSeek-V3 | 21 | 7.62 | 20 | 7.74 |
-| Qwen 2.5 Max | 20 | 7.64 | 21 | 7.74 |
-| o1 | 22 | 7.57 | 22 | 7.68 |
-| Mistral Large 2 | 23 | 7.54 | 23 | 7.65 |
-| Gemma 2 27B | 24 | 7.49 | 24 | 7.60 |
-| Qwen QwQ Preview | 25 | 7.44 | 25 | 7.55 |
-| GPT-4o 2024-08-06 | 27 | 7.36 | 26 | 7.47 |
-| GPT-4o mini | 26 | 7.37 | 27 | 7.46 |
-| o1-mini | 28 | 7.30 | 28 | 7.44 |
-| Claude 3 Opus | 29 | 7.17 | 29 | 7.30 |
-| o3-mini-high | 31 | 6.99 | 30 | 7.12 |
-| Grok 2 12-12 | 32 | 6.98 | 31 | 7.12 |
-| Qwen 2.5 72B | 30 | 7.00 | 32 | 7.12 |
-| o3-mini | 33 | 6.90 | 33 | 7.04 |
-| Microsoft Phi-4 | 34 | 6.89 | 34 | 7.02 |
-| Amazon Nova Pro | 35 | 6.70 | 35 | 6.84 |
-| Llama 4 Maverick | 36 | 6.67 | 36 | 6.80 |
-| Llama 3.1 405B | 37 | 6.60 | 37 | 6.72 |
-| Llama 3.3 70B | 38 | 5.95 | 38 | 6.08 |
-| Claude 3 Haiku | 39 | 5.83 | 39 | 5.97 |
+| Grok 3 Beta (No reasoning) | 9 | 8.17 | 9 | 8.24 |
+| DeepSeek V3-0324 | 10 | 8.09 | 10 | 8.17 |
+| Gemini 2.0 Pro Exp 02-05 | 11 | 8.08 | 11 | 8.16 |
+| GPT-4.5 Preview | 12 | 8.07 | 12 | 8.16 |
+| Claude 3.5 Haiku | 13 | 8.07 | 13 | 8.15 |
+| Grok 3 Mini Beta (Low) | 14 | 7.99 | 14 | 8.07 |
+| Gemini 1.5 Pro (Sept) | 15 | 7.97 | 15 | 8.06 |
+| GPT-4o Feb 2025 | 16 | 7.96 | 16 | 8.05 |
+| Gemini 2.0 Flash Thinking Exp Old | 17 | 7.87 | 17 | 7.96 |
+| GPT-4o 2024-11-20 | 18 | 7.87 | 18 | 7.95 |
+| Gemini 2.0 Flash Thinking Exp 01-21 | 19 | 7.82 | 19 | 7.93 |
+| o1-preview | 20 | 7.74 | 20 | 7.85 |
+| Gemini 2.0 Flash Exp | 21 | 7.65 | 21 | 7.76 |
+| DeepSeek-V3 | 23 | 7.62 | 22 | 7.74 |
+| Qwen 2.5 Max | 22 | 7.64 | 23 | 7.74 |
+| o1 | 24 | 7.57 | 24 | 7.68 |
+| Mistral Large 2 | 25 | 7.54 | 25 | 7.65 |
+| Gemma 2 27B | 26 | 7.49 | 26 | 7.60 |
+| Qwen QwQ Preview | 27 | 7.44 | 27 | 7.55 |
+| GPT-4o 2024-08-06 | 29 | 7.36 | 28 | 7.47 |
+| GPT-4o mini | 28 | 7.37 | 29 | 7.46 |
+| o1-mini | 30 | 7.30 | 30 | 7.44 |
+| Claude 3 Opus | 31 | 7.17 | 31 | 7.30 |
+| o3-mini-high | 33 | 6.99 | 32 | 7.12 |
+| Grok 2 12-12 | 34 | 6.98 | 33 | 7.12 |
+| Qwen 2.5 72B | 32 | 7.00 | 34 | 7.12 |
+| o3-mini | 35 | 6.90 | 35 | 7.04 |
+| Microsoft Phi-4 | 36 | 6.89 | 36 | 7.02 |
+| Amazon Nova Pro | 37 | 6.70 | 37 | 6.84 |
+| Llama 4 Maverick | 38 | 6.67 | 38 | 6.80 |
+| Llama 3.1 405B | 39 | 6.60 | 39 | 6.72 |
+| Llama 3.3 70B | 40 | 5.95 | 40 | 6.08 |
+| Claude 3 Haiku | 41 | 5.83 | 41 | 5.97 |
 
 
 Excluding any one LLM from grading also does not significantly change the rankings. For example, here is what happens when LLama 3.1 405B is excluded:
@@ -261,37 +265,39 @@ Excluding any one LLM from grading also does not significantly change the rankin
 | Claude 3.7 Sonnet | 5 | 8.39 | 6 | 8.17 |
 | Gemini 2.5 Pro Exp 03-24 | 7 | 8.30 | 7 | 8.13 |
 | Gemma 3 27B | 8 | 8.22 | 8 | 8.05 |
-| DeepSeek V3-0324 | 9 | 8.09 | 9 | 7.90 |
-| Gemini 2.0 Pro Exp 02-05 | 10 | 8.08 | 10 | 7.87 |
-| GPT-4.5 Preview | 11 | 8.07 | 11 | 7.80 |
-| GPT-4o Feb 2025 | 14 | 7.96 | 12 | 7.78 |
-| Claude 3.5 Haiku | 12 | 8.07 | 13 | 7.75 |
-| Gemini 1.5 Pro (Sept) | 13 | 7.97 | 14 | 7.73 |
-| GPT-4o 2024-11-20 | 16 | 7.87 | 15 | 7.69 |
-| Gemini 2.0 Flash Thinking Exp Old | 15 | 7.87 | 16 | 7.64 |
-| Gemini 2.0 Flash Thinking Exp 01-21 | 17 | 7.82 | 17 | 7.54 |
-| o1-preview | 18 | 7.74 | 18 | 7.47 |
-| Qwen 2.5 Max | 20 | 7.64 | 19 | 7.42 |
-| DeepSeek-V3 | 21 | 7.62 | 20 | 7.36 |
-| Gemini 2.0 Flash Exp | 19 | 7.65 | 21 | 7.36 |
-| o1 | 22 | 7.57 | 22 | 7.29 |
-| Gemma 2 27B | 24 | 7.49 | 23 | 7.29 |
-| Mistral Large 2 | 23 | 7.54 | 24 | 7.24 |
-| Qwen QwQ Preview | 25 | 7.44 | 25 | 7.18 |
-| GPT-4o mini | 26 | 7.37 | 26 | 7.09 |
-| GPT-4o 2024-08-06 | 27 | 7.36 | 27 | 7.03 |
-| o1-mini | 28 | 7.30 | 28 | 6.91 |
-| Claude 3 Opus | 29 | 7.17 | 29 | 6.84 |
-| Qwen 2.5 72B | 30 | 7.00 | 30 | 6.66 |
-| Grok 2 12-12 | 32 | 6.98 | 31 | 6.63 |
-| o3-mini-high | 31 | 6.99 | 32 | 6.49 |
-| Microsoft Phi-4 | 34 | 6.89 | 33 | 6.49 |
-| o3-mini | 33 | 6.90 | 34 | 6.38 |
-| Amazon Nova Pro | 35 | 6.70 | 35 | 6.34 |
-| Llama 4 Maverick | 36 | 6.67 | 36 | 6.28 |
-| Llama 3.1 405B | 37 | 6.60 | 37 | 6.18 |
-| Llama 3.3 70B | 38 | 5.95 | 38 | 5.41 |
-| Claude 3 Haiku | 39 | 5.83 | 39 | 5.32 |
+| Grok 3 Beta (No reasoning) | 9 | 8.17 | 9 | 7.95 |
+| DeepSeek V3-0324 | 10 | 8.09 | 10 | 7.90 |
+| Gemini 2.0 Pro Exp 02-05 | 11 | 8.08 | 11 | 7.87 |
+| GPT-4.5 Preview | 12 | 8.07 | 12 | 7.80 |
+| GPT-4o Feb 2025 | 16 | 7.96 | 13 | 7.78 |
+| Claude 3.5 Haiku | 13 | 8.07 | 14 | 7.75 |
+| Gemini 1.5 Pro (Sept) | 15 | 7.97 | 15 | 7.73 |
+| Grok 3 Mini Beta (Low) | 14 | 8.00 | 16 | 7.72 |
+| GPT-4o 2024-11-20 | 18 | 7.87 | 17 | 7.69 |
+| Gemini 2.0 Flash Thinking Exp Old | 17 | 7.87 | 18 | 7.64 |
+| Gemini 2.0 Flash Thinking Exp 01-21 | 19 | 7.82 | 19 | 7.54 |
+| o1-preview | 20 | 7.74 | 20 | 7.47 |
+| Qwen 2.5 Max | 22 | 7.64 | 21 | 7.42 |
+| DeepSeek-V3 | 23 | 7.62 | 22 | 7.36 |
+| Gemini 2.0 Flash Exp | 21 | 7.65 | 23 | 7.36 |
+| o1 | 24 | 7.57 | 24 | 7.29 |
+| Gemma 2 27B | 26 | 7.49 | 25 | 7.29 |
+| Mistral Large 2 | 25 | 7.54 | 26 | 7.24 |
+| Qwen QwQ Preview | 27 | 7.44 | 27 | 7.18 |
+| GPT-4o mini | 28 | 7.37 | 28 | 7.09 |
+| GPT-4o 2024-08-06 | 29 | 7.36 | 29 | 7.03 |
+| o1-mini | 30 | 7.30 | 30 | 6.91 |
+| Claude 3 Opus | 31 | 7.17 | 31 | 6.84 |
+| Qwen 2.5 72B | 32 | 7.00 | 32 | 6.66 |
+| Grok 2 12-12 | 34 | 6.98 | 33 | 6.63 |
+| o3-mini-high | 33 | 6.99 | 34 | 6.49 |
+| Microsoft Phi-4 | 36 | 6.89 | 35 | 6.49 |
+| o3-mini | 35 | 6.90 | 36 | 6.38 |
+| Amazon Nova Pro | 37 | 6.70 | 37 | 6.34 |
+| Llama 4 Maverick | 38 | 6.67 | 38 | 6.28 |
+| Llama 3.1 405B | 39 | 6.60 | 39 | 6.18 |
+| Llama 3.3 70B | 40 | 5.95 | 40 | 5.41 |
+| Claude 3 Haiku | 41 | 5.83 | 41 | 5.32 |
 
 Normalizing each grader’s scores doesn’t significantly alter the rankings:
 
@@ -299,45 +305,47 @@ Normalizing each grader’s scores doesn’t significantly alter the rankings:
 
 | Rank | LLM                    | Normalized Mean |
 |-----:|------------------------|-----------------:|
-| 1 | GPT-4o Mar 2025 | 0.968 |
-| 2 | DeepSeek R1 | 0.922 |
-| 3 | Claude 3.7 Sonnet Thinking 16K | 0.902 |
-| 4 | Claude 3.5 Sonnet 2024-10-22 | 0.875 |
-| 5 | Claude 3.7 Sonnet | 0.776 |
-| 6 | Qwen QwQ-32B 16K | 0.704 |
-| 7 | Gemini 2.5 Pro Exp 03-24 | 0.661 |
-| 8 | Gemma 3 27B | 0.604 |
-| 9 | GPT-4.5 Preview | 0.481 |
-| 10 | Claude 3.5 Haiku | 0.477 |
-| 11 | Gemini 2.0 Pro Exp 02-05 | 0.463 |
-| 12 | DeepSeek V3-0324 | 0.443 |
-| 13 | Gemini 1.5 Pro (Sept) | 0.379 |
-| 14 | GPT-4o Feb 2025 | 0.340 |
-| 15 | Gemini 2.0 Flash Thinking Exp Old | 0.284 |
-| 16 | GPT-4o 2024-11-20 | 0.236 |
-| 17 | Gemini 2.0 Flash Thinking Exp 01-21 | 0.235 |
-| 18 | o1-preview | 0.168 |
-| 19 | Gemini 2.0 Flash Exp | 0.093 |
-| 20 | DeepSeek-V3 | 0.037 |
-| 21 | Qwen 2.5 Max | 0.027 |
-| 22 | o1 | -0.007 |
-| 23 | Mistral Large 2 | -0.019 |
-| 24 | Gemma 2 27B | -0.139 |
-| 25 | Qwen QwQ Preview | -0.179 |
-| 26 | GPT-4o 2024-08-06 | -0.198 |
-| 27 | o1-mini | -0.205 |
-| 28 | GPT-4o mini | -0.214 |
-| 29 | Claude 3 Opus | -0.390 |
-| 30 | o3-mini-high | -0.536 |
-| 31 | Grok 2 12-12 | -0.546 |
-| 32 | Qwen 2.5 72B | -0.558 |
-| 33 | o3-mini | -0.598 |
-| 34 | Microsoft Phi-4 | -0.651 |
-| 35 | Llama 4 Maverick | -0.852 |
-| 36 | Amazon Nova Pro | -0.877 |
-| 37 | Llama 3.1 405B | -0.905 |
-| 38 | Llama 3.3 70B | -1.509 |
-| 39 | Claude 3 Haiku | -1.690 |
+| 1 | GPT-4o Mar 2025 | 0.954 |
+| 2 | DeepSeek R1 | 0.908 |
+| 3 | Claude 3.7 Sonnet Thinking 16K | 0.888 |
+| 4 | Claude 3.5 Sonnet 2024-10-22 | 0.860 |
+| 5 | Claude 3.7 Sonnet | 0.761 |
+| 6 | Qwen QwQ-32B 16K | 0.689 |
+| 7 | Gemini 2.5 Pro Exp 03-24 | 0.645 |
+| 8 | Gemma 3 27B | 0.587 |
+| 9 | Grok 3 Beta (No reasoning) | 0.540 |
+| 10 | GPT-4.5 Preview | 0.462 |
+| 11 | Claude 3.5 Haiku | 0.458 |
+| 12 | Gemini 2.0 Pro Exp 02-05 | 0.444 |
+| 13 | DeepSeek V3-0324 | 0.425 |
+| 14 | Grok 3 Mini Beta (Low) | 0.392 |
+| 15 | Gemini 1.5 Pro (Sept) | 0.359 |
+| 16 | GPT-4o Feb 2025 | 0.321 |
+| 17 | Gemini 2.0 Flash Thinking Exp Old | 0.263 |
+| 18 | GPT-4o 2024-11-20 | 0.216 |
+| 19 | Gemini 2.0 Flash Thinking Exp 01-21 | 0.214 |
+| 20 | o1-preview | 0.147 |
+| 21 | Gemini 2.0 Flash Exp | 0.070 |
+| 22 | DeepSeek-V3 | 0.014 |
+| 23 | Qwen 2.5 Max | 0.005 |
+| 24 | o1 | -0.030 |
+| 25 | Mistral Large 2 | -0.043 |
+| 26 | Gemma 2 27B | -0.163 |
+| 27 | Qwen QwQ Preview | -0.205 |
+| 28 | GPT-4o 2024-08-06 | -0.225 |
+| 29 | o1-mini | -0.232 |
+| 30 | GPT-4o mini | -0.239 |
+| 31 | Claude 3 Opus | -0.418 |
+| 32 | o3-mini-high | -0.567 |
+| 33 | Grok 2 12-12 | -0.576 |
+| 34 | Qwen 2.5 72B | -0.588 |
+| 35 | o3-mini | -0.629 |
+| 36 | Microsoft Phi-4 | -0.683 |
+| 37 | Llama 4 Maverick | -0.885 |
+| 38 | Amazon Nova Pro | -0.909 |
+| 39 | Llama 3.1 405B | -0.938 |
+| 40 | Llama 3.3 70B | -1.549 |
+| 41 | Claude 3 Haiku | -1.732 |
 
 
 
@@ -367,6 +375,7 @@ It's important to note that each story is graded individually rather than as par
 - [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
 ---
 ## Updates 
+- Apr 11, 2025: Grok 3 added.
 - Apr 6, 2025: Llama 4 Maverick added. Some older models excluded from charts.
 - Mar 28, 2025: GPT-4o March 2025 added.
 - Mar 26, 2025: Gemini 2.5 Pro Exp 03-25, DeepSeek V3-0324, o3-mini-high added.
