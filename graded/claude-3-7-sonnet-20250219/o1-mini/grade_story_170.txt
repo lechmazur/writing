@@ -1,0 +1,32 @@
+grade_story_170.txt
+<question>1</question><grade>4.2</grade><comment>Luna's character lacks depth and specificity. While we know she's a "free-spirited herbalist" with an "academically artistic mind," these traits feel like labels rather than integrated aspects of her personality. Her shame and doubt are repeatedly mentioned but never concretely explained, making her emotional journey feel abstract and unearned. Her actions with the sewing kit and letters are described but not meaningfully connected to her herbalist background or academic interests.</comment>
+
+<question>2</question><grade>3.8</grade><comment>The plot lacks coherence and causality. The connection between coral restoration, sewing, and reading old letters is tenuous at best. The narrative progression is repetitive rather than developmental, with similar statements about Luna's healing appearing throughout without clear escalation or complication. The story tells us she overcomes her shame but doesn't show how the specific actions lead to this resolution. The ending feels premature and unearned given the vague nature of her initial problem.</comment>
+
+<question>3</question><grade>5.1</grade><comment>The coral restoration setting has potential but remains underdeveloped. Few specific sensory details bring the underwater environment to life, and the connection between this setting and Luna's sewing activities feels forced. The timeframe (after setting the last stone) suggests completion but doesn't meaningfully impact the narrative. The atmosphere wavers between scientific and mystical without fully committing to either, creating an inconsistent mood that fails to enhance the emotional journey.</comment>
+
+<question>4</question><grade>3.5</grade><comment>The story relies heavily on telling rather than showing, with repeated statements about Luna's emotional state without demonstrating how these changes occur. Literary devices feel generic—the sewing as metaphor for healing is underdeveloped. The central conflict remains abstract ("heart of doubt," "echoes of shame") without concrete manifestation. The theme of healing through creative expression has potential but lacks the specificity and nuance needed for impact. The ending offers closure but feels unearned given the vague nature of her initial struggles.</comment>
+
+<question>5</question><grade>2.7</grade><comment>The writing exhibits numerous AI hallmarks: repetitive phrasing ("heart of doubt," "vintage sewing kit," "hollow echoes"), abstract emotional states without specific causes, and an overly neat resolution without meaningful struggle. The text contains several abrupt topic shifts and relies on telling emotional states directly. Metaphors feel generic rather than specific to Luna's experience. The story follows a predictable healing arc without surprising developments or unique insights. Paragraphs often restate previous ideas rather than advancing the narrative.</comment>
+
+<question>6</question><grade>3.6</grade><comment>While the story incorporates all required elements, they feel artificially assembled rather than organically integrated. The connection between coral restoration and sewing feels particularly forced. The writing style is overly formal and repetitive, with abstract emotional states described repeatedly without development. The brevity highlights these issues rather than creating a sense of purposeful concision. The story lacks the specificity and emotional authenticity needed to resonate beyond its surface narrative.</comment>
+
+<question>7 A</question><grade>4.3</grade>
+
+<question>7 B</question><grade>6.8</grade>
+
+<question>7 C</question><grade>5.2</grade>
+
+<question>7 D</question><grade>4.7</grade>
+
+<question>7 E</question><grade>5.5</grade>
+
+<question>7 F</question><grade>6.1</grade>
+
+<question>7 G</question><grade>5.8</grade>
+
+<question>7 H</question><grade>4.2</grade>
+
+<question>7 I</question><grade>5.0</grade>
+
+<question>7 J</question><grade>3.9</grade>

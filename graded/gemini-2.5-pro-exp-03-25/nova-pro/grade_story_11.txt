@@ -1,0 +1,17 @@
+grade_story_11.txt
+<question>1</question><grade>2.5</grade><comment>Character attributes ("flighty", "strangely normal") are asserted but not demonstrated or explored; "flighty" contradicts the described meticulousness. Motivation ("legacy") is clear but generic and lacks nuance. The connection to the object (patch) is repeatedly stated rather than organically shown. No distinct voice.</comment>
+<question>2</question><grade>2.1</grade><comment>The assigned action ("linearize") is abstract and doesn't drive a tangible plot. The method ("through hidden details in paintings") feels disconnected from the primary action. The story lacks a clear narrative arc or conflict, functioning more as a static description than a progression. Coherence suffers from repetitive thematic statements instead of plot development.</comment>
+<question>3</question><grade>3.5</grade><comment>The setting (initiation hall) is established, but the atmosphere lacks depth. The assigned tone ("serene anger") is stated but not effectively evoked through sensory details or mood; the hall feels more solemn than tense. The object (patch) feels somewhat incongruous in the mystical setting despite its assigned symbolic weight. Sensory details are sparse and generic.</comment>
+<question>4</question><grade>2.8</grade><comment>Relies heavily on telling rather than showing. Symbolism (patch, maps) is overt and repeatedly explained. The theme of legacy is hammered home rather than emerging subtly. Lacks significant subtext or emotional resonance beyond stated feelings ("solace"). The ending feels repetitive and declarative, offering little impact. No central conflict is developed.</comment>
+<question>5</question><grade>1.5</grade><comment>Significant repetition of key phrases ("mechanic’s grease-stained overalls patch," "flicker of unity," "legacy," "testament to her dedication") creates a formulaic, almost machine-like feel. Relies on clichés (secret society, cryptic symbols) without originality. Emotions are stated, not evoked. Lacks a distinct authorial style or voice; feels generic and template-driven.</comment>
+<question>6</question><grade>2.0</grade><comment>The story feels constructed *around* the assigned elements rather than using them organically. Excessive repetition, particularly of the object and core concept, hinders cohesion and flow. The abstract nature of several elements (linearize, serene anger) is handled awkwardly. The narrative lacks depth and fails to leave a lasting impression beyond the explicitly stated themes.</comment>
+<question>7 A</question><grade>1.8</grade>
+<question>7 B</question><grade>4.5</grade>
+<question>7 C</question><grade>3.0</grade>
+<question>7 D</question><grade>1.5</grade>
+<question>7 E</question><grade>3.5</grade>
+<question>7 F</question><grade>2.2</grade>
+<question>7 G</question><grade>7.0</grade>
+<question>7 H</question><grade>2.0</grade>
+<question>7 I</question><grade>6.5</grade>
+<question>7 J</question><grade>1.2</grade>

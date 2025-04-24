@@ -1,0 +1,32 @@
+grade_story_384.txt
+<question>1</question><grade>3.2</grade><comment>The character lacks depth beyond his obsession. While his motivation is clear (exposing illusions), his personality remains undeveloped. The "frantic cook" designation feels arbitrary—his cooking is mentioned once then abandoned. His actions are consistent but one-dimensional, focused solely on investigation without revealing personal stakes or emotional complexity.</comment>
+
+<question>2</question><grade>2.8</grade><comment>The plot lacks coherence and progression. The narrative circles repeatedly around the same actions without advancing. There's no clear inciting incident, rising action, or resolution—just repetitive descriptions of the character analyzing artifacts. The ending suggests something momentous occurred, but the actual events remain vague and unspecified. The story feels like a series of atmospheric descriptions rather than a structured narrative.</comment>
+
+<question>3</question><grade>4.5</grade><comment>The earthquake prediction facility creates an intriguing backdrop, and the "centuries of layered dust" effectively establishes an atmosphere of ancient mystery. However, the setting remains underdeveloped—we get no concrete details about its appearance, function, or significance. The atmosphere of mystery is established but becomes repetitive without deepening or evolving.</comment>
+
+<question>4</question><grade>2.6</grade><comment>The story relies heavily on abstract concepts and vague allusions rather than concrete storytelling. The prose is overwrought with phrases like "frenzied tranquility" and "mystic fragments" that sound impressive but convey little actual meaning. There's no discernible conflict or tension beyond the character's internal quest. The story tells rather than shows, repeatedly stating the character's determination without demonstrating it through meaningful action.</comment>
+
+<question>5</question><grade>1.8</grade><comment>The writing exhibits numerous hallmarks of AI-generated text: excessive adjectives, repetitive phrasing, abstract generalizations, and a lack of specific detail. The prose is consistently overwrought and purple ("a tempest of inspiration and disquiet that danced between order and chaos"). The story repeatedly mentions the same elements (eraser, walking stick, dust) without developing them. The narrative lacks human nuance, instead defaulting to grandiose but empty declarations about "exposing illusions" and "challenging established order."</comment>
+
+<question>6</question><grade>2.4</grade><comment>The story fails to integrate its assigned elements into a cohesive narrative. Instead, it repeatedly mentions each element without developing their significance or relationships. The writing prioritizes flowery language over clarity and substance. Despite the dramatic tone, the story lacks emotional resonance because it remains abstract rather than grounding its concepts in specific details or meaningful character development. The reader is left with vague impressions rather than a clear understanding of what actually happened.</comment>
+
+<question>7 A</question><grade>3.0</grade>
+
+<question>7 B</question><grade>4.2</grade>
+
+<question>7 C</question><grade>4.5</grade>
+
+<question>7 D</question><grade>3.8</grade>
+
+<question>7 E</question><grade>4.0</grade>
+
+<question>7 F</question><grade>4.3</grade>
+
+<question>7 G</question><grade>4.7</grade>
+
+<question>7 H</question><grade>5.2</grade>
+
+<question>7 I</question><grade>5.0</grade>
+
+<question>7 J</question><grade>3.5</grade>

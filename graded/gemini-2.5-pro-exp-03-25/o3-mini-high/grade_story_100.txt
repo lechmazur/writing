@@ -1,0 +1,17 @@
+grade_story_100.txt
+<question>1</question><grade>3.5</grade><comment>The character feels fragmented; "vivid dreamer" and "patient guardian" are asserted but weakly demonstrated compared to the more active "rationally mischievous" investigator. The penny collection is mentioned but lacks meaningful connection to actions or deeper character insight. Motivation ("cosmic deception") is clear but generic, lacking unique personal grounding.</comment>
+<question>2</question><grade>4.0</grade><comment>The assigned action "oscillate" feels disconnected from the main plot driver (deciphering symbols/unraveling deception). The plot progresses from setup to revelation, but the resolution feels abrupt and told rather than shown within the word limit. Cause and effect related to the core mystery are present, but the initial action lacks consequence.</comment>
+<question>3</question><grade>6.5</grade><comment>The setting ("enchanted orchard policed by living statues") is evocative and strongly establishes a melancholic, mysterious atmosphere. However, the assigned timeframe ("at the threshold of an apology") is mentioned once and feels entirely disconnected, adding no discernible layer or tension to the established world or plot.</comment>
+<question>4</question><grade>4.8</grade><comment>The story attempts thematic depth (deception, fate) and uses symbolism (statues, pennies), but the impact is diluted by overwrought prose and a tendency to state conclusions ("witnessing the delicate interplay..."). The central conflict (unraveling deception) is clear, but the resolution feels intellectually asserted rather than emotionally earned. Showing is sacrificed for telling, especially at the climax.</comment>
+<question>5</question><grade>3.0</grade><comment>The writing suffers from repetitive phrasing ("rationally mischievous," "spark of...") and overly ornate language ("silent symphony of regret and hope," "cosmic enigmas woven into the fabric of night") that borders on purple prose and feels somewhat artificial. The core concept isn't strikingly original, and the emotional landscape relies on stated feelings rather than nuanced depiction.</comment>
+<question>6</question><grade>4.2</grade><comment>While the story attempts to weave disparate elements, several feel poorly integrated (penny collection, oscillate, apology timeframe), hindering overall cohesion. The ambition is evident, but the execution feels constrained and overly reliant on assertion rather than demonstration, particularly given the high literary standard. The style sometimes obscures rather than clarifies.</comment>
+<question>7 A</question><grade>4.5</grade>
+<question>7 B</question><grade>2.0</grade>
+<question>7 C</question><grade>3.0</grade>
+<question>7 D</question><grade>7.0</grade>
+<question>7 E</question><grade>2.5</grade>
+<question>7 F</question><grade>4.0</grade>
+<question>7 G</question><grade>9.0</grade>
+<question>7 H</question><grade>1.0</grade>
+<question>7 I</question><grade>8.5</grade>
+<question>7 J</question><grade>5.5</grade>

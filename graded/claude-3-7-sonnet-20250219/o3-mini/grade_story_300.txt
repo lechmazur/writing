@@ -1,0 +1,32 @@
+grade_story_300.txt
+<question>1</question><grade>4.2</grade><comment>Corvin's character lacks depth beyond surface-level descriptors. His "wistfully pragmatic" attribute is stated rather than demonstrated through meaningful actions. His motivation to find a power source is clear but underdeveloped, with little explanation of why he seeks it or what drives his "earnest mockery." The character remains a sketch rather than a fully realized person with complex motivations or internal conflicts.</comment>
+
+<question>2</question><grade>3.8</grade><comment>The plot structure suffers from excessive description and minimal action. The story consists primarily of Corvin wandering and observing, with little forward momentum. The final paragraph attempts resolution but feels unearned since we never witness concrete obstacles or challenges overcome. The narrative lacks clear cause-and-effect relationships, with the "hidden power source" remaining abstract rather than specifically defined.</comment>
+
+<question>3</question><grade>5.6</grade><comment>The ancient Roman marketplace setting is established effectively and provides an intriguing backdrop. However, sensory details remain generic rather than specific (mentions of "spices" and "marble statues" without distinctive characteristics). The juxtaposition of ancient setting with technological discovery creates interesting tension, but the atmosphere wavers between historical authenticity and fantasy elements without fully committing to either.</comment>
+
+<question>4</question><grade>3.5</grade><comment>The storytelling suffers from overwrought prose that prioritizes flowery language over clarity and impact. Sentences are excessively long and convoluted, particularly the ninth paragraph which becomes nearly incomprehensible. The central conflict remains abstract, and the resolution feels hollow without concrete stakes. The story tells rather than shows Corvin's emotions and motivations, resulting in limited emotional resonance.</comment>
+
+<question>5</question><grade>2.7</grade><comment>The writing exhibits numerous hallmarks of AI-generated text: purple prose with unnecessarily complex vocabulary, vague descriptions lacking specificity, and abrupt narrative jumps. Emotions are stated rather than demonstrated through action. The prose is consistently overwrought with phrases like "the bittersweet sting of past betrayals" without contextual grounding. The final paragraph's sudden resolution feels algorithmic rather than earned through narrative development.</comment>
+
+<question>6</question><grade>3.4</grade><comment>While the story incorporates all assigned elements, it does so at the expense of narrative clarity and emotional impact. The prose is consistently overwrought, with sentences that prioritize ornate language over meaningful content. The brevity feels like a limitation rather than a deliberate choice, as the story attempts to pack too many abstract concepts into limited space without developing any of them fully. The ending aims for profundity but lacks the narrative foundation to earn it.</comment>
+
+<question>7 A</question><grade>6.2</grade>
+
+<question>7 B</question><grade>5.0</grade>
+
+<question>7 C</question><grade>7.3</grade>
+
+<question>7 D</question><grade>4.8</grade>
+
+<question>7 E</question><grade>6.5</grade>
+
+<question>7 F</question><grade>5.7</grade>
+
+<question>7 G</question><grade>7.8</grade>
+
+<question>7 H</question><grade>6.4</grade>
+
+<question>7 I</question><grade>6.9</grade>
+
+<question>7 J</question><grade>5.2</grade>

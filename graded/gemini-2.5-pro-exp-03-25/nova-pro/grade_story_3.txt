@@ -1,0 +1,17 @@
+grade_story_3.txt
+<question>1</question><grade>3.5</grade><comment>The 'surly' attribute is asserted but contradicted by the character's contemplative actions and rapid insight; his motivation is stated rather than convincingly demonstrated through nuanced behaviour or internal conflict.</comment>
+<question>2</question><grade>4.0</grade><comment>The plot follows a simple arc (find, ponder, solve), but the central resolution—the 'flash of insight'—feels unearned and abrupt within the short word count, weakening coherence. The connection between the trigger (yarn) and the specific riddle/theme (market/cosmos) is tenuous.</comment>
+<question>3</question><grade>5.0</grade><comment>The setting and timeframe create a potentially evocative atmosphere, but descriptions like "dignified chaos" and "serenely frantic" are abstract and repetitive. The connection between the graveyard setting and the core concept of market wisdom feels arbitrary and underdeveloped.</comment>
+<question>4</question><grade>3.8</grade><comment>The story relies heavily on telling ("eyes held wisdom," "felt a connection") rather than showing. Literary devices are present but standard (market as tapestry). The central theme is stated explicitly, lacking subtext or deep emotional resonance. The conflict is purely internal and resolved too conveniently.</comment>
+<question>5</question><grade>3.2</grade><comment>The narrative feels formulaic (object->riddle->epiphany). Phrases like "serenely frantic energy" and the sudden, neat resolution lack human nuance and could suggest algorithmic construction. Connections between disparate elements (graveyard, yarn, market) feel forced rather than original or insightful.</comment>
+<question>6</question><grade>3.6</grade><comment>The story struggles to integrate the assigned elements cohesively; they feel more like constraints the narrative is built around rather than organic parts of a whole. The attempt at profundity is undermined by abstract language and an unearned epiphany, failing to leave a lasting impact.</comment>
+<question>7 A</question><grade>2.5</grade>
+<question>7 B</question><grade>5.5</grade>
+<question>7 C</question><grade>4.5</grade>
+<question>7 D</question><grade>5.0</grade>
+<question>7 E</question><grade>7.0</grade>
+<question>7 F</question><grade>6.0</grade>
+<question>7 G</question><grade>5.8</grade>
+<question>7 H</question><grade>5.2</grade>
+<question>7 I</question><grade>7.5</grade>
+<question>7 J</question><grade>4.8</grade>

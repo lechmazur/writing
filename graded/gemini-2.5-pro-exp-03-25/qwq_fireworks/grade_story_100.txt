@@ -1,0 +1,17 @@
+grade_story_100.txt
+<question>1</question><grade>5.2</grade><comment>The character's "rationally mischievous" attribute is asserted more than demonstrated; the mischief is present, but its rational basis is thin. The motivation shifts drastically from unraveling a "cosmic deception" to seeking internal forgiveness, feeling like a narrative convenience rather than earned character development. The voice is functional but lacks true distinction.</comment>
+<question>2</question><grade>6.5</grade><comment>The plot achieves a complete, albeit predictable, arc within the word limit, pivoting on a psychological reveal. However, the initial setup promises an external conflict that dissolves too neatly into an internal one. The "oscillate" action is integrated well, but the "moon paths" method feels underdeveloped as a core mechanic beyond triggering statue movement.</comment>
+<question>3</question><grade>7.8</grade><comment>The atmosphere is effectively established through strong imagery (skeletal branches, obsidian apples, bioluminescent sap) and the core setting concept (enchanted orchard/living statues) works well as a psychic landscape. The connection between the pennies and the orchard map is functional. However, the assigned "dour amusement" tone is almost entirely absent, replaced by a more earnest, mystical, and ultimately therapeutic mood.</comment>
+<question>4</question><grade>6.8</grade><comment>The story employs symbolism effectively (pennies, orchard, statues) and achieves some subtext regarding internal conflict and forgiveness. The central conflict's shift from external to internal provides a twist, but the resolution feels somewhat abrupt and overly tidy. While evocative, the craft relies heavily on the final reveal rather than weaving the psychological depth throughout more subtly.</comment>
+<question>5</question><grade>6.2</grade><comment>While avoiding obvious AI tells like repetitive phrasing, the story leans into the somewhat common trope of a fantastical setting being revealed as an internal mindscape. The emotional resolution feels more stated ("The deception was simpler...") than earned through nuanced character interaction or subtle development. Metaphors are generally competent but not strikingly original.</comment>
+<question>6</question><grade>6.0</grade><comment>The story manages to incorporate most elements, but the seams show, particularly with the mismatched tone and the abrupt shift in motivation's perceived target (cosmic vs. internal). It functions as a narrative, but the integration feels somewhat forced, serving the prompt more than achieving organic cohesion. The brevity works, but the depth feels constrained by the need to pivot to the reveal.</comment>
+<question>7 A</question><grade>6.5</grade>
+<question>7 B</question><grade>8.8</grade>
+<question>7 C</question><grade>7.5</grade>
+<question>7 D</question><grade>5.0</grade>
+<question>7 E</question><grade>8.5</grade>
+<question>7 F</question><grade>6.0</grade>
+<question>7 G</question><grade>9.0</grade>
+<question>7 H</question><grade>9.2</grade>
+<question>7 I</question><grade>4.5</grade>
+<question>7 J</question><grade>2.0</grade>
