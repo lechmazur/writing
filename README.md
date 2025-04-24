@@ -383,7 +383,7 @@ It's important to note that each story is graded individually rather than as par
 - [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
 ---
 ## Updates 
-- Apr 24, 2025: Major update: grader LLMs replaced with newer versions, additional specific grading criteria, 0.1 grading granulity, summaries. Added: o3, o4-mini, Grok 3 Beta, Grok 3 Mini Beta (reasoning), Gemini 2.5 Flash Preview 16K.
+- Apr 24, 2025: Major update: grader LLMs replaced with newer versions, additional specific grading criteria, 0.1 grading granularity, summaries. Added: o3, o4-mini, Gemini 2.5 Flash Preview 16K.
 - Apr 11, 2025: Grok 3 added.
 - Apr 6, 2025: Llama 4 Maverick added. Some older models excluded from charts.
 - Mar 28, 2025: GPT-4o March 2025 added.
