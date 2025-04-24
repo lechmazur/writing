@@ -351,9 +351,10 @@ Normalizing each grader’s scores doesn’t significantly alter the rankings:
 | 33 | o3-mini | 6.90 |
 | 34 | Microsoft Phi-4 | 6.89 |
 | 35 | Amazon Nova Pro | 6.70 |
-| 36 | Llama 3.1 405B | 6.60 |
-| 37 | Llama 3.3 70B | 5.95 |
-| 38 | Claude 3 Haiku | 5.83 |
+| 36 | Llama 4 Maverick | 6.67 |
+| 37 | Llama 3.1 405B | 6.60 |
+| 38 | Llama 3.3 70B | 5.95 |
+| 39 | Claude 3 Haiku | 5.83 |
 
 
 The old grading LLMs were:
@@ -391,6 +392,8 @@ It's important to note that each story is graded individually rather than as par
 ---
 ## Updates 
 - Apr 24, 2025: Major update: grader LLMs replaced with newer versions, additional specific grading criteria, 0.1 grading granulity, summaries. Added: o3, o4-mini, Grok 3 Beta, Grok 3 Mini Beta (reasoning), Gemini 2.5 Flash Preview 16K.
+- Apr 11, 2025: Grok 3 added.
+- Apr 6, 2025: Llama 4 Maverick added. Some older models excluded from charts.
 - Mar 28, 2025: GPT-4o March 2025 added.
 - Mar 26, 2025: Gemini 2.5 Pro Exp 03-25, DeepSeek V3-0324, o3-mini-high added.
 - Mar 13, 2025: Gemma 3 27B added.
