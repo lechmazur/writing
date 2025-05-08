@@ -1,0 +1,17 @@
+grade_story_1.txt
+<question>1</question><grade>3.5</grade><comment>The 'stunt double' aspect is entirely irrelevant to the plot, and the 'phobias' are generic, lacking specific detail or impact on actions beyond vague trembling. Motivation feels abstract and weakly connected to the central task.</comment>
+<question>2</question><grade>4.0</grade><comment>The plot arc is clear but relies on an improbable inciting incident (garage sale map to pyramid library) and a somewhat simplistic central metaphor (knots=fears). The cause-effect feels forced.</comment>
+<question>3</question><grade>4.5</grade><comment>The pyramid library setting offers potential but descriptions remain generic ('dusty', 'labyrinthine'). The 'mundanely spiritual' concept and 'echoes' lack evocative detail and feel asserted rather than demonstrated. The 'garage sales' timeframe is poorly integrated.</comment>
+<question>4</question><grade>3.8</grade><comment>The story attempts symbolism but lacks subtlety ('knots of his own fears'). Emotional impact is muted due to telling rather than showing ('felt a surge of exhilaration'). The central conflict resolution feels overly neat and unearned given the underdeveloped characterization.</comment>
+<question>5</question><grade>2.5</grade><comment>Relies heavily on repeating assigned keywords ('numb fascination', 'mundanely spiritual', 'echoes in the dark'), feeling formulaic. The central metaphor is cliché, and the combination of disparate elements feels artificial rather than original. Emotion is stated, not nuanced.</comment>
+<question>6</question><grade>3.2</grade><comment>The story struggles to cohesively integrate the assigned elements; several feel tacked on (stunt double, garage sales timeframe) rather than organic. The narrative feels constructed *around* the constraints, sacrificing plausibility and depth.</comment>
+<question>7 A</question><grade>2.1</grade>
+<question>7 B</question><grade>7.5</grade>
+<question>7 C</question><grade>3.0</grade>
+<question>7 D</question><grade>2.8</grade>
+<question>7 E</question><grade>8.0</grade>
+<question>7 F</question><grade>8.5</grade>
+<question>7 G</question><grade>7.0</grade>
+<question>7 H</question><grade>1.5</grade>
+<question>7 I</question><grade>4.0</grade>
+<question>7 J</question><grade>2.5</grade>
