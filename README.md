@@ -85,7 +85,7 @@ The new grading LLMs are:
 ### Overall Strip Plot of Questions
 A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all stories, with Grader LLMs marked in different colors:
 
-![Normalized scores strip chart](/images/normalized_scores_strip.png)
+![Normalized scores strip chart](/images/normalized_scores_strip_zoomed.png)
 
 ---
 ### LLM vs. Question (Detailed)
