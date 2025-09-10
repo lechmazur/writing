@@ -3,7 +3,7 @@
 This benchmark tests how well large language models (LLMs) incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short narrative. This is particularly relevant for creative LLM use cases. Because every story has the same required building blocks and similar length, their resulting cohesiveness and creativity become directly comparable across models. A wide variety of required random elements ensures that LLMs must create diverse stories and cannot resort to repetition. The benchmark captures both constraint satisfaction (did the LLM incorporate all elements properly?) and literary quality (how engaging or coherent is the final piece?). By applying a multi-question grading rubric and multiple "grader" LLMs, we can pinpoint differences in how well each model integrates the assigned elements, develops characters, maintains atmosphere, and sustains an overall coherent plot. It measures more than fluency or style: it probes whether each model can adapt to rigid requirements, remain original, and produce a cohesive story that meaningfully uses every single assigned element.
 
 ---
-![Overall scores](/images/llm_overall_bar_zoomed_with_err.png)
+![Overall scores](images/llm_overall_bar_zoomed_with_err.png)
 
 ---
 ## Method Summary
@@ -92,27 +92,27 @@ The new grading LLMs are:
 ### Overall Strip Plot of Questions
 A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all stories, with Grader LLMs marked in different colors:
 
-![Normalized scores strip chart](/images/normalized_scores_strip_zoomed.png)
+![Normalized scores strip chart](images/normalized_scores_strip_zoomed.png)
 
 ---
 ### LLM vs. Question (Detailed)
 A heatmap showing each LLM's mean rating per question:
 
-![LLM per question](/images/llm_vs_question_detailed.png)
+![LLM per question](images/llm_vs_question_detailed.png)
 
 
 ---
 ### LLM #1 Finishes
 Which LLM ranked #1 the most times across all stories? This pie chart shows the distribution of #1 finishes:
 
-![#1 stories pie chart](/images/llm_best_pie.png)
+![#1 stories pie chart](images/llm_best_pie.png)
 
 
 ---
 ### Grader - LLM Mean Heatmap
 A heatmap of Grader (row) vs. LLM (column) average scores:
 
-![Grader vs LLM normalized](/images/grader_vs_llm_normalized_means.png)
+![Grader vs LLM normalized](images/grader_vs_llm_normalized_means.png)
 
 The chart highlights that grading LLMs do not disproportionately overrate their own stories. 
 
@@ -120,7 +120,7 @@ The chart highlights that grading LLMs do not disproportionately overrate their 
 ### Grader-Grader Correlation
 A correlation matrix (−1 to 1 scale) measuring how strongly multiple LLMs correlate when cross-grading the same stories:
 
-![Grader vs LLM correlation](/images/teacher_grader_correlation.png)
+![Grader vs LLM correlation](images/teacher_grader_correlation.png)
 
 ---
 ## Summaries
@@ -203,15 +203,15 @@ A basic prompt asking LLMs to create a 400-500 word story resulted in an unaccep
 
 Since the benchmark aims to evaluate how well LLMs write, not how well they count or follow prompts about the format, we adjusted the word counts in the prompt for different LLMs to approximately match the target story length - an approach similar to what someone dissatisfied with the initial story length might adopt. Note that this did not require any evaluation of the story's content itself. These final stories were then graded and they are available in [stories_wc/](stories_wc/).
 
-![Word count distribution by model](/images/word_count_distribution_by_model.png)
+![Word count distribution by model](images/word_count_distribution_by_model.png)
 
 This chart shows the correlations between each LLM's scores and their story lengths:
 
-![Len vs score](/images/len_vs_score_overall_enhanced.png)
+![Len vs score](images/len_vs_score_overall_enhanced.png)
 
 This chart shows the correlations between each Grader LLM's scores and the lengths of stories they graded:
 
-![Length vs score by grader](/images/len_vs_score_grader_enhanced.png)
+![Length vs score by grader](images/len_vs_score_grader_enhanced.png)
 
 ---
 
@@ -221,7 +221,7 @@ A valid concern is whether LLM graders can accurately score questions 1 to 6 (Ma
 
 ### Questions 7A to 7J Only: Element Integration
 
-![Element Integration](/images/llm_overall_bar_zoomed_7Ato7J.png)
+![Element Integration](images/llm_overall_bar_zoomed_7Ato7J.png)
 
 
 ---
@@ -456,7 +456,7 @@ The old grading LLMs were:
 ## Details
 Full range of scores:
 
-![Full range](/images/llm_overall_bar_start0_with_err.png)
+![Full range](images/llm_overall_bar_start0_with_err.png)
 
 ---
 ## Limitations

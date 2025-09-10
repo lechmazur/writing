@@ -472,7 +472,7 @@ If you want a deeper look at **style and diversity** (stylometry, cluster maps, 
 
 ## Archive (Previous Version)
 
-For the prior edition’s full leaderboard and the list of “old” grader LLMs, see: `v2/README.md`
+For the prior edition’s full leaderboard and the list of “old” grader LLMs, see: [v2/README.md](v2/README.md).
 
 
 ## Other multi-agent benchmarks
