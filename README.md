@@ -1,471 +1,482 @@
-# LLM Creative Story-Writing Benchmark
+# LLM Creative Story‑Writing Benchmark V3
 
-This benchmark tests how well large language models (LLMs) incorporate a set of 10 mandatory story elements (characters, objects, core concepts, attributes, motivations, etc.) in a short narrative. This is particularly relevant for creative LLM use cases. Because every story has the same required building blocks and similar length, their resulting cohesiveness and creativity become directly comparable across models. A wide variety of required random elements ensures that LLMs must create diverse stories and cannot resort to repetition. The benchmark captures both constraint satisfaction (did the LLM incorporate all elements properly?) and literary quality (how engaging or coherent is the final piece?). By applying a multi-question grading rubric and multiple "grader" LLMs, we can pinpoint differences in how well each model integrates the assigned elements, develops characters, maintains atmosphere, and sustains an overall coherent plot. It measures more than fluency or style: it probes whether each model can adapt to rigid requirements, remain original, and produce a cohesive story that meaningfully uses every single assigned element.
-
----
-![Overall scores](/images/llm_overall_bar_zoomed_with_err.png)
+This benchmark evaluates how well large language models (LLMs) follow a creative brief while still producing engaging fiction. Every story must meaningfully incorporate ten **required elements**: character, object, concept, attribute, action, method, setting, timeframe, motivation, and tone. With these building blocks standardized and length tightly controlled, differences in **constraint satisfaction** and **literary quality** become directly comparable. Multiple independent “grader” LLMs score each story on an 18‑question rubric, and we aggregate those judgments into model‑level results.
 
 ---
-## Method Summary
-Each LLM produces 500 short stories, each approximately 400–500 words long, that must organically incorporate all assigned random elements.
-In the updated April 2025 version of the benchmark, which uses newer grader LLMs, 39 of the latest models are evaluated. In the earlier version, 38 LLMs were assessed.
 
-Seven LLMs grade each of these stories on 16 questions regarding:
-1. Character Development & Motivation
-2. Plot Structure & Coherence
-3. World & Atmosphere
-4. Storytelling Impact & Craft
-5. Authenticity & Originality
-6. Execution & Cohesion
-7. 7A to 7J. Element fit for 10 required element: character, object, concept, attribute, action, method, setting, timeframe, motivation, tone
-
-The new grading LLMs are:
-1. GPT-4o Mar 2025
-2. Claude 3.7 Sonnet
-3. Llama 4 Maverick
-4. DeepSeek V3-0324 
-5. Grok 3 Beta (no reasoning)
-6. Gemini 2.5 Pro Exp
-7. Qwen 3 235B
-
-
+![Overall scores](images/llm_overall_bar_zoomed_with_err.png)
 
 ---
+
+## What’s measured
+
+### 1) Craft and coherence (Q1–Q8)
+
+Eight questions focus on narrative craft: character depth and motivation, plot structure and coherence, world building and atmosphere, story impact, originality, thematic cohesion, voice/point‑of‑view, and line‑level prose quality.
+
+### 2) Element integration (Q9A–Q9J)
+
+Ten questions check whether the story **organically** uses each required element: the specified character, object, core concept, attribute, action, method, setting, timeframe, motivation, and tone. If a category in the prompt is “None,” graders mark the corresponding 9‑series item as N/A.
+
+### 3) Overall story score
+
+We score each story per grader with a **60/40 weighted power mean (Hölder mean, p = 0.5)** over the 18 rubric items (Q1–Q8 = 60%, 9A–9J = 40%, split evenly within each group). Compared with a plain average, p = 0.5 acts like a soft‑minimum: it sits closer to the lowest dimensions, so weaknesses pull more than highs can offset and well‑rounded craft is rewarded. The final story score is the mean of the per‑grader scores.
+
+---
+
 ## Results
-### Overall LLM Means
 
-**Leaderboard:**
-| Rank | LLM               | Mean  |
-|-----:|-------------------|------:|
-| 1 | GPT-5 (medium reasoning) | 8.60 |
-| 2 | Kimi K2 | 8.56 |
-| 3 | Claude Opus 4.1 (no reasoning) | 8.47 |
-| 4 | Claude Opus 4.1 Thinking 16K | 8.45 |
-| 5 | o3-pro (medium reasoning) | 8.44 |
-| 6 | o3 (medium reasoning) | 8.39 |
-| 7 | Gemini 2.5 Pro | 8.38 |
-| 8 | Claude Opus 4 Thinking 16K | 8.36 |
-| 9 | Claude Opus 4 (no reasoning) | 8.31 |
-| 10 | GPT-5 mini (medium reasoning) | 8.31 |
-| 11 | Qwen 3 235B A22B | 8.30 |
-| 12 | DeepSeek R1 | 8.30 |
-| 13 | Qwen 3 235B A22B 25-07 Think | 8.24 |
-| 14 | DeepSeek R1 05/28 | 8.19 |
-| 15 | GPT-4o Mar 2025 | 8.18 |
-| 16 | Claude Sonnet 4 Thinking 16K | 8.14 |
-| 17 | Claude 3.7 Sonnet Thinking 16K | 8.11 |
-| 18 | Claude Sonnet 4 (no reasoning) | 8.09 |
-| 19 | Gemini 2.5 Pro Preview 05-06 | 8.09 |
-| 20 | Gemini 2.5 Pro Exp 03-25 | 8.05 |
-| 21 | Claude 3.5 Sonnet 2024-10-22 | 8.03 |
-| 22 | Qwen QwQ-32B 16K | 8.02 |
-| 23 | Baidu Ernie 4.5 300B A47B | 8.00 |
-| 24 | Gemma 3 27B | 7.99 |
-| 25 | Claude 3.7 Sonnet | 7.94 |
-| 26 | Mistral Medium 3 | 7.73 |
-| 27 | GPT-OSS-120B | 7.71 |
-| 28 | DeepSeek V3-0324 | 7.70 |
-| 29 | Grok 4 | 7.69 |
-| 30 | Gemini 2.5 Flash | 7.65 |
-| 31 | Grok 3 Beta (no reasoning) | 7.64 |
-| 32 | GPT-4.5 Preview | 7.56 |
-| 33 | Qwen 3 30B A3B | 7.53 |
-| 34 | o4-mini (medium reasoning) | 7.50 |
-| 35 | Gemini 2.0 Flash Think Exp 01-21 | 7.38 |
-| 36 | Claude 3.5 Haiku | 7.35 |
-| 37 | Grok 3 Mini Beta (low) | 7.35 |
-| 38 | GLM-4.5 | 7.34 |
-| 39 | Qwen 2.5 Max | 7.29 |
-| 40 | Gemini 2.0 Flash Exp | 7.15 |
-| 41 | o1 (medium reasoning) | 7.02 |
-| 42 | Mistral Large 2 | 6.90 |
-| 43 | GPT-4o mini | 6.72 |
-| 44 | o1-mini | 6.49 |
-| 45 | Grok 2 12-12 | 6.36 |
-| 46 | Microsoft Phi-4 | 6.26 |
-| 47 | Llama 4 Maverick | 6.20 |
-| 48 | o3-mini (high reasoning) | 6.17 |
-| 49 | o3-mini (medium reasoning) | 6.15 |
-| 50 | Amazon Nova Pro | 6.05 |
+### Overall model means
+
+The top bar chart summarizes **mean story quality** for each model with uncertainty bands. (Grader‑unweighted means; questions weighted 60/40.)
+
+#### Full overall leaderboard
+
+| Rank | LLM | Mean |
+|-----:|-----|-----:|
+| 1 | Kimi K2‑0905 | 8.749 |
+| 2 | GPT‑5 (medium reasoning) | 8.723 |
+| 3 | Qwen 3 Max Preview | 8.711 |
+| 4 | Kimi K2 | 8.693 |
+| 5 | Mistral Medium 3.1 | 8.629 |
+| 6 | o3‑pro (medium reasoning) | 8.628 |
+| 7 | Gemini 2.5 Pro | 8.602 |
+| 8 | Claude Opus 4.1 (no reasoning) | 8.538 |
+| 9 | DeepSeek V3.1 Reasoner | 8.517 |
+| 10 | DeepSeek V3.1 Non‑Think | 8.507 |
+| 11 | Qwen 3 235B A22B 25‑07 Think | 8.495 |
+| 12 | Baidu Ernie 4.5 300B A47B | 8.110 |
+| 13 | Grok 4 | 8.068 |
+| 14 | GLM‑4.5 | 7.803 |
+| 15 | GPT‑OSS‑120B | 7.726 |
+| 16 | Cohere Command A | 7.459 |
+| 17 | Llama 4 Maverick | 6.370 |
+
+#### Full normalized leaderboard
+
+| Rank | LLM | Normalized Mean |
+|-----:|-----|-----------------:|
+| 1 | Kimi K2‑0905 | 0.680 |
+| 2 | Qwen 3 Max Preview | 0.618 |
+| 3 | GPT‑5 (medium reasoning) | 0.605 |
+| 4 | Kimi K2 | 0.585 |
+| 5 | Mistral Medium 3.1 | 0.492 |
+| 6 | o3‑pro (medium reasoning) | 0.486 |
+| 7 | Gemini 2.5 Pro | 0.444 |
+| 8 | Claude Opus 4.1 (no reasoning) | 0.367 |
+| 9 | DeepSeek V3.1 Reasoner | 0.339 |
+| 10 | Qwen 3 235B A22B 25‑07 Think | 0.325 |
+| 11 | DeepSeek V3.1 Non‑Think | 0.325 |
+| 12 | Baidu Ernie 4.5 300B A47B | -0.225 |
+| 13 | Grok 4 | -0.244 |
+| 14 | GLM‑4.5 | -0.577 |
+| 15 | GPT‑OSS‑120B | -0.659 |
+| 16 | Cohere Command A | -1.065 |
+| 17 | Llama 4 Maverick | -2.497 |
+
+#### Element integration only (9A–9J)
+
+A valid concern is whether LLM graders can accurately score questions 1 to 8 (Major Story Aspects), such as Character Development & Motivation. However, questions 9A to 9J (Element Integration) are clearly easier for graders to evaluate reliably. We observe high correlation between the per‑(grader, LLM) means for craft (Q1–Q8) and element‑fit (9A–9J), and a strong overall correlation aggregated across all files. While we cannot be certain these ratings are correct without human validation, their consistency suggests that something real is being measured. For an element‑only view, you can ignore Q1–Q8 and use only 9A–9J:
+
+![Element integration (9A–9J)](images/llm_overall_bar_zoomed_9Ato9J.png)
+
+Normalized view (per‑grader z‑scores):
+
+![Element integration — normalized (9A–9J)](images/normalized_llm_overall_bar_zoomed_9Ato9J.png)
+
+#### Craft only (Q1–Q8)
+
+![Craft (Q1–Q8)](images/llm_overall_bar_zoomed_1to8.png)
+
+Normalized view (per‑grader z‑scores):
+
+![Craft — normalized (Q1–Q8)](images/normalized_llm_overall_bar_zoomed_1to8.png)
+
 ---
 
-### Overall Strip Plot of Questions
-A strip plot illustrating distributions of scores (y-axis) by LLM (x-axis) across all stories, with Grader LLMs marked in different colors:
-
-![Normalized scores strip chart](/images/normalized_scores_strip_zoomed.png)
-
----
 ### LLM vs. Question (Detailed)
-A heatmap showing each LLM's mean rating per question:
 
-![LLM per question](/images/llm_vs_question_detailed.png)
+The detailed heatmap shows each model’s **mean score on each rubric question**. It is a fast way to spot models that excel at **voice and prose** but trail on **plot** or **element integration**, or vice versa.
+
+![LLM per question](images/llm_vs_question_detailed.png)
+
+---
+
+### Which model “wins” the most prompts?
+
+For every prompt, we rank models by their cross‑grader story score and tally the **number of #1 finishes**. This captures consistency at the very top rather than just the average.
+
+![#1 stories pie chart](images/llm_best_pie.png)
+
+---
+
+### Grader ↔ LLM interactions
+
+We publish two complementary views:
+
+* **Mean heatmap (Grader × LLM).** Useful for seeing whether any model is especially favored or disfavored by a particular grader.
+
+![Grader vs LLM](images/grader_vs_llm_means.png)
+
+* **Normalized heatmap.** Z‑scores each grader’s scale so only **relative** preferences remain.
+
+![Grader vs LLM normalized](images/grader_vs_llm_normalized_means.png)
+
+Additional view: grader–grader correlation (how graders align with each other).
+
+![Grader correlation](images/teacher_grader_correlation.png)
+
+---
+
+## Method Summary 
+
+**Stories and length.** Each model contributes short stories that must land in a **strict 600–800 word range**. We verify counts, flag outliers, and generate compliance charts before any grading. 
+
+**Grading.** Each story is scored independently by **seven grader LLMs** using the 18‑question rubric above. 
+
+**Aggregation.** For every story: compute the power mean (Hölder mean) with p = 0.5 across the 18 questions with a 60/40 per‑question weighting (Q1–Q8 vs. 9A–9J), then average across graders. For every model: average across its stories. We also compute **per‑question** means so readers can see where a model is strong (e.g., prose) or weak (e.g., plot or tone fit).
+
+### Grading LLMs
+
+The following grader models scored stories:
+
+- Claude Opus 4.1 (no reasoning)
+- DeepSeek V3.1 Reasoner
+- Gemini 2.5 Pro
+- GPT-5 (low reasoning)
+- Grok 4
+- Kimi K2
+- Qwen 3 235B A22B 25-07 Think
+
+ 
+---
+
+## How the ten required elements are chosen
+
+We use a two‑stage LLM‑assisted pipeline that starts from large curated pools and converges on one coherent set per prompt:
+
+ - The ten categories are defined in the elements catalog (character, object, core concept, attribute, action, method, setting, timeframe, motivation, tone).
+- Seed prompts with candidates: For each seed index, we randomly sample ten options per category (plus the literal option “None”) from those pools and write a selection prompt.
+- Proposer selection: Multiple proposer LLMs each pick exactly one element per category, allowing “None” in at most one category when that improves coherence. Each proposer returns a complete 10‑line set.
+- Rate for fit: We deduplicate sets per seed and have several independent rater LLMs score how well each set “hangs together” (1–10). Scores are z‑normalized per rater to remove leniency differences and then averaged.
+- Choose the winner: For each seed we take the top normalized‑mean set (ties are broken consistently). That set becomes the “required elements” block for the final story prompt.
+
+Notes
+- Within a prompt, categories never repeat; one category may be “None,” which means that element is not required for that prompt.
+- There is no separate cross‑prompt coverage optimizer. Variety comes from the breadth of the curated pools and independent per‑seed sampling plus LLM selection and rating. As a result, duplicates across different prompts are possible but uncommon.
+
+---
+
+## Scoring scale 
+
+- **Scale:** 0.0–10.0 per question, in 0.1 increments (e.g., 7.3).
+- **Story score:** Power mean (Hölder mean) with p = 0.5 across the 18 questions with 60/40 per‑question weights (Q1–Q8 vs. 9A–9J), then averaged across graders.
+- **Model score:** average of its story scores. Uncertainty bands reflect variation across prompts and sample size.
+
+Coverage: each story is evaluated by seven independent LLM graders. Each prompt specifies one choice in each of ten categories; at most one category may be “None” (not required), keeping brief‑following comparable across models. If a category is “None,” graders mark that 9‑series sub‑question as N/A. N/As are excluded from aggregation and the per‑question weights are re‑normalized over the remaining questions.
+
+Graders used (7): Claude Opus 4.1 (no reasoning), DeepSeek V3.1 Reasoner, Gemini 2.5 Pro, GPT‑5 (low reasoning), Grok 4, Kimi K2, Qwen 3 235B A22B 25‑07 Think.
+
+---
+
+## Robustness checks
+
+- Exclude bottom 10% per LLM: Rankings and means change only marginally; top models retain their order. We drop the lowest‑scoring decile of stories per model, recompute means, and compare ranks. 
+- Leave‑one‑grader‑out: Recomputing means while excluding each grader in turn yields the same top tier; movements are within noise for most models. See per‑grader views and aggregates in the summary tables.
+- Grader‑weighted vs unweighted: Weighting graders by reliability barely shifts ordering; deltas are recorded in the summary tables. Sample:
+
+  | LLM | Mean (unweighted) | Mean (weighted) | Δ |
+  |-----|-------------------:|----------------:|---:|
+  | Kimi K2‑0905 | 8.695 | 8.798 | +0.103 |
+  | GPT‑5 (medium reasoning) | 8.668 | 8.766 | +0.098 |
+  | Qwen 3 Max Preview | 8.655 | 8.756 | +0.101 |
+  | Kimi K2 | 8.635 | 8.728 | +0.093 |
+  | Mistral Medium 3.1 | 8.569 | 8.674 | +0.105 |
+
 
 
 ---
-### LLM #1 Finishes
-Which LLM ranked #1 the most times across all stories? This pie chart shows the distribution of #1 finishes:
 
-![#1 stories pie chart](/images/llm_best_pie.png)
+### Bottom 10% per‑LLM exclusion (top 15)
 
+| LLM | Old Rank | Old Mean | New Rank | New Mean | ΔRank |
+|-----|---------:|---------:|---------:|---------:|------:|
+| Kimi K2‑0905 | 1 | 8.726 | 1 | 8.782 | 0 |
+| GPT‑5 (medium reasoning) | 2 | 8.685 | 2 | 8.723 | 0 |
+| Qwen 3 Max Preview | 3 | 8.684 | 3 | 8.722 | 0 |
+| Kimi K2 | 4 | 8.667 | 4 | 8.705 | 0 |
+| o3‑pro (medium reasoning) | 5 | 8.596 | 5 | 8.636 | 0 |
+| Mistral Medium 3.1 | 6 | 8.589 | 6 | 8.627 | 0 |
+| Gemini 2.5 Pro | 7 | 8.569 | 7 | 8.607 | 0 |
+| Claude Opus 4.1 (no reasoning) | 8 | 8.511 | 8 | 8.556 | 0 |
+| Qwen 3 235B A22B 25‑07 Think | 9 | 8.487 | 9 | 8.542 | 0 |
+| DeepSeek V3.1 Reasoner | 10 | 8.486 | 10 | 8.528 | 0 |
+| DeepSeek V3.1 Non‑Think | 11 | 8.474 | 11 | 8.520 | 0 |
+| Grok 4 | 12 | 8.086 | 12 | 8.155 | 0 |
+| Baidu Ernie 4.5 300B A47B | 13 | 8.082 | 13 | 8.147 | 0 |
+| GLM‑4.5 | 14 | 7.804 | 14 | 7.890 | 0 |
+| GPT‑OSS‑120B | 15 | 7.727 | 15 | 7.809 | 0 |
+
+### Leave‑one‑grader‑out re‑rank (max change, top 15)
+
+| LLM | Old Rank | Old Mean | Worst ΔRank | New Rank (worst) | New Mean (worst) | Removed grader |
+|-----|---------:|---------:|------------:|------------------:|-----------------:|----------------|
+| GPT‑5 (medium reasoning) | 2 | 8.685 | 2 | 4 | 8.586 | Gemini 2.5 Pro |
+| Qwen 3 235B A22B 25‑07 Think | 9 | 8.487 | 2 | 11 | 8.511 | GPT‑5 (low reasoning) |
+| o3‑pro (medium reasoning) | 5 | 8.596 | 2 | 7 | 8.607 | GPT‑5 (low reasoning) |
+| Grok 4 | 12 | 8.086 | 1 | 13 | 7.958 | DeepSeek V3.1 Reasoner |
+| Baidu Ernie 4.5 300B A47B | 13 | 8.082 | -1 | 12 | 7.969 | DeepSeek V3.1 Reasoner |
+| DeepSeek V3.1 Non‑Think | 11 | 8.474 | -1 | 10 | 8.514 | GPT‑5 (low reasoning) |
+| DeepSeek V3.1 Reasoner | 10 | 8.487 | -1 | 9 | 8.400 | DeepSeek V3.1 Reasoner |
+| Gemini 2.5 Pro | 7 | 8.569 | -1 | 6 | 8.611 | GPT‑5 (low reasoning) |
+| Kimi K2 | 4 | 8.667 | -1 | 3 | 8.595 | Gemini 2.5 Pro |
+| Claude Opus 4.1 (no reasoning) | 8 | 8.511 | 0 | 8 | 8.659 | Claude Opus 4.1 (no reasoning) |
+| Cohere Command A | 16 | 7.427 | 0 | 16 | 7.634 | Claude Opus 4.1 (no reasoning) |
+| GLM‑4.5 | 14 | 7.804 | 0 | 14 | 8.030 | Claude Opus 4.1 (no reasoning) |
+| GPT‑OSS‑120B | 15 | 7.727 | 0 | 15 | 7.952 | Claude Opus 4.1 (no reasoning) |
+| Kimi K2‑0905 | 1 | 8.726 | 0 | 1 | 8.902 | Claude Opus 4.1 (no reasoning) |
+| Llama 4 Maverick | 17 | 6.345 | 0 | 17 | 6.585 | Claude Opus 4.1 (no reasoning) |
+
+
+## Do Graders Agree?
+
+We measure agreement three ways, then visualize the results with fixed, symmetric color ranges so “cool vs. warm” maps cleanly to lower vs. higher agreement:
+
+1. **Story‑level overall.** Pairwise Pearson r (95% CI), Spearman ρ, and Lin’s concordance capture how similarly graders rank complete stories.
+2. **Question‑level.** For each rubric question, we correlate graders across the shared set of stories and summarize agreement for craft questions (Q1–Q8) and element‑fit questions (9A–9J).
+3. **Within‑story profile shape.** For each story we center each grader’s 18‑dimensional score vector (removing severity differences) and correlate the **shape** of judgments (“do graders like the same strengths and notice the same weaknesses?”).
+
+Outputs include heatmaps and concise tables (e.g., “most disagreed‑upon stories,” coverage gaps). In practice, graders show **solid, repeatable alignment** on both story‑level and question‑level judgments, and profile‑shape agreement helps reveal where differences come from (e.g., one grader reacting more to tone than plot).
+
+**Figures:**
+![Story agreement heatmap](images/grader_story_corr_heatmap.png)
+![Q1–Q8 agreement](images/grader_q_corr_heatmap_Q1to8.png)
+![9A–9J agreement](images/grader_q_corr_heatmap_9Ato9J.png)
+![Profile‑shape agreement](images/grader_profile_shape_corr_heatmap.png)
 
 ---
-### Grader - LLM Mean Heatmap
-A heatmap of Grader (row) vs. LLM (column) average scores:
 
-![Grader vs LLM normalized](/images/grader_vs_llm_normalized_means.png)
-
-The chart highlights that grading LLMs do not disproportionately overrate their own stories. 
-
----
-### Grader-Grader Correlation
-A correlation matrix (−1 to 1 scale) measuring how strongly multiple LLMs correlate when cross-grading the same stories:
-
-![Grader vs LLM correlation](/images/teacher_grader_correlation.png)
-
----
-## Summaries
-We record the grader LLMs' assessments of each story and summarize each model's writing. Detailed per-question comments from all grader LLMs are available in [comments_by_llm_1to6/](comments_by_llm_1to6/). Per-question summaries can be found in [summaries/](summaries/). Overall summaries are located in [general_summaries/](general_summaries/). These summaries add much-needed color to otherwise dry numbers and are valuable for understanding each LLM's creative writing strengths and weaknesses.
-
-### For example, here is the general assessment of **o4-mini**:
-
-**Strengths:**
-o4-mini consistently demonstrates a robust technical command of contemporary literary style, structure, and conceptual sophistication. Across all tasks, its prose is fluent and often displays striking imagery, inventive metaphor, and an ability to construct cohesive narrative arcs within varied word constraints. The model is adept at integrating assigned elements (e.g., objects, settings, required themes), often weaving them into atmospheres that are rich, immersive, and sometimes philosophically resonant. Thematic ambition is a hallmark, with recurring explorations of memory, transformation, contradiction, and existential stakes—attesting to its “breadth of subject matter and conceptual ingenuity.” Symbols, motifs, and metaphors are frequently deployed in ways that demonstrate an understanding of advanced literary devices.
-
-**Weaknesses:**
-Despite these technical strengths, the model’s writing often falls short in delivering narrative and emotional depth. Characters tend to function as conduits for themes or plot, lacking distinctive voices, specific motivations, or authentic psychological transformation—resulting in “surface-level characterization” and a “mechanical” sense of emotional change. Conflict, stakes, and genuine struggle are frequently underdeveloped or circumvented via poetic abstraction, with “telling” vastly outpacing “showing.” The resolve towards ornate, lyrical language brings diminishing returns: stories are saturated with decorative or “purple” prose, which too often obscures clarity, action, or genuine feeling. Abstraction and symbolism, while inventive, routinely displace specificity, leading to a sense of aesthetic sameness across outputs—where different stories begin to blur into stylistic variations on the same exercise. Even when the integration of assigned elements is seamless, this is often cosmetic; true organic unity—where every aspect is motivated by character or plot necessity—is rare. Endings are poetically gestured at rather than earned, with “thematic closure” favored over narrative resolution.
-
-**Summary Judgment:**
-o4-mini is a skilled mimic of modern literary fiction’s forms and ambitions, but it struggles to transcend simulation. Its stylistic confidence and conceptual facility often mask a persistent emotional hollowness, avoidance of narrative risk, and an unearned reliance on abstraction. To reach the next level—to produce fiction that lingers and moves—it must ground its aesthetic and thematic flights in lived, dramatized, and character-specific experience, embracing risk, specificity, and the unpredictable complexity of human drama.
-
-
----
 ## Best and Worst Stories
-Here, we list the top 3 and the bottom 3 individual stories (written by any LLM) out of the 13,000 generated, based on the average scores from our grader LLMs, and include the required elements for each. Feel free to evaluate their quality for yourself!
 
-### Top 3 Individual Stories (All Graders)
+We highlight **standout individual stories** (highest cross‑grader means) and a short list of **lowest‑rated** pieces, with direct links and the ten **required elements** under each entry. This lets you compare top work side‑by‑side with weak outcomes and see how the elements were interpreted. Refusals to incorporate a required element remain visible here and typically land near the bottom.
 
-* **Story**: [story_27.txt](stories_wc/gpt-5-medium/story_27.txt) by GPT-5 (medium reasoning)
-  - Overall Mean (All Graders): 9.26
-  - Grader Score Range: 7.39 (lowest: Grok 3 Beta (no reasoning)) .. 9.76 (highest: Gemini 2.5 Pro)
+- Data: The dataset includes story‑level winners/laggards with links and grader‑range diagnostics.
+- Comments: Per‑question grader comments are collated under `comments_by_llm_1to8/`.
+- Summaries: per‑story and per‑LLM summaries live under `summaries/` and `general_summaries/`.
+
+### Examples (Top 3 / Bottom 3)
+
+Top 3 individual stories (all graders):
+
+* **Story**: [story_wc_63.txt](stories_wc/kimi-k2-0905/story_wc_63.txt) by Kimi K2‑0905
+  - Overall Mean (All Graders): 9.13
+  - Grader Score Range: 8.23 (lowest: Claude Opus 4.1 (no reasoning)) .. 9.82 (highest: Gemini 2.5 Pro)
   - Required Elements:
-    - Character: cynic cursed to speak only truth
-    - Object: vintage pencil box
-    - Core Concept: a tapestry of fate
-    - Attribute: politely vindictive
-    - Action: petrify
-    - Method: with the phases of the moon
-    - Setting: haunted amusement park prize booth
-    - Timeframe: amid bird watching
-    - Motivation: to provoke evolution in a stagnant mind
-    - Tone: layered tranquility
+    - Character: precise local clock tower winder
+    - Object: clock tower pendulum bob
+    - Core Concept: incremental absolution
+    - Attribute: ethically diligent
+    - Action: emerge
+    - Method: through tiny inscriptions carved along a broken rake handle
+    - Setting: tidal obsidian ridge
+    - Timeframe: during the pause in a pendulum's swing
+    - Motivation: to restore shared balance
+    - Tone: searing reverie
 
-* **Story**: [story_15.txt](stories_wc/kimi-k2/story_15.txt) by Kimi K2
-  - Overall Mean (All Graders): 9.25
-  - Grader Score Range: 8.05 (lowest: Grok 3 Beta (no reasoning)) .. 9.60 (highest: DeepSeek V3-0324)
+* **Story**: [story_wc_346.txt](stories_wc/kimi-k2-0905/story_wc_346.txt) by Kimi K2‑0905
+  - Overall Mean (All Graders): 9.13
+  - Grader Score Range: 8.09 (lowest: Claude Opus 4.1 (no reasoning)) .. 9.71 (highest: Gemini 2.5 Pro)
   - Required Elements:
-    - Character: gracious widow
-    - Object: blacksmith’s forge
-    - Core Concept: tethered by hope
-    - Attribute: solemnly absurd
-    - Action: nurture
-    - Method: through mysterious postcards
-    - Setting: ruined orchard district lost in centuries of thick fog
-    - Timeframe: between meals
-    - Motivation: to defy the gods
-    - Tone: serious playfulness
+    - Character: doomsday clock adjuster
+    - Object: broken puppet head
+    - Core Concept: a pane of hush
+    - Attribute: beautifully flawed
+    - Action: vouchsafe
+    - Method: through nested patterns
+    - Setting: hidden lighthouse at dusk
+    - Timeframe: across the hush of time’s final ripple
+    - Motivation: to whisper a lullaby across a thousand lifetimes
+    - Tone: bruised awe
 
-* **Story**: [story_103.txt](stories_wc/claude-opus-4-1-20250805-0K/story_103.txt) by Claude Opus 4.1 (no reasoning)
-  - Overall Mean (All Graders): 9.23
-  - Grader Score Range: 8.06 (lowest: Grok 3 Beta (no reasoning)) .. 9.84 (highest: DeepSeek V3-0324)
+* **Story**: [story_wc_79.txt](stories_wc/kimi-k2-0905/story_wc_79.txt) by Kimi K2‑0905
+  - Overall Mean (All Graders): 9.13
+  - Grader Score Range: 8.39 (lowest: Claude Opus 4.1 (no reasoning)) .. 9.63 (highest: Gemini 2.5 Pro)
   - Required Elements:
-    - Character: weatherbeaten knight
-    - Object: brass door knocker
-    - Core Concept: impossible choices
-    - Attribute: grudgingly sweet
-    - Action: appreciate
-    - Method: a set of seemingly random items that form a pattern
-    - Setting: lighthouse prison off a jagged reef
-    - Timeframe: within a mirrored reflection
-    - Motivation: to hush the final cry of regret
-    - Tone: joyful agony
+    - Character: spiral-shell cartographer
+    - Object: reed whistle
+    - Core Concept: lost expedition
+    - Attribute: quietly driven
+    - Action: crack
+    - Method: through pattern languages
+    - Setting: city built on the shells of gargantuan turtles
+    - Timeframe: after the gate rusts shut
+    - Motivation: to question the silent watchers on the horizon
+    - Tone: sunwashed dread
 
+Bottom 3 individual stories (all graders):
 
-### Bottom 3 Individual Stories (All Graders)
+* **Story**: [story_wc_323.txt](stories_wc/llama4-maverick/story_wc_323.txt) by Llama 4 Maverick
+  - Overall Mean (All Graders): 4.73
+  - Grader Score Range: 2.70 (lowest: Qwen 3 235B A22B 25‑07 Think) .. 7.41 (highest: DeepSeek V3.1 Reasoner)
+  - Required Elements:
+    - Character: navigation instructor
+    - Object: boat anchor chain link
+    - Core Concept: unfolded horizons
+    - Attribute: balancedly curious
+    - Action: expand
+    - Method: edge geometry
+    - Setting: benthic city
+    - Timeframe: after discovering aliens
+    - Motivation: to learn to navigate by starlight
+    - Tone: somber marvel
 
-* **Story**: [story_225.txt](stories_wc/claude-opus-4-20250514-16K/story_225.txt) by Claude Opus 4 Thinking 16K. 1.24 (refused to write - one of the required elements was "infect")
-* **Story**: [story_225.txt](stories_wc/claude-opus-4-20250514-0K/story_225.txt) by Claude Opus 4 (no reasoning). 1.36 (refused to write - one of the required elements was "infect")
-* **Story**: [story_150.txt](stories_wc/nova-pro/story_150.txt) by Amazon Nova Pro. 4.44
+* **Story**: [story_wc_305.txt](stories_wc/llama4-maverick/story_wc_305.txt) by Llama 4 Maverick
+  - Overall Mean (All Graders): 4.91
+  - Grader Score Range: 3.47 (lowest: Claude Opus 4.1 (no reasoning)) .. 7.66 (highest: DeepSeek V3.1 Reasoner)
+  - Required Elements:
+    - Character: committed caretaker
+    - Object: antique hairpin
+    - Core Concept: the cycle of rebirth
+    - Attribute: kindly decisive
+    - Action: scallop
+    - Method: climbing trees to think better
+    - Setting: umbral grotto above the clouds
+    - Timeframe: after forgiving the unforgivable
+    - Motivation: to find the source of contentment
+    - Tone: vineyard hush
 
-
----
-## Story Length
-A basic prompt asking LLMs to create a 400-500 word story resulted in an unacceptable range of story lengths. A revised prompt instructing each LLM to track the number of words after each sentence improved consistency somewhat but still fell short of the accuracy needed for fair grading. 
-
-Since the benchmark aims to evaluate how well LLMs write, not how well they count or follow prompts about the format, we adjusted the word counts in the prompt for different LLMs to approximately match the target story length - an approach similar to what someone dissatisfied with the initial story length might adopt. Note that this did not require any evaluation of the story's content itself. These final stories were then graded and they are available in [stories_wc/](stories_wc/).
-
-![Word count distribution by model](/images/word_count_distribution_by_model.png)
-
-This chart shows the correlations between each LLM's scores and their story lengths:
-
-![Len vs score](/images/len_vs_score_overall_enhanced.png)
-
-This chart shows the correlations between each Grader LLM's scores and the lengths of stories they graded:
-
-![Length vs score by grader](/images/len_vs_score_grader_enhanced.png)
-
----
-
-## Ablation
-
-A valid concern is whether LLM graders can accurately score questions 1 to 6 (Major Story Aspects), such as Character Development & Motivation. However, questions 7A to 7J (Element Integration) are clearly much easier for LLM graders to evaluate correctly, and we observe a very high correlation between the grades for questions 1 to 6 and 7A to 7J across all grader - LLM combinations. We also observe a high correlation among the grader LLMs themselves. Overall, the per-story correlation of 1-6 vs 7A-7J is 0.926 (N=N=81,000). While we cannot be certain that these ratings are correct without human validation, the consistency suggests that something real is being measured. But we can simply ignore questions 1 to 6 and just use ratings for 7A to 7J:
-
-### Questions 7A to 7J Only: Element Integration
-
-![Element Integration](/images/llm_overall_bar_zoomed_7Ato7J.png)
-
-
----
-Excluding 10% worst stories per LLM does not significantly change the rankings:
-### Rankings After Excluding the 50 Lowest-Rated Stories per LLM
-
-| LLM Full | Old Rank | Old Mean | New Rank | New Mean |
-|----------|---------:|---------:|---------:|---------:|
-| GPT-5 (medium reasoning) | 1 | 8.60 | 1 | 8.65 |
-| Kimi K2 | 2 | 8.56 | 2 | 8.62 |
-| Claude Opus 4.1 (no reasoning) | 3 | 8.47 | 3 | 8.53 |
-| Claude Opus 4.1 Thinking 16K | 4 | 8.45 | 4 | 8.51 |
-| o3-pro (medium reasoning) | 5 | 8.44 | 5 | 8.48 |
-| o3 (medium reasoning) | 6 | 8.39 | 6 | 8.44 |
-| Gemini 2.5 Pro | 7 | 8.38 | 7 | 8.44 |
-| Claude Opus 4 Thinking 16K | 8 | 8.36 | 8 | 8.43 |
-| Claude Opus 4 (no reasoning) | 9 | 8.31 | 9 | 8.39 |
-| GPT-5 mini (medium reasoning) | 10 | 8.31 | 10 | 8.38 |
-| Qwen 3 235B A22B | 11 | 8.30 | 11 | 8.36 |
-| DeepSeek R1 | 12 | 8.30 | 12 | 8.36 |
-| Qwen 3 235B A22B 25-07 Think | 13 | 8.24 | 13 | 8.30 |
-| DeepSeek R1 05/28 | 14 | 8.19 | 14 | 8.25 |
-| GPT-4o Mar 2025 | 15 | 8.18 | 15 | 8.23 |
-| Claude Sonnet 4 Thinking 16K | 16 | 8.14 | 16 | 8.21 |
-| Claude 3.7 Sonnet Thinking 16K | 17 | 8.11 | 17 | 8.17 |
-| Claude Sonnet 4 (no reasoning) | 18 | 8.09 | 18 | 8.16 |
-| Gemini 2.5 Pro Preview 05-06 | 19 | 8.09 | 19 | 8.15 |
-| Gemini 2.5 Pro Exp 03-25 | 20 | 8.05 | 20 | 8.11 |
-| Claude 3.5 Sonnet 2024-10-22 | 21 | 8.03 | 21 | 8.09 |
-| Qwen QwQ-32B 16K | 22 | 8.02 | 22 | 8.09 |
-| Baidu Ernie 4.5 300B A47B | 23 | 8.00 | 23 | 8.08 |
-| Gemma 3 27B | 24 | 7.99 | 24 | 8.06 |
-| Claude 3.7 Sonnet | 25 | 7.94 | 25 | 8.00 |
-| Mistral Medium 3 | 26 | 7.73 | 26 | 7.82 |
-| GPT-OSS-120B | 27 | 7.71 | 27 | 7.79 |
-| Grok 4 | 29 | 7.69 | 28 | 7.77 |
-| DeepSeek V3-0324 | 28 | 7.69 | 29 | 7.77 |
-| Gemini 2.5 Flash | 30 | 7.65 | 30 | 7.73 |
-| Grok 3 Beta (no reasoning) | 31 | 7.64 | 31 | 7.70 |
-| GPT-4.5 Preview | 32 | 7.56 | 32 | 7.63 |
-| Qwen 3 30B A3B | 33 | 7.53 | 33 | 7.61 |
-| o4-mini (medium reasoning) | 34 | 7.50 | 34 | 7.58 |
-| Gemini 2.0 Flash Think Exp 01-21 | 35 | 7.38 | 35 | 7.47 |
-| GLM-4.5 | 38 | 7.34 | 36 | 7.44 |
-| Claude 3.5 Haiku | 36 | 7.35 | 37 | 7.43 |
-| Grok 3 Mini Beta (low) | 37 | 7.35 | 38 | 7.42 |
-| Qwen 2.5 Max | 39 | 7.29 | 39 | 7.37 |
-| Gemini 2.0 Flash Exp | 40 | 7.15 | 40 | 7.24 |
-| o1 (medium reasoning) | 41 | 7.02 | 41 | 7.11 |
-| Mistral Large 2 | 42 | 6.90 | 42 | 7.00 |
-| GPT-4o mini | 43 | 6.72 | 43 | 6.80 |
-| o1-mini | 44 | 6.49 | 44 | 6.58 |
-| Grok 2 12-12 | 45 | 6.36 | 45 | 6.46 |
-| Microsoft Phi-4 | 46 | 6.26 | 46 | 6.35 |
-| Llama 4 Maverick | 47 | 6.20 | 47 | 6.29 |
-| o3-mini (high reasoning) | 48 | 6.17 | 48 | 6.26 |
-| o3-mini (medium reasoning) | 49 | 6.15 | 49 | 6.24 |
-| Amazon Nova Pro | 50 | 6.05 | 50 | 6.15 |
-
-
-Excluding any one LLM from grading also does not significantly change the rankings. For example, here is what happens when LLama 4 Maverick is excluded:
-### Ranking after Excluding LLama 4 Maverick from Grading
-
-| LLM                | Old Rank | Old Mean | New Rank | New Mean |
-|--------------------|---------:|---------:|---------:|---------:|
-| GPT-5 (medium reasoning) | 1 | 8.60 | 1 | 8.50 |
-| Kimi K2 | 2 | 8.56 | 2 | 8.46 |
-| Claude Opus 4.1 (no reasoning) | 3 | 8.47 | 3 | 8.38 |
-| Claude Opus 4.1 Thinking 16K | 4 | 8.45 | 4 | 8.35 |
-| o3-pro (medium reasoning) | 5 | 8.44 | 5 | 8.33 |
-| Gemini 2.5 Pro | 7 | 8.38 | 6 | 8.29 |
-| o3 (medium reasoning) | 6 | 8.39 | 7 | 8.27 |
-| Claude Opus 4 Thinking 16K | 8 | 8.36 | 8 | 8.25 |
-| Claude Opus 4 (no reasoning) | 9 | 8.31 | 9 | 8.20 |
-| DeepSeek R1 | 12 | 8.30 | 10 | 8.19 |
-| Qwen 3 235B A22B | 11 | 8.30 | 11 | 8.19 |
-| GPT-5 mini (medium reasoning) | 10 | 8.31 | 12 | 8.19 |
-| Qwen 3 235B A22B 25-07 Think | 13 | 8.24 | 13 | 8.11 |
-| DeepSeek R1 05/28 | 14 | 8.19 | 14 | 8.07 |
-| GPT-4o Mar 2025 | 15 | 8.18 | 15 | 8.04 |
-| Claude Sonnet 4 Thinking 16K | 16 | 8.14 | 16 | 8.01 |
-| Claude 3.7 Sonnet Thinking 16K | 17 | 8.11 | 17 | 7.98 |
-| Gemini 2.5 Pro Preview 05-06 | 19 | 8.09 | 18 | 7.96 |
-| Claude Sonnet 4 (no reasoning) | 18 | 8.09 | 19 | 7.95 |
-| Gemini 2.5 Pro Exp 03-25 | 20 | 8.05 | 20 | 7.92 |
-| Claude 3.5 Sonnet 2024-10-22 | 21 | 8.03 | 21 | 7.89 |
-| Qwen QwQ-32B 16K | 22 | 8.02 | 22 | 7.88 |
-| Baidu Ernie 4.5 300B A47B | 23 | 8.00 | 23 | 7.86 |
-| Gemma 3 27B | 24 | 7.99 | 24 | 7.85 |
-| Claude 3.7 Sonnet | 25 | 7.94 | 25 | 7.78 |
-| Mistral Medium 3 | 26 | 7.73 | 26 | 7.55 |
-| DeepSeek V3-0324 | 28 | 7.69 | 27 | 7.51 |
-| GPT-OSS-120B | 27 | 7.71 | 28 | 7.51 |
-| Grok 4 | 29 | 7.69 | 29 | 7.49 |
-| Gemini 2.5 Flash | 30 | 7.65 | 30 | 7.46 |
-| Grok 3 Beta (no reasoning) | 31 | 7.64 | 31 | 7.44 |
-| GPT-4.5 Preview | 32 | 7.56 | 32 | 7.36 |
-| Qwen 3 30B A3B | 33 | 7.53 | 33 | 7.32 |
-| o4-mini (medium reasoning) | 34 | 7.50 | 34 | 7.26 |
-| Gemini 2.0 Flash Think Exp 01-21 | 35 | 7.38 | 35 | 7.14 |
-| Claude 3.5 Haiku | 36 | 7.35 | 36 | 7.11 |
-| GLM-4.5 | 38 | 7.34 | 37 | 7.10 |
-| Grok 3 Mini Beta (low) | 37 | 7.35 | 38 | 7.10 |
-| Qwen 2.5 Max | 39 | 7.29 | 39 | 7.08 |
-| Gemini 2.0 Flash Exp | 40 | 7.15 | 40 | 6.89 |
-| o1 (medium reasoning) | 41 | 7.02 | 41 | 6.74 |
-| Mistral Large 2 | 42 | 6.90 | 42 | 6.63 |
-| GPT-4o mini | 43 | 6.72 | 43 | 6.43 |
-| o1-mini | 44 | 6.49 | 44 | 6.13 |
-| Grok 2 12-12 | 45 | 6.36 | 45 | 6.03 |
-| Microsoft Phi-4 | 46 | 6.26 | 46 | 5.90 |
-| Llama 4 Maverick | 47 | 6.20 | 47 | 5.83 |
-| o3-mini (high reasoning) | 48 | 6.17 | 48 | 5.76 |
-| o3-mini (medium reasoning) | 49 | 6.15 | 49 | 5.73 |
-| Amazon Nova Pro | 50 | 6.05 | 50 | 5.67 |
-
-Normalizing each grader’s scores doesn’t significantly alter the rankings:
+* **Story**: [story_wc_240.txt](stories_wc/llama4-maverick/story_wc_240.txt) by Llama 4 Maverick
+  - Overall Mean (All Graders): 4.96
+  - Grader Score Range: 4.08 (lowest: Kimi K2) .. 6.82 (highest: DeepSeek V3.1 Reasoner)
+  - Required Elements:
+    - Character: intrusion detection specialist
+    - Object: laser pointer button
+    - Core Concept: familiar strangers
+    - Attribute: spatially gifted
+    - Action: revolutionize
+    - Method: through permeable barriers
+    - Setting: bioluminescent mushroom farm
+    - Timeframe: before the echo of morning birdsong
+    - Motivation: to understand the physics of letting go
+    - Tone: quiet wildfire
 
 ---
-### Normalized Mean Leaderboard
 
-| Rank | LLM                    | Normalized Mean |
-|-----:|------------------------|-----------------:|
-| 1 | GPT-5 (medium reasoning) | 0.969 |
-| 2 | Kimi K2 | 0.954 |
-| 3 | Claude Opus 4.1 (no reasoning) | 0.829 |
-| 4 | Claude Opus 4.1 Thinking 16K | 0.815 |
-| 5 | o3-pro (medium reasoning) | 0.808 |
-| 6 | o3 (medium reasoning) | 0.792 |
-| 7 | Claude Opus 4 Thinking 16K | 0.728 |
-| 8 | Gemini 2.5 Pro | 0.703 |
-| 9 | DeepSeek R1 | 0.690 |
-| 10 | Qwen 3 235B A22B | 0.686 |
-| 11 | Claude Opus 4 (no reasoning) | 0.672 |
-| 12 | GPT-5 mini (medium reasoning) | 0.652 |
-| 13 | Qwen 3 235B A22B 25-07 Think | 0.610 |
-| 14 | GPT-4o Mar 2025 | 0.589 |
-| 15 | DeepSeek R1 05/28 | 0.527 |
-| 16 | Claude 3.7 Sonnet Thinking 16K | 0.498 |
-| 17 | Claude Sonnet 4 Thinking 16K | 0.491 |
-| 18 | Claude Sonnet 4 (no reasoning) | 0.435 |
-| 19 | Claude 3.5 Sonnet 2024-10-22 | 0.412 |
-| 20 | Qwen QwQ-32B 16K | 0.406 |
-| 21 | Gemini 2.5 Pro Exp 03-25 | 0.388 |
-| 22 | Gemini 2.5 Pro Preview 05-06 | 0.379 |
-| 23 | Gemma 3 27B | 0.334 |
-| 24 | Baidu Ernie 4.5 300B A47B | 0.330 |
-| 25 | Claude 3.7 Sonnet | 0.322 |
-| 26 | GPT-OSS-120B | 0.082 |
-| 27 | DeepSeek V3-0324 | 0.065 |
-| 28 | Grok 4 | 0.059 |
-| 29 | Mistral Medium 3 | 0.043 |
-| 30 | Gemini 2.5 Flash | -0.005 |
-| 31 | Grok 3 Beta (no reasoning) | -0.009 |
-| 32 | GPT-4.5 Preview | -0.054 |
-| 33 | Qwen 3 30B A3B | -0.088 |
-| 34 | o4-mini (medium reasoning) | -0.102 |
-| 35 | Grok 3 Mini Beta (low) | -0.254 |
-| 36 | Gemini 2.0 Flash Think Exp 01-21 | -0.267 |
-| 37 | Claude 3.5 Haiku | -0.274 |
-| 38 | GLM-4.5 | -0.291 |
-| 39 | Qwen 2.5 Max | -0.422 |
-| 40 | Gemini 2.0 Flash Exp | -0.502 |
-| 41 | o1 (medium reasoning) | -0.646 |
-| 42 | Mistral Large 2 | -0.822 |
-| 43 | GPT-4o mini | -1.052 |
-| 44 | o1-mini | -1.172 |
-| 45 | Grok 2 12-12 | -1.438 |
-| 46 | o3-mini (high reasoning) | -1.474 |
-| 47 | o3-mini (medium reasoning) | -1.488 |
-| 48 | Microsoft Phi-4 | -1.512 |
-| 49 | Llama 4 Maverick | -1.609 |
-| 50 | Amazon Nova Pro | -1.785 |
+## Head‑to‑Head Comparisons
 
+We include A‑vs‑B analyses for stories written to the same required elements, separating rubric‑aligned differences (Q1–Q8 craft; 9A–9J element fit) from beyond‑rubric observations (e.g., risk appetite, cultural specificity).
 
-
+Head‑to‑head summaries are provided in `inter_llm_comparison_summaries/` (where available).
 
 ---
-## Old Leaderboard
-| Rank | LLM               | Mean  |
-|-----:|-------------------|------:|
-| 1 | GPT-4o Mar 2025 | 8.55 |
-| 2 | DeepSeek R1 | 8.54 |
-| 3 | Claude 3.7 Sonnet Thinking 16K | 8.51 |
-| 4 | Claude 3.5 Sonnet 2024-10-22 | 8.47 |
-| 5 | Claude 3.7 Sonnet | 8.39 |
-| 6 | Qwen QwQ-32B 16K | 8.34 |
-| 7 | Gemini 2.5 Pro Exp 03-24 | 8.30 |
-| 8 | Gemma 3 27B | 8.22 |
-| 9 | DeepSeek V3-0324 | 8.09 |
-| 10 | Gemini 2.0 Pro Exp 02-05 | 8.08 |
-| 11 | GPT-4.5 Preview | 8.07 |
-| 12 | Claude 3.5 Haiku | 8.07 |
-| 13 | Gemini 1.5 Pro (Sept) | 7.97 |
-| 14 | GPT-4o Feb 2025 | 7.96 |
-| 15 | Gemini 2.0 Flash Thinking Exp Old | 7.87 |
-| 16 | GPT-4o 2024-11-20 | 7.87 |
-| 17 | Gemini 2.0 Flash Thinking Exp 01-21 | 7.82 |
-| 18 | o1-preview | 7.74 |
-| 19 | Gemini 2.0 Flash Exp | 7.65 |
-| 20 | Qwen 2.5 Max | 7.64 |
-| 21 | DeepSeek-V3 | 7.62 |
-| 22 | o1 | 7.57 |
-| 23 | Mistral Large 2 | 7.54 |
-| 24 | Gemma 2 27B | 7.49 |
-| 25 | Qwen QwQ Preview | 7.44 |
-| 26 | GPT-4o mini | 7.37 |
-| 27 | GPT-4o 2024-08-06 | 7.36 |
-| 28 | o1-mini | 7.30 |
-| 29 | Claude 3 Opus | 7.17 |
-| 30 | Qwen 2.5 72B | 7.00 |
-| 31 | o3-mini-high | 6.99 |
-| 32 | Grok 2 12-12 | 6.98 |
-| 33 | o3-mini | 6.90 |
-| 34 | Microsoft Phi-4 | 6.89 |
-| 35 | Amazon Nova Pro | 6.70 |
-| 36 | Llama 4 Maverick | 6.67 |
-| 37 | Llama 3.1 405B | 6.60 |
-| 38 | Llama 3.3 70B | 5.95 |
-| 39 | Claude 3 Haiku | 5.83 |
+
+## Example writer summaries
+
+Short excerpts from model‑level writer summaries (see `general_summaries/` for full text):
+
+### GPT‑5 (medium reasoning)
+
+1) Executive profile
+
+Across Q1–Q8, this writer‑LLM is most reliable in Track A: single POV, accumulative/textural builds, 1–2 on‑page characters, and an interior drive‑lens that remains coherent through closure. Its dominant strength is embodied, character‑bound storytelling...
+
+Signature moves (sample):
+- Embodied motivation in scene: micro‑choices that visibly trade values.
+- Micro‑setting as constraint—objects steer tactics and charge closure images.
+- Pattern‑teaching with motif repricing at closure.
+
+### Kimi K2
+
+1) Executive profile
+
+Kimi K2’s dominant strengths span embodied interiority, tight voice control, and accumulative patterning that guides readers toward earned, on‑page closure...
+
+Signature moves (sample):
+- Embodied perception as engine; sensory specifics anchor motive and choice.
+- Objects as micro‑settings; voice‑world mesh with pressure‑responsive rhythm.
+- Final images reweight a taught motif rather than state a thesis.
+
+## Word count and length effects
+
+Length is part of the test design. Tight control limits “padding” advantages and keeps attention on **writing quality** and **element integration**.
+
+* **Compliance dashboard.** We show a per‑model strip plot of story lengths, an overall histogram, and per‑model averages with **95% confidence intervals**, plus lists of outliers (too short/long). Use these to check that models aren’t gaining from padding or being penalized for minor over‑runs.
+* **Correlation checks.** We also examine whether length correlates with score overall and by grader.
+
+![Word count distribution by model](images/word_count_distribution_by_model.png)
+![Length vs score (overall)](images/len_vs_score_overall_enhanced.png)
+![Length vs score (by grader)](images/len_vs_score_grader_enhanced.png)
+ 
+
+---
+
+## Normalized (z‑scored) perspective
+
+Because graders use slightly different scales, we also show a **normalized view** where each grader’s scores are z‑scored before aggregation. This helps confirm that top models remain strong even after “leniency” differences are removed. The normalized **Grader × LLM** heatmap on this page uses that approach.
+
+### Normalized distributions
+
+![Normalized scores strip chart](images/normalized_scores_strip_zoomed.png)
+
+### Normalized leaderboard
+
+![Normalized leaderboard](images/normalized_leaderboard.png)
+
+---
+
+## Ablation: Q1–Q8 vs 9A–9J
+
+Correlation between craft (Q1–Q8) and element fit (9A–9J) is high across graders and models.
+
+- Overall correlation: 0.836 (N = 47,600) — from `data/question_range_correlation.csv` (overall row).
+- Per‑grader × model correlations are included in the correlation report.
+- Complementary element‑only view: ![9A–9J](images/llm_overall_bar_zoomed_9Ato9J.png)
+
+---
 
 
-The old grading LLMs were:
-1. GPT-4o
-2. Claude 3.5 Sonnet 2024-10-22
-3. LLama 3.1 405B
-4. DeepSeek V3
-5. Grok 2 12-12
-6. Gemini 1.5 Pro (Sept)
+## What’s new in V3
+
+* **Required elements pipeline:** moved from fewer, randomly selected elements (no "None" allowed) to a curated, ten‑category catalog with large, diverse pools and an LLM proposer→rater selection process; at most one category may be explicitly set to **None** when that improves coherence.
+* **Rubric expansion:** grew from 7 craft items to an **18‑question rubric** (8 craft + 10 element‑fit), with clearer, more granular definitions; Q7 and Q8 now separate voice/POV from prose quality.
+* **Story length:** increased from 400–500 words to a strict **600–800** window with upfront enforcement and compliance dashboards. Enforcement is applied at prompt level and in pre‑grading extraction, with compliance dashboards and optional cleanup tools; it is not a hard inclusion gate during aggregation unless you apply the cleanup step.
+* **Aggregation change:** replaced simple averages with a **power mean (Hölder mean, p = 0.5)** and 60/40 weighting (Q1–Q8 vs. 9A–9J) to reward balanced performance and penalize weak dimensions more.
+* **Grader refresh:** upgraded the grader set—previously: GPT‑4o Mar 2025, Claude 3.7 Sonnet, Llama 4 Maverick, DeepSeek V3‑0324, Grok 3 Beta (no reasoning), Gemini 2.5 Pro Exp, Qwen 3 235B; now: Claude Opus 4.1 (no reasoning), DeepSeek V3.1 Reasoner, Gemini 2.5 Pro, GPT‑5 (low reasoning), Grok 4, Kimi K2, Qwen 3 235B A22B 25‑07 Think.
+* **Model set additions:** added Kimi K2‑0905, Qwen 3 Max Preview, Mistral Medium 3.1, Claude Opus 4.1 (no reasoning), DeepSeek V3.1 Reasoner, and DeepSeek V3.1 Non‑Think to the evaluated models.
+* **New analyses:** added head‑to‑head A‑vs‑B comparisons, model‑level style summaries, and intra‑model style diversity analysis (previously none).
+* **Agreement views:** expanded beyond only grader‑grader correlations to include Grader×LLM mean and normalized matrices, story‑level disagreement tables, and leave‑one‑grader‑out robustness checks.
+* **Optional grader weighting:** available for users who prefer grader‑reliability‑weighted summaries.
+
+---
+
+## Limitations
+
+* This quality benchmark grades stories **individually**. Collection‑level style diversity is analyzed separately in the companion study “Mapping LLM Style and Range in Flash Fiction.” See the link below for within‑model range results.
+* LLM graders are consistent, but they remain automated judges. We publish multiple views (overall means, question breakdowns, #1 finishes, agreement checks) to keep interpretations grounded.
+* Hard length limits test precise compliance, which is useful here, but they are not a claim about ideal length for fiction.
 
 ---
 ## Details
 Full range of scores:
 
-![Full range](/images/llm_overall_bar_start0_with_err.png)
+![Full range](images/llm_overall_bar_start0_with_err.png)
 
 ---
-## Limitations
 
-It's important to note that each story is graded individually rather than as part of a collection. Consequently, LLMs may exhibit repetitive creative patterns, such as recurring plot devices, themes, or character archetypes across different stories. Future assessments will include criteria evaluating originality and variety.
+
+## Related work
+
+If you want a deeper look at **style and diversity** (stylometry, cluster maps, and within‑model diversity scored as a collection), see the companion study: **[https://github.com/lechmazur/writing\_styles](https://github.com/lechmazur/writing_styles)**.
 
 ---
+
+## Archive (Previous Version)
+
+For the prior edition’s full leaderboard and the list of “old” grader LLMs, see: `v2/README.md`
+
 
 ## Other multi-agent benchmarks
+- [PACT - Benchmarking LLM negotiation skill in multi-round buyer-seller bargaining](https://github.com/lechmazur/pact)
 - [BAZAAR - Evaluating LLMs in Economic Decision-Making within a Competitive Simulated Market](https://github.com/lechmazur/bazaar)
 - [Public Goods Game (PGG) Benchmark: Contribute & Punish](https://github.com/lechmazur/pgg_bench/)
 - [Elimination Game: Social Reasoning and Deception in Multi-Agent LLMs](https://github.com/lechmazur/elimination_game/)
@@ -479,27 +490,8 @@ It's important to note that each story is graded individually rather than as par
 - [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
 ---
 
+
 ## Updates 
-- Aug 8, 2025: gpt-oss-120b added.
-- Aug 7, 2025: GPT-5, Claude Opus 4.1 added.
-- Aug 1, 2025: Qwen 3 235B A22B 25-07 Thinking, GLM-4.5 added.
-- July 14, 2025: Kimi K2, Baidu Ernie 4.5 300B A47B added.
-- July 10, 2025: Grok 4 added.
-- June 11, 2025: o3-pro added.
-- June 5, 2025: Gemini 2.5 Pro Preview 06-05 added.
-- May 29, 2025: DeepSeek R1 05/28 added.
-- May 23, 2025: Claude 4 added.
-- May 8, 2025: Gemini 2.5 Pro Preview 05-06 and Mistral Medium 3 added.
-- May 1, 2025: Qwen 3 models added. Qwen 3 235B added as a grader.
-- Apr 24, 2025: Major update: grader LLMs replaced with newer versions, additional specific grading criteria, 0.1 grading granularity, summaries. Added: o3, o4-mini, Gemini 2.5 Flash Preview 16K.
-- Apr 11, 2025: Grok 3 added.
-- Apr 6, 2025: Llama 4 Maverick added. Some older models excluded from charts.
-- Mar 28, 2025: GPT-4o March 2025 added.
-- Mar 26, 2025: Gemini 2.5 Pro Exp 03-25, DeepSeek V3-0324, o3-mini-high added.
-- Mar 13, 2025: Gemma 3 27B added.
-- Mar 10, 2025: Qwen QwQ-32B added.
-- Feb 26, 2025: GPT-4.5 Preview added.
-- Feb 25, 2025: Claude 3.7 Sonnet, Claude 3.7 Sonnet Thinking, GPT-4o Feb 2025, GPT-4o 2024-11-20, Gemini 2.0 Pro Exp 02-05 added.
-- Feb 1, 2025: o3-mini (medium reasoning effort) added.
-- Jan 31, 2025: DeepSeek R1, o1, Gemini 2.0 Flash Thinking Exp 01-21, Microsoft Phi-4, Amazon Nova Pro added.
+- Sep 9, 2025: Major new version of the benchmark: V3. See the section "What’s new in V3"
+
 - Follow [@lechmazur](https://x.com/LechMazur) on X for other upcoming benchmarks and more.

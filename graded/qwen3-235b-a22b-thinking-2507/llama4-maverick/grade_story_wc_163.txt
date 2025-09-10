@@ -1,0 +1,19 @@
+grade_story_wc_163.txt
+<question>1</question><grade>5.8</grade><comment>Zero interior contradiction; motivation ("rhythm of belonging") remains abstract and untested by stakes. Diagnostic label-speak ("captivate the essence") triggers -0.5 penalty without embodied cost. Flawless execution lacks flaws that compound choices.</comment>
+<question>2</question><grade>5.6</grade><comment>Orientation Test failure: no spatial anchors or character motivation by 120 words. Closure lacks legible cost; "achievement" is declared without on-page forfeiture or reconfiguration. Accumulative lens fails as density increase doesn't reweight stakes.</comment>
+<question>3</question><grade>6.3</grade><comment>Bioluminescent organisms create vivid atmosphere but don't constrain choices. "Burnt feather" appears static despite reappearance. Cap at 7.0 from Q2 orientation penalty prevents higher score despite sensory specificity.</comment>
+<question>4</question><grade>4.9</grade><comment>Dominant stake ("rhythm of belonging") remains abstract with no concrete test. Pressure never tightens; dawn's arrival changes nothing. "Until sunrise" timeframe exerts zero tactical pressure despite explicit mention.</comment>
+<question>5</question><grade>5.2</grade><comment>Theme ("shadowseam wonder") stated repeatedly without earned resonance. Final paragraph moralizes ("testament to the power") triggering -0.7 penalty. No non-literal answer to central question emerges from concrete action.</comment>
+<question>6</question><grade>6.7</grade><comment>Distinct lyrical voice but "shadowseam wonder" repetition creates artificial rhythm. Perceptual signature lacks character-specific bias; every detail serves theme, not astrologer's expertise. No dialogue to evaluate.</comment>
+<question>7</question><grade>5.4</grade><comment>Severe paraphrase loops: "luminous respite" (3x), "shadowseam wonder" (4x). Template cadence ("As [time]...") dominates final third. Filter-verb stacks ("began to sense," "started to shift") dull immediacy in high-pressure beats.</comment>
+<question>8</question><grade>6.1</grade><comment>"Landscape astrologer" trope transformed via underwater setting but lacks emotional specificity. "Burnt feather" provides one fresh inflection yet remains ornamental. Derivative premise ("forgotten facility") not sufficiently personalized to pass Derivative Premise Guardrail.</comment>
+<question>9 A</question><grade>3.7</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>2.1</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>3.9</grade>
+<question>9 F</question><grade>0.3</grade>
+<question>9 G</question><grade>4.6</grade>
+<question>9 H</question><grade>2.8</grade>
+<question>9 I</question><grade>3.4</grade>
+<question>9 J</question><grade>5.0</grade>

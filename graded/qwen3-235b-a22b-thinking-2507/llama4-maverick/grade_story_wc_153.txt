@@ -1,0 +1,19 @@
+grade_story_wc_153.txt
+<question>1</question><grade>7.8</grade><comment>Interior contradiction (calming/unnerving presence) and embodied emotion (weight of unspoken apologies) strong, but micro-choices under pressure lack specificity; the critical "moment before deciding" remains abstract rather than revealed through concrete action.</comment>
+<question>2</question><grade>7.8</grade><comment>Closure (Charged Poise at the dual reflection) lands with felt cost ("weight lifting"), but the Accumulative/Textural drive lens isn't solidified until the clearing scene (~350 words), risking mid-point ambiguity per guardrails.</comment>
+<question>3</question><grade>8.7</grade><comment>Mangrove labyrinth functions as micro-setting: luminescent fungi guide movement, condensation on the windowpane charges the final image, and moonlight directly enables the healing attribute's thematic resonance with the closure.</comment>
+<question>4</question><grade>7.6</grade><comment>Dominant stake (resolving unsent letters' sorrow) tightens via sensory density (spirits' crescendo), but escalation lacks protagonist agency; Aria observes rather than actively narrows options, missing the Band guardrail for 8.0+.</comment>
+<question>5</question><grade>8.3</grade><comment>Theme emerges through concrete particulars (unsent letters as "space where an apology waits unspoken"), but final paragraph's "testament to the power of evocation" edges toward thematic echo, narrowly avoiding Q5 penalty.</comment>
+<question>6</question><grade>8.5</grade><comment>Distinct perceptual signature ("primordial aroma that resonated deeply within Aria") and rhythmic control under pressure; elision of letter authors' identities taught early and paid off in the manifestation scene.</comment>
+<question>7</question><grade>7.6</grade><comment>Strong textural specificity ("dappled shadows on the water"), but paraphrase loop ("messages began to appear... Aria's eyes scanned the messages") and abstract label-speak ("weight of unspoken apologies") trigger -0.6 artifact penalty in high-pressure beat.</comment>
+<question>8</question><grade>8.1</grade><comment>Fresh synthesis of mangrove spirits with unsent letters avoids trope; "fierce tenderness" tone modulates organically. Lacks one bold risk (e.g., deeper exploration of the healing attribute's curse) for 8.5+.</comment>
+<question>9 A</question><grade>7.9</grade>
+<question>9 B</question><grade>8.3</grade>
+<question>9 C</question><grade>8.8</grade>
+<question>9 D</question><grade>3.4</grade>
+<question>9 E</question><grade>7.6</grade>
+<question>9 F</question><grade>6.1</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>5.2</question>
+<question>9 I</question><grade>6.7</question>
+<question>9 J</question><grade>8.7</grade>

@@ -1,0 +1,38 @@
+Your future task will be to create a short story that is as coherent as possible and integrates the required narrative elements.
+In this step, for **each** category below you are given **ten** candidate elements **plus the literal option “None.”** 
+
+* Choose **exactly one** element from each category.
+* Across all categories you may choose ‘None’ for only one category.  
+  (If you pick “None” for a category, you will have no constraints about this element in your story.  All other categories must use one of their ten elements.)
+
+Every chosen element should shape the narrative arc, enrich the setting, deepen character motives, and strengthen the theme. Opt for surprising,
+imaginative combinations rather than easy or clichéd ones, but think deeply about how they will coherently fit together. Your story will need to be original and authentic, not cliché. 
+Choose elements that best fit together and will allow you to create the best possible story.
+
+---
+
+Character candidates: {character_options} | None  
+Object candidates: {object_options} | None  
+Core Concept candidates: {core_concept_options} | None  
+Attribute candidates: {attribute_options} | None  
+Action candidates: {action_options} | None  
+Method candidates: {method_options} | None  
+Setting candidates: {setting_options} | None  
+Timeframe candidates: {timeframe_options} | None  
+Motivation candidates: {motivation_options} | None  
+Tone candidates: {tone_options} | None  
+
+---
+Explicitly state your chosen element for each category. If you pick "None" for a category, state "[Category Name]: None". Output nothing except the chosen elements for each category. List the categories in the exact order shown.
+
+### Expected Output Format:
+Character: The last librarian
+Object: A self-writing diary
+Core Concept: None
+Attribute: Obsessive
+Action: To hide a secret
+Method: Using misdirection
+Setting: A library that rearranges itself
+Timeframe: The final hour before an event
+Motivation: To protect a legacy
+Tone: Mysterious

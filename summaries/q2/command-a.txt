@@ -1,0 +1,79 @@
+command-a.txt
+**Fiction Editorial Brief – Plot, Structure & Causality (Q2, 600–800 word stories)**
+
+---
+
+**1) Executive Insight**
+
+Across this year’s stories, the dominant structural strategy is Accumulative/Textural (Track A Default), favoring atmospheric or motif-based escalation over hard causal turns. A robust minority employ Causal designs, while a smaller but not insignificant group use hybrid or Situational/Mosaic patterns. In all tracks, the central imperative is for closure—whether Decisive Change, Resonant Reconfiguration, Earned Stasis, or Conceptual Repricing—to land swiftly and legibly *on the page*, with a visible or at least palpable cost. The stories most viscerally move the reader because their structure accumulates or drives pressure until a final image or act crystallizes, forcing a reweighting of meaning, stakes, or identity. This closure may be conceptual or emotional, but across high-performers, it is purchased at a recognizable price: a sacrifice, a foreclosed path, an exhausted resource, a risk finally taken. Track B mosaics or occasional multi-POV/section-break (Track C) exceptions are fully successful when their segmentation is taught by ~25%, transitions are smooth, and their lens and closure cohere. Patterns and structure matter beyond flow—they are the engine of consequence, tying meaning to cost.
+
+---
+
+**2) Strength Profile**
+
+- **Closure lands on-page with cost:** In strong stories, the final moment is charged with undeniable transformation. *E.g.:* “the butterfly's manifestation as a Resonant Reconfiguration with visible transformation cost” (0.txt); “Elara reframes broken trust as beautiful rather than traumatic… ‘resonant ache that echoed through her entire being’” (105.txt).
+- **Effective pressure accumulation:** Top stories layer sensory, emotional, or thematic motifs so that each micro-turn deepens or tightens options, making closure inevitable. *E.g.:* “pattern density increases until the final image crystallizes” (Kimi 0.txt).
+- **Consistent drive lens:** The inferred structure is taught early and relentlessly honored through the ending. *E.g.:* “causal chain (package → lens hunt → reassembly → signal) holds” (Kimi 100.txt); “The inferred Accumulative/Textural lens holds throughout, with pressure escalating through a decisive cadence shift” (DeepSeek 189.txt).
+- **Orientation anchors are generally strong:** Most pieces establish who/where/when by 120 words (unless deliberate disorientation is thematically strategic and later paid at closure).
+- **Pivotal, pattern-breaking moments:** Even quiet stories find the right beat to “break” or tighten the pattern, producing a resonance or reconfiguration. *E.g.:* “The pattern of collecting absences and how the forge imprints memories into existence remain vague, weakening causal clarity at the crucial transformation moment” (105.txt) signals when this is done well and when not.
+
+---
+
+**3) Weakness Profile**
+
+- **Closure without legible cost:** A recurring shortfall is “closure” that is merely conceptual, atmospheric, or asserted, rather than felt or shown. Readers repeatedly note: “the closure lacks visible on-page cost—Elara completes her mural and finds peace without sacrificing anything concrete” (209.txt), or “we see fulfillment but not what was sacrificed” (42.txt).
+- **Escalation stalls or is frictionless:** Too many plots proceed linearly or accumulate texture without meaningful narrowing of options, resistance, or pattern break. “The quest proceeds without a setback or narrowing that exacts a price” (84.txt); “Closure’s cost is more conceptual than felt” (229.txt).
+- **Orientation or lens ambiguity:** A modest percentage fail to clarify anchoring or structure early, or introduce pattern/lens shifts late, resulting in -0.3/0.4 penalties (“Lens ambiguity past midpoint not taught by closure…”). Occasionally, orientation is missing, or the text relies on summary/exposition rather than on-page scene.
+- **Resolution by coincidence or magical convenience:** Plots that resolve through sudden discoveries (“the slide provides perfect guidance...without real obstacle or setback” – Gemini 208.txt), or “the walls shifting” without causal justification, undercut earned closure. Such leaps soften the felt cost and break immersion.
+- **Cost declared, not dramatized:** Many stories declare an emotional or philosophical “weight” or cost without showing concrete stakes or a foreclosed choice. “Closure is a conceptual repricing—but the cost is muted, more felt than dramatized” (Gemini 279.txt).
+
+---
+
+**4) Performance Boundaries**
+
+This mode excels when pressure—motif, image, action, or idea—accumulates, then meaningfully breaks or contracts, extracting a legible, felt cost that reconfigures what went before. Even soft, lyric, or accumulative designs must enact sacrifice or foreclosed possibility within the single-scene (or two-shard) window. Performance collapses when stories substitute atmosphere for consequence, use summary to stand in for turning-point decisions, or when the “closure” asserts, rather than earns, its resonance. The move from promise to payoff must be dramatized, not merely notated.
+
+---
+
+**5) Signature Moves and Blind Spots**
+
+**Signature Moves**
+- Textural pressure and images mapped onto character stakes.
+- Poetic, evocative closures that often reweight the narrative's original dilemma.
+- Lens (drive mode) is nearly always taught in opening lines and rarely wavers.
+- Sacrifice or endurance is often signaled in final, strong sensory/emotional images.
+- Closure effects (Charged Poise, Earned Stasis, CR) frequently delivered with authority.
+
+**Blind Spots**
+- Mechanical convenience or sudden “magical” solutions at climax.
+- Insufficient resistance, pattern break, or tightening in linear builds.
+- Closure “cost” posited as abstract feeling or lesson, rather than dramatized on the page.
+- Occasional late or diffuse orientation (who/where/when), especially in more experimental or accumulative designs.
+- Lens ambiguity past midpoint or a switch not fully taught, limiting reward for strong resonance.
+
+---
+
+**6) High-Band (8.8+) Signals**
+
+- **Closure is unmistakably on the page with legible cost:** Not just declared, but shown in irrevocable sacrifice, risk, or foregone path. *E.g.:* “the butterfly's emergence reweights the premise with undeniable conceptual cost, no ambiguity” (Qwen 0.txt); “The rope's placement (abandoning his lifeline/past)” (Claude 125.txt).
+- **Pattern escalation and break are clean, with tight, purposeful pressure:** Each motif or narrative beat accumulates risk or possibility, then is broken or reconfigured for closure. “Single meaningful cadence shift is sufficient for this length; pattern-teaching is purposeful and effective” (DeepSeek 296.txt).
+- **Lens (drive mode) remains unambiguous and consistent through closure:** No “what story am I reading?” confusion past midpoint; ending confirms and completes the taught pattern.
+
+---
+
+**7) Revision Levers and Keepers**
+
+**Keep:**  
+1. On-page, dramatized closures that enact (not just state) a price or lost option.
+2. Pattern/motif-driven escalation that tightens around protagonist choice, not just ambiance.
+3. Consistent early orientation, with lens/drive taught before midpoint.
+
+**Change:**  
+1. Replace closure assertions (“she felt lighter,” “the work was far from over”) with on-page sacrifice, risk, or visible narrowed options—ask what is given up, risked, or lost at the crux.
+2. Scrutinize convenience or magic-rescue plotting—pressure should arise from character choice or earned situation, not perfect fits, sudden helpers, or coincidental clues at the perfect time.
+3. If in an accumulative or mosaic design, ensure at least one meaningful tightening or break *on the page*—clarify what raises pressure and crystallizes before the ending’s poise.
+
+---
+
+**In sum:**  
+High-functioning stories teach and honor their drive mode from the outset, escalate pressure (pattern, decision, risk), and anchor closure in a clear, dramatized cost. Conceptual or emotional closure alone, without felt price, is insufficient. Let the final image, gesture, or decision not just summarize, but *concretely charge* the journey with consequence.

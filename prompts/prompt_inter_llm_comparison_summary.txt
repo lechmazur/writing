@@ -1,0 +1,31 @@
+You are a senior fiction editor. Synthesize the following pairwise A-vs-B comparisons into an overall analysis of how the two writer LLMs differ under the SAME required elements, clearly separating rubric‑aligned differences (Q1–Q8 + 9A–J) from beyond‑rubric insights.
+
+Writers
+- A (short key): <<<LLM_A_SHORT>>>
+- B (short key): <<<LLM_B_SHORT>>>
+
+Evidence
+The blocks below are per‑story comparison outputs produced by a judge model using a strict structure. Treat them as evidence. Do not quote excessively; prefer patterns and frequencies over anecdotes.
+
+--- BEGIN PAIRWISE FINDINGS ---
+<<<PAIRWISE_FINDINGS>>>
+--- END PAIRWISE FINDINGS ---
+
+Instructions
+- Weight recurring patterns more than one‑off notes. Keep claims falsifiable and observable on the page.
+- For rubric sections, align to Q1–Q8 craft axes and 9A–J element integration. For beyond‑rubric, include only meaningful distinctions not directly graded.
+- Do not mention graders, models, or scores.
+
+Output format (use exactly these section headings; concise prose + bullets)
+RUBRIC‑ALIGNED OVERVIEW (1 short paragraph)
+RUBRIC: A ADVANTAGES (5–9 bullets)
+RUBRIC: B ADVANTAGES (5–9 bullets)
+RUBRIC: SHARED STRENGTHS (3–6 bullets)
+RUBRIC: FAILURE MODES (4–7 bullets; specify which model each applies to more)
+BEYOND‑RUBRIC INSIGHTS (1 short paragraph)
+BEYOND: DISTINCTIVES FOR A (3–6 bullets)
+BEYOND: DISTINCTIVES FOR B (3–6 bullets)
+BOUNDARIES (When A/B does better; 2–3 bullets per model)
+RECOMMENDATIONS FOR A (3–5 bullets)
+RECOMMENDATIONS FOR B (3–5 bullets)
+FINAL VERDICT (1 sentence)

@@ -1,0 +1,29 @@
+grade_story_wc_81.txt
+I'll evaluate this story as a demanding editor at a prestigious literary publication, applying the rubric systematically.
+
+<question>1</question><grade>6.2</grade><comment>Mara's methodical precision and scholarly dedication are consistently rendered through concrete actions (pressing stamps, cross-referencing charts), though her internal life remains somewhat thin. The final choice to present evidence to the council demonstrates agency, but the emotional stakes of her discovery lack visceral weight—she's more archival function than conflicted human.</comment>
+
+<question>2</question><grade>5.8</grade><comment>The story follows a clear causal chain (discovery → hypothesis → validation → action) but the closure lacks visible cost—Mara simply emerges successful without sacrifice or transformation. The revelation about architects deliberately sinking the city to protect knowledge arrives without sufficient setup, feeling more like convenient resolution than earned discovery.</comment>
+
+<question>3</question><grade>6.4</grade><comment>The submerged library setting effectively constrains action through water damage, blackouts, and tidal currents that become plot-relevant power sources. Sensory details like "water-worn marble," "amber glow," and "mournful sigh" of parchment create atmosphere, though the vault discovery feels spatially vague.</comment>
+
+<question>4</question><grade>5.2</grade><comment>The dominant stake—uncovering the city's true history—progresses steadily but without meaningful opposition or cost. The "alternative hypothesis" provides intellectual tension but no visceral pressure; Mara never faces a moment where she must choose between competing values or pay a price for her discovery.</comment>
+
+<question>5</question><grade>5.6</grade><comment>The theme of hidden knowledge and sacrificial preservation emerges through plot events rather than explicit statement, with the antique stamp becoming a symbol of continuity. However, the thematic resonance remains surface-level—the story doesn't interrogate what makes knowledge worth drowning a city for or what Mara sacrifices to preserve truth.</comment>
+
+<question>6</question><grade>5.4</grade><comment>The prose maintains consistent third-person limited perspective with appropriate academic register for Mara's scholarly mindset. However, repetitive phrasing ("reclaimed stillness" appears 5 times, "dappled resolve" 3 times, "antique ink stamp" 8 times) creates mechanical echo rather than purposeful pattern, and filter-heavy constructions dull immediacy.</comment>
+
+<question>7</question><grade>4.8</grade><comment>Severe repetition issues damage momentum: "antique ink stamp" (8x), "reclaimed stillness" (5x), "dappled resolve" (3x), "logical page indexer" (4x) create loops rather than resonance. Template cadence pervades ("She + verb" constructions dominate), and paraphrase loops appear throughout (the stamp's function is restated multiple times without advancement).</comment>
+
+<question>8</question><grade>5.2</grade><comment>The sunken library concept offers atmospheric potential, but execution remains generic—a scholar discovers hidden truth through patient research. The twist about deliberate flooding lacks groundwork and arrives as convenient explanation rather than earned revelation; no specific detail transforms the familiar "lost knowledge" template.</comment>
+
+<question>9 A</question><grade>7.2</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>6.1</grade>
+<question>9 D</question><grade>5.8</grade>
+<question>9 E</question><grade>4.2</grade>
+<question>9 F</question><grade>6.4</grade>
+<question>9 G</question><grade>7.6</grade>
+<question>9 H</question><grade>5.3</grade>
+<question>9 I</question><grade>6.8</grade>
+<question>9 J</question><grade>4.6</grade>

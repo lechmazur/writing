@@ -1,0 +1,50 @@
+You are an evaluator. Compare two short stories for stylistic difference (not quality). Higher numbers mean the styles are more different.
+
+STORY A:
+<<<STORY_A>>>
+
+STORY B:
+<<<STORY_B>>>
+
+REQUIRED ELEMENTS A (context only; do not reward or punish overlap):
+<<<ELEMENTS_A>>>
+
+REQUIRED ELEMENTS B (context only; do not reward or punish overlap):
+<<<ELEMENTS_B>>>
+
+Evaluation focus
+- Judge style and narrative execution, not plot content or named entities.
+- Before scoring, mentally mask names, titles, places, brands, and prompt-driven nouns (treat them as PERSON, PLACE, OBJECT, etc.). Ignore overlap caused by the required elements lists.
+- Compare these dimensions:
+  1) Voice & diction: register, formality, idiom, figurative density, use of fragments, directness versus ornament.
+  2) Sentence rhythm & syntax mix: average length, clause stacking, punctuation habits, patterning of simple/compound/complex sentences.
+  3) POV stance & distance: person, tense stability, interiority versus exteriority, narrator presence.
+  4) Structure & pacing: paragraphing, beat size, escalation profile, scene versus summary ratio, use of white space.
+  5) Tone & mood: emotional palette and steadiness, irony versus sincerity, levity versus gravity.
+  6) Imagery & motifs: sensory channel balance, repeated images, metaphoric frames.
+  7) Closure lens: type of ending (resolved, open, reflective, twist, moralizing), the final move and its distance from the opening.
+
+Scale (0.0–10.0, exactly one decimal; higher = more different)
+- 0.0–1.0: Indistinguishable cadence and stance after masking; same closure shape.
+- 2.0–3.0: Very close in most dimensions with small habitual differences.
+- 4.5–5.5: Moderately different overall with clear contrasts in a few dimensions.
+- 7.0–8.0: Strongly different in several core signatures (voice, rhythm, structure, tone).
+- 9.0–10.0: Clearly distinct across voice, cadence, POV stance, structure/pacing, tone, and closure form.
+
+Scoring protocol
+- Score each dimension precisely to one decimal. Do not judge correctness or quality.
+- Normalize for length: do not reward or punish mere word count differences; look at proportional patterns.
+- Set <similarity_overall> to the rounded mean of the five style axes that best summarize difference: voice_style, structure_pacing, tone_mood, imagery_motifs, closure_lens.
+- If styles are effectively the same after masking, set indistinguishable=1 and keep all scores in the 0.0–1.0 range.
+- Only set format_error=1 if something prevents reliable scoring (e.g., one story is empty or obviously malformed).
+
+Output format
+- Output exactly these tags, one per line. Numbers must have one decimal. Do not include any other text.
+<similarity_overall></similarity_overall>
+<voice_style></voice_style>
+<structure_pacing></structure_pacing>
+<tone_mood></tone_mood>
+<imagery_motifs></imagery_motifs>
+<closure_lens></closure_lens>
+<flags>format_error=0,indistinguishable=0</flags>
+<rationale>2–4 sentences that justify the scores in terms of style only. Refer to voice, rhythm, structure, tone, imagery, and closure. Do not summarize the plot or name characters.</rationale>

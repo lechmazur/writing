@@ -1,0 +1,19 @@
+grade_story_wc_174.txt
+<question>1</question><grade>5.8</grade><comment>Label-only emotions ("frayed nerves," "creative juices") lack embodied contradiction; motivation to "explore ethics" remains abstract with no concrete stakes or cost. Static character arc shows no meaningful change or endurance under pressure.</comment>
+<question>2</question><grade>4.1</grade><comment>Closure fails: no Decisive Change or Resonant Reconfiguration—ending asserts future "journey" without on-page cost. Orientation Test penalty: vague argument backstory obscures stakes past 120 words, capping Q3 at 7.0.</comment>
+<question>3</question><grade>6.3</grade><comment>Vivid dome descriptions but function as postcard scenery; "meteor hush" label repeats without sensory integration. Micro-setting (story stick) never constrains choices or charges closure, missing Q3 9+ gate.</comment>
+<question>4</question><grade>3.9</grade><comment>Zero escalation: "heated argument" backstory dissolves instantly into serenity with no pressure. Stakes ("ethics of storytelling") remain abstract, never tested through concrete choices or trade-offs.</comment>
+<question>5</question><grade>3.2</grade><comment>Thematic Echo anti-pattern: final paragraph states "mission to explore ethics" as weight she "feels," triggering -0.7 penalty. Theme asserted via abstraction without earned resonance through particulars.</comment>
+<question>6</question><grade>6.7</grade><comment>Stable POV but voice lacks perceptual signature; rhythmic monotony in "As she..., Amaranth felt..." cadence. Strength: consistent atmospheric tone avoids head-hopping.</comment>
+<question>7</question><grade>4.5</grade><comment>Severe line-level artifacts: template cadence ("began to soothe," "began to craft"), synonym churn ("serene calm"/"uncommonly serene"), and filter-verb stacks in final paragraph dull closure impact.</comment>
+<question>8</question><grade>5.0</grade><comment>Derivative premise: "artist finds inspiration in isolated place" uses writing-template tropes without transformation. Radar dome swap for lighthouse wouldn't alter logic, failing freshness test.</comment>
+<question>9 A</question><grade>3.4</grade>
+<question>9 B</question><grade>2.8</grade>
+<question>9 C</question><grade>2.8</grade>
+<question>9 D</question><grade>3.8</grade>
+<question>9 E</question><grade>3.8</grade>
+<question>9 F</question><grade>3.0</grade>
+<question>9 G</question><grade>3.4</grade>
+<question>9 H</question><grade>3.4</grade>
+<question>9 I</question><grade>3.4</grade>
+<question>9 J</question><grade>3.4</grade>

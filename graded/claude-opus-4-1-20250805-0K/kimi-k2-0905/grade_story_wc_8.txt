@@ -1,0 +1,27 @@
+grade_story_wc_8.txt
+<question>1</question><grade>7.8</grade><comment>Elara's motivation is clear and consistent, driven by her discovery of historical deception. The phrase "emotionally rational" appears twice but functions more as a label than embodied trait—she makes calculated choices under pressure but we don't see the emotional/rational tension play out viscerally. Her final choice to expose truth despite personal cost ("pedestals her family once decorated") shows genuine stakes, though the internal conflict could be more contradictory in scene.</comment>
+
+<question>2</question><grade>8.2</grade><comment>The story follows a clear causal drive with Elara retrieving the letter and escaping with it. The closure lands as Resonant Reconfiguration—she walks toward a future where "truth, though slower, traveled farther than noble lies" with visible cost to her family's legacy. The piece anchors who/where/when early and maintains causality throughout, though the watchman's arrival feels slightly convenient.</comment>
+
+<question>3</question><grade>7.6</grade><comment>The railway station setting effectively constrains choices (tile location, escape routes, semaphore arm) and the ivy/rosebush imagery bookends the piece. Spatial choreography during the escape is clear. The setting doesn't quite reach higher bands because while atmospheric, it could be another abandoned building without fundamentally altering the story's mechanics.</comment>
+
+<question>4</question><grade>7.4</grade><comment>The dominant stake—exposing historical lies versus preserving false comfort—is signaled early and maintained. Pressure tightens when the watchman appears, forcing Elara to choose between confrontation and escape. The cost is visible (family reputation, being "cursed") though the physical danger feels manageable rather than genuinely threatening.</comment>
+
+<question>5</question><grade>8.0</grade><comment>The theme of "noble lies" versus difficult truth emerges organically through Elara's actions and the illuminated letter's symbolism. The final image of the rosebush that "would bloom again" on a country "learning to distrust the beauty of convenient stories" resonates without stating a moral. Minor deduction for "rescue truth" appearing verbatim from the prompt.</comment>
+
+<question>6</question><grade>7.9</grade><comment>The third-person limited POV maintains consistent focalization through Elara with controlled psychic distance. Voice has distinct texture in phrases like "orange nets across the ivy" and "rails of sanctioned history." The "心跳" appears to be a generation artifact but doesn't break causality. Prose maintains literary register throughout.</comment>
+
+<question>7</question><grade>7.2</grade><comment>Generally clean prose with varied syntax and strong imagery ("moonlight on the vines gave enough silver"). The "心跳" artifact and some elevated diction ("sanctioned history," "obsolete dreams") occasionally feel overwrought. Information density is good but a few passages edge toward purple prose. No major loops or scaffolding detected.</comment>
+
+<question>8</question><grade>6.8</grade><comment>The concept of a historian stealing evidence of royal propaganda offers a solid angle on truth versus noble lies. The execution is competent but follows expected beats—the setting and situation feel somewhat derivative of historical thriller conventions. The specific detail of the illuminated letter and its gold/lapis construction adds texture but doesn't transform the familiar template.</comment>
+
+<question>9 A</question><grade>7.8</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>7.6</grade>
+<question>9 D</question><grade>3.8</grade>
+<question>9 E</question><grade>7.4</grade>
+<question>9 F</question><grade>4.2</grade>
+<question>9 G</question><grade>7.0</grade>
+<question>9 H</question><grade>6.8</grade>
+<question>9 I</question><grade>7.2</grade>
+<question>9 J</question><grade>N/A</grade>

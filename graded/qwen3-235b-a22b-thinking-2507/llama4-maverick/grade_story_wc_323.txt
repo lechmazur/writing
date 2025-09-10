@@ -1,0 +1,19 @@
+grade_story_wc_323.txt
+<question>1</question><grade>3.2</grade><comment>Label-only motivation ("deep-seated motivation to unravel mysteries") with no embodied conflict or micro-choices under pressure; "balancedly curious" triggers diagnostic label penalty; zero contradictory impulses despite high-stakes setting.</comment>
+<question>2</question><grade>2.8</grade><comment>Orientation Test failure: setting remains vague past 120 words without functional disorientation payoff; no discernible drive lens (neither causal nor accumulative pressure); closure lacks cost proof—Lyra’s pride forecloses no path.</comment>
+<question>3</question><grade>4.1</grade><comment>Generic "benthic city" backdrop lacks tactile specificity; anchor chain appears too late (past 40% mark) as static symbol without constraining choices; environmental details mirror internal states overtly ("darkness transformed to beacon").</comment>
+<question>4</question><grade>2.5</grade><comment>No dominant stake materializes—abstract "unraveling mysteries" never faces concrete test; zero escalation under any lens; telescopic stakes (cosmic exploration) contrast with passive observation, violating band guardrails.</comment>
+<question>5</question><grade>1.9</grade><comment>Thematic Echo violation: final paragraph sermonizes ("beacon of hope," "launchpad for exploration") replacing scene pressure; abstract "unfolded horizons" resolves into simplistic binary; no earned resonance beyond stated moral.</comment>
+<question>6</question><grade>3.7</grade><comment>Uniform tics ("Lyra’s eyes shone," "Lyra watched") flatten voice; filter-verb stacks ("Lyra’s thoughts turned," "Lyra’s gaze fell") dull immediacy; register drift into academic diction ("conceptual repricing" equivalent) during peak beats.</comment>
+<question>7</question><grade>2.3</grade><comment>Template cadence runs ("As she [verb], Lyra [verb]") across 8+ sentences; paraphrase loops ("darkness stretched like canvas... stars twinkled like diamonds"); stock metaphors in final third dull closure image, triggering -1.7 cap.</comment>
+<question>8</question><grade>3.0</grade><comment>Derivative underwater-city/alien-contact trope blend; "edge geometry" concept feels like checklist insertion without transformation; zero fresh inflection—emotional progression follows generic "darkness to hope" template.</comment>
+<question>9 A</question><grade>2.1</grade>
+<question>9 B</question><grade>3.4</grade>
+<question>9 C</question><grade>1.5</grade>
+<question>9 D</question><grade>0.1</grade>
+<question>9 E</question><grade>2.8</grade>
+<question>9 F</question><grade>0.6</grade>
+<question>9 G</question><grade>3.8</grade>
+<question>9 H</question><grade>2.9</grade>
+<question>9 I</question><grade>3.3</grade>
+<question>9 J</question><grade>4.6</grade>

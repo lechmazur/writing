@@ -1,0 +1,20 @@
+Create a {min_count}-{max_count}-word story that makes the most sense possible and integrates all narrative elements. Elements drive the plot naturally, not forced in as asides.
+
+---
+Instructions for your output:
+
+* The story MUST be enclosed in <story></story> tags. The story should make the most sense possible, 
+  and every single required element must be used. Each element should tightly fit into the story's logic, tone, and momentum. 
+  Each element should shape the narrative arc, enrich the setting, deepen character motives, and support the theme. If another element in the category was used, the story would be less cohesive or compelling. 
+* Among other factors, the story will be graded on Story Integration, Character Development & Motivation, Plot Structure & Coherence, World & Atmosphere, Storytelling Impact & Craft, Authenticity & Originality.
+* Write only plain-ASCII English.  
+* Enclose the **entire** story in <story>…</story> tags.  
+* After **every** sentence, immediately append the current cumulative word count wrapped in square brackets […]
+     _e.g._ The wizard laughed. [413]
+* Output nothing except the story (with word counts).
+* The final total count must be between **{min_count}** and **{max_count}** words.
+
+---
+Required narrative elements:
+{required_elements}
+

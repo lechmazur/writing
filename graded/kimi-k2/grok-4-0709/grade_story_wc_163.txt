@@ -1,0 +1,33 @@
+grade_story_wc_163.txt
+<question>1</question><grade>3.4</grade><comment>Elara’s interiority glides over logical steps—magic feather is clutched and instantly trusted, no inner conflict. Clear motivation “yearning to belong” is stated, yet never expressed via a concrete scene-level choice with visible trade-off. Endurance/renunciation never earns visible cost because the beat is summary, not dramatized.</comment>
+
+<question>2</question><grade>3.2</grade><comment>Closure ritual occurs, yet the causality is opaque; the guardians appear because the feather is placed, not through earned alignment. Drive lens reads as situational (pressure crystallizes belonging) but the “shared exhale” mechanics arrive unexplained. Missing orientation penalty applies—who can exhale underwater unnoticed?</comment>
+
+<question>3</question><grade>6.2</grade>
+<comment>Underwater archite­cture, bioluminescent residues, and pressure-suit logistics anchor each anchor-specific beat. Two distinct beats (floating observatory drift vs. luminal-swathed cavern) use the environment to constrain distance, access, and light angles—tight integration. Setting directly enables final ritual staging, charging closure.</comment>
+
+<question>4</question><grade>4.7</grade>
+<comment>Dominant stake—uncover “rhythm of belonging”—is signaled early but its escalation is generic. Pressure to connect with spirits is mainly atmospheric; no rising cost or narrowing options until the ritual appears. Guardian-light dance is charming yet resolves via soft communion rather than earned renunciation.</comment>
+
+<question>5</question><grade>5.8</grade>
+<comment>Theme traces belonging’s dissonance between star-walking nomad and anchored citizens, but subtext lapses into exposition: “finally felt like home.” The guardians’ luminous climax poetically reweights entombment as belonging without a conceptual price. No risk or ambiguity complicates the conclusion.</comment>
+
+<question>6</question><grade>6.5</grade>
+<comment>Vocabulary and syntax feel idiosyncratic (“softly ingenious runes”) within a lyric scientific POV, maintaining consistent bathypelagic diction. Metaphor tracks sustain motifs—but “shadowseam wonder” overused, causing slight code-switch drift. Dialogue lines stay internal; no spoken exchange to vary rhythm.</comment>
+
+<question>7</question><grade>7.1</grade>
+<comment>Lines advance atmosphere with strong cadence: “phosphorescence pulsed like breathing stars.” Occasional floating participles (“catching the light in fractal patterns”) add texture. Minor synonym churn reused (“luminous respite”, “glowing tranquility”) mildly dulls urgency.</comment>
+
+<question>8</question><grade>7.4</grade>
+<comment>Setting mash-up (astrology + drowned Atlantis) is non-obvious and supports an emergent “stars below the water” conceit. Charged echo transforms burnt-cinder feather into lit beacon, a fresh synthesis of archetype and science. Risked lyric mode justifies itself—no gimmicks, sustained specificity.</comment>
+
+<question>9 A</question><grade>5.2</grade>  <!-- landscape astrologer choices -->
+<question>9 B</question><grade>7.5</grade>  <!-- burnt feather -->
+<question>9 C</question><grade>6.4</grade>  <!-- luminous respite -->
+<question>9 D</question><grade>5.3</grade>  <!-- softly ingenious -->
+<question>9 E</question><grade>4.6</grade>  <!-- captivate -->
+<question>9 F</question><grade>2.1</grade>  <!-- shared exhale -->
+<question>9 G</question><grade>6.8</grade>  <!-- forgotten underwater city research facility -->
+<question>9 H</question><grade>3.7</grade>  <!-- until sunrise -->
+<question>9 I</question><grade>4.4</grade>  <!-- rhythm of belonging -->
+<question>9 J</question><grade>5.9</grade>  <!-- shadowseam wonder -->

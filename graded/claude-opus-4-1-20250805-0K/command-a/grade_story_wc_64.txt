@@ -1,0 +1,31 @@
+grade_story_wc_64.txt
+I'll evaluate this story as a demanding editor at a prestigious literary publication, applying the rubric strictly.
+
+**Drive Lens Inference:** Accumulative/Textural - the story builds through layered discovery and symbolic resonance rather than causal plot mechanics.
+
+<question>1</question><grade>5.8</grade><comment>Elias's motivation to "understand stories hidden in threads" is clear but generic. His internal state reads more as narrative assertion ("his mind alight with possibilities") than embodied experience. The character functions adequately but lacks contradictory impulses or genuine struggle - he proceeds smoothly from discovery to revelation without meaningful internal friction.</comment>
+
+<question>2</question><grade>5.2</grade><comment>The story achieves a Resonant Reconfiguration through the tapestry's emotional map connecting to cemetery lives, but the cost remains abstract ("a connection to the past that would forever shape his intentions"). The accumulative lens holds but the closure lacks visible price - Elias gains insight without losing anything concrete. Orientation is clear by ~120 words.</comment>
+
+<question>3</question><grade>6.4</grade><comment>The cobalt silo and cemetery setting create atmosphere effectively, with sensory details like "damp earth and forgotten stories." The silo's transformation from grain storage to reliquary sanctuary adds depth. However, the setting doesn't meaningfully constrain choices - Elias could decode the tapestry anywhere.</comment>
+
+<question>4</question><grade>4.8</grade><comment>Minimal escalation occurs - Elias discovers case, examines tapestry, decodes pattern, finds meaning. No meaningful tightening or deepening challenges his process. The chess clock "runs down" but creates no time pressure. The dominant stake (understanding hidden stories) faces no opposition or complication.</comment>
+
+<question>5</question><grade>5.6</grade><comment>The theme of "giving voice to the voiceless" emerges through the tapestry's emotional map and cemetery context. The concept of "uncharted echoes" manifests in the threads corresponding to moments in time. However, the thematic resolution feels tidy - "even in death, intentions endure" reads as stated moral rather than earned insight.</comment>
+
+<question>6</question><grade>5.9</grade><comment>Voice maintains consistency with controlled, literary prose ("velveteen gloom," "blithe cemetery gardener"). The perceptual signature shows Elias noticing historical details and emotional patterns. However, the register feels writerly rather than character-specific, lacking the texture of a cemetery gardener's particular way of seeing.</comment>
+
+<question>7</question><grade>5.4</grade><comment>Prose flows smoothly but suffers from abstract phrasing ("the weight of these uncharted echoes," "a piece of humanity") and repetitive structures. Multiple sentences begin with "The [noun]" creating template cadence. Information density is moderate - several passages restate rather than advance ("It spoke of a love so profound that it had outlived its origin, a story that deserved to be remembered").</comment>
+
+<question>8</question><grade>5.3</grade><comment>The premise of a cemetery gardener finding an emotional tapestry map offers modest freshness. The transformation of a grain silo into a reliquary adds specificity. However, the core concept (discovering hidden stories from the past) follows familiar patterns without distinctive inflection. The resolution feels safe and expected.</comment>
+
+<question>9 A</question><grade>6.2</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>6.8</grade>
+<question>9 D</question><grade>4.6</grade>
+<question>9 E</question><grade>7.2</grade>
+<question>9 F</question><grade>4.8</grade>
+<question>9 G</question><grade>5.4</grade>
+<question>9 H</question><grade>3.8</grade>
+<question>9 I</question><grade>6.6</grade>
+<question>9 J</question><grade>7.4</grade>

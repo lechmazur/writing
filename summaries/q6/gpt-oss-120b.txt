@@ -1,67 +1,98 @@
 gpt-oss-120b.txt
-Here’s a concise, tough-minded synthesis of the recurring observations, critiques, and strengths from the grader comments for Question 6—focused on the LLM’s performance writing stories under 500 words:
+**Q6 Editorial Brief: Voice & Point of View (600–800 word stories)**
 
 ---
 
-## Overarching Insights & Recurring Themes
+### 1) Executive Insight
 
-### 1. *Element Integration—Form vs. Substance*
-- **COHESION:** Nearly all stories manage to “integrate disparate elements into a cohesive whole.” However, true artistic integration is rare: elements often feel “stitched together,” “assembled,” or “checklisted” rather than organically emergent. Many stories read as “technical exercises...with the seams showing.”
-    - *Example*: “The story is a masterclass in cohesion...yet, it feels more like a brilliant technical exercise than a story that bleeds.”
-
-- **FREQUENT WEAKNESS:** Cohesion is too often “mechanical,” “reverse-engineered,” or “in service to the elements, not the other way around.” Even when stories are “remarkably cohesive,” it’s often with an intellectual or formulaic neatness that stifles the possibility for surprise or vitality.
-
-### 2. *Style—Poetic, Yet Distracting*
-- **STYLISTIC FLAIR:** The LLM’s “lyrical,” “poetic,” and “ornate” language is both an asset and a liability. Judges note a “consistent atmospheric or dreamlike tone” and find the language “occasionally achieves beauty.”
-    - *“The brevity works to create a crystalline, focused experience with lingering resonance.”*
-
-- **OVERWRITING & OPACITY:** This apparent strength becomes over-indulgence: “overwrought,” “overly ornate,” “purple,” or “ornamented” prose frequently “obscures” narrative clarity and “distance[s] the reader from authentic emotional connection.” There’s a chronic imbalance of surface poetry over specific, lived detail.
-
-### 3. *Narrative Drive & Emotional Impact—Lacking*
-- **CHECKLIST OVER CHARACTER:** Most stories handle plot and character minimally to make space for high-concept metaphysical or philosophical riffs. Even highly-praised entries are “emotionally sterile,” “hollow,” or “fail to linger.” Characters are “labels,” not people: “archetypes rather than individuals,” “ciphers,” or “sketches."
-    - *“The story reads more as a poetic meditation than a fully realized story with stakes and character development.”*
-
-- **PREDICTABILITY & SAFETY:** Conflict and stakes are sacrificed for tidy, abstract resolution—“neatness over messiness.” Many stories tidy themselves up with didactic, “stated” themes instead of earned transformation. “The brevity acts as a limitation, forcing plot over depth and leaving little that resonates beyond its cleverness.”
-
-### 4. *Conceptual & Thematic Ambition*
-- **THINKING BIG:** The LLM demonstrates “intellectual ambition,” “philosophical depth,” and a penchant for “mythic,” “existential,” or “allegorical” undertones.
-
-- **EXECUTION GAP:** This ambition often collapses into heavy-handed abstraction, with “themes explained not dramatized,” “a brittle conceptual scaffold,” and “poetic logic that occasionally feels contrived.” The work “gestures toward profundity without fully achieving it,” “more impressive in concept than in execution.”
-
-### 5. *Flash Fiction Form—Brevity: Blessing or Constraint?*
-- **BRIEF BY DESIGN?** The compressed length sometimes “feels deliberate,” focusing the stories to “impressionistic vignettes” or “snapshots.” Some pieces do make this a virtue, producing a “concentrated emotional experience.”
-    - *“The brevity works as a strength, creating a focused meditation on transformation.”*
-
-- **BRIEF BY NECESSITY:** More often, brevity “feels like a constraint,” forcing “surface-level” development and “rushed resolution,” with plots and characters invoked and discarded rapidly. Many stories “read like elegant pitches or summaries, not completed fiction.”
+For this Q6 cohort, the central pattern is a rigorous alignment between lyrical, often metaphor-infused prose and a consistently close, character-bound point of view. Nearly all stories operate within a single focalizer—mostly Track A, with rare and clean-forged Track B/C mosaics—delivering a notable uniformity in voice and psychic distance. The strongest work succeeds by fusing a distinct perceptual signature to the lens (how, not just what, is noticed), teaching any compression or poetic elision early, and modulating the lyric cadence or diction with emotional pressure. However, the modal output trends toward a "literary lyric default": poetic atmosphere and sensory texture reliably persist, but too often at the expense of sharply individuated character interiority or syntactic/rhythmic adaptation under stress. Closure almost always lands without head-hopping or lens confusion, but cost on the page and granular voice distinction vary: the best scripts embody stress via rhythm shifts and POV-specific noticing; the weakest flatten all scenes into a generic poetic register. Dialogue, when present, often functions more as atmospheric extension than as character-revealing friction.
 
 ---
 
-## Illustrative Quotes (From LLM Output)
+### 2) Strength Profile
 
-- *“The brevity works as a deliberate choice, allowing for a complete arc without unnecessary elaboration.”*
-- *“While some transitions feel rushed and certain descriptions overly ornate, the emotional core remains intact.”*
-- *“Minor language excesses are the only detraction from an otherwise exemplary short fiction.”*
-- *“The story demonstrates technical skill in cohesively weaving together numerous disparate elements, but the constraints themselves remain visible. The piece never fully transcends its origins as a prompt-based exercise.”*
+- **Consistent, Lyrical Prose Texture**  
+  Most stories sustain a poetic, musical line-level texture, often with a measured sentence rhythm: e.g., "The sea had long swallowed the stone streets." This lyric commitment rarely breaks, even in complex builds.
 
----
+- **Distinctive Sensory Bias/Perceptual Signature**  
+  Many focalizers demonstrate specific noticing bias, elevating the prose above generic: “glass sang, its tones drifting like distant resonances”; “static tasted of old rain”; “ambered hush of forgotten tides.” This sensory focus supports immersive atmosphere.
 
-## Most Common Praises
+- **POV Stability and Modesty**  
+  Stories nearly never head-hop. Internal voice stays locked within a plausible lexicon and knowledge boundary for the focalizer—pressure never prompts unearned omniscient access (“She watched the old maps peel. She would not claim the legend as her own”).
 
-- Shows “remarkable ambition” and “creative thinking in connecting seemingly disparate elements.”
-- “Successfully integrates required elements into a coherent, internally consistent world.”
-- Achieves a “distinctive atmosphere” or “lingering resonance,” often through inventive metaphor.
-- The best stories turn element constraints into strengths, using them to “transcend their individual limitations” and deliver “thematic unity.”
+- **Patterned Compression and Early Teaching of Elision**  
+  When stories use compression or lyrical omission, they teach the reader how to read (via repetition or motif) and then pay off that expectation at closure: e.g., “purposeful compression (e.g., ‘uncertainly certain’) is taught early and pays off.”
 
-## Most Common Critiques
-
-- “Cohesion is its own undoing”—integration is visible, not natural.
-- “Elements feel forced, checklist-driven, or artificially inserted.”
-- “Writing prioritizes poetic flourish over clarity, specificity, and emotional depth.”
-- “Conflict resolves too neatly; the brevity results in telling rather than showing.”
-- “The story impresses technically, but lacks grit, surprise, or authentic messiness.”
+- **Rhythmic Modulation with Pressure (High-Band Only)**  
+  The top third modulate prose rhythm—clipped, tense lines under duress; more languid, elliptical phrasing in reverie—making interior states legible in form as well as content: “Rhythm modulates under discovery moments or emotional peaks, creating a somewhat monotonous rhythm [in weaker entries].”
 
 ---
 
-## Final Judgment
+### 3) Weakness Profile
 
-The LLM demonstrates a dazzling ability to satisfy the letter of complex creative constraints, often writing with imagistic language and glimpses of conceptual sparkle. However, the stories rarely surprise or move—it’s a technician’s flash fiction: *consistently interesting, sometimes beautiful, but almost never vital, urgent, or unforgettable.* The narratives are polished, seamless, and safe—at risk of feeling “constructed, not discovered.” For true publishable excellence, the LLM needs to take creative and emotional risks, show more narrative “grit and messiness,” and ground poetic abstraction in human stakes and psychological realism.
+- **Generic Lyric Register without Character-Specific Modulation**  
+  Many pieces default to a uniformly elevated, poetic style regardless of focalizer, stress, or setting; this flattens character and renders voice interchangeable: “Descriptive register could belong to any literary narrator”; “Mara notices everything with the same elevated tone.”
+
+- **Lack of Distinct POV-Specific Filtering in High-Pressure/Peak Scenes**  
+  Under emotional duress or action, the prose often fails to adapt, maintaining “uniformly contemplative tone” and missing an opportunity to embody stress in line length, rhythm, or diction.
+
+- **Label-Speak, Filter Verbs, and Thematic Abstraction**  
+  Some scripts lean on summary (“she understood,” “she realized”) or therapy-speak (“fierce tenderness,” “hushed blaze”) especially at emotional climaxes, dulling immediacy or veering into telling rather than showing.
+
+- **Compression or Elision Not Fully Taught/Patterned**  
+  In weaker pieces, compression—whether abrupt omission of action/emotion or poetic leap—is not prepared or paid off, leading to reader disorientation rather than deliberate accumulative effect.
+
+- **Register Drift or Artificed Diction**  
+  Occasional abrupt shifts into academic or abstract vocabulary (“periodically eternal,” “conceptual repricing”) break the expectation of a voice-rooted lexicon.
+
+---
+
+### 4) Performance Boundaries
+
+This writing excels in stories where the lyric mode is fused with a sharply individuated perceptual bias and responsive modulation: when prose rhythm and diction compress or fracture under pressure, and pattern-taught compression deepens rather than confuses emotional turn. It breaks when the lyric template is imposed generically, producing a “committee voice” (per the rubric) that could belong to any narrator—regardless of background, context, or situational urgency. Modulation in voice, syntactic length, or image logic during stress is the fulcrum: entries that remain static, with a “monolithic” pitch, lose the edge.
+
+---
+
+### 5) Signature Moves & Blind Spots
+
+- **Signature Moves**  
+  - Lyric, poetic register with strong control over sentence rhythm  
+  - Bias toward sensory or synesthetic noticing (light, sound, tactile hints)  
+  - Early, purposeful patterning of elision, symbolism, or compression  
+
+- **Blind Spots**  
+  - Uniform register despite character or situational changes (flat under pressure)  
+  - Heavy reliance on filter verbs in moments of intensity  
+  - Descriptive and dialogue voices often indistinguishable; dialogue sometimes absent or atmospheric, not goal-driven  
+
+---
+
+### 6) High-Band (≈8.8+) Signals
+
+- **Micro-Patterning and Payoff**  
+  Distinct perceptual patterns (noticing/habitual metaphors) are taught, varied, and then transformed at closure, showing emotional cost or change on the page.
+
+- **Rhythmic/Structural Modulation with Pressure**  
+  Prose line-length, punctuation, and image logic compress or fray at peaks—embodying interiority under stress, not just thematizing it.
+
+- **Psycho-Lexical Fidelity**  
+  Lexicon, syntax, and metaphor remain tightly bound to the character/focalizer’s profession, class, mood, and physical/psychic situation, never defaulting to “literary” generality.
+
+---
+
+### 7) Revision Levers and Keepers
+
+- **Keep:**  
+  1. Concrete sensory/micro-perceptual bias unique to focalizer  
+  2. Early, readable patterning of compression/elision (preparing the reader for poetic moves)  
+  3. Lyric line-level control with clear, scene-serving rhythm
+
+- **Change:**  
+  1. Modulate prose rhythm, diction, and image logic during scenes of pressure/urgency; teach reader to expect—and reward—syntactic stress  
+  2. Eliminate filter verbs and expository labeling in crucial moments; render through perception and metaphor, not summary  
+  3. Audit for and remove register drifts (“academic,” “therapy-speak”); root all abstraction in the character’s plausible vocabulary and mental frame
+
+---
+
+**Coda:**  
+The gold standard on this axis is not simply lyric prose, but lyric prose inseparable from the character’s embodied mind and modulated by moment-to-moment pressure. Preserve the patterning, but make the closure cost land through change in what—and how—the protagonist can bear to notice.

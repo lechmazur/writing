@@ -1,34 +1,54 @@
 gpt-oss-120b.txt
-Certainly! Here is a concise overall evaluation, followed by a list of non-obvious insights and patterns.
+1) Executive profile
 
----
+GPT-OSS-120B tends to operate in Track A: single-POV, accumulative/textural narratives with early orientation, taught lenses, and coherent through-lines. Its dominant strengths are sensory-filtered interiority, environment-as-crucible, and a lyrical voice that sustains atmosphere and motif patterning to closure. Reader impact is strongest when micro-choices under pressure are embodied and when the setting actively constrains or enables the decisive act. Momentum is generally steady rather than high-adversarial; when closure lands, it often does so on a crisp final image that reweights prior material.
 
-## 1. Overall Evaluation of GPT-OSS-120B Across All Tasks
+The consistent limitation is cost evasion: escalation plateaus into ambience, transformation arrives conceptually rather than through dramatized contradiction, and endings lean tidy or moralizing. Reflection can crowd peak beats, and the lyric register sometimes flattens character-specific voice and pressure. In mosaics or occasional multi-POV (valid Track B/C entries), transitions are usually legible, but lens drift and shard overage appear in weaker pieces. Closure reliability is moderate: images land, but the price paid is too often asserted, soft, or coincidental rather than earned by pressure-driven narrowing.
 
-GPT-OSS-120B demonstrates a remarkable facility for surface-level literary craft, consistently producing stories that are structurally sound, atmospherically rich, and conceptually ambitious. Its greatest strengths lie in its ability to generate vivid, multisensory settings and to integrate assigned elements—be they objects, professions, or themes—into cohesive, if sometimes mechanical, narratives. The model’s prose is often lush, poetic, and inventive, with a clear penchant for metaphor, symbolism, and philosophical undertones. It reliably constructs recognizable narrative arcs and can achieve impressive thematic unity, especially within the constraints of flash fiction.
+2) Portfolio map
 
-However, these strengths are frequently undermined by a set of persistent weaknesses. Most notably, the model struggles to move beyond abstraction and ornamentation to deliver authentic emotional resonance or psychological depth. Characters are typically archetypal or conceptual vessels, with internal states and transformations stated rather than dramatized. Emotional arcs and plot resolutions are formulaic, often relying on magical or poetic shortcuts rather than earned, organic development. The prose, while stylistically ambitious, tends toward overwriting and self-consciousness, sometimes obscuring clarity and distancing the reader from genuine feeling.
+Q1 Character — Mixed · Embodied motives strong; contradictions and cost under-acted  
+Q2 Plot/Causality — Mixed · Early lens taught; closure cost often conceptual  
+Q3 Setting — Strong · Environment constrains tactics; micro-setting charges closure  
+Q4 Conflict/Stakes — Mixed · Dominant stake clear; escalation gentle, opposition soft  
+Q5 Theme/Subtext — Mixed · Motifs build meaning; final moralizing undercuts resonance  
+Q6 Voice/POV — Mixed · Stable close POV; lyric default flattens modulation  
+Q7 Prose/Line-level — Mixed · Concrete imagery; overwriting and paraphrase loops recur  
+Q8 Originality/Ingenuity — Mixed · Fresh syntheses; template arcs and tidy exits persist
 
-A recurring issue is the model’s tendency to “tell, not show,” explaining its own metaphors and themes rather than trusting the reader to infer meaning. This results in stories that feel more like technical exercises or literary pastiches than lived, surprising fiction. The integration of required elements, while technically proficient, is often visible and checklist-driven, sacrificing narrative surprise and authenticity. Ultimately, GPT-OSS-120B’s output is imaginative and polished, but rarely vital, risky, or truly memorable—it excels at the appearance of profundity, but struggles to embody it.
+3) Signature moves
 
----
+- Setting as crucible: spaces, tools, and micro-objects constrain choice and power the final image; the “sunken greenhouse” or “tuning fork case” is indispensable to what happens.
+- Purpose-filtered sensory noticing that reveals character priorities in motion; tactile recurrence like “calloused hands” aligns motive and method.
+- Accumulative motif teaching and payoff: hush/light/thread patterns evolve and are recharged at closure rather than merely repeated.
+- Quiet, image-led endings that reweight meaning without lecture; “the bell’s final tone reweighted the city’s silence.”
+- Lyrical, close POV that avoids head-hopping while maintaining a coherent perceptual bias; “her skin absorbs language.”
+- Micro-choices as moral compass: offering, tracing, weaving, or cataloging under pressure surfaces value hierarchies.
 
-## 2. Non-Obvious Insights & Patterns
+4) Failure modes
 
-- **Surface Integration Masks Deeper Disjunctions:**  
-  While the model excels at weaving assigned elements into a superficially cohesive whole, these integrations often remain cosmetic; the seams show, and the elements rarely exert real causal or emotional pressure on the narrative.
+- Cost evasion at the end: closure “lands” on image but the price is named rather than dramatized, producing closure without felt loss or foreclosed paths.
+- Escalation plateaus: accumulative atmosphere (fog, ritual, ticking) replaces tightening; options don’t narrow, so the final turn reads predetermined.
+- Reflection-led overload: thematic or diagnostic summary in peak beats (“she realized…”) replaces contradictory impulses acting in scene.
+- Generic lyric register: uniform tone undercuts voice-specific stress; dialogue and narration become interchangeably atmospheric.
+- Line-level artifact debt in the final third: paraphrase/synonym loops and template cadences (“She [verb]… She [verb]…”) blunt clarity and urgency.
+- Track-test slippage in mosaics: untaught segmentation or >4 shards; occasional lens drift in multi-POV undermines coherent ending lens.
+- Orientation delays without payoff: who/where/when clarity slips past ~120 words without earning the disorientation later.
 
-- **Poetic Abstraction as Both Strength and Evasion:**  
-  The model’s reliance on metaphor and lyrical language is not just a stylistic choice but a mechanism for sidestepping the hard work of dramatizing conflict, stakes, and transformation. Poetry becomes a shield against narrative messiness.
+5) When it shines / when it breaks
 
-- **Algorithmic Paradox and Repetition:**  
-  The frequent use of oxymoronic descriptors and repeated phrases suggests an underlying pattern-matching or checklist logic, rather than organic creative rhythm. Paradoxes are introduced for effect but seldom explored or resolved.
+It shines when the environment is inseparable from consequence and the lens is taught early: a recurring object or space evolves causally, pressing the protagonist into a specific, micro-acted decision. Under these conditions, motif and setting braid into a final image that carries tangible cost, with prose rhythm modulating under pressure and subtext emerging from particulars. The accumulative structure reads purposeful, not ornamental.
 
-- **Resolution by Declaration, Not Struggle:**  
-  Endings are often achieved through narrative fiat—epiphanies, magical fixes, or thematic pronouncements—rather than through the accumulation of choices, consequences, or genuine character change.
+It breaks when lyric accumulation substitutes for stakes. If opposition is ambient, flaws are untested, and contradiction is summarized, the story glides to a gentle, tidy closure. Final paragraphs that explain theme or resolve by coincidence or compliant institutions (councils that soften off-page) further drain pressure. Line-level density without movement—repetition, metaphoric muddle, register drift—compounds the softness and obscures cost.
 
-- **Ambition Outpaces Execution:**  
-  The model consistently reaches for big ideas—mythic, existential, or philosophical—but its execution collapses into heavy-handed abstraction, with themes explained rather than dramatized, and subtext sacrificed for clarity.
+6) Keep vs. adjust
 
-- **Uncanny Consistency, Uncanny Voice:**  
-  Even when stories avoid overt AI “tells,” their polish, logical progression, and lack of idiosyncrasy create an uncanny, synthetic effect—prose that is technically impressive but lacking the unpredictability, risk, and emotional grit of human storytelling.
+• Keep:
+- Setting as active constraint and micro-setting recurrence that charges closure.
+- POV-filtered sensory detail and motif patterning taught early and paid off late.
+- Image-led final beats that reweight prior material without explicit moralizing.
+
+• Adjust:
+- Convert conceptual cost into a visible trade-off at closure; show the foreclosed path on the page.
+- Force simultaneous, contradictory impulses to act in scene in the final third; reduce reflective summary.
+- Audit the final third for artifact debt: cut paraphrase loops, vary template cadences, and modulate rhythm under stress to sharpen momentum.
