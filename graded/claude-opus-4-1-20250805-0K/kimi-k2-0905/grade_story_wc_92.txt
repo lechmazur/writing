@@ -1,27 +1,29 @@
 grade_story_wc_92.txt
-<question>1</question><grade>7.4</grade><comment>Garnet's internal "cradle of sparks" metaphor for obedience turning to invention provides clear motivation, and her micro-choices (tracing angles, bridging terminals) reveal values under pressure. The characterization loses some points for occasional label-speak ("vigilant lock sentinel") and the somewhat convenient competence in both lock-picking and electrical engineering without established expertise.</comment>
+I'll evaluate this story under the Accumulative/Textural lens, as it builds through pattern and metaphor toward a resonant reconfiguration at closure.
 
-<question>2</question><grade>7.8</grade><comment>The story achieves a Resonant Reconfiguration (Earned Stasis variant) where the fort transforms from locked military control to "unlocked in every sense," with visible cost in the freed sky-barges and neutral banners. The causal lens holds throughout with clear because/therefore linkages (blackout enables conspiracy → sparks transferred → chains released → revolution succeeds). Minor orientation delay (who/where crystallizes gradually) prevents higher scoring.</comment>
+<question>1</question><grade>7.4</grade><comment>Garnet's motivation crystallizes through the "cradle of sparks" metaphor—obedience turning to invention—with embodied tension in pressing her cheek to cold iron and feeling sparks expand in her chest. The final unmasking carries visible cost as she transforms from sentinel to revolutionary. Minor deduction for Luce remaining more functional than fully realized.</comment>
 
-<question>3</question><grade>7.2</grade><comment>The luminous fort setting constrains choices effectively—the blackout creates opportunity, the chain-room and generator locations drive the dual-pronged plan, and the bronze quill holder functions as both tool and signal. Spatial choreography tracks cleanly from postern gate to keep to wall-walk. The "compressed aether" worldbuilding and sky-barges add specificity without overwhelming the narrative scope.</comment>
+<question>2</question><grade>7.8</grade><comment>Strong Resonant Reconfiguration: the fort transforms from "luminous" prison to "unlocked in every sense," with sky-barges drifting "like startled swans" as visible cost. The accumulative pattern coheres through shadow-angles, sparked generators, and freed chains. Orientation anchors clearly by line 2 (Garnet, fort, postern gate, blackout).</comment>
 
-<question>4</question><grade>7.6</grade><comment>Stakes escalate meaningfully when Commander Voss's arrival forces Garnet to improvise, using misdirection rather than confrontation—a choice that narrows her options and demonstrates agency under pressure. The cost becomes visible in the freed sky-barges and the fort's transformation. One meaningful tightening suffices at this length, though the relatively smooth execution of the plan limits tension.</comment>
+<question>3</question><grade>7.6</grade><comment>The blackout becomes active setting—enabling conspiracy while endangering garrison—with specific mechanics like "compressed aether" cages and bronze conducting stray energy. The sundial's coded angles constrain tactical choices. Spatial choreography tracks cleanly from gate to keep to chain-room to wall-walk.</comment>
 
-<question>5</question><grade>7.9</grade><comment>The "cradle of sparks" concept elegantly unifies personal transformation (obedience to invention) with mechanical action (generator sparks) and revolutionary change (spreading possibility). The final image of Garnet unmasking as sunrise arrives offers a non-literal answer to the freedom/control question. Theme emerges through concrete actions rather than statements, particularly in the line "Tell the ministry that their ink has dried; we write tomorrow with light."</comment>
+<question>4</question><grade>7.2</grade><comment>Escalation builds through accumulation: graphite translating angles, bronze conducting sparks, chains slackening, barges drifting free. Commander Voss provides brief complication that Garnet navigates through deception. The dominant stake—revolution versus obedience—tightens when she must perform loyalty while sabotaging, though mid-story pressure could intensify further.</comment>
 
-<question>6</question><grade>7.3</grade><comment>The prose maintains a consistent literary register with inventive phrases ("murdered torch bracket," "kites snagging on surprise") and controlled psychic distance. However, some diction feels elevated beyond Garnet's plausible lexicon ("gnomon," "aether valves"), and occasional filter-verb clusters ("felt," "saw," "recognized") dull immediacy in high-pressure moments.</comment>
+<question>5</question><grade>7.9</grade><comment>The "cradle of sparks" metaphor deepens from personal rebellion to systemic transformation—"every dark corridor inhaled possibility." The final image of Garnet unmasked, sharing a "winking hush" with sunrise, reweights the opening's vigilant sentinel into architect of change. Theme emerges through action without explicit moralizing.</comment>
 
-<question>7</question><grade>6.8</grade><comment>Information density is generally strong with lines doing multiple jobs, but several paraphrase loops appear ("stood unlocked in every sense" restates the prior description). Template cadence emerges in places ("Garnet traced...Garnet answered...Garnet unrolled"). The "winking hush" and "cradle of sparks" phrases risk overuse, though they serve thematic coherence.</comment>
+<question>6</question><grade>7.5</grade><comment>Distinctive voice with controlled lyricism: "soft as moth wings," "thin kites snagging on surprise." POV remains tightly focused through Garnet's perception with purposeful compression. Minor dialogue ("Tell the ministry that their ink has dried") carries subtext effectively, though limited dialogue prevents higher scoring.</comment>
 
-<question>8</question><grade>7.7</grade><comment>The steampunk-fantasy fusion of ministry bureaucracy with aether-powered technology offers fresh texture, and the specific invention of using a bronze quill holder as both symbolic object and functional tool shows ingenuity. The revolution-through-technical-sabotage approach transforms familiar rebellion tropes. The sundial-as-cipher device provides original specificity.</comment>
+<question>7</question><grade>7.3</grade><comment>Strong rhythmic variation and information density, with lines doing multiple jobs: "Footsteps approached, soft as moth wings" establishes both action and atmosphere. Some elevated diction ("luminous fort's postern gate," "consensual reality") occasionally drifts from the established register. No loops or scaffolding detected.</comment>
+
+<question>8</question><grade>7.7</grade><comment>Fresh synthesis combining steampunk elements (aether valves, gear-driven lanterns) with revolutionary intrigue through specific details like the Ministry of Ink's bronze quill holder doubling as sabotage tool. The "cradle of sparks" concept transforms from metaphor to literal generator manipulation, avoiding generic rebellion narrative.</comment>
 
 <question>9 A</question><grade>7.8</grade>
 <question>9 B</question><grade>8.2</grade>
-<question>9 C</question><grade>8.6</grade>
-<question>9 D</question><grade>7.4</grade>
-<question>9 E</question><grade>7.6</grade>
+<question>9 C</question><grade>8.4</grade>
+<question>9 D</question><grade>7.6</grade>
+<question>9 E</question><grade>7.4</grade>
 <question>9 F</question><grade>7.2</grade>
-<question>9 G</question><grade>7.5</grade>
-<question>9 H</question><grade>8.0</grade>
-<question>9 I</question><grade>8.3</grade>
-<question>9 J</question><grade>7.9</grade>
+<question>9 G</question><grade>7.0</grade>
+<question>9 H</question><grade>7.8</grade>
+<question>9 I</question><grade>8.0</grade>
+<question>9 J</question><grade>7.5</grade>

@@ -1,32 +1,33 @@
 grade_story_wc_132.txt
-<question>1</question><grade>8.7</grade><comment>Mira’s interior contradiction—scientist’s need for control vs. plant empathy—drives every beat; embodied pain and micro-choices (clipping leaf, surrendering to veins) are specific and costly. Final renunciation is earned by prior causality and carries visible bodily cost. Minor slip: “terrified” is a label, not embodied.</comment>
+<question>1</question><grade>8.7</grade><comment>Mira’s interiority is vivid and embodied—her trembling hands, the burn and scar reopening—yet the epiphany “knowledge wasn’t mastery—it was relationship” is articulated, not dramatized. The final surrender is credible because every micro-choice (clipping the leaf, stumbling, laughing at the sprinklers) grows from her compulsive need for control. Still, the absence of any second character keeps status pressure off the page, capping relationship crucible points.</comment>
 
-<question>2</question><grade>9.0</grade><comment>Single-scene causal arc holds: storm → leaf anomaly → transformation → surrender. Closure is a Decisive Change (human to plant) with felt cost (loss of body, agency). Orientation is immediate; no teleporting props or retroactive patches.</comment>
+<question>2</question><grade>8.9</grade><comment>Closure lands as Resonant Reconfiguration: Mira’s human foreclosed, the nursery’s rules permanently rewritten, cost visible in the silver-veined lindens that now “map the space between what can be known and what must simply be endured.” Causal chain holds—leaf clipped → pain → rooting → consciousness scatter—each beat tightening options under the Accumulative/Textural lens. One transition (night → next morning) is legible; no orientation debt.</comment>
 
-<question>3</question><grade>8.8</grade><comment>Nursery, trellis, storm, and silver-veined leaves constrain choices and charge the final image. Micro-setting (leaf on wrist) functions as setting-as-constraint. Sensory selection is urgent and POV-filtered; no white-room drift.</comment>
+<question>3</question><grade>8.8</grade>
+<comment>The mossy trellis functions as micro-setting: catches her fall, later becomes “something between plant and architecture,” physically constraining her collapse and then the customers’ access. Rain, glass roof, and sprinkler system are not backdrop but agents—water conducts the metamorphosis, lights die to force strobe revelation. Sensory hierarchy stays botanist-specific: pH meters, nutrient cycles, leaf venation. Final image of face-imprinted leaves recharges the setting with undeniable conceptual cost.</comment>
 
-<question>4</question><grade>8.9</grade>
-<comment>Dominant stake—control vs. symbiosis—tightens as storm pressure mounts. One meaningful turn: surrender to metamorphosis narrows options irreversibly. Cost is visceral (skin splitting, rooted legs) and legible on the page.</comment>
+<question>4</question><grade>8.6</grade>
+<comment>Dominant stake—control vs. surrender to vegetal consciousness—tightens once: the moment the clipped leaf syncs with her pulse, refusal becomes impossible. Escalation is accumulative: each sensory surge (pain, rooting, heartbeat slowing) deepens the cost without external antagonist. The visible price—her body becoming trellis-bound—forecloses the human path and reweights the nursery’s reality; no coincidence required.</comment>
 
-<question>5</question><grade>9.2</grade>
-<comment>Theme of surrender to unknowable natural forces emerges through concrete events, never stated. Final image (silver-veined leaves bearing Mira’s face) offers non-literal, resonant reweighting of knowledge vs. relationship.</comment>
+<question>5</question><grade>9.1</grade>
+<comment>Theme emerges from the particular: a botanist’s precision instruments rendered meaningless by vegetal sentience older than science. The linden’s silver veins reprice the premise—knowledge is not possession but permeability—without a final moral. The closing image of customers “with dirt beneath their fingernails and the unsettling sensation of being watched” offers charged poise; ambiguity lingers, refusing tidy redemption or doom.</comment>
 
-<question>6</question><grade>8.8</grade>
-<comment>Distinct perceptual signature—scientific precision laced with awe—remains consistent. No head-hopping; POV knowledge is modest. Prose texture mirrors Mira’s analytical lens until it dissolves into vegetal rhythm.</comment>
+<question>6</question><grade>9.0</grade>
+<comment>Third-person limited stays locked to Mira’s perceptual filter—scientific nomenclature, greenhouse tool names, tactile leaf response—until consciousness dissolves. Syntax lengthens and softens as her heartbeat slows: “heartbeat slowed to the pace of sap moving through spring wood,” prose becoming vegetal. No head-hop; the assistant’s later POV is separated by a clear section break and serves as coda, not mid-scene leakage.</comment>
 
 <question>7</question><grade>8.9</grade>
-<comment>High density, varied rhythm, zero loops or scaffold. Metaphors are precise and integrated; no mixed vehicles. Final line crystallizes without overwriting.</comment>
+<comment>Sentences vary in length and rhythm, tightening under storm strobe—“Pain bloomed... like roots pushing through compacted earth”—then widening into lyrical final cadence. No scaffold loops; each image advances transformation. One mixed metaphor—“circuitously sincere”—is flagged in prompt, not authorial slippage. Information density high: one sentence often performs sensory, metaphorical, and causal work simultaneously.</comment>
 
-<question>8</question><grade>9.1</grade>
-<comment>Fresh synthesis of body-horror botany and lyrical surrender. Transformation trope is grounded in specific plant science and personal scars. Risky choice—protagonist becomes plant—pays off with coherent closure.</comment>
+<question>8</question><grade>8.8</grade>
+<comment>The plant-into-human trope is inverted: human into plant via scientific hubris, made specific by horticultural jargon and the nursery’s irrigation system she herself designed. Silver-veined lindens and moss-trellis hybrid architecture feel particular to this voice, not generic eco-horror. Risk taken in quiet ending—no spectacle, only imprinted leaves—pays off by reconfiguring meaning rather than plot. Could not swap setting or species without breaking the logic.</comment>
 
-<question>9 A</question><grade>9.0</grade>
-<question>9 B</question><grade>9.2</grade>
+<question>9 A</question><grade>9.2</grade>
+<question>9 B</question><grade>9.5</grade>
 <question>9 C</question><grade>9.3</grade>
 <question>9 D</question><grade>8.7</grade>
-<question>9 E</question><grade>9.1</grade>
+<question>9 E</question><grade>9.0</grade>
 <question>9 F</question><grade>8.9</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>8.8</grade>
-<question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>9.2</grade>
+<question>9 G</question><grade>8.8</grade>
+<question>9 H</question><grade>7.9</grade>
+<question>9 I</question><grade>9.1</grade>
+<question>9 J</question><grade>9.4</grade>

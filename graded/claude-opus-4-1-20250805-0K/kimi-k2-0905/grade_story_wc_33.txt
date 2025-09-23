@@ -1,27 +1,27 @@
 grade_story_wc_33.txt
-<question>1</question><grade>7.8</grade><comment>The protagonist's motivation to expose broken promises through "linking absences" drives consistent, escalating choices from planting the virus to releasing the thunderstorm as diversion. Internal complexity emerges through the respectful rebellion paradox and solidarity with Sal. Minor deduction for the slightly abstract "where broken promises heal" formulation that doesn't fully embody in concrete action.</comment>
+<question>1</question><grade>7.6</grade><comment>Riven's motivation through maternal absence drives every choice, with embodied grief ("pressed against his ribs") and the thunderstorm-for-letters trade showing contradictory impulses in action. The final delivery of undelivered letters demonstrates earned change through specific cost. Minor deduction for some diagnostic phrasing ("fostered absences") and occasional emotional summary.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong causal chain from mail delivery through virus deployment to escape, with the thunderstorm serving as calculated diversion. The closure achieves Charged Poise—the virus beginning its work while the protagonist continues the cycle "because emptiness itself can be a message." Cost is visible through the arcade's solidarity blackout and the protagonist's acceptance of perpetual disputed status.</comment>
+<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural closure where the thunderstorm's transformation into rain enables mass letter delivery, creating a Resonant Reconfiguration with visible cost (trading weather for words). The piece teaches its magical realist pattern early and pays it off through concrete action. Orientation anchors establish clearly by ~100 words.</comment>
 
-<question>3</question><grade>8.4</grade><comment>The cobalt arcade's sensory texture (hot solder, colder regrets, neon saints) creates atmospheric pressure while specific details like the Sky Empress pinball machine constrain tactical choices. The thunderstorm's violet glass matching the twilight sky charges the final escape sequence. Setting actively shapes the protagonist's infiltration route and escape timing.</comment>
+<question>3</question><grade>7.8</grade><comment>The arcade setting constrains choices through its surveillance ("smuggling drone border"), hidden pathways ("service tunnel"), and specific game cabinet that enables contact. Sensory detail is selective and POV-filtered ("cobalt," "indigo," "ozone and old tickets"). The thunderstorm-in-bottle functions as micro-setting that charges the final image.</comment>
 
-<question>4</question><grade>8.0</grade><comment>Stakes escalate from personal risk through the thunderstorm release to the collective arcade shutdown, with the virus deployment as the decisive irreversible act. The border drones' algorithmic suspicion creates genuine pressure that forces the protagonist's timing. Cost manifests through Sal's complicity and the arcade's sacrificial darkness.</comment>
+<question>4</question><grade>7.9</grade><comment>Stakes escalate through accumulative pressure: surveillance threat → mother's voice → key discovery → letter retrieval → weather-for-words trade with visible cost. The dominant stake (reuniting separated families through forbidden mail) tightens when Riven must sacrifice his only power source. Agency drives each turn under the Accumulative lens.</comment>
 
-<question>5</question><grade>8.3</grade><comment>The blue heron motif elegantly bridges hope and absence, from chalk drawing to data-virus feather, reweighting the water promises theme. "Emptiness itself can be a message" crystallizes the thematic argument without moralizing. The neon saints crying for waterless villages creates resonant imagery that avoids abstraction.</comment>
+<question>5</question><grade>8.0</grade><comment>Theme emerges through concrete action: the thunderstorm-letter exchange literalizes how communication requires sacrifice. The ending image of "promises being kept" resonates without moralizing, reweighting the "disputed territory" as emotional rather than physical. Minor deduction for slight thematic echo in "where broken promises heal."</comment>
 
-<question>6</question><grade>8.5</grade><comment>Distinctive voice fuses noir sensibility with speculative elements ("disputed territory mailman," "cumulonimbus claws"). Perceptual signature remains consistent through stress, tracking minute details like the arcade's "brittle hush" breaking into "anxious confetti." No head-hopping, clean focalization throughout.</comment>
+<question>6</question><grade>7.4</grade><comment>Distinct voice with controlled diction ("respectfully rebellious," "brittle hush") and consistent POV. Some figurative density borders on overwriting but serves the accumulative design. Occasional register elevation ("fostered absences") slightly exceeds the mailman-POV's natural lexicon.</comment>
 
-<question>7</question><grade>8.1</grade><comment>Strong propulsive rhythm with varied sentence lengths matching scene tension. Information density high—most sentences advance multiple story layers simultaneously. Minor deduction for slight overwriting in metaphorical density ("bruised violet," "borrowed rain") though it serves atmospheric coherence.</comment>
+<question>7</question><grade>7.3</grade><comment>Generally strong prose with purposeful rhythm variation and high information density. Deductions for occasional overwriting (mixed metaphors like "neon veins flickering like dying stars"), some template repetition ("Riven [verb]" patterns), and minor register drift in peak moments.</comment>
 
-<question>8</question><grade>8.6</grade><comment>The synthesis of cyberpunk surveillance state with intimate acts of data resistance feels fresh and specific. "Linking absences" as viral warfare mechanism transforms expected smuggling tropes. The arcade setting as solidarity network rather than mere backdrop shows genuine ingenuity.</comment>
+<question>8</question><grade>7.7</grade><comment>The magical realist premise of weather-as-currency and arcade-as-portal offers fresh synthesis. The specific world-building (surveillance drones policing emotional contraband) transforms familiar dystopian elements. The thunderstorm-letter exchange mechanism feels earned and non-obvious.</comment>
 
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>8.2</grade>
-<question>9 C</question><grade>7.5</grade>
-<question>9 D</question><grade>7.2</grade>
-<question>9 E</question><grade>6.8</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>8.0</grade>
-<question>9 H</question><grade>6.4</grade>
-<question>9 I</question><grade>7.6</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 A</question><grade>8.1</grade>
+<question>9 B</question><grade>8.8</grade>
+<question>9 C</question><grade>7.2</grade>
+<question>9 D</question><grade>6.8</grade>
+<question>9 E</question><grade>7.6</grade>
+<question>9 F</question><grade>7.9</grade>
+<question>9 G</question><grade>7.4</grade>
+<question>9 H</question><grade>5.2</grade>
+<question>9 I</question><grade>8.3</grade>
+<question>9 J</question><grade>7.8</grade>

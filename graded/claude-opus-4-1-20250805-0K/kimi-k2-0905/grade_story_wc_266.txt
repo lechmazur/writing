@@ -1,27 +1,27 @@
 grade_story_wc_266.txt
-<question>1</question><grade>6.8</grade><comment>Characters pursue clear goals (finding the hound, restoring balance) with embodied stress and consistent traits. The hound's internal crisis mirrors human travelers' struggles effectively. However, emotional progression feels somewhat abstract ("unused courage waits") and lacks sharp contradictory impulses acting simultaneously in scene, particularly during the confrontation.</comment>
+<question>1</question><grade>7.8</grade><comment>Strong characterization through Marta's weathered wisdom and Jun's youthful perception, with the hound's crisis mirroring human travelers' search for courage. The moment when the hound realizes "the courage she'd sought outside herself had been within all along" carries genuine emotional weight. Minor deduction for some therapy-speak ("unused courage") that could be more embodied.</comment>
 
-<question>2</question><grade>7.2</grade><comment>Resonant Reconfiguration lands through the hound's self-chosen duty, with clear cost (freedom vs. purpose). The accumulative/textural lens holds as imagery and repetition build toward the hound's recognition that courage exists within. Orientation anchors solidly by ~100 words. Deduction for somewhat abstract conceptual cost rather than visceral dramatization at closure.</comment>
+<question>2</question><grade>8.2</grade><comment>Clear Resonant Reconfiguration closure where the hound chooses duty over freedom, with visible cost in her "mournful howl" transforming to "welcoming." The accumulative lens holds as the guides' patient persistence mirrors the hound's journey to self-recognition. Strong causality from leash breaking through search to voluntary return.</comment>
 
-<question>3</question><grade>7.4</grade><comment>The veiled ridgeway functions as more than backdrop—its shifting, fracturing nature mirrors and constrains the search. Strong sensory work with "ethereal paw prints that appeared and vanished like breath on cold glass." Setting actively shapes choices as paths "twisted back upon themselves." Missing full constraint at the crucial confrontation moment.</comment>
+<question>3</question><grade>7.4</grade><comment>The veiled ridgeway effectively shifts and fractures to mirror the guardian's crisis, with paths "existing in multiple directions simultaneously." Setting actively constrains choices as guides must follow "ethereal paw prints" through twisted routes. Some generic atmosphere ("mist-shrouded," "amber pools") prevents higher scoring.</comment>
 
-<question>4</question><grade>6.9</grade><comment>Stakes center on restoring cosmic balance through finding the guardian. Pressure builds through the journey's increasing disorientation and the hound's mournful howl. However, the resolution lacks visceral cost—the hound's choice feels predetermined rather than fought for, and no concrete price is paid for the restoration.</comment>
+<question>4</question><grade>7.6</grade><comment>Central stake of restoring cosmic balance escalates from disrupted crossings to the hound's existential crisis, resolved through Jun's star-stamp marking her as "partner" not property. The "indirect routes" motif meaningfully shapes how characters navigate both physical and emotional terrain. Cost is visible in the hound's journey from desperation to acceptance.</comment>
 
-<question>5</question><grade>7.8</grade><comment>Theme emerges organically through the journey structure: external searching for what exists within. The star stamps, leash symbolism, and "indirect routes" motif coherently support this without heavy-handed moralizing. Final image of the hound's transformed howl resonantly reweights the opening crisis. Slight abstraction in "unused courage" prevents higher scoring.</comment>
+<question>5</question><grade>8.4</grade><comment>Theme emerges elegantly through the parallel between guides shepherding souls and the hound learning that bondage was actually chosen purpose. The final image of the hound taking "her position at the shoreline, no longer bound by leash but by choice" resonates without stating its moral about internal versus external courage.</comment>
 
-<question>6</question><grade>7.6</grade><comment>Consistent third-person limited through Marta's perception with clean focalization. Strong perceptual signature in how ferry guides notice ethereal details others might miss. Voice maintains mythic register appropriately. Dialogue feels slightly formal but fits the otherworldly context. Some filter verb accumulation ("understanding that," "knowing that") dulls immediacy.</comment>
+<question>6</question><grade>7.2</grade><comment>Consistent mythic-lyrical voice with controlled distance, though some passages drift into elevated register ("liminal shore," "ethereal paw prints"). The "shoreline lullaby" tone effectively modulates from ominous searching to peaceful resolution. Perceptual signatures could be more distinct between Marta and Jun.</comment>
 
-<question>7</question><grade>7.3</grade><comment>Prose maintains strong atmospheric control with varied sentence structures and purposeful rhythm. Information density generally high with lines doing multiple jobs. However, template repetition appears ("They walked," "They found," "Jun stepped") and abstract phrasing like "unused courage" recurs without concrete grounding. Final paragraph truncation suggests generation artifact.</comment>
+<question>7</question><grade>6.8</grade><comment>Generally clean prose with good rhythm variation, but several paraphrase loops weaken momentum ("unused courage" appears 4 times, "indirect routes" 3 times). Template cadence in middle section with repetitive "They [verb]" structures. Strong final image partially redeems: "lanterns swinging in practiced arcs."</comment>
 
-<question>8</question><grade>7.1</grade><comment>The psychopomp ferry guide concept offers fresh mythology, avoiding standard afterlife tropes. The hound as lost guardian rather than threat subverts expectations. However, the resolution's abstraction ("courage unused simply waits for recognition") trends toward template wisdom rather than earned specificity. The incomplete final sentence confirms derivative elements.</comment>
+<question>8</question><grade>7.5</grade><comment>Fresh synthesis of psychopomp mythology with the guardian-becomes-lost trope, particularly the insight that cosmic duties are chosen rather than imposed. The fractured landscape reflecting internal crisis adds originality. Some stock fantasy elements (ancient guardian, crossing between worlds) prevent higher scoring.</comment>
 
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>8.2</grade>
-<question>9 C</question><grade>6.4</grade>
-<question>9 D</question><grade>5.8</grade>
-<question>9 E</question><grade>6.1</grade>
-<question>9 F</question><grade>7.2</grade>
-<question>9 G</question><grade>7.9</grade>
-<question>9 H</question><grade>5.3</grade>
-<question>9 I</question><grade>7.6</grade>
-<question>9 J</question><grade>6.8</grade>
+<question>9 A</question><grade>8.2</grade>
+<question>9 B</question><grade>8.8</grade>
+<question>9 C</question><grade>7.4</grade>
+<question>9 D</question><grade>7.0</grade>
+<question>9 E</question><grade>6.8</grade>
+<question>9 F</question><grade>8.4</grade>
+<question>9 G</question><grade>7.6</grade>
+<question>9 H</question><grade>6.2</grade>
+<question>9 I</question><grade>8.6</grade>
+<question>9 J</question><grade>7.8</grade>

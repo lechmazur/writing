@@ -1,31 +1,50 @@
 grade_story_wc_267.txt
-<question>1</question><grade>8.7</grade><comment>The bellhop’s interiority is embodied in tactile ritual (tracing the discoloration, turning the bolt) and crystallizes in the wordless promise to the boy; the contradiction between his vow of silence and his longing for song drives every beat. Motivation is anchored in the single, specific memory of his mother’s last lullaby, and the cost of enduring silence is felt in the tightening of his jaw and the frost on his lashes. The final act of remaining motionless is an earned renunciation that forecloses any future speech, sealing the price on the page.</comment>
+<question>1</question><grade>8.4</grade><comment>Bellhop’s choices in gifting the bolt, waiting motionless, and anchoring the boy anchor every critical beat; internal contradiction in nurturing silence while mourning voice gives lived complexity.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure arrives as a Charged Poise: the collective breath in the ward fractures the fortress’s century-old silence without a word spoken, reconfiguring the stakes for the boy and the bellhop alike. The inferred lens is Accumulative/Textural—each beat layers weight onto the bolt and the silence until the final image crystallizes the cost. Causality is clean: the bellhop’s gift of the bolt and his vigil lead directly to the boy’s grip tightening, which in turn releases the communal inhale that marks the irreversible breach.</comment>
+<question>2</question><grade>9.0</grade>
+<comment>Causal linkages hold: silence decree → boy muted → bolt passed → sentinel stance crystallizes. Closure is a Resonant Reconfiguration—silence fractures as breathing fills ward.</comment>
 
-<question>3</question><grade>8.9</grade><comment>The cobalt walls, the spiral’s discoloration, and the falling snow are not backdrop but active constraints: the fortress literally absorbs sound, the staircase’s fading streak threatens the bellhop’s sole map, and the snow erases footprints faster than they are made. The bolt functions as micro-setting—its cold iron memory travels skin-to-skin and anchors the boy to life. Every environmental detail is filtered through the bellhop’s trained attention, and the final image of meltwater constellations links the outer storm to the inner thaw.</comment>
+<question>3</question>
+<grade>8.6</grade>
+<comment>Cobalt walls, bolt’s iron taste, and spiral staircase snowmelt are tactile constraints; piano bench bolt doubles as micro-setting body/tool, choking the ending with frost.</comment>
 
-<question>4</question><grade>8.8</grade><comment>The dominant stake—the price of safety paid in voices—is signaled in the opening line and tightens through each beat: the boy’s severed vocal cords, the bellhop’s wordless vigil, the surgeon’s candlelit stitches. One meaningful deepening occurs when the bellhop presses the bolt into the boy’s palm—an act that narrows options from abstract hope to concrete endurance. The cost is visceral: the fortress exhales a ragged communal breath that can never be spoken aloud.</comment>
+<question>4</question>
+<grade>8.2</grade>
+<comment>Dominant stake—cost of safety in voices—tightens with each amputation; bolt’s gift and sentinel stillness escalate pressure inside inferred Accumulative lens.</comment>
 
-<question>5</question><grade>9.0</grade>
-<comment>The theme emerges wordlessly: silence as both shield and prison. Subtext lives in gesture—the bolt passed hand to hand, the tightening knuckles, the frostbitten lashes—never in exposition. The final image reweights the premise: safety has been purchased, but the silence is no longer absolute; the unpardonable breach has already begun.</comment>
+<question>5</question>
+<grade>9.1</grade>
+<comment>Theme of voice vs safety emerges through concrete acts: traded lullaby for bolt, breath-for-breath accounting at closure reweights premise with unforgivable silence.</comment>
 
-<question>6</question><grade>8.6</grade>
-<comment>The voice is spare, metallic, and song-haunted, mirroring the bellhop’s vocation and loss. Syntax is controlled and rhythmic—“he remain, motionless, a sentinel carved from the same cobalt”—compressing under pressure without ever slipping POV. Every perception is filtered through his trained silence: the high whine of nerves, the taste of iron and old songs.</comment>
+<question>6</question>
+<grade>8.7</grade>
+<comment>Distinct via tactile iron memory and rhythmic spiral tracing; no head-hopping; silence-device translation through gesture and tension maintains singular cobalt voice.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Prose is lean yet textured: “seraphically mundane,” “meltwater constellations,” “frostbitten hope crystallizing on his lashes.” No loops or scaffold; each sentence advances atmosphere or stakes. Figurative language is precise and purposeful, never ornamental, and the final cadence lands with crystalline clarity.</comment>
+<question>7</question>
+<grade>9.2</grade>
+<comment>Metaphors are precise—throat-white plume/snowfall—sentence lengths accelerate under infirmary candle; no scaffold loops; the bolt’s threaded seraphic mundanity resonates.</comment>
 
-<question>8</question><grade>9.2</grade>
-<comment>The premise—a fortress where silence is law and memory is carried by a single iron bolt—feels inevitable yet wholly fresh. The synthesis of gothic siege, medical body-horror, and wordless lullaby is specific to this voice and setting. The risk of a lyric, near-static scene pays off in the resonant final breath that reframes the entire century of silence.</comment>
+<question>8</question>
+<grade>8.8</grade>
+<comment>Seraphically mundane bolt reinvents familiar silence-of-war trope; specific detail—thread count of the bolt—creates fresh icon against generic fortress trope.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.0</grade>
-<question>9 C</question><grade>9.2</grade>
-<question>9 D</question><grade>8.4</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>7.8</grade>
-<question>9 G</question><grade>8.6</grade>
-<question>9 H</question><grade>7.4</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.8</grade>
+<question>9 A</question>
+<grade>8.3</grade>
+<question>9 B</question>
+<grade>8.2</grade>
+<question>9 C</question>
+<grade>8.0</grade>
+<question>9 D</question>
+<grade>0.6</grade>
+<question>9 E</question>
+<grade>7.6</grade>
+<question>9 F</question>
+<grade>0.4</grade>
+<question>9 G</question>
+<grade>0.9</grade>
+<question>9 H</question>
+<grade>4.7</grade>
+<question>9 I</question>
+<grade>7.4</grade>
+<question>9 J</question>
+<grade>8.1</grade>

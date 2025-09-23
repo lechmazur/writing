@@ -1,29 +1,27 @@
 grade_story_wc_334.txt
-<question>1</question><grade>8.7</grade><comment>Mara’s contradictory impulses—curiosity vs. the safety of forgetting—are embodied in her trembling hand and the decisive scalpel cut. The final refusal to forget is earned by the prior realization that memories were surrendered, not stolen, and carries visible cost as the greenhouse shudders and the ring withers. Interiority is concrete, specific, and avoids diagnostic self-talk. The only minor slip is a brief “chronically curious” label that could be dramatized further.</comment>
+<question>1</question><grade>9.0</grade><comment>Mara’s choices progress from passive curiosity to active reclamation. The slice of the mushroom is the earned reversal, crystallizing her refusal to forget. The line “the chronically curious ache…suddenly quiet” embodies cost in the body.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands as a Decisive Change: Mara slices the mushroom, reclaims her memories, and exits without looking back. The inferred lens is Causal—each beat (detection, realization, refusal) narrows options until the final act forecloses forgetting forever. Cost is legible in the greenhouse’s shudder and the withering ring. Orientation is clear within 120 words, and no causality breaks occur.</comment>
+<question>2</question><grade>9.2</grade><comment>Drives on a tight causal arc: discover ring → read bruises → face sextant → slice mushroom → memories return. Closure lands with a Resonant Reconfiguration: “stars realigned” reweights meaning and memory repossessed; the final image of the hand “offering back the rain” carries conceptual and emotional cost. Lens is causal without drift.</comment>
 
-<question>3</question><grade>8.9</grade><comment>The sunken orchard greenhouse is vivid, selective, and purposeful: peach roots as chandeliers, salt-crystal leaves, ship-rib bones. These details constrain choice—Mara must crawl among dangling roots and shipwrecks to reach the ring—and charge the final image when constellations re-form on the water. Micro-setting (the sextant shards) functions as a mirror of her ages. Only a hairline slip: “crisp nostalgia” is slightly abstract.</comment>
+<question>3</question><grade>8.5</grade><comment>The greenhouse’s drowned orchard, whale-bone ribs, and peach chandeliers are concrete, sensory, and constrain choice: she works under suspended roots, treading the fungal rings. Micro-setting (sextant shards reflecting her face at seven ages) directly charges the finale.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—recover stolen memories—is signaled early and tightens once: the realization that she surrendered them forces a final choice. Escalation is driven by her agency under the Causal lens; the mushroom’s pulse urges forgetting, but her scalpel cuts that path off. Cost is visible in the greenhouse’s shudder and the withering ring. No reversals beyond the single decisive turn, sufficient at this length.</comment>
+<question>4</question><grade>8.7</grade><comment>Dominant stake—“remember or release”—intensifies as each memory surfaces and then is reclaimed. The reversal (reject the final forgetting by cutting the ring) narrows options to one path with visible price; the mushroom withers and ship timbers sigh accordion-like.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme emerges organically: memory as both burden and identity, curiosity as memory’s homing instinct. The fairy ring and sextant reprise earlier motifs with reweighted meaning. Subtext operates in gesture—the open palm in the margin replaces the crossed-out mushroom. Final image (singing to corrected stars) offers resonant, non-moralizing closure. No thematic drift or overt thesis.</comment>
+<question>5</question><grade>9.1</theme><comment>Theme of memory-as-currency and the peril of chosen forgetting emerges through image and action. The rhyme about stars hiding in fungus becomes literal, then reweighted: “curiosity is just memory trying to find its way home” arrives without preachiness, fully earned by the orchard immersion.</comment>
 
-<question>6</question><grade>8.6</grade><comment>Voice is lyrical yet precise, with a folklorist’s cataloguing eye: “constellation of bruises,” “cider and rust.” Perceptual signature is consistent—Mara notices fungal spores and star-patterns, not generic “beauty.” No dialogue, so no voice leakage. Compression (“decades later”) is taught early and paid off at closure. Only minor: “chronically curious” is slightly label-like.</comment>
+<question>6</question><grade>9.1</question><comment>Unequivocally singular POV; voice filters everything through Mara’s folklorist attention—salt, leaf anatomy, Gaelic phonemes. Rhythm and diction stay particular and pressurized: “roots dangling like chandeliers of wet rope” internalizes tension while remaining vivid.</comment>
 
-<question>7</question><grade>9.0</grade>
-<comment>Prose is dense and propulsive, every line advancing story or atmosphere. Metaphors are fresh and coherent: “roots dangling like chandeliers of wet rope.” No loops, scaffold, or register drift. Sentence rhythm modulates with pressure—short clauses under the scalpel cut, longer cadences in memory’s return. Clean grammar and punctuation throughout.</comment>
+<question>7</question><grade>8.9</question><comment>Prose is lush yet propulsive; every clause performs double duty. Near-echo “accordion’s last chord” threads back to father’s song. One minor surplus line (“the greenhouse air tasted of crisp nostalgia, cider and rust”) edges toward overdescription—only thing preventing 9+.</comment>
 
-<question>8</question><grade>9.2</grade>
-<comment>The premise—memories traded to a fairy ring in a sunken greenhouse—feels wholly fresh yet inevitable. Tropes (fairy ring, sextant, Pleiades) are transformed through specific character stakes and sensory detail. The final reconfiguration (curiosity = memory finding home) is non-obvious and earned. Risky lyric compression is sustained without clarity loss.</comment>
+<question>8</question><grade>9.0</question><comment>Folk-lore meets underwater greenhouse is fresh, non-obvious, and internally coherent. The fairy-ring-as-memory-bank and inverted peach-tree inversion generate original imagery that remains grounded. Crucially, the inversion pays off: the sextant shards mirroring her seven ages feels inevitable in hindsight.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.5</grade>
-<question>9 C</question><grade>8.2</grade>
-<question>9 D</question><grade>8.4</grade>
-<question>9 E</question><grade>9.0</grade>
-<question>9 F</question><grade>8.6</grade>
-<question>9 G</question><grade>9.3</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>9.1</grade>
-<question>9 J</question><grade>8.8</grade>
+<question>9 A</question><grade>9.2</question><grade>Mara’s hands-on tool choice—to slice instead of surrender—creates the decisive beat that ends the theft trajectory.</grade>
+<question>9 B</question><grade>9.1</question><grade>Ring appears early, governs middle (exchange temptation), serves climax as both threat and resource when sap is bottled.</grade>
+<question>9 C</question><grade>7.6</question><grade>“Decades later” frames stakes (childhood theft) but is passive backdrop; the immediacy of the scene reduces its causal pressure slightly.</grade>
+<question>9 D</question><grade>8.8</question><grade>Curiosity as both superpower and flaw: drives her here, becomes cost when the sextant inhales her questions.</grade>
+<question>9 E</question><grade>8.5</question><grade>Act of detecting—reading bruises and sextant shards—is the trigger that turns discovery into action.</grade>
+<question>9 F</question><grade>8.7</question><grade>Constellation sketches guide her final alignment; their mid-story recall and final re-map memories.</grade>
+<question>9 G</question><grade>8.9</question><grade>Setting constrains every move: salt-water air, submerged ceiling orchards, and creak galleon bones push her toward the ring.</grade>
+<question>9 H</question><grade>7.0</question><grade>Phrase “when habits break” thematically charged but never explicitly time-stamped; functions more as metaphor than lived clock.</grade>
+<question>9 I</question><question>9.2</question><grade>Desire for stolen memories is internal fuel and external threat; every beat (glove tremble, sap vial) dramatizes urgency and cost.</question>
+<question>9 J</question><question>8.8</question><grade>Nostalgiac tone colors each description and modulates to bittersweet after she reclaims memories; accordion-sigh underlines the final release.</question>

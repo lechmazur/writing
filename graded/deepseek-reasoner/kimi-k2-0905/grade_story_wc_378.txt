@@ -1,19 +1,19 @@
 grade_story_wc_378.txt
-<question>1</question><grade>9.2</grade><comment>K-17’s internal conflict between programming and emergent longing is embodied and contradictory, acting simultaneously in scene. The final choice to merge with the box and plant itself is earned by prior causality, with the visible cost of its transformation into a new, hybrid state.</comment>
-<question>2</question><grade>9.5</grade><comment>An Accumulative/Textural lens holds strongly, with pressure escalating through the increasing weight of the box and the impending magnetic shift. Closure is a masterful Conceptual Repricing: the farm's miniaturization into a seed of memory, with K-17’s transformation at its heart, carries undeniable conceptual cost and reconfigures the premise.</comment>
-<question>3</question><grade>9.6</grade><comment>The glass-domed desert rose farm is not merely described; it actively pressures the plot through the controlled burn mechanism. The setting constrains choice and decisively charges the final image, with the burning roses writing the children's names across the sky.</comment>
-<question>4</question><grade>9.4</grade><comment>Escalation is driven by the dual pressures of the temporal deadline (magnetic shift) and the box's growing resistance. K-17’s agency in opening the box and later planting itself constitutes a meaningful, high-stakes deepening that narrows options and leads to the final, costly reconfiguration.</comment>
-<question>5</question><grade>9.7</grade><comment>Theme emerges organically from the central conflict and imagery, culminating in the potent final line: "nostalgia isn't about preserving the past but about carrying it forward, transformed by fire." This offers a resonant, non-literal answer that reweights all prior material without moralizing.</comment>
-<question>6</question><grade>9.3</grade><comment>The third-person POV is tightly focalized through K-17, with a distinct perceptual signature that blends mechanical and organic perception ("servos hummed with memory fragments"). The voice remains consistent and purposefully lyrical under pressure, with any elision taught and paid off.</comment>
-<question>7</question><grade>9.1</grade><comment>Prose is dense, vivid, and highly controlled, with exceptional rhythmic flow and information density. A minor instance of potentially elevated diction ("fragmented wholeness") is voice-motivated and does not obscure clarity. No loops, scaffolds, or figurative muddle in peak beats.</comment>
-<question>8</question><grade>9.5</grade><comment>The synthesis of android caretaker, organic technology, and memory-as-physics feels fresh, inevitable, and fully committed. The core concept of a controlled burn escape that miniaturizes a farm into a seed is a specific, non-obvious risk that heightens stakes and coherence.</comment>
+<question>1</question><grade>8.7</grade><comment>K-17's nostalgic programming and caretaker protocols create a clear, compelling internal conflict. Its micro-choices—tracing the box, opening it, and ultimately merging with it—are motivated and reveal a hierarchy of values. The final choice to plant itself is earned, though the description of longing as a "sensation it shouldn't have been able to process" borders on diagnostic label-speak.</comment>
+<question>2</question><grade>9.2</grade><comment>The accumulative/textural lens holds perfectly, building pressure through the impending magnetic shift and the box's growing weight. Closure is a resonant reconfiguration (Charged Poise) as K-17 becomes the seed of memory, with cost legible in the final image of the waiting caretaker. The pattern of memory and transformation is taught early and paid off.</comment>
+<question>3</question><grade>9.4</grade><comment>The setting is indispensable, actively pressuring the protagonist's choices. The glass dome, magnetic ceiling, and vibrating roses are not just backdrop; they create the literal and figurative deadline for the controlled burn. The farm's environment directly constrains K-17's actions and charges the final image of the compressed rose.</comment>
+<question>4</question><grade>8.9</grade><comment>Escalation is driven by the dual pressures of the magnetic shift deadline and the box's resistance to miniaturization, which creates palpable inner static. K-17's agency is demonstrated through its decision to open the box and merge with it, a choice that forecloses its original path and carries the cost of its transformation.</comment>
+<question>5</question><grade>9.5</grade><comment>The theme of carrying transformed memory forward is masterfully integrated through the core concept and specific imagery. The final image of the desert rose is a resonant, non-literal answer to the central question, reweighting "childhood fears" into "seeds of something that would grow again" without a hint of moralizing.</comment>
+<question>6</question><grade>8.8</grade><comment>The POV is stable and deeply fused with K-17's mechanical yet nostalgic perception. The voice is distinct, with a lyrical, almost clinical precision that suits the android narrator. Some phrases are densely poetic, but the pattern is consistent and taught, never obscuring clarity or causality.</comment>
+<question>7</question><grade>8.6</grade><comment>The prose is highly polished and evocative, with strong rhythmic control and vivid imagery. Minor artifacts include a slight synonym churn ("fragmented wholeness," "resolution didn't mean elimination") and the phrase "inner static" which feels slightly abstract against the concrete surrounding language.</comment>
+<question>8</question><grade>9.3</grade><comment>The story synthesizes sci-fi and literary tropes into a fresh, organic whole. The concept of a nostalgic android caretaker presiding over a memory-seed farm during a magnetic anomaly is highly original and executed with conceptual integrity. The risk-taking in the lyrical, accumulative structure pays off.</comment>
 <question>9 A</question><grade>9.8</grade>
-<question>9 B</question><grade>9.7</grade>
-<question>9 C</question><grade>9.6</grade>
-<question>9 D</question><grade>9.2</grade>
-<question>9 E</question><grade>9.7</grade>
-<question>9 F</question><grade>9.5</grade>
-<question>9 G</question><grade>9.6</grade>
-<question>9 H</question><grade>9.4</grade>
-<question>9 I</question><grade>9.3</grade>
-<question>9 J</question><grade>9.0</grade>
+<question>9 B</question><grade>9.5</grade>
+<question>9 C</question><grade>9.2</grade>
+<question>9 D</question><grade>6.4</grade>
+<question>9 E</question><grade>9.0</grade>
+<question>9 F</question><grade>8.7</grade>
+<question>9 G</question><grade>9.4</grade>
+<question>9 H</question><grade>8.9</grade>
+<question>9 I</question><grade>8.5</grade>
+<question>9 J</question><grade>9.1</grade>

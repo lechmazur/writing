@@ -1,27 +1,27 @@
 grade_story_wc_364.txt
-<question>1</question><grade>7.8</grade><comment>Corin's transformation from meek to defiant is earned through concrete choices—bartering his hammer, descending alone, striking the gong—with contradictory impulses (fear vs. determination) embodied in action. The final renunciation of partial control shows clear cost. Minor deduction for some diagnostic label-speak ("quietly determined") that could be more embodied.</comment>
+<question>1</question><grade>5.8</grade><comment>Thistle's transformation from meek to "quietly determined" tracks adequately through concrete actions, but internal contradiction is minimal—he simply gains confidence without genuine struggle. The "bartered awakening" concept of trading understanding for confusion never manifests as embodied internal conflict, remaining abstract. Character particularity emerges through his specific craft choices but lacks the contradictory impulses acting simultaneously that would elevate the score.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong Decisive Change closure where Corin's resistance transforms both the planet's physical reality (arches now sing) and social order (citizens feel resilience). The causal chain from silk-barter through mural-projection to confrontation is tight. Cost is visible in the risk taken and the "interest" demanded on returned dreams.</comment>
+<question>2</question><grade>5.4</grade><comment>The story follows an Accumulative/Textural lens with pattern-building through silk-weaving and arch-taming, culminating in a Resonant Reconfiguration where the arches descend. However, the cost remains abstract—"the space between understanding and confusion" never translates to concrete loss. The orientation is clear early, and the closure lands with the arches forming bridges, but without visible sacrifice or foreclosed options, the transformation feels unearned.</comment>
 
-<question>3</question><grade>7.6</grade><comment>The inverted orchard world with floating arches and underground mines creates consistent pressure on choices—Corin must use forgotten tunnels specifically because the arches "might hear and fall." The mural's violet cords and the smelter chamber constrain the confrontation. Some occupational detail (gravity-oxen) enriches without overwhelming.</comment>
+<question>3</question><grade>6.2</grade><comment>The floating rock arches and mine shafts create a distinctive setting that shapes Thistle's solution—using the depths to build upward. The azure moonlight filtering through arches provides consistent atmospheric texture. While the environment constrains choices (abandoned shafts become workspace), the world-building remains somewhat generic despite specific details like "star-fruit trees" and twin moons.</comment>
 
-<question>4</question><grade>7.9</grade><comment>Stakes escalate cleanly from personal debt to planetary liberation, with the moonrise deadline creating urgency. The silk's transformation into a weapon and the arches' trembling response show clear tightening of options. The magicians' attempt to bargain for "partial control" demonstrates real cost in their yielding.</comment>
+<question>4</question><grade>5.1</grade><comment>Stakes center on Thistle's personal transformation and the community's access to the floating arches, but escalation is minimal—he works, villagers watch, arches descend. No meaningful obstacles or reversals complicate his path. The "quietly determined" work in the shafts lacks opposition, and the arches' descent happens without resistance or trade-off, missing the tightening that would demonstrate real cost.</comment>
 
-<question>5</question><grade>7.4</grade><comment>Theme of resilience "coaxed from rubble" emerges through concrete imagery—slag that was swords, the mural tethering arches, citizens learning to forge their own luck. The silk's dissolution into stone creates resonant closure without stating a moral. Some thematic echo in "azure defiance" slightly reduces subtlety.</comment>
+<question>5</question><grade>5.3</grade><comment>The theme of finding "resilience in rubble" emerges through Thistle's repurposing of abandoned materials, but remains somewhat literal. The transformation from broken to remade resonates through multiple elements (forge, mine shafts, community), yet lacks complexity—everything broken becomes useful without examining what might be lost in translation. The final image of bridges between earth and stars offers resonance but doesn't reweight prior material with surprising depth.</comment>
 
-<question>6</question><grade>7.5</grade><comment>Consistent third-person limited with selective perception (Corin notices weight, metal's recognition) that reflects his blacksmith expertise. Voice modulates from quiet observation to defiant action. Minor inconsistency in omniscient knowledge of what "magicians' collectors" are doing in tunnels before they arrive.</comment>
+<question>6</question><grade>5.9</grade><comment>Voice maintains consistency with a lyrical, fable-like register appropriate to the fantastical setting. Repetitive phrasing ("bartered awakening," "quietly determined," "resilience from rubble") creates rhythm but borders on mechanical. The perceptual signature remains generic—we see what Thistle does but rarely how his specific consciousness filters the world differently from others.</comment>
 
-<question>7</question><grade>7.2</grade><comment>Generally clean prose with varied syntax and strong verbs ("slag sighed," "gong rolled"). Information density is high—most sentences advance plot and atmosphere simultaneously. Some template cadence in middle section ("Corin heard...He wrapped...He clanged") and occasional overwriting ("bruised-azure shadow") reduce momentum.</comment>
+<question>7</question><grade>4.8</grade><comment>Pervasive repetition dulls momentum: "bartered awakening" appears 5 times, "quietly determined" 4 times, "resilience from/in rubble" 4 times, creating template cadence. Phrase loops like "space between understanding and confusion" recur without variation or deepening. While the prose achieves some lyrical moments ("floating rock arches cast shifting shadows"), the recycled abstractions and synonym churn ("meek blacksmith" variants) significantly impede propulsion.</comment>
 
-<question>8</question><grade>7.7</grade><comment>Fresh synthesis of fantasy and labor resistance ("workers declared they would no longer serve sky tyrants") with specific world-building (gravity-oxen, plex-citrus). The image of arches that sing instead of threaten and the silk that teaches stone to dream show genuine ingenuity beyond template fantasy.</comment>
+<question>8</question><grade>5.2</grade><comment>The concept of floating rock arches that can be coaxed earthward offers modest originality, and the inversion of using depths to reach heights shows some ingenuity. However, the transformation follows a predictable arc—outcast craftsman saves community through persistence—without surprising complications. The magical realism elements feel somewhat arbitrary rather than emerging from specific world logic.</comment>
 
-<question>9 A</question><grade>8.4</grade>
-<question>9 B</question><grade>8.6</grade>
-<question>9 C</question><grade>7.8</grade>
-<question>9 D</question><grade>6.2</grade>
-<question>9 E</question><grade>7.4</grade>
-<question>9 F</question><grade>7.6</grade>
-<question>9 G</question><grade>7.9</grade>
-<question>9 H</question><grade>6.8</grade>
-<question>9 I</question><grade>8.2</grade>
-<question>9 J</question><grade>7.3</grade>
+<question>9 A</question><grade>6.8</grade>
+<question>9 B</question><grade>7.2</grade>
+<question>9 C</question><grade>5.4</grade>
+<question>9 D</question><grade>6.1</grade>
+<question>9 E</question><grade>5.8</grade>
+<question>9 F</question><grade>6.4</grade>
+<question>9 G</question><grade>7.4</grade>
+<question>9 H</question><grade>4.2</grade>
+<question>9 I</question><grade>5.6</grade>
+<question>9 J</question><grade>5.3</grade>

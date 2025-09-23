@@ -1,27 +1,27 @@
 grade_story_wc_123.txt
-<question>1</question><grade>7.4</grade><comment>Elara's meticulous nature and credible curiosity drive meaningful choices throughout, from waiting to watch the pigeon to choosing lateral movement over expected paths. Her decision to create a "lateral chain of integrity" shows internal conflict between official duty and truth, with visible cost in going underground. The "Ice traced her spine" moment effectively embodies fear, though some interiority edges toward explanatory ("if she was being used as a conduit...").</comment>
+<question>1</question><grade>7.8</grade><comment>Elara's motivation crystallizes through concrete action—she chooses lateral movement and underground recording over compliance, with visible cost in abandoning her official position. The "credibly curious" trait drives key decisions from examining the pigeon to calibrating instruments underground. Minor deduction for some abstract phrasing ("integrity depends on solitude") not fully embodied in scene.</comment>
 
-<question>2</question><grade>7.8</grade><comment>Strong Accumulative/Textural lens with density increasing through phosphorescent map discovery, backward-writing ritual, and rain tasting. Closure achieves Resonant Reconfiguration as Elara moves from isolated recorder to underground truth-keeper, with clear cost in abandoning her surface life. The message dated tomorrow creates effective temporal pressure, though the quarantine zone's truth-containing function could be more gradually revealed.</comment>
+<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural closure where Elara's final emergence with "quiet certainty" represents Earned Stasis—she renounces official recording with clear cost (career, safety). The impossible tomorrow-dated message creates effective pressure that tightens through discovery of truth-quarantine zones. Slight deduction for the cost being more implied than viscerally felt in the final moments.</comment>
 
-<question>3</question><grade>7.2</grade><comment>The courtyard-to-underground journey creates meaningful spatial pressure, with the maintenance shaft and phosphorescent lichen constraining movement and revealing hidden truth. Setting actively shapes choices through the gargoyle's eye panel and pigeon-accessible cracks. The "wet limestone and pigeon feathers" sensory detail grounds the descent, though the underground space could use more tactile specificity.</comment>
+<question>3</question><grade>7.6</grade><comment>The underground phosphorescent map and pneumatic layers create tangible constraints that shape Elara's lateral movement choice. Sensory detail ("wet limestone and pigeon feathers") grounds the descent effectively. The courtyard-to-underground transition provides clear spatial choreography that enables the story's central evasion tactic.</comment>
 
-<question>4</question><grade>7.6</grade><comment>Stakes escalate from personal integrity to systemic truth as Elara discovers the quarantine zone contains uncensored weather data. Her choice to stay underground and release contradictory data shows clear agency with visible cost. The pressure tightens effectively from being followed to discovering manipulation to choosing underground exile, though the follower's specific identity remains vague.</comment>
+<question>4</question><grade>7.9</grade><comment>Stakes escalate from personal curiosity to systemic truth-suppression, with Elara's choice to record backward-dated entries creating immediate risk. The lateral movement represents meaningful agency that forecloses her return to official work. Cost is evident but could be more viscerally rendered in the final beat rather than stated as "quiet certainty."</comment>
 
-<question>5</question><grade>7.9</grade><comment>Theme emerges organically through the tension between official "gentle forecasts" and "raw screams of pressure and heat," with weather serving as metaphor for truth that "cannot be quarantined." The final image of tasting rain "unrecorded by any official gauge" resonates without stating a moral. The "lateral chain of integrity" concept effectively bridges personal and systemic themes.</comment>
+<question>5</question><grade>8.4</grade><comment>The weather-as-truth metaphor earns its resonance through concrete details—uncensored storm data versus "gentle forecasts," rain "unrecorded by any official gauge." The final image of truth finding "its own velocity" like weather reweights all prior recording work. Theme emerges from action rather than statement.</comment>
 
-<question>6</question><grade>7.5</grade><comment>Distinctive voice with scientific precision ("wind shear to the third decimal") and lyrical moments ("sky bruised into violet"). POV remains stable with controlled psychic distance, though some passages drift toward elevated register ("populated by every honest storm"). The prose effectively modulates between technical observation and emotional response.</comment>
+<question>6</question><grade>7.7</grade><comment>Distinctive voice with scientific precision ("wind shear to the third decimal") and lyrical touches ("sky bruised into violet"). Some register elevation in philosophical moments ("truth, once released, finds its own velocity") slightly strains the established meteorologist POV. Perceptual signature strong in weather observation.</comment>
 
-<question>7</question><grade>7.3</grade><comment>Generally clean prose with strong moments like "the hush felt borrowed, as though someone had paused the world." Some density issues in expository passages ("inside it, instruments recorded uncensored weather, the raw screams..."). Information density is high but occasionally tips into overwriting. The final sentence runs long but maintains clarity.</comment>
+<question>7</question><grade>7.2</grade><comment>Generally clean prose with good rhythm variation, though occasional abstract phrasing ("borrowed hush," "populated by every honest storm") reduces immediacy. Some filter constructions ("she realized," "she intuited") dull key moments. The "credibly curious nature" phrase feels awkwardly inserted rather than organic.</comment>
 
-<question>8</question><grade>7.7</grade><comment>Fresh synthesis of meteorology and underground resistance creates non-obvious angle on truth vs. propaganda. The carrier pigeon as living shuttle through unmapped circuits shows inventive world-building. Writing messages backward dated tomorrow demonstrates creative temporal play, though the concept edges toward familiar dystopian territory.</comment>
+<question>8</question><grade>7.9</grade><comment>Fresh synthesis of weather recording with data integrity creates non-obvious stakes. The backward-dating strategy and pigeon-as-courier network show genuine ingenuity. The quarantine-as-truth-suppression reversal transforms expected disease containment into information control effectively.</comment>
 
-<question>9 A</question><grade>8.2</grade>
+<question>9 A</question><grade>8.1</grade>
 <question>9 B</question><grade>7.8</grade>
 <question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>7.1</grade>
-<question>9 E</question><grade>6.8</grade>
-<question>9 F</question><grade>7.5</grade>
-<question>9 G</question><grade>6.4</grade>
-<question>9 H</question><grade>6.2</grade>
+<question>9 D</question><grade>6.2</grade>
+<question>9 E</question><grade>7.3</grade>
+<question>9 F</question><grade>8.6</grade>
+<question>9 G</question><grade>6.8</grade>
+<question>9 H</question><grade>7.1</grade>
 <question>9 I</question><grade>7.9</grade>
-<question>9 J</question><grade>6.6</grade>
+<question>9 J</question><grade>6.4</grade>

@@ -1,27 +1,27 @@
 grade_story_wc_155.txt
-<question>1</question><grade>7.8</grade><comment>Luma's motivation to recover lost joy is embodied through concrete actions (searching for color, painting with light, pressing palms to wall), with internal contradiction between present sorrow and childhood memory driving the peak choice. The transformation from "pocket empty yet heart over-exposed" shows earned change with visible cost, though some interiority edges toward abstract ("joy, once lost, hides behind spectral dust").</comment>
+<question>1</question><grade>7.8</grade><comment>Luma's internal journey from searching for lost color to realizing joy was never lost but needed to be "developed" shows genuine character progression with embodied emotion (the fresco warming against her ribs, each brushstroke costing "a sigh of present sorrow"). The closure choice to leave "pocket empty yet heart over-exposed" demonstrates earned transformation with visible cost.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Clear Resonant Reconfiguration lands when Luma realizes "joy had never been lost; it had merely waited to be developed" - this reweights the entire search with felt cost ("each brushstroke cost her a sigh of present sorrow"). The Accumulative/Textural lens holds as sensory layers build toward the final image of the laughing child refilling the orchard. Minor orientation delay (who/where clarifies late in paragraph 1) prevents higher scoring.</comment>
+<question>2</question><grade>8.2</grade><comment>The story follows an Accumulative/Textural lens, building through layered imagery (fog folding, light painting, memory projection) to a Resonant Reconfiguration where Luma realizes joy must be "developed, exposed by risk and displayed by courage." The closure lands with felt cost ("each brushstroke cost her a sigh of present sorrow") and the final image of the laughing girl continuing to refill the orchard "one sun-drop at a time" reweights the opening search.</comment>
 
-<question>3</question><grade>8.4</grade><comment>The ruined orchard district functions as active setting - the cider house wall "remembered every hand that touched it" constrains where the mural can be displayed, while the fresco fragment from the apple press enables the entire transformation. Sensory detail is selective and purposeful (fog that "folded," walls smelling of "fermented stars"), with environment directly shaping the final choice.</comment>
+<question>3</question><grade>8.0</grade><comment>The ruined orchard district's fog becomes a functional constraint that both hides and preserves memory, while specific details like "a cider house whose plaster still smelled faintly of fermented stars" create vivid atmosphere. The environment directly shapes Luma's choices—the fresco fragment can only be found in the cracked press, the memory can only be developed on "a living wall"—making setting essential to closure.</comment>
 
-<question>4</question><grade>7.9</grade><comment>Stakes escalate from searching for a misplaced color to risking "present sorrow" to develop the memory-film, with clear cost at each stage. The Lantern Lattice complicates by requiring a specific living wall, narrowing options. The trade-off is explicit: exchanging current pain for recovered joy, though the middle section could tighten pressure between discovery and painting.</comment>
+<question>4</question><grade>7.4</grade><comment>The dominant stake—recovering lost joy—deepens from abstract search to concrete recovery when Luma must pay "a sigh of present sorrow" for each brushstroke, creating genuine trade-off. While escalation under the textural lens works through accumulation rather than reversal, the cost feels somewhat abstract until the final painting sequence.</comment>
 
-<question>5</question><grade>8.6</grade><comment>Theme emerges organically through the photography/development metaphor - joy requires exposure, risk, and courage to be "developed." The final image of the child "refilling the ruined orchard with color one sun-drop at a time" offers a resonant answer without stating a moral. The fresco fragment that dissolves into the wall creates a perfect synthesis of broken pieces healing into "one flowering tree."</comment>
+<question>5</question><grade>8.3</grade><comment>The theme of joy requiring active development rather than passive recovery emerges organically through concrete action (finding fragment, consulting network, painting with extracted light). The final realization that joy "had merely waited to be developed, exposed by risk and displayed by courage" offers a non-literal answer that reweights the entire search without moralizing.</comment>
 
-<question>6</question><grade>7.7</grade><comment>Distinctive voice with lyric compression ("fog that drowned," "palette in hand") and consistent POV control. Some register elevation strains in places ("conspiratorial wink," "pensive mirth") but the perceptual signature remains specific to an artist who sees in light and color. The experimental/lyric mode is taught early and sustained, though occasional abstract phrasing ("spectral dust") slightly dulls immediacy.</comment>
+<question>6</question><grade>7.6</grade><comment>The lyric voice maintains consistent texture with inventive phrases like "fog that drowned," "soft pleats of mist," and "fermented stars," though occasionally drifts toward elevated register ("conspiratorial wink," "pensive mirth"). POV control remains stable with Luma's artistic perception coloring all observations, particularly in how she sees light and color as tangible materials.</comment>
 
-<question>7</question><grade>7.5</grade><comment>Strong figurative language mostly lands ("fog kept its ancient silence," "masonry like a graft that heals two broken branches") with good rhythm variation. Some overwriting appears ("fermented stars," "centuries of orchard light arrested mid-kiss") and the phrase "pensive mirth" feels forced. Information density is high with most lines doing multiple jobs, though abstract moments like "joy, once lost, hides behind spectral dust" reduce precision.</comment>
+<question>7</question><grade>7.2</grade><comment>Prose shows strong imagery and rhythm variation but suffers from occasional overwrought metaphors ("heart over-exposed," "cognitive smoothness") and some template cadence in the middle section. Information density is high with most sentences doing multiple jobs, though phrases like "proof that the wall still projects its secret reel" feel unnecessarily complex for their payoff.</comment>
 
-<question>8</question><grade>8.3</grade><comment>The synthesis of painting, photography, and memory development creates a fresh angle on recovering lost joy. The Lantern Lattice network of dead painters' knowledge and the specific mechanism of projecting film onto a living wall show genuine ingenuity. The image of joy as undeveloped film waiting for courage to expose it transforms familiar material through specific artistic metaphor.</comment>
+<question>8</question><grade>7.9</grade><comment>The concept of painting with light itself and developing memories like film offers fresh synthesis of artistic and photographic metaphors. The Lantern Lattice network of dead painters' knowledge and the idea of joy as something that must be "developed" rather than found transforms familiar lost-and-found tropes through specific artistic lens.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>8.5</grade>
-<question>9 E</question><grade>8.8</grade>
-<question>9 F</question><grade>7.8</grade>
-<question>9 G</question><grade>8.6</grade>
-<question>9 H</question><grade>7.2</grade>
-<question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>7.6</grade>
+<question>9 A</question><grade>8.2</grade>
+<question>9 B</question><grade>8.8</grade>
+<question>9 C</question><grade>7.6</grade>
+<question>9 D</question><grade>8.4</grade>
+<question>9 E</question><grade>7.8</grade>
+<question>9 F</question><grade>6.2</grade>
+<question>9 G</question><grade>7.4</grade>
+<question>9 H</question><grade>6.8</grade>
+<question>9 I</question><grade>8.6</grade>
+<question>9 J</question><grade>7.2</grade>

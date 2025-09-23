@@ -1,31 +1,33 @@
 grade_story_wc_64.txt
-<question>1</question><grade>8.7</grade><comment>Mercy’s curiosity and tenderness are embodied in every micro-choice—pocketing the coin, climbing the ladder, pressing it into the tin door—culminating in her acceptance of keeperhood. The spiral cipher and seed packets externalize her internal contradiction between caretaker and inheritor, and the final descent carries visible cost: she seals herself from the surface world. A hairline slip: “uncharted echoes flutter through her ribs” flirts with diagnostic label-speak, but the surrounding embodiment rescues it.</comment>
+<question>1</question><grade>8.4</grade><comment>Mercy’s interiority is concrete—her ribs flutter, her fingers tremble—yet the epiphany (“she understands the shape of intentions”) is declared, not dramatized. The renunciation of surface life is credible because the spiral coin and tapestry have physically forced her descent, but the final interior shift is summarized rather than embodied in a last micro-choice.</comment>
 
-<question>2</question><grade>9.1</grade><comment>The causal chain—coin → tapestry cipher → map → trapdoor → cellar—tightens inexorably; each beat forecloses alternatives. Closure lands as Earned Stasis: Mercy’s decision to stay underground forever reconfigures her identity and forecloses her former life. The cost is legible in the soft metallic kiss of the locking silo door. No orientation drift; the lens is causal and unbroken.</comment>
+<question>2</question><grade>8.7</grade><comment>Closure lands as Earned Stasis: Mercy accepts sealed exile below the cemetery, cost legible in the metallic kiss above her head. Causal chain holds—coin → cipher → map → rungs—though the war-refugee backstory arrives as a single explanatory packet rather than earned beats. Orientation is clear by 120 words; lens is Causal throughout.</comment>
 
-<question>3</question><grade>8.9</grade><comment>The velveteen gloom, marble lamb, glass-roofed silo, and subterranean seed cellar are rendered with selective sensory density that constrains choice: the silo’s ladder and tapestry dictate how Mercy can move and learn. The cobalt tin door’s exact diameter matching the sovereign is a micro-setting detail that literally gates the next beat. Starlight dripping through glass onto the tapestry charges the final image as Mercy descends into lamplight. One minor lapse: “velveteen gloom” edges toward plush cliché, but the surrounding texture redeems it.</comment>
+<question>3</question><grade>8.9</grade>
+<comment>Velveteen gloom, marble lamb, iron rungs, preserved-apple scent—each detail is filtered through Mercy’s gardener eye and constrains her next physical act. The cobalt silo’s skylight literally channels starlight onto the tapestry, guiding her climb; the seed packets in the cellar re-anchor her new vocation. Environment and tool jointly charge the final image.</comment>
 
-<question>4</question><grade>8.6</grade><comment>The dominant stake—will Mercy discover what the dead intend before dawn pruning?—escalates as each decoded knot narrows her options. The spiral cipher and map raise the cost of ignorance, forcing her to trade surface freedom for custodianship. Agency is hers: she chooses to dig at the lamb’s feet and descend. A slightly abstract “wager memory” keeps the pressure from being fully visceral, hence not 9+.</comment>
+<question>4</question><grade>8.3</grade>
+<comment>Dominant stake—“discover the shape of intentions before dawn”—tightens when the spiral coin heats and the map reveals her own family mound. One meaningful escalation: the drawer’s click forecloses surface life; she pays with irreversible descent. Cost is visible (locked hatch, exile among seed packets) and scales to word count.</comment>
 
-<question>5</question><grade>9.0</grade>
-<comment>Theme emerges through concrete objects: seeds labeled “hope, defiance, return” reweight the spiral from geometry to generational duty. The dead’s wager on memory versus the living’s wager on hours crystallizes without sermon. The final image—Mercy resetting her chess clock to infinite—offers a resonant, non-literal answer: time itself is now her garden. No thematic drift or final-paragraph moralizing.</comment>
+<question>5</question><grade>8.8</grade>
+<comment>Theme emerges organically: the living must curate memory so the dead can outwager oblivion. The spiral migrates from coin to root to seed catalogue, reweighting gardening from caretaking to guardianship without overt thesis. Final image of infinite chess clock crystallizes the wager concept without moralizing.</comment>
 
-<question>6</question><grade>9.2</grade>
-<comment>The voice is lush yet precise, its syntax mirroring Mercy’s tender meticulousness: “tenderly organized by moonlight,” “threads rearranging under her touch.” No head-hopping; focalization stays locked to Mercy’s sensorium. The diction remains within a gardener’s lexicon even at lyrical peaks. Compression like “geometry of intentions” is taught early and paid off at closure.</comment>
+<question>6</question><grade>9.1</grade>
+<comment>Third-person hovers at Mercy’s shoulder, diction horticultural and tactile—“tenderly organized,” “loosens soil,” “scent of preserved apples.” Rhythm accelerates with short beats during dig, then settles into quiet cadence below. No head-hopping; perceptual signature remains consistent and pressure-responsive.</comment>
 
-<question>7</question><grade>8.8</grade>
-<comment>Prose is propulsive, every sentence advancing image or causality: “starlight drips,” “spiral closes,” “metallic kiss.” No loops, no filter-verb stacks. Occasional elevated phrasing (“uncharted echoes flutter”) flirts with purple but serves the fairy-tale register. Final line cadence is immaculate.</comment>
+<question>7</question><grade>8.6</grade>
+<comment>Sentences carry double duty—action, atmosphere, and metaphor braided without scaffold. Occasional elevated phrasing (“uncharted echoes flutter through her ribs”) borders on purple but stays within Mercy’s sensorium. No loops or mixed metaphors; prop tracking (coin, tapestry, map, rungs) is exact.</comment>
 
-<question>8</question><grade>9.0</grade>
-<comment>The synthesis of war-time refugee cellar, cemetery chess clock, and spiral cipher feels inevitable yet wholly fresh. The sovereign case and tapestry transform from antique props into keys to an inherited moral underground. Specificity—seed packets in grandmother’s hand—grounds the fantastical frame. Risky descent into locked earth pays off with conceptual cost rather than gimmick.</comment>
+<question>8</question><grade>8.9</grade>
+<comment>Fuses war-hideout history with cemetery-gardener frame; spiral-as-cipher feels fresh yet inevitable. Risky descent into missile-silo root cellar pays off by literalizing “buried memory.” Specificity of seed-labelled intentions prevents trope drift; removal would collapse the story’s engine.</comment>
 
 <question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.3</grade>
-<question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.6</grade>
-<question>9 F</question><grade>8.2</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>7.3</grade>
-<question>9 I</question><grade>8.0</grade>
-<question>9 J</question><grade>8.1</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>7.9</grade>
+<question>9 D</question><grade>8.1</grade>
+<question>9 E</question><grade>8.8</grade>
+<question>9 F</question><grade>8.3</grade>
+<question>9 G</question><grade>8.0</grade>
+<question>9 H</question><grade>7.4</grade>
+<question>9 I</question><grade>8.6</grade>
+<question>9 J</question><grade>8.9</grade>

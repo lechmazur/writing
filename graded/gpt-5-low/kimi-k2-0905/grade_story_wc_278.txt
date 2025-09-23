@@ -1,19 +1,19 @@
 grade_story_wc_278.txt
-<question>1</question><grade>8.5</grade><comment>Clear, consistent motivation rooted in guilt propels concrete choices (RESTORE, then RELEASE INSECT). Interiority is embodied through object interactions (amber, stylus, letters) rather than labels. A credible internal tension appears at the final menu (BECOME LULLABY vs RELEASE), with a felt renunciation. Cost is present but a shade soft because she avoids the starkest sacrifice.</comment>
-<question>2</question><grade>8.6</grade><comment>Patterned causal chain (tether → projection → menu → letters bind → second menu → release) reads coherent under a hybrid leaning Accumulative/Textural lens. Orientation is strong from the first line and holds. Closure lands via a decisive choice (RELEASE) that reconfigures the premise with a legible emotional price. The cost could be sharpened, but the before/after is clear.</comment>
-<question>3</question><grade>8.9</grade><comment>The laboratory, console, and antique-letter apparatus are vivid, specific, and integrated into action; tools and micro-setting elements constrain choices (menus, tethering, binding letters). Recurring objects (amber, stylus) charge the final image. Sensory detail tracks urgency without bloating. World rules are consistently learned through use.</comment>
-<question>4</question><grade>8.4</grade><comment>Dominant stake (quelling guilt) is signaled early and tightens with the lab’s predatory revelation and the binding letters. The second menu crystallizes a true trade-off; slicing the paper chain and releasing the insect is an active, earned resolution. The price is primarily internal—she foregoes “BECOME LULLABY”—which reads but could be made more viscerally unavoidable.</comment>
-<question>5</question><grade>8.8</grade><comment>Motifs (amber insect, meteor hush, haunted firmware) evolve into a resonant answer about releasing rather than embodying guilt. The lab’s conceptual turn (it cultivates, not archives) reframes prior images without moralizing. The final emptiness of the amber reweights the whole in a concrete, emotionally credible way.</comment>
-<question>6</question><grade>8.7</grade><comment>A distinct, confident lyric third-person close with controlled cadence; diction and imagery are purposeful and coherent. The voice modulates under pressure without losing clarity. No head-hopping or stance slips; patterned elision is taught and paid off.</comment>
-<question>7</question><grade>8.5</grade><comment>High-density lines do multiple jobs; metaphoric texture is rich yet legible with minimal clutter. A few stacked images approach lushness but do not occlude causality or the closure image. Rhythm varies and supports momentum; proofreading is clean.</comment>
-<question>8</question><grade>8.8</grade><comment>Fresh synthesis—constellation tattoos as firmware nodes, a lab of lost sounds, menus offering existential trades—feels specific and inevitable in hindsight. Risk-taking is coherent and not gimmicky. The conceptual turn integrates with character, not just premise.</comment>
-<question>9 A</question><grade>9.3</grade>
+<question>1</question><grade>8.0</grade><comment>Motivation is crystal clear (to quiet guilt), and her choices—RESTORE, then RELEASE INSECT—align under pressure. The temptation to “BECOME LULLABY” briefly spotlights a credible counter-impulse. The cost is present but a bit soft; we intuit forfeiture of her voice-as-lullaby rather than feel it viscerally. Still, interiority remains specific and earned through tactility (stylus, chain, itch of her constellation).</comment>
+<question>2</question><grade>8.8</grade><comment>Single-scene causal spine reads clean: tether → projection → RESTORE → tightening letters/chorus → new menu → RELEASE. Closure lands on-page with a decisive act (slicing, inking mute star, choosing RELEASE) and conceptual repricing (the lab cultivates, not stores, lost sounds). The lens holds as hybrid with a causal backbone supporting a lyric texture. Cost is legible if not monumental.</comment>
+<question>3</question><grade>9.1</grade><comment>Setting is vivid and functional: antique-furniture console, wet-ink letters, and paper chains physically constrain choice. Recurring objects (amber, stylus, console) are integrated into action, not mere backdrop. The lab’s logic stays consistent and charges the final image. Atmosphere serves theme without tipping into museum-tour description.</comment>
+<question>4</question><grade>8.5</grade><comment>Dominant stake—absolving guilt—tightens through escalating pressures: the lab responds to her inputs, then binds her, then reframes the menu with higher-cost options. Her final refusal of self-erasure to instead release the insect is an earned resolution. The emotional price is present but understated, keeping the climax more elegiac than harrowing. Still, the choice clearly closes a path.</comment>
+<question>5</question><grade>8.8</grade><comment>Theme emerges organically: how systems feed on guilt and how forgiveness requires release, not substitution. The insect-lullaby-constellation triad reweights meaning at the end without moralizing. The “lab cultivating lost sounds” realization deepens the ethical frame. Resonance lingers in the quieted collarbone and clear amber.</comment>
+<question>6</question><grade>8.8</grade><comment>Lyric third-person is steady, with a confident, image-driven cadence that tightens at turns. Diction stays coherent to the piece’s metaphoric logic (“meteor hush,” “haunted firmware”). No POV leakage, and distance modulation matches pressure. Compression is purposeful and legible.</comment>
+<question>7</question><grade>8.7</grade><comment>High-density lines mostly carry multiple jobs (image, action, theme) without syntactic slog. Figurative language is consistent and avoids mixed metaphors; no evident loops or scaffold. Momentum is preserved even in lush description. A few ornate phrases flirt with saturation but never blur sense.</comment>
+<question>8</question><grade>9.2</grade><comment>Inventive synthesis—lab of lost sounds, haunted firmware, constellation tattoos as sleeper code—feels singular and inevitable in retrospect. The menu mechanics and antique-console letters translate concept into concrete pressure. Risks in tone and worldbuilding pay off cleanly at closure. The final reconfiguration (release vs. self-sacrifice) avoids the obvious choice.</comment>
+<question>9 A</question><grade>9.0</grade>
 <question>9 B</question><grade>9.4</grade>
-<question>9 C</question><grade>8.6</grade>
-<question>9 D</question><grade>5.4</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>8.8</grade>
-<question>9 G</question><grade>9.2</grade>
-<question>9 H</question><grade>8.2</grade>
+<question>9 C</question><grade>8.7</grade>
+<question>9 D</question><grade>3.8</grade>
+<question>9 E</question><grade>9.2</grade>
+<question>9 F</question><grade>8.9</grade>
+<question>9 G</question><grade>9.3</grade>
+<question>9 H</question><grade>7.8</grade>
 <question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>8.9</grade>
+<question>9 J</question><grade>9.1</grade>

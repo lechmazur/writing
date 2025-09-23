@@ -1,30 +1,27 @@
 grade_story_wc_140.txt
-<question>1</question><grade>8.2</grade><comment>Interiority is rich and embodied; the survivor’s compulsion to collect fragments is dramatized through tactile beats. Contradictory impulses—longing for identity vs loyalty to chemical death—surface but remain more asserted than enacted in scene. The final “armor of borrowed existence” crystallizes a credible renunciation with visible cost.</comment>
+<question>1</question><grade>8.3</grade><comment>Mara’s survivor status and motive (“collect fragments…prove she had once been real”) stay coherent; her micro-choice to glue recording scraps to steel charges final image. Interiority avoids diagnostic speak, her tactile relationship with the death-certificate-to-paper feeding ritual shows cost. Yet her arc lands more as stoic endurance than a contradiction-tested shift; the “cost” feels conceptual rather than embodied inside her skin.</comment>
 
-<question>2</question><grade>8.7</grade><comment>Drive lens is Accumulative/Textural: each shard thickens the protagonist’s ghost-self toward an Earned Stasis. Closure lands cleanly as the stitched figure walks seaward, the tide’s erasure now a price rather than threat. Pattern taught early; transitions legible; cost legible in “clinking with borrowed recollections.”</comment>
+<question>2</question><grade>8.4</grade><closure is a resonant reconfiguration: the dispersal of the death certificate and the stamped “Here remembered…” container reweights the port’s memory apparatus. Causality (“every seventh tide expands…erasing names”) justifies the inversion tactic. Minor drag in archivist reveal feels contrived rather than motivated, docking 0.4.</comment>
 
-<question>3</question><grade>8.9</grade><comment>Port labyrinth is evoked with kinetic specificity—rusted walls, crane cables, frost breath—each filtering perception and guiding movement. Container corridors act as both maze and press, a micro-setting that constrains the final choice. Moon, tide, and surveillance tape anchor time and space without exposition.</comment>
+<question>3</question><grade>8.9</grade>comment>The container labyrinth, moonlit fog, and briny acoustics act as tactile constraint—climbing tower levels literalizes time Mara can’t reclaim; micro-setting constrains the archive placement at tier six. Few details risk becoming atmospheric wallpaper, yet no cap.</comment>
 
-<question>4</question><grade>8.4</grade><comment>Dominant stake—achieve a name the clerks cannot erase—escalates via each collected fragment tightening the laminate skin. One meaningful deepening: the discovered surveillance reel proves prior life, forcing the final act of self-assembly. Cost is felt in the irrevocable exile of walking seaward at dawn.</comment>
+<question>4</question><grade>8.7</grade>comment>Dominant stake (erased identities) escalates via poison label and memory theft stories; each scavenged fragment tightens options until only inverted documentation remains viable. One clear trade-off: feeding personal death-certificate to tide for collective reclamation closes prior path.</comment>
 
-<question>5</question><grade>8.6</grade><comment>Theme of erased histories emerges from concrete actions—counting ampoules, sketching lost skylines—never abstractly stated. Final image reweights the premise: identity becomes a palimpsest of stolen voices, the city’s forgetting now the protagonist’s armor. Subtext in gesture and silence sustains ambiguity without confusion.</comment>
+<question>5</question><grade>9.2</comment>comment>“Who gets to be archived” emerges purely through images: labeled chemical, emptied photo frames, sound recorder. Final non-literal answer—“rhythm of tides pulsed with layered stories”—reconfigures memory without moralizing.</comment>
 
-<question>6</question><grade>9.1</grade>
-<comment>Voice is sinewy, maritime, and lyrically compressed; perceptual signature skews toward synesthetic port detail. Rhythm accelerates with tide urgency, then breathes in the stevedore’s memory. No head-hopping; POV remains locked to the survivor’s haunted sensorium.</comment>
+<question>6</question><grade>8.8</comment>comment>Third-person omniscient keeps distance aligned with “nameless identity”; syntax breathes from tidal hush to drone-garbled sensors. Near-perfect control during drone-sensor evasion, no head-hop.</comment>
 
-<question>7</question><grade>8.8</grade>
-<comment>Prose is dense yet propulsive; each sentence layers image and action. Occasional lyric excess (“frost curls like old cassette ribbon”) risks overwriting but pattern-taught and paid off. Zero loops or scaffold; grammar and tense immaculate.</comment>
+<question>7</question><grade>8.5</comment>comment>High information density—“layer of lives that had slipped through official nets,” “dyres sour scent”—with natural cadence. Two over-figurative bursts (“moons that bled yellow halos,” “skin rise beneath her skin like braille”) slightly muddle at climax; −0.3 keeps cap away.</comment>
 
-<question>8</question><grade>8.5</grade>
-<comment>Premise of a bureaucratically dead man weaving identity from port detritus feels fresh; execution grounds the surreal in tactile specificity. Risky lyric accumulation succeeds because closure reconfigures the rule-set. Avoids cliché of port noir through idiosyncratic voice and object use.</comment>
+<question>8</question><grade>9.3</comment>comment>Fresh synthesis: bureaucratic erasure reframed through maritime soundscape and archived scraps. Poison-label-as-template trick feels inevitable, grounded in container ecology. Final inversion risks echo but executes without cliché.</comment>
 
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>7.4</grade>
-<question>9 C</question><grade>8.0</grade>
-<question>9 D</question><grade>7.2</grade>
-<question>9 E</question><grade>8.6</grade>
-<question>9 F</question><grade>8.3</grade>
-<question>9 G</question><grade>8.1</grade>
-<question>9 H</question><grade>7.6</grade>
-<question>9 I</question><grade>7.9</grade>
-<question>9 J</question><grade>8.2</grade>
+<question>9 A</question><grade>8.7</grade>
+<question>9 B</question><grade>9.1</grade>
+<question>9 C</question><grade>8.4</grade>
+<question>9 D</question><grade>7.9</grade>
+<question>9 E</question><grade>8.0</grade>
+<question>9 F</question><grade>7.9</grade>
+<question>9 G</question><grade>8.2</grade>
+<question>9 H</question><grade>7.3</grade>
+<question>9 I</question><grade>7.8</grade>
+<question>9 J</question><grade>8.4</grade>

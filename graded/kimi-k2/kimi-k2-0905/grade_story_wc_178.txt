@@ -1,34 +1,38 @@
 grade_story_wc_178.txt
-<question>1</question><grade>8.4</grade><comment>Naram-bel’s frugality, fear of empirical irony, and devotion to his sister are embodied in concrete micro-choices (bartering barley, whispering her name, pressing the tile to the door). The final renunciation—becoming “the silence between regimes”—is earned by prior causality and carries visible cost. Interiority is specific, never diagnostic. Only minor drift: the sister remains off-page, so relationship crucible is implied rather than dramatized.</comment>
+<question>1</question><grade>7.8</grade><comment>Naram-bel’s economical ardor (trading barley for a tile he hesitates to use) grounds him, and the hushed, covenant-seeking decision to guard the secret at cost earns palpable sorrow in the climactic kneel. Flaws: the sister’s “faith in math outlasting empire” arrives as label sentiment rather than embodied contradiction.</comment>
 
-<question>2</question><grade>8.9</grade>
-<comment>Single continuous scene, causal lens. Orientation (who/where/when) is anchored by line 3. Closure is a Resonant Reconfiguration: the astronomer’s Earned Stasis—vanishing to guard the chamber—reconfigures the palace’s future and carries undeniable conceptual cost. No causality breaks; every beat links because/therefore. One transition (courtyard to inner sanctum) is legible.</comment>
+<question>2</question><grade>8.5</grade><comment>Causal drive holds cleanly: because empires erase knowledge, therefore he must act before dawn → discovers tile-as-key. Closure is decisive (kneel, vow, disappearance) with crystallized cost: vanished astronomer replaces erased chart. One micro turn in “empirical irony” feels earned.</comment>
 
-<question>3</question><grade>8.7</grade>
-<comment>Palace breathes through selective, purposeful detail: cedar doors, cracked lapis lions, copper door, starlight clerestory. The magic square tile functions as micro-setting that constrains choice and charges the final image. Spatial choreography is clean; no impossible positions. Sensory hierarchy reflects Naram-bel’s priorities—dust like pale constellations, cool copper under palm.</comment>
+<question>3</question><grade>8.3</grade>
+<comment>Obsidian table, cracked lapis lions, starlit clerestory are tactile and used: dust, cedar doors, and starlight guide action and pressure choices rather than decorate. Micro-setting qualifies, but palace cube remains slightly abstract—cap 8.3.</comment>
 
-<question>4</question><grade>8.6</grade>
-<comment>Dominant stake: preserve knowledge before new king erases it. Pressure tightens once—tile’s projection reveals the hidden sanctum—forcing irrevocable choice. Cost is legible: eternal guardianship, vanishing from history. No coincidence resolves; agency drives every turn.</comment>
+<question>4</question>
+<grade>8.4</grade>
+<comment>Dominant stake is protecting intangible knowledge from tyranny; dawn deadline keeps pressure legible, tile-as-key is coherent escalation. Final narrowing (eternal vigilance replacing discovery) has implicit cost, though price could be more visceral—slight reservation, high 8 band.</comment>
 
-<question>5</question><grade>8.8</grade>
-<comment>Theme emerges organically: mathematics as resistance to empire. Encrypted devotion is dramatized, not stated—tile’s lattice translates into dimension, covenant sealed in silence. Final image (dust that refuses to settle) reweights premise without moralizing. Subtext in gestures: pressing forehead to tile, whispered name.</comment>
+<question>5</question>
+<grade>8.7</question>
+<comment>Theme of devotion to unknowing crystallizes without sermonizing: cosmic order persists beyond empires. The magic square reconfigures as prophecy rather than possession, letting ambiguity linger in the dusky aftersound—quiet resonance over tidy moral.</comment>
 
-<question>6</question><grade>8.9</grade>
-<comment>Distinct perceptual signature: astronomer’s diction (“empirical irony,” “invisible hinges of heaven”) stays within plausible lexicon. Rhythm modulates with pressure—long cadences in dusk, clipped steps inside sanctum. No head-hopping; POV distance stable. Compression (“time tasted of copper and ash”) is taught early and paid off.</comment>
+<question>6</question>
+<grade>8.1</grade>
+<comment>Third-limited stays clean; perceptual signature (“frugal astronomer,” “pale constellations of dust”) is distinct and sensory. Diction remains poetic without purple drift; slight hiccup “empirically ironic” as meta-comment, but context contains it—just under 8.2.</comment>
 
-<question>7</question><grade>8.8</grade>
-<comment>Zero loops or scaffold; high information density. Metaphors are precise—dust like pale constellations, equations murmuring in cuneiform. No mixed vehicles. Syntax accelerates under pressure. Final line lands clean: “dust that refused to settle.”</comment>
+<question>7</question>
+<grade>8.2</question>
+<comment>Most sentences carry double-duty (e.g., “stone sighed; mechanisms older than language”) with varied rhythms. Occasional noun stacks (“encrypted devotion sealing uncertain futures”) verge on over-density in mid-closure, but do not obscure beat clarity.</comment>
 
-<question>8</question><grade>9.2</grade>
-<comment>Fresh synthesis: magic-square-as-key reimagines Babylonian palace as vault of pure number. Risk-taking (renunciation over confrontation) heightens stakes without gimmickry. Specificity of tile’s 34-sum and lapis weight makes premise irreplaceable. Transformation test: story fails if names or place change.</comment>
+<question>8</question>
+<grade>8.6</question>
+<comment>Fusion of magical square + Babylonian astronomy + political interregnum feels fresh, not ornament. The premise commits fully; transformation test passes—swap elements and the story collapses. Subtle risk in choosing contemplative covenant over spectacle pays off.</comment>
 
-<question>9 A</question><grade>8.4</grade>
-<question>9 B</question><grade>9.1</grade>
-<question>9 C</question><grade>8.6</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.7</grade>
-<question>9 F</question><grade>8.3</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>8.0</grade>
-<question>9 I</question><grade>8.8</grade>
-<question>9 J</question><grade>8.2</grade>
+<question>9 A</question><grade>7.9</question>
+<question>9 B</question><grade>9.2</question>
+<question>9 C</question><grade>8.7</question>
+<question>9 D</question><grade>7.1</question>
+<question>9 E</question><grade>8.8</question>
+<question>9 F</question><grade>7.3</question>
+<question>9 G</question><grade>6.4</question>
+<question>9 H</question><grade>7.5</question>
+<question>9 I</question><grade>8.0</question>
+<question>9 J</question><grade>8.6</question>

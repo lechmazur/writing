@@ -1,29 +1,31 @@
 grade_story_wc_80.txt
-<question>1</question><grade>8.9</grade><comment>Mara’s interior contradiction—stoic recorder vs. mourning archaeologist—drives every micro-choice; the ink-drop offering and palm-to-stone beat embody the cost of her renunciation. Motive intensifies from diagnostic fatigue to elegiac mission, culminating in the sealed confessions that foreclose return. No secondary characters dilute the crucible; her flaws and limits remain consistent, earning the final walk-away.</comment>
+<question>1</question><grade>8.7</grade><comment>Mara’s interiority is vivid and embodied; her shift from certifier to mourner is dramatized through tactile micro-choices. The stoically sensitive trait is shown, not labeled, in her wince at the gull and her palm pressed to the stone. The final renunciation—walking away without looking back—earns its cost from every sealed confession. Only the absence of a second on-page character keeps it from the 9-band.</comment>
 
-<question>2</question><grade>9.2</grade><comment>Single-scene causality holds: drawbridge rises → descent → survey → seal → emerge. Each crack inspected tightens the choice to embed memory, narrowing options until the keystone void demands direct inscription. Closure lands as Resonant Reconfiguration—her lighter inkwell signals irrevocable commitment; the cost is legible in the sealed scars and her inland departure.</comment>
+<question>2</question><grade>9.0</grade><comment>The Accumulative/Textural lens is taught early and held: each inserted note layers memory into the structure until the keystone void becomes a charged eye. Closure is a Resonant Reconfiguration—the inked confession on stone reweights the entire survey. Causality is tight: every fissure she fills forecloses her own return. The final image of future scholars coring the stone crystallizes the cost.</comment>
 
-<question>3</question><grade>9.0</grade><comment>Granite coping, dripping chains, moonlit ribs, rusted chandeliers—every detail is filtered through Mara’s professional gaze and private grief. The submerged pavilion’s spatial logic constrains movement and dictates the ritual; the inkwell’s silver cap and midnight ink become micro-settings that charge the final inscription. Sensory selection narrows under water and darkness, mirroring interior narrowing.</comment>
+<question>3</question><grade>8.9</grade><comment>The submerged pavilion is rendered with selective, sensory precision—rust chains like censers, marble steps echoing coins. The environment actively constrains her movements and choices; water depth dictates where she can place each note. The moonlit ribs and circular void become metaphors that earn their place by shaping the final inscription. Only a touch of ornamental phrasing keeps it from 9.0.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—“can the lovers’ rotunda be saved?”—is reframed into “can memory be saved?” as each fissure becomes a burial site for abandoned dreams. Pressure escalates via each sealed confession; the circular void forces the climactic inscription, foreclosing any future retrieval. Cost is visible in the irreversible sealing and the emotional weight of the lighter inkwell.</comment>
+<question>4</question><grade>8.8</grade><comment>The dominant stake—whether to preserve or entomb memory—tightens with each inserted confession. Agency is continuous: every pried stone narrows her future options. The cost is visible in the dissolving ink and the irreversible lime seal. A hairline slip: the engineers’ off-page judgment feels slightly abstract.</comment>
 
-<question>5</question><grade>9.1</grade><comment>Theme of absence-as-presence emerges from the interlaced voids and sealed words; no explicit statement intrudes. Subtext operates in the ink’s bruise on stone and the hush of chains. Final image—“already imagining future scholars…”—reweights the premise: preservation requires loss. Moral complexity lingers without tidy resolution.</comment>
+<question>5</question><grade>9.1</grade>
+<comment>Theme emerges from the pattern of absence made present: each missing tile reveals the next, every sealed crack stores a dream. The final inscription—“I am here to mourn what we almost kept”—delivers a resonant, non-literal answer without moralizing. Subtext operates in the silence after the gull’s cry and the ink’s vanishing bloom. No redundancy or thematic echo.</comment>
 
-<question>6</question><grade>9.0</grade><comment>Third-person limited remains locked to Mara; perceptual signature blends surveyor precision with elegiac sensibility. Syntax lengthens underwater, contracts on the ladder—rhythm mirrors descent/ascent. No dialogue needed; interior monologue stays concrete and character-specific. Diction stays within her lexicon; no filter-verb stacks dull immediacy.</comment>
+<question>6</question><grade>8.9</grade>
+<comment>The lyric third-person voice is consistent, textured, and purposeful; compression like “boots kissing the wet marble” teaches the pattern early. POV distance remains stable, filtering every detail through Mara’s stoically sensitive perception. No head-hopping or register drift. A single clause—“a code of hollows she alone could read”—skates close to exposition but is earned.</comment>
 
 <question>7</question><grade>9.0</grade>
-<comment>Prose is dense yet fluid: “chains still dripping canal water like a reluctant farewell” compresses time, emotion, and setting. No loops, scaffold, or mixed metaphors. Sentence variety supports pressure; paragraph cuts are purposeful. Line-level propulsion carries every beat toward the final inscription.</comment>
+<comment>Prose is dense yet propulsive; each sentence advances atmosphere or character. Metaphors are precise—“ink clung like a secret bruise”—and never obscure causality. No loops, scaffold, or mixed metaphors. Rhythm modulates with pressure: short clauses for descent, longer cadences for reflection. Final line lands with crystalline clarity.</comment>
 
-<question>8</question><grade>9.3</grade>
-<comment>The conceit of embedding confessions in structural repairs feels inevitable yet fresh; no prior template matches this synthesis. Risky lyric compression pays off in the charged final image. Specificity of hydraulic lime, oil-paper, and moonlit ribs prevents abstraction. Transformation test: story collapses if any element is swapped.</comment>
+<question>8</question><grade>9.2</grade>
+<comment>The conceit of a surveyor who archives abandoned dreams inside the very wounds she measures is fresh and fully committed. Tropes of drowning cities and lost love are transformed through tactile specificity and the inversion of repair into burial. The risk of lyric excess is balanced by concrete stakes. Feels inevitable in hindsight.</comment>
 
-<question>9 A</question><grade>9.4</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>9.0</grade>
-<question>9 D</question><grade>8.8</grade>
-<question>9 E</question><grade>8.5</grade>
-<question>9 F</question><grade>9.3</grade>
-<question>9 G</question><grade>9.1</grade>
-<question>9 H</question><grade>8.7</grade>
-<question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>8.9</grade>
+<question>9 A</question><grade>8.6</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>8.8</grade>
+<question>9 D</question><grade>8.4</grade>
+<question>9 E</question><grade>8.7</grade>
+<question>9 F</question><grade>9.1</grade>
+<question>9 G</question><grade>8.9</grade>
+<question>9 H</question><grade>8.3</grade>
+<question>9 I</question><grade>8.5</grade>
+<question>9 J</question><grade>8.7</grade>

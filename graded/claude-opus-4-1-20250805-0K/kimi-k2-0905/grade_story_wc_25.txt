@@ -1,27 +1,31 @@
 grade_story_wc_25.txt
-<question>1</question><grade>7.4</grade><comment>Both characters have clear motivations rooted in inheritance and professional expertise, with Mira's seven years of experience contrasting effectively against the academic visitor's unfamiliarity. The discovery moment earns its resonance through accumulated detail about whisper acoustics and wartime history. Minor deduction for the visitor's somewhat convenient arrival timing and Mira's quick trust of a stranger in restricted areas.</comment>
+I'll evaluate this story as a demanding editor, inferring the drive lens and assessing each category against publishability standards.
 
-<question>2</question><grade>7.8</grade><comment>Strong Accumulative/Textural lens with the storm, maps, and acoustic discoveries building to a Resonant Reconfiguration where the labyrinth's true purpose as a whisper network is revealed. The closure lands with conceptual cost—the realization that Mira's maps were incomplete because she'd been navigating by sight rather than sound. Orientation anchors (who/where/when) establish clearly in the opening paragraph.</comment>
+**Drive Lens: Accumulative/Textural** - The story builds through layered revelations about the labyrinth's acoustic properties, with density increasing toward the discovery of the whisper network's true purpose.
 
-<question>3</question><grade>7.6</grade><comment>The labyrinth setting actively constrains navigation (GPS failure) and enables the acoustic discovery, with sensory detail filtering through Mira's professional expertise ("metallic whisper," "corrugated corridors"). The geomagnetic storm's violet ribbons and electrical interference create atmosphere while serving plot function. The seven-corridor star pattern and acoustic chamber specificity elevate the final revelation.</comment>
+<question>1</question><grade>7.3</grade><comment>Mira's expertise and careful observation create believable motivation, particularly her ability to read walks and navigate by sound. The woman's inherited quest feels slightly convenient, but both characters make concrete micro-choices (testing whisper theory, following acoustic maps) that reveal values under pressure. Internal contradiction appears when Mira shifts from skepticism to understanding, though the transition could be sharper.</comment>
 
-<question>4</question><grade>7.2</grade><comment>Stakes escalate from navigation challenge to historical mystery to fundamental misunderstanding of the labyrinth's purpose, with the storm creating temporal pressure. The acoustic discovery reweights Mira's professional knowledge with visible cost—her maps were incomplete. Slight deduction for the convenient alignment of storm, inheritance, and Mira's presence, though the "calculated spontaneity" framing partially justifies this.</comment>
+<question>2</question><grade>7.8</grade><comment>Clear Resonant Reconfiguration lands when Mira realizes the labyrinth is an acoustic machine, not just storage—this reweights all her prior mapping work with visible conceptual cost ("her maps had been incomplete"). The accumulative structure builds through sound details toward this discovery. Orientation anchors effectively (port, storm, containers), and the pattern of whispers-over-shouts pays off at closure.</comment>
 
-<question>5</question><grade>7.5</grade><comment>Theme emerges organically through the whisper network discovery—quiet voices traveling farther than shouts resonates against wartime secrecy and modern satellite dependence. The zodiac coins and keys accumulate meaning without heavy-handed symbolism. Final realization about navigation by sound rather than sight offers a non-literal answer to why some knowledge remains hidden.</comment>
+<question>3</question><grade>7.6</grade><comment>The labyrinth's acoustic properties constrain choices throughout—GPS failure forces hand-drawn maps, whispers must be used instead of shouts, the seven-corridor junction creates specific spatial pressure. The geomagnetic storm actively shapes navigation and discovery timing. Sensory hierarchy emphasizes sound over sight, fitting Mira's expertise, though some container descriptions feel generic.</comment>
 
-<question>6</question><grade>7.3</grade><comment>Mira's professional voice filters perception effectively ("trained ear identified the walk," "deliberately pitched low"), with some texture in technical observations. Dialogue carries subtext about trust and discovery without over-explaining. Minor deduction for occasional register elevation ("calculated spontaneity of the moment") and the visitor's voice lacking distinction beyond education markers.</comment>
+<question>4</question><grade>7.4</grade><comment>Stakes escalate from navigation challenge to proving a wartime communication system, with the storm creating temporal pressure. The whisper network discovery deepens rather than reverses, changing knowledge about the labyrinth's purpose. Cost appears when Mira confronts her incomplete understanding despite seven years of expertise, though the emotional price could be more visceral.</comment>
 
-<question>7</question><grade>7.1</grade><comment>Generally clean prose with effective rhythm variation, particularly in shorter observations ("Looking for someone?") contrasting with longer descriptive passages. Information density is solid with most sentences advancing multiple story elements. Deductions for repetitive "whispered" constructions, some filter-heavy passages ("Mira felt," "Mira understood"), and occasional overwrought phrasing ("intersection of her maps, this stranger's inheritance").</comment>
+<question>5</question><grade>7.9</grade><comment>Theme emerges organically through the whisper/shout contrast, gaining layers as wartime secrets and quiet resistance are revealed. The final realization that "quietest voices travel farthest" resonates without moralizing, reweighting Mira's technical knowledge with historical purpose. The zodiac coins and keys accumulate meaning across eras without forced symbolism.</comment>
 
-<question>8</question><grade>7.7</grade><comment>Fresh synthesis of industrial setting with acoustic mystery, transforming the familiar shipping container maze into a communication device. The whisper network concept and navigation-by-sound revelation feel earned and non-obvious. The wartime history adds authentic depth without becoming pure historical fiction.</comment>
+<question>6</question><grade>7.5</grade><comment>Voice maintains consistent technical precision through Mira's POV, with perceptual focus on sound and movement patterns. Dialogue feels natural with appropriate subtext ("Looking for someone?" tests rather than confronts). Some filter verbs appear ("Mira felt," "realized") but don't overwhelm immediacy. The woman's voice could be more distinct from Mira's.</comment>
 
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>7.5</grade>
-<question>9 C</question><grade>6.2</grade>
-<question>9 D</question><grade>7.2</grade>
+<question>7</question><grade>7.2</grade><comment>Prose achieves clarity with varied sentence rhythms, particularly in passages about sound traveling through metal. Information density is high without overwriting. Minor issues: "calculated spontaneity of the moment" tells rather than shows, some container descriptions recycle similar phrasing, and "understanding flooding her features" is clichéd. No loops or scaffolding that harm momentum.</comment>
+
+<question>8</question><grade>7.7</grade><comment>The acoustic labyrinth concept freshly combines maintenance work, wartime history, and communication theory. Specific details (triangular key, whisper network, seven-corridor junction) avoid generic port settings. The transformation of industrial infrastructure into a deliberate acoustic machine offers genuine surprise that feels earned through established details.</comment>
+
+<question>9 A</question><grade>8.2</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>6.3</grade>
+<question>9 D</question><grade>7.5</grade>
 <question>9 E</question><grade>6.8</grade>
-<question>9 F</question><grade>7.6</grade>
-<question>9 G</question><grade>8.2</grade>
-<question>9 H</question><grade>7.4</grade>
-<question>9 I</question><grade>8.0</grade>
-<question>9 J</question><grade>7.0</grade>
+<question>9 F</question><grade>7.2</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>7.6</grade>
+<question>9 I</question><grade>8.8</grade>
+<question>9 J</question><grade>6.5</grade>

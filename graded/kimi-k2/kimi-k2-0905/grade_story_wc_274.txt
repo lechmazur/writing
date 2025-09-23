@@ -1,25 +1,19 @@
 grade_story_wc_274.txt
-<question>1</question><grade>7.4</grade><comment>Sera’s conflicted motives and micro-choices (“felt the letter burn in her sleeve”) are embodied and specific; the moral calculus is dramatized, though a few beats lean on emotive labels.</comment>
-<question>2</question><grade>8.8</grade><comment>A causal chain cleanly threads thaw→letter→upload→sealed pod; the Resonant Reconfiguration lands in the final image (“woman half ice, half fire”) with felt cost under the Causal lens.</comment>
-<question>3</question><grade>7.9</grade><comment>Atmosphere is vivid, selective (“cryogenic archivist named Sera woke to the dizzying quiet of her echoing library under snow”), and each detail constrains or powers the upload act.</comment>
-<question>4</question><grade>8.2</grade><comment>Dominant stake—truth versus survival—tightens decisively when Sera locks the hatch (“blink that follows surprise”) and broadcasts what cannot be revoked; the cost is on-page.</comment>
-<question>5</question><grade>8.7</grade>
-<comment>Theme of memory as civic duty emerges organically; the final aurora over texts rebirth-or-fire image reweights the premise without overt statement.</comment>
-<question>6</question><grade>8.6</grade>
-<comment>Vocabulary, cadence, and sensory filtering are coherent and charged; near-lyric density never obscures causality.</comment>
-<question>7</question>
-<grade>8.1</grade>
-<comment>Strong line-level craft with varied sentence rhythm, minimal scaffolding; one or two near-redundant phrases (“dizzying quiet deepened as if the library...”) trim a point.</comment>
-<question>8</question>
-<grade>7.8</grade>
-<comment>Familiar dystopian vault, but the cryo-archivist as both curate/ anarchist and the contraband letter as live-data coal feel freshly specific.</comment>
-<question>9 A</question><grade>8.7</grade>
+<question>1</question><grade>8.1</grade><comment>Sera’s interior contradiction—loyal cataloguer versus defiant whistle-blower—drives every major beat; the choice to transmit the truths is a hinge that redefines vantage and is paid for in suspension. Embodied hesitation (thermal sleeve clutch) shows bravely conflicted motive under pressure. Exiting line crystallizes stakes: “a woman half ice, half fire” becomes earned iconic closure.</comment>
+<question>2</question><grade>8.4</grade><comment>Causality is tightened by the lethal thaw, the creeping upload choice, and the city-speaker payoff; the stake grows tighter as each beat eliminates other options. Sera’s agency activates dormant networks that council believed dead, making the ending inevitable yet surprising under a Causal lens. Closure lands: contraband truths leak skyward, foreclosing past silence.</comment>
+<question>3</grade>7.5</grade><comment>Library under snow is sensorily anchored: glass columns hum, hatch snow hiss, dome ruptures red-lighting histories. The frozen atlas quadrant serves as both physical obstacle and moral vantage; late snow settling on texts forecloses the past visually. Snow breathes metaphor: corruption buried yet burning hotter than paper.</comment>
+<question>4</question><grade>8.2</grade><comment>Dominant stake—memory integrity versus state silencing—escalates beat-by-beat: breach letter, upload risk, sky-sideflash explosion. Each escalation narrows Sera’s safe options until reborn library or burned archive is the only quotient left. Cost crystallizes: council scuttles to deny, citizens awaken in surprise blink.</comment>
+<question>5</question><grade>7.3</grade><comment>The shard theme—memory as a collective hallucination—emerges through Sera’s non-dialogue (archive silence) and the letter’s public broadcast. Rather than state, the theme resounds when the sky speaks banned names, reweighting the value of truth in silence. No tidy moral; only choice and consequence.</comment>
+<question>6</question><grade>7.8</grade><comment>Lyrid, compressed cadence mirrors icy stillness; purposeful elision (“breath frosting,” “live coal”) tightens the moment. POV filters sensory hierarchy: cold over touch, chilled wind over dialogue. Final whisper in the pod is a distinct perceptual signature at pressure.</comment>
+<question>7</question><grade>7.9</grade><comment>High density; sentences advance story or thermal pulse. No figurative muddle—metaphors (thawing requires heat) serve character stakes. Clarity maintained through sensory anchoring with rhythmic punchlines: “flame cannot catch what the wind carries.” Minor scaffold absent; pushes propulsion.</comment>
+<question>8</question><grade>8.6</grade><comment>Fusions cryo-archivist-whistle-blower archetype into singular perspective feels inevitable, driven by premise invention. Snow-buried archive sending encrypted truths via “dormant networks” reframes familiar rebellion trope. Risk-taking visual: closing image of half-ice, half-fire woman charges memory mythos without caricature.</comment>
+<question>9 A</question><grade>8.3</grade>
 <question>9 B</question><grade>8.9</grade>
-<question>9 C</question><grade>8.8</grade>
-<question>9 D</question><grade>8.3</grade>
-<question>9 E</question><grade>9.0</grade>
-<question>9 F</question><grade>8.2</grade>
-<question>9 G</question><grade>8.4</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>8.6</grade>
-<question>9 J</question><grade>7.7</grade>
+<question>9 C</question><grade>8.7</grade>
+<question>9 D</question><grade>7.4</grade>
+<question>9 E</question><grade>8.5</grade>
+<question>9 F</question><grade>8.6</grade>
+<question>9 G</question><grade>7.9</grade>
+<question>9 H</question><grade>7.8</grade>
+<question>9 I</question><grade>8.2</grade>
+<question>9 J</question><grade>7.0</grade>

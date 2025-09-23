@@ -1,27 +1,27 @@
 grade_story_wc_157.txt
-<question>1</question><grade>7.4</grade><comment>Arlo's motivation to preserve defiance is embodied through concrete actions (planting seeds, evading Inspector Voss) with clear stakes. His charming scholar persona manifests in specific tactics—reciting Lucretius as both deflection and activation code. The internal tension between compliance ("making sure none escape untaxed") and rebellion drives authentic micro-choices, though some interiority leans toward explanatory rather than contradictory.</comment>
+<question>1</question><grade>7.8</grade><comment>Arlo's motivation crystallizes through concrete actions—planting seeds as rebellion against thought taxation—with internal contradiction between his charming facade and genuine defiance. The final choice to gift "untaxed thoughts" carries visible cost (risk of capture/taxation), though some interior phrasing edges toward diagnostic ("converging chaos pressurized"). Minor deduction for "candidly cryptic" appearing as a repeated label rather than fully embodied trait.</comment>
 
-<question>2</question><grade>7.8</grade><comment>Strong causal drive with clear closure: Arlo successfully plants the first seed and escapes to continue his mission, with seven gardens blooming by sunrise as Conceptual Repricing. The thought-tax worldbuilding anchors immediately and constrains all subsequent action. Minor orientation wobble around the "warp" mechanics slightly dulls mid-story clarity but doesn't break causality.</comment>
+<question>2</question><grade>7.6</grade><comment>Causal lens holds: Arlo plants seed → Voss arrives → escape enables completion of seven-garden network → citizens receive "untaxed thoughts." Closure lands as Resonant Reconfiguration with cost (Arlo's risk/exposure), though the final paragraph tells rather than shows the dawn outcome. The "warp" mechanism strains credibility but maintains internal consistency. Orientation anchors cleanly (greenhouse, after thought-taxation).</comment>
 
-<question>3</question><grade>7.6</grade><comment>The greenhouse setting actively constrains choices—surveillance drones overhead, Inspector Voss's arrival forcing immediate action, hidden speakers enabling escape. Sensory details (orchid bees droning "like tiny tax auditors") filter through Arlo's rebellious POV. The planted seed transforming into readable vine charges the final image effectively.</comment>
+<question>3</question><grade>7.4</grade><comment>The greenhouse setting directly constrains choices (hidden speakers, pollen clouds enable escape), with sensory detail filtering through Arlo's priorities ("orchid bees droned like tiny tax auditors"). Spatial choreography tracks cleanly from rows to exit gate. The seed-in-soil "warp" that opens a "green comma" provides micro-setting functionality, though the mechanism lacks grounding.</comment>
 
-<question>4</question><grade>7.2</grade><comment>Dominant stake (preserving defiance against thought taxation) established early and tested through Voss's arrival, forcing Arlo to choose between capture and mission completion. The escape using pollen distraction meaningfully tightens options. Cost is more projected (future blooming) than immediately felt, keeping this from higher bands.</comment>
+<question>4</question><grade>7.2</grade><comment>Dominant stake (preserving mental freedom) escalates through Voss's arrival forcing immediate action under surveillance threat. The tightening—one minute until satellite detection—narrows options and drives Arlo's escape. Cost appears in risk taken and "lighter by one" seed pouch, though the ease of escape via pollen clouds reduces tension at the critical moment.</comment>
 
-<question>5</question><grade>7.5</grade><comment>Theme emerges through the central metaphor of untaxed thoughts as rebellion, with the final image of citizens feeling "an untaxed thought unfurl" offering resonant answer without moralizing. The secret language club's vegetal code creates effective subtext. Slight tendency toward thematic convenience with the perfectly timed pollen release.</comment>
+<question>5</question><grade>7.0</grade><comment>Theme of resistance against authoritarian control emerges through concrete details (Form 1099-IDEA, surveillance drones) rather than abstract statements. The "green comma rewriting reality" and firefly-readable resistance message work as non-literal answers to freedom's value. However, the final paragraph's exposition ("Arlo's gift, the charming rogue scholar's ransom for freedom") edges toward explicit moralizing rather than earned resonance.</comment>
 
-<question>6</question><grade>7.3</grade><comment>Distinctive voice combining scholarly diction ("candidly cryptic," "Lucretius") with rebellious energy. POV control mostly strong, though brief omniscient slip in final paragraph ("every citizen walking past would feel"). Dialogue between Arlo and Voss carries effective subtext of cat-and-mouse tension.</comment>
+<question>6</question><grade>7.5</grade><comment>Distinct voice with controlled whimsy ("orchid bees droned like tiny tax auditors") and consistent perceptual signature filtering the dystopian world through scholarly wit. Dialogue between Arlo and Voss carries effective subtext through their "candidly cryptic" exchange. Minor repetition of "charming rogue scholar" as epithet rather than integrated description.</comment>
 
-<question>7</question><grade>6.8</grade><comment>Generally clean prose with vivid moments ("moonlight taxed itself for the privilege of existing"). Some template cadence in middle sections ("Arlo replied...The answer came...He exhaled") and filter-verb clustering around perception. Overreliance on participial phrases creates simultaneity confusion in action sequences.</comment>
+<question>7</question><grade>7.3</grade><comment>Strong propulsion through varied syntax and purposeful compression ("He sprinted down alleys where moonlight taxed itself"). Information density high with lines doing multiple jobs. Deductions for template repetition ("candidly cryptic" 3x, "charming rogue scholar" 3x) and the final paragraph's summary-heavy telling that deflates momentum rather than sustaining the escapade's energy.</comment>
 
-<question>8</question><grade>7.7</grade><comment>Fresh synthesis of dystopian thought-control with guerrilla gardening creates memorable premise. The vegetal communication code and specific worldbuilding details (Form 1099-IDEA) transform familiar rebellion tropes. Risk-taking in the conceptual blend heightens stakes without sacrificing clarity.</comment>
+<question>8</question><grade>7.7</grade><comment>Fresh synthesis of dystopian thought-control with botanical resistance creates memorable specificity. The detail of "Form 1099-IDEA" and bees as "tiny tax auditors" transforms familiar surveillance tropes through accounting metaphor. Risk-taking in the vegetal communication system and "warp" mechanics, though the magical realism element isn't fully grounded in the world's logic.</comment>
 
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>6.2</grade>
-<question>9 C</question><grade>7.4</grade>
-<question>9 D</question><grade>5.8</grade>
-<question>9 E</question><grade>6.5</grade>
-<question>9 F</question><grade>7.2</grade>
-<question>9 G</question><grade>7.6</grade>
-<question>9 H</question><grade>8.2</grade>
-<question>9 I</question><grade>7.5</grade>
-<question>9 J</question><grade>6.8</grade>
+<question>9 A</question><grade>7.2</grade>
+<question>9 B</question><grade>6.8</grade>
+<question>9 C</question><grade>7.5</grade>
+<question>9 D</question><grade>5.2</grade>
+<question>9 E</question><grade>6.4</grade>
+<question>9 F</question><grade>6.0</grade>
+<question>9 G</question><grade>7.8</grade>
+<question>9 H</question><grade>7.0</grade>
+<question>9 I</question><grade>7.4</grade>
+<question>9 J</question><grade>6.6</grade>

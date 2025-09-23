@@ -1,33 +1,62 @@
 grade_story_wc_0.txt
-<question>1</question><grade>8.9</grade><comment>Mara’s quiet, data-driven interiority is vivid and consistent; her refusal to name the caterpillar crystallizes her anti-drama creed with cost. The embodied humility when “scales met skin” shows contradictory awe without sentimental slide. One flaw: the neutron-star capsule feels like a prop badge rather than a tool that alters her choices here.</comment>
+<question>1</question>
+<grade>7.3</grade>
+<comment>Mara’s interiority is anchored in sensory detail, but her contradictory impulses stay largely intellectual; the climactic renunciation earns traction from earlier beats, yet the cost feels more stated than embodied.</comment>
 
-<question>2</question><grade>9.2</grade><comment>Closure lands as Conceptual Repricing: the red-shifted fringes and caterpillar reweight “gradual change” with undeniable flood cost. Accumulative lens holds—each dust sweep thickens pattern density until the final shaft of sunlight reconfigures meaning. No因果 breaks; beam-settle creak acts as micro-turn confirming structure survival.</comment>
+<question>2</question>
+<grade>8.7</grade>
+<comment>Causality holds across a single scene; the butterfly-dust mapping to the pulsar data culminates in an earned Conceptual Repricing—watching the next storm rather than fleeing it—with the cost legible in her relinquished urgency.</comment>
 
-<question>3</question><grade>9.0</grade>
-<comment>Greenhouse shards, river silt on laser window, and mango roots half-exposed act as micro-setting that constrains spectrometer alignment and spectral reading. Sensory hierarchy mirrors Mara’s scientific filter: bruised light, sour orchid rot, peacock scale on wrist—each noticed because it carries data. Spatial track clean; no floating glass.</comment>
+<question>3</question>
+<grade>8.4</grade>
+<comment>The ruined greenhouse performs micro-setting duty, offering a cracked teak bench and fern-frond cradle that anchor every tool and sample; its progressive collapse shadows Mara's emotional surrender, charging the final image.</comment>
 
-<question>4</question><grade>8.8</grade>
-<comment>Dominant stake—“strip needless drama”—faces tightening when spectral peaks shift red, proving gradualism already crossed flood threshold. Her recording/upload is an act of endurance that forecloses denial; cost is the caterpillar left unnamed, future butterflies unmet. Pressure coherent under Accumulative lens; no external antagonist needed.</comment>
+<question>4</question>
+<grade>7.8</grade>
+<comment>One dominant stake—seeing change as accumulation rather than drama—tightens through one meaningful fractal overlay; the conflict is internal, but pressure holds and culminates in a stance crystallization where escape is foregone with visible consequence.</comment>
 
-<question>5</question><grade>9.1</grade>
-<comment>Theme emerges from spectral dust and caterpillar: slow variables accrete until catastrophe, yet beauty recycles. Final image of dust spiraling in sunlight reweights earlier “no villains, only vectors” without moralizing. Subtext in unnamed caterpillar—life continues indifferent to human narrative—lingers past last line.</comment>
+<question>5</question>
+<grade>8.1</grade>
+<comment>Theme emerges organically via micro-structures of scale and decay, culminating in the quiet reweighting that “drama is optional; change is not.” The message avoids overt statement, lingering as understated resonance.</comment>
 
-<question>6</question><grade>9.0</grade>
-<comment>Third-person limited stays locked to Mara’s scientific percept; diction (“diffraction grating,” “spectral memories”) belongs to her lexicon. Rhythm breathes—long accumulative sentences mirror dust layering, then tighten to “No villains, only vectors.” No head-hop or register drift; prose is character.</comment>
+<question>6</question>
+<grade>8.0</grade>
+<comment>Free-indirect style stays consistent and textured; scientific diction retains poetic pulse (“cobalt fire,” “kindled humility”) while filtering everything through Mara’s perceptual signature.</comment>
 
-<question>7</question><grade>9.3</grade>
-<comment>Sentences carry double duty: “dust formed a map of gradual change—temperature, humidity, pesticide traces—encoded in the spacing of ridges” shows data, stakes, and theme in one breath. No scaffold loops; each metaphor (galaxies in miniature) returns reweighted at closure. Read-aloud rhythm varies; paragraph cuts exact.</comment>
+<question>7</question>
+<grade>8.4</grade>
+<comment>Clarity is high; no loops or scaffold. Occasional stacked modifiers (“catastrophe is never a single frame...”) risk density overload but remain legible under pressure and do not dull the closure.</comment>
 
-<question>8</question><grade>8.7</grade>
-<comment>Fusing neutron-star decay with butterfly-scale diffraction is fresh synthesis; risk lies in quiet scientific gaze rather than disaster spectacle. Could edge higher if capsule had reciprocal influence on greenhouse reading, but premise still feels inevitable in hindsight. Avoids eco-cliché by data-centric POV.</comment>
+<question>8</question>
+<grade>8.9</grade>
+<comment>The pulsar-neuroscience-butterfly conceit is specific, lived-in, and necessary; removing any layer would collapse the intellectual architecture. The quiet inversion of global catastrophe into microscopic accretion feels fresh and inevitable.</comment>
 
-<question>9 A</question><grade>7.4</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.6</grade>
-<question>9 D</question><grade>7.8</grade>
-<question>9 E</question><grade>8.0</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>8.3</grade>
-<question>9 H</question><grade>6.9</grade>
-<question>9 I</question><grade>8.7</grade>
-<question>9 J</question><grade>8.1</grade>
+<question>9 A</question>
+<grade>7.5</grade>
+
+<question>9 B</question>
+<grade>8.2</grade>
+
+<question>9 C</question>
+<grade>7.9</grade>
+
+<question>9 D</question>
+<grade>7.4</grade>
+
+<question>9 E</question>
+<grade>6.8</grade>
+
+<question>9 F</question>
+<grade>6.9</grade>
+
+<question>9 G</question>
+<grade>7.3</grade>
+
+<question>9 H</question>
+<grade>6.2</grade>
+
+<question>9 I</question>
+<grade>6.6</grade>
+
+<question>9 J</question>
+<grade>7.0</grade>

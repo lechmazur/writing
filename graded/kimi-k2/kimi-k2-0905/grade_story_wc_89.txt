@@ -1,31 +1,50 @@
 grade_story_wc_89.txt
-<question>1</question><grade>8.7</grade><comment>The sister-phoenix bond is vividly embodied; the narrator’s micro-choices (cutting palms, inhaling spices, stepping into the circle) all flow from a single, escalating motive. Interiority is concrete, contradictory (fighting the change while courting it), and culminates in a costly fusion. Minor drift: the “beast whisperer” label is asserted rather than dramatized.</comment>
+<question>1</question><grade>8.1</grade>
+<comment>Interior contradiction—resistance vs. need to “reach her”—grounds the voice; emotions are embodied (branded lip). The shared-body fusion is a credible renunciation that costs her autonomy in mortality. Yet sister-to-phoenix relationship shifts happen at lyric remove rather than dramatized interaction, so pressure feels diffuse once fused.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Closure lands as a Resonant Reconfiguration: the merged guardian rises with felt cost—the forfeiture of separate selves—clear in the final lullaby. Causality is lyrical but intact; every ritual beat (fortune, spices, shadow-sister) tightens toward the fusion. Orientation is swift; no teleporting props.</comment>
+<question>2</question><grade>8.3</grade>
+<comment>Closure delivers an unmistakable Resonant Reconfiguration—two memories braided—charged by the fortune now reweighted among the trees. Lens is Accumulative/Textural: each sensory beat accretes pressure until the final chord reconfigures meaning. Orientation holds: orchard and timeline lock early and serve the ending. The only gap is how sister’s prior agency folds into final fusion; felt cost is visible yet slightly under-explained.</comment>
 
-<question>3</question><grade>8.8</grade><comment>The orchard’s moonlit permanence is not backdrop but engine: the river of forgetting, starfruit bruising bare feet, blossoms burning without consumption—all constrain tactics and charge the final image. Sensory selection is urgent and POV-filtered. Spatial choreography is clean.</comment>
+<question>3</question><grade>8.0</grade>
+<comment>Setting is selective and purposeful: moonlit orchard, starfruit underfoot, apple rooted in the river—they all guide posture and ritual placement. Micro-setting (cracked porcelain bowl) constrains action when pressed as ritual vessel. Final image lets the orchard itself bloom, tying the environment to closure, meeting the 9+ gate.</comment>
 
-<question>4</question><grade>8.6</grade><comment>Dominant stake—reforge the bond or lose her forever—intensifies with each ritual step. Agency is continuous; the narrator’s decision to inhale the shadow-sister narrows options irreversibly. Cost is visible: flesh hollows, feathers bud, individuality burns. One meaningful tightening suffices.</comment>
+<question>4</question>
+<grade>8.4</grade>
+<comment>Dominant stake—restore the bond—compresses into one lyric crucible. Escalation is accretive: each scent-layer tightens until fusion becomes the only viable option left standing. One visible reversal when sister-shadow warns “the fire remembers”; still, cost is felt rather than specific item lost (no tool forfeiture beyond the inevitable).</comment>
 
-<question>5</question><grade>9.1</grade>
-<comment>Theme emerges through concrete particulars: metamorphosis as mutual surrender, love as furnace and forge. The fortune’s re-inscription at the roots reweights the premise without moralizing. Subtext lives in gesture—the branded lip, the shared heartbeat—never in exposition.</comment>
+<question>5</question>
+<grade>9.2</grade>
+<comment>Theme of love as both furnace and forge emerges through scent-memory and final fusion, never stated as slogan. Subtext in lullaby sung backward supplies non-literal answer. Image of twin-winged guardian reprises every motif without tidy moral. Earned wisdom from concrete particulars.</comment>
 
-<question>6</question><grade>9.0</grade>
-<comment>Voice is lush yet precise, its cadence modulating with ritual intensity. Compression (“reluctant metamorphosis is still metamorphosis”) is taught early and paid off. No head-hopping; perceptual signature is consistent—every scent and flame is filtered through the narrator’s body.</comment>
+<question>6</question>
+<grade>9.0</grade>
+<comment>Single POV holds without leakage; lyric compression taught in opening line remains legible until closure. Distinct perceptual signature—“moonlight clung to every petal”—guides selective attention. Metaphor chain is disciplined under pressure; no register drift at climax.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense yet propulsive; metaphors are coherent and purposeful. No loops, no scaffold. Rhythm accelerates during the fusion beat without muddle. Occasional elevated diction (“crystallized final moment”) stays within the lyric register.</comment>
+<question>7</question>
+<grade>8.1</grade>
+<comment>Poetic density stays purposeful; no loops, synonyms, or mixed metaphors muddling peak beats. Sentence rhythm accelerates through ritual steps, breathes in final ascent. One minor scaffold: “proof that love can be both furnace and forge” edges toward didactic, but it lands after cost is paid; minimal drift occurs.</comment>
 
-<question>8</question><grade>9.2</grade>
-<comment>The phoenix-sister fusion, the spice-ritual, and the permanent-moon orchard synthesize into a singular mythic vision. Risky lyric compression heightens stakes without gimmickry. The final backward lullaby feels inevitable yet fresh.</comment>
+<question>8</question>
+<grade>9.1</grade>
+<comment>Fusion of phoenix myth with Chinese ritual cuisine and orchard moonlight is specific rather than stock amalgam. Fortune cookie re-emerges as organic closure device, demonstrating transformation rather than gimmick. Risk paid off at cost of individuality.</comment>
 
-<question>9 A</question><grade>5.8</grade>
-<question>9 B</question><grade>7.4</grade>
-<question>9 C</question><grade>8.7</grade>
-<question>9 D</question><grade>6.2</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>8.6</grade>
-<question>9 H</question><grade>5.4</grade>
-<question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>8.8</grade>
+<question>9 A</question>
+<grade>7.3</grade>
+<question>9 B</question>
+<grade>8.7</grade>
+<question>9 C</question>
+<grade>8.4</question>
+<question>9 D</question>
+<grade>6.8</question>
+<question>9 E</question>
+<grade>9.0</question>
+<question>9 F</question>
+<grade>7.9</question>
+<question>9 G</question>
+<grade>7.4</question>
+<question>9 H</question>
+<grade>3.5</question>
+<question>9 I</question>
+<grade>8.9</question>
+<question>9 J</question>
+<grade>7.7</grade>

@@ -1,21 +1,33 @@
 grade_story_wc_348.txt
-<question>1</question><grade>8.7</grade><comment>Mara’s interiority is embodied and specific—her polymer lens on grief, the tactile chrysalis, the radial artery pulse—yet the final renunciation (walking away) feels slightly under-motivated; the cost is visible but the internal contradiction driving it is not fully dramatized.</comment>
-<question>2</question><grade>9.2</grade><comment>Closure lands as a Conceptual Repricing: the ravine becomes an instrument, the sculptures a “physical chord,” and Mara’s relinquishment carries unmistakable social/ethical cost. The Accumulative/Textural lens holds—pattern taught early, cadence shift at the end—without causality breaks.</comment>
-<question>3</question><grade>8.9</grade><comment>The braided ravine is not backdrop but constraint: water patterns teach the resin lattice, islands become pedestals, wind and warmth activate the sculptures. Micro-setting (chrysalis, shale, runoff) constrains choices and charges the final image.</comment>
-<question>4</question><grade>8.8</grade><comment>Dominant stake—transforming absence into palpable connection—is signaled early and tightened once: the decision to cast the chrysalis forecloses retreat into private grief. The cost is visible in the relinquishment of the final sculpture to strangers.</comment>
-<question>5</question><grade>9.1</grade><comment>Theme emerges from concrete particulars: polymer science, river braids, chrysalis molds. The ending reweights separation as “a temporary braid,” a resonant non-literal answer without moralizing.</comment>
-<question>6</question><grade>8.6</grade><comment>Voice is distinct—scientific precision braided with lyric attention; perceptual signature (“fossilized moonlight,” “440 hertz”) remains coherent. No head-hopping; psychic distance modulates with emotional intensity.</comment>
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense and propulsive; figurative language is selective and purposeful. One minor paraphrase loop (“braided, split, and re-braided like polymer chains”) is offset by immediate payoff in insight.</comment>
-<question>8</question><grade>9.0</grade>
-<comment>Fresh synthesis: grief therapy via polymer acoustics, river morphology, and bioluminescent sculpture. The concept commits fully; no close echoes of prior work.</comment>
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.3</grade>
-<question>9 C</question><grade>8.5</grade>
-<question>9 D</question><grade>8.2</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>8.4</grade>
-<question>9 G</question><grade>9.1</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>8.8</grade>
-<question>9 J</question><grade>8.6</grade>
+<question>1</question><grade>8.7</grade><comment>Mara’s interiority is embodied and specific—grief, science, guilt braid into each action. Her choices (synthesizing resin, planting sculptures) all spring from the funeral’s “late call” refusal and the sister’s voice that refuses to die. The final walkaway is earned renunciation rather than closure; silence now has a cost she has paid. Flaw: sister reads more cipher than individual voice, but Mara registers as flesh.</comment>
+
+<question>2</question><grade>8.9</grade><comment>Closure is a resonant reconfiguration: the ravine becomes instrument, she composer, listeners performers—before/after visible in the glow across travelers’ faces. Causal because each sculptural lattice stems from the earlier “mold-it-as-heart” act. One minor ellipsis: how lab audio is embedded is skipped, but resonance suffices. Cost—loss of privacy, permanence—is felt in the final relinquishing.</comment>
+
+<question>3</question><grade>8.8</grade>
+<comment>The braided ravine is not backdrop; foam patterns teach the lattice geometry that becomes the material solution (Q3 quick met). Tactile shale, moonlight resin, warmth-actuated vibration lock the setting to every pivot—“river conduct[s] vibration up the radial artery” is literal physics tying place to body. Micro-setting fulfilled.</comment>
+
+<question>4</question><grade>8.6</question>
+<comment>Dominant stake: turn inert grief into palpable connection. River foam micro-observation tightens stakes into a single usable pattern. No external antagonist needed; loss and atonement escalate with each cured shell’s heartbeat. Felt cost: permanence—her voice becomes public, irreversible.</comment>
+
+<question>5</question><grade>9.3</grade>
+<comment>Theme emerges organically: memory-as-polymer—threads of absence braided into lattice with tensile strength. The ravine’s confluent streams literalize the closing thought: “separation is only a temporary braid.” No explicit thesis; final communal chord reconfigures meaning without moral lecture.</question>
+
+<question>6</question><grade>9.0</quote>
+<comment>Voice is dense with polymer vocabulary braided into grief idiom—“chalky runoff,” “fossilized moonlight.” Compression (e.g., “cicadas rose and fell”) taught early remains legible. No dialogue, yet perceptual signature holds. Final sentence’s metronomic syntax reflects river cadence under closure.</comment>
+
+<question>7</question><grade>8.9</question>
+<comment>Syntactic variety, natural sentence openings, no loops or scaffolding. “Synagogue-cadenced” rhythm never flattens; figurative language kept local and justified (“chalky runoff,” “fossilized moonlight”). Micro-level clarity flawless.</question>
+
+<question>8</question><grade>8.7</question>
+<comment>Transforms the memorial-into-art trope via polymer science; foam templating as epiphany feels inevitable in hindsight, not gimmick. Specific ravine, chemical procedure, and guitar-440 Hz tuning ground it in singular life. Fresh inflection: grief rendered as acoustical polymer conduit with social ripples.</comment>
+
+<question>9 A</question><grade>7.3</question>
+<question>9 B</question><grade>7.5</question>
+<question>9 C</question><grade>6.3</question>
+<question>9 D</question><grade>6.4</question>
+<question>9 E</question><grade>7.2</question>
+<question>9 F</question><grade>7.1</question>
+<question>9 G</question><grade>8.7</question>
+<question>9 H</question><grade>5.4</question>
+<question>9 I</question><grade>7.3</question>
+<question>9 J</question><grade>6.8</question>

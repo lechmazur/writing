@@ -1,27 +1,31 @@
 grade_story_wc_248.txt
-<question>1</question><grade>5.8</grade><comment>Ember's pyromania-as-preservation motivation is conceptually interesting but lacks embodied emotional contradiction in scene. The grandmother relationship provides clear stakes, yet the protagonist's internal conflict resolves too neatly into epiphany ("her arson had never been about destruction but about revelation") without dramatized struggle. The final transformation from destroyer to keeper happens through exposition rather than costly choice.</comment>
+I'll evaluate this story as a demanding editor, inferring the drive lens and assessing each category strictly.
 
-<question>2</question><grade>5.2</grade><comment>The story follows an Accumulative/Textural lens with symbolic density building toward revelation, but the closure lacks visible cost—Ember simply walks away carrying the tapestry fragment without sacrifice or trade-off. The archive's convenient collapse removes the need for a decisive choice. Causality weakens when her artistic trail retroactively becomes a perfect cipher she somehow created unconsciously.</comment>
+**Drive Lens:** Accumulative/Textural - The story builds through layered revelations about fire, preservation, and family legacy, with pattern recognition and symbolic accumulation driving toward a conceptual repricing at closure.
 
-<question>3</question><grade>5.6</grade><comment>The underground archive setting provides atmospheric pressure through darkness and the grandmother's lingering perfume, though spatial choreography remains vague ("descended deeper," "climbed back"). The volcanic/fire imagery creates thematic coherence. The archive's collapse constrains the ending but arrives conveniently rather than through character action.</comment>
+<question>1</question><grade>5.8</grade><comment>Ember's motivation coheres around the grandmother's legacy, but interiority relies heavily on abstract declarations ("volcanic tenderness," "analytically intuitive mind") rather than embodied emotion. The final transformation from destroyer to preserver occurs through exposition rather than dramatized struggle, though the cost of burning false repositories provides some weight.</comment>
 
-<question>4</question><grade>4.8</grade><comment>Stakes center on rescuing the grandmother's promise, but this remains abstract—we never learn what truth the tapestry reveals beyond vague claims about "knowledge that must be burned clean." The protagonist faces no opposition or difficult choices; the tapestry simply glows and reveals itself. No meaningful tightening occurs as Ember proceeds unopposed through discovery to exit.</comment>
+<question>2</question><grade>6.2</grade><comment>The closure delivers a Conceptual Repricing where destruction becomes preservation, with moderate conceptual cost in the collapsed archive. However, the revelation about false libraries arrives as exposition without prior groundwork, and the pattern of "artistic creations" leading to discovery feels mechanically convenient rather than causally earned.</comment>
 
-<question>5</question><grade>5.4</grade><comment>The destruction/preservation duality emerges through accumulated fire imagery and reaches thematic coherence in "volcanic tenderness," though the actual truth Ember discovers remains frustratingly abstract. The concept that false repositories must burn to preserve truth has potential but resolves into assertion ("sometimes we must destroy to truly save") rather than dramatized complexity. The grandmother's promise provides emotional grounding but lacks specificity.</comment>
+<question>3</question><grade>5.4</grade><comment>The underground archive setting provides atmosphere but doesn't constrain choices meaningfully - Ember simply walks through and retrieves the tapestry without environmental obstacles. Sensory detail remains generic ("soot-stained walls," "old parchment") without POV-specific filtering that would reveal character through perception.</comment>
 
-<question>6</question><grade>5.1</grade><comment>The third-person limited POV maintains consistency but relies heavily on abstract exposition ("her analytically intuitive mind," "volcanic tenderness of understanding") rather than embodied perception. Voice lacks distinctive texture, defaulting to elevated register ("corporeal," "repository") without character-specific idiom. The perceptual signature remains generic despite the pyromania premise.</comment>
+<question>4</question><grade>5.6</grade><comment>The dominant stake - rescuing grandmother's promise - remains static throughout without meaningful tightening. No opposing force challenges Ember's descent; the archive "collapses behind her" conveniently after she succeeds, creating false tension without actual cost to her goal pursuit.</comment>
 
-<question>7</question><grade>4.6</grade><comment>Severe repetition issues plague the prose: "volcanic tenderness" appears four times, "analytically intuitive" three times, "artistic trail/creations" cycles throughout. Abstract exposition dominates ("the greater revelation was that she herself was the final artwork") where concrete imagery would serve better. The prose alternates between purple abstraction and mechanical plot summary without finding a distinctive rhythm.</comment>
+<question>5</question><grade>6.4</grade><comment>The theme of destruction-as-preservation emerges clearly through the final revelation, reweighting Ember's arson retroactively. However, the insight arrives through direct exposition ("her arson had never been about destruction but about revelation") rather than earned realization, and the "volcanic tenderness" motif feels forced rather than organic.</comment>
 
-<question>8</question><grade>5.9</grade><comment>The arsonist-as-preserver concept offers genuine originality, and the notion of burning false histories to preserve truth provides fresh thematic territory. However, execution relies on abstract assertion rather than specific detail—we never see what false history looked like or what truth replaces it. The grandmother-granddaughter keeper lineage adds emotional specificity that partially grounds the concept.</comment>
+<question>6</question><grade>5.2</grade><comment>Third-person limited POV maintains basic stability but lacks distinct perceptual signature - Ember notices things generically rather than through an arsonist's specific lens. Repetitive phrasing ("volcanic tenderness" appears 4 times, "analytically intuitive" 3 times) creates template cadence without rhythmic purpose.</comment>
+
+<question>7</question><grade>4.8</grade><comment>Severe repetition issues: "volcanic tenderness" (4x), "analytically intuitive mind" (3x), "artistic creations/trail" (8x), "forgotten promise" (4x) create loops without pattern-teaching payoff. Abstract declarations ("the fire remembers") replace concrete imagery, and overlong sentences blur momentum in peak moments.</comment>
+
+<question>8</question><grade>5.6</grade><comment>The concept of an arsonist preserving truth through destruction offers moderate freshness, but execution relies on convenient plotting (self-decoding messages, perfectly timed archive collapse). The grandmother-archivist backstory follows familiar mentor-legacy patterns without distinctive inflection.</comment>
 
 <question>9 A</question><grade>7.2</grade>
 <question>9 B</question><grade>6.8</grade>
-<question>9 C</question><grade>5.4</grade>
-<question>9 D</question><grade>4.1</grade>
-<question>9 E</question><grade>3.8</grade>
-<question>9 F</question><grade>6.1</grade>
-<question>9 G</question><grade>5.7</grade>
+<question>9 C</question><grade>6.4</grade>
+<question>9 D</question><grade>4.2</grade>
+<question>9 E</question><grade>5.8</grade>
+<question>9 F</question><grade>6.6</grade>
+<question>9 G</question><grade>5.4</grade>
 <question>9 H</question><grade>3.2</grade>
-<question>9 I</question><grade>6.3</grade>
-<question>9 J</question><grade>5.8</grade>
+<question>9 I</question><grade>6.0</grade>
+<question>9 J</question><grade>4.6</grade>

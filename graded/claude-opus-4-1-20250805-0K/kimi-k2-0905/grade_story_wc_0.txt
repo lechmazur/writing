@@ -1,27 +1,31 @@
 grade_story_wc_0.txt
-<question>1</question><grade>7.8</grade><comment>Mara's scientific detachment creates a consistent, believable perspective that drives her methodical collection of butterfly dust as flood evidence. Her motivation to "strip needless drama from the story" manifests through concrete micro-choices (collecting samples, measuring spectral shifts) with visible cost in her suppressed humanity. The moment with the peacock-blue scale on her wrist shows contradictory impulses—professional distance versus "kindled humility"—acting simultaneously in scene.</comment>
+I'll evaluate this story through the lens of a demanding literary editor, applying the rubric with precision.
 
-<question>2</question><grade>7.4</grade><comment>The piece follows an Accumulative/Textural lens with density increasing through layered scientific observations that reweight the flood's meaning from drama to data. Closure lands as Conceptual Repricing when Mara carries "decay in two containers: one shining and violent, one soft and nameless, both equally" cuts off mid-sentence, crystallizing the equivalence between cosmic and terrestrial decay processes. The orientation anchors (greenhouse, post-flood, dust collection) establish clearly by ~100 words. Cost manifests conceptually in the greenhouse's "monument to slow repair" and Mara's deliberate emotional suppression.</comment>
+**Drive Lens Inference:** Accumulative/Textural - the story builds through layered scientific observation and metaphor, with pattern recognition driving toward a conceptual reweighting rather than causal plot turns.
 
-<question>3</question><grade>7.6</grade><comment>The storm-damaged greenhouse functions as both setting and metaphor, with specific details (warped aluminum doorway, shattered glass, toppled trellis) constraining Mara's movements and sample collection. Sensory hierarchy reflects her scientific priorities—she notices spectral shifts and interference fringes over emotional devastation. The mango sapling with "roots half exposed, leaves yellowing in real time" provides a micro-setting that charges the final image of ongoing decay.</comment>
+<question>1</question><grade>7.8</grade><comment>Mara's internal journey from frantic grief to acceptance is earned through concrete scientific methodology, with contradictory impulses (seeking silence while processing catastrophe) acting in scene. The final renunciation of urgency carries visible emotional cost. Minor deduction for occasional abstraction in emotional states ("kindled humility" appears twice as a label).</comment>
 
-<question>4</question><grade>6.8</grade><comment>The dominant stake—understanding disaster through patient observation versus dramatic narrative—deepens through accumulating scientific measurements that reveal "gradual change...sounds gentle until it crosses a threshold." Pressure coheres around Mara's systematic denial of anthropomorphism and drama, with the caterpillar encounter testing her commitment to objectivity. The conflict lacks a decisive tightening that would foreclose options; instead it maintains steady textural pressure without escalation.</comment>
+<question>2</question><grade>8.2</grade><comment>Strong Conceptual Repricing closure where the butterfly dust analysis reweights Mara's understanding of change and grief, with clear emotional cost ("for the first time since the waters rose"). The accumulative lens holds consistently through scientific observation building to personal revelation. Orientation anchors arrive clearly by ~100 words.</comment>
 
-<question>5</question><grade>7.2</grade><comment>Theme emerges through the juxtaposition of neutron star decay and butterfly dust erosion—both following "the same patient arithmetic" of gradual change crossing thresholds. The recurring dust motif constrains choices (what to collect, how to measure) and charges the ending's "both equally" comparison. Subtext operates in Mara's refusal to name the caterpillar and her voice note "No villains, only vectors," though the final truncation feels slightly forced rather than organically earned.</comment>
+<question>3</question><grade>8.4</grade><comment>The greenhouse functions as both literal setting and constraint, with storm damage creating the specific conditions (butterfly dust, broken glass, humidity) that enable discovery. Sensory detail is vivid and purposeful ("air tasted of rotting orchids and galvanized steel"). The deteriorating environment directly shapes Mara's methodology and final insight.</comment>
 
-<question>6</question><grade>7.5</grade><comment>Mara's scientific voice maintains consistent technical precision ("diffraction grating," "interference fringes," "counts per second") that reflects her mental state of imposed objectivity. The perceptual signature—noticing microscopic scales and spectral shifts while dismissing human drama—is character-specific and unwavering. Voice modulates subtly under the "kindled humility" moment but quickly returns to clinical observation, maintaining POV discipline throughout.</comment>
+<question>4</question><grade>7.9</grade><comment>Pressure builds through accumulation of scientific data converging with personal grief, culminating in the 0.003% match that validates her hypothesis. The deepening from cosmic to personal scale ("her own frantic pulses of grief") creates meaningful stakes. Cost is legible in her acceptance of ongoing change rather than escape.</comment>
 
-<question>7</question><grade>7.3</grade><comment>Prose achieves high information density with lines doing multiple jobs—"dust that, under her spectrometer, might reveal patterns older than the greenhouse itself" combines action, possibility, and temporal scope. Some figurative density in peak moments ("glittered like frost," "bruised morning light," "motes swirl like galaxies") serves the accumulative pattern without obscuring clarity. Minor repetition of "gradual change" concept could be trimmed, and the abrupt ending mid-word reads as artifice rather than purposeful truncation.</comment>
+<question>5</question><grade>8.5</grade><comment>Theme emerges organically through the butterfly/neutron star parallel without explicit moralizing. The final insight that "drama is optional; change is not" resonates as earned wisdom from concrete observation. The recurring scale/dust motif accumulates meaning, charging the closure with both scientific and emotional truth.</comment>
 
-<question>8</question><grade>7.0</grade><comment>The synthesis of astrophysics and lepidopterology to examine flood aftermath offers a non-obvious angle on disaster narrative. Specific technical details (neutron star decay rates, butterfly scale diffraction patterns) ground the originality in verifiable science rather than ornament. The perspective resists both catastrophic drama and tidy resolution, though the core "scientist examines disaster clinically" frame is somewhat familiar.</comment>
+<question>6</question><grade>8.1</grade><comment>Distinctive scientific voice with controlled technical register that modulates appropriately with emotional beats. Perceptual signature strong in how Mara processes reality through scientific frameworks. Minor deduction for occasional register elevation ("courtesy extended to everything") that slightly exceeds the established voice.</comment>
 
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>8.2</grade>
-<question>9 C</question><grade>7.5</grade>
-<question>9 D</question><grade>6.8</grade>
-<question>9 E</question><grade>7.2</grade>
-<question>9 F</question><grade>6.5</grade>
-<question>9 G</question><grade>7.6</grade>
-<question>9 H</question><grade>6.2</grade>
-<question>9 I</question><grade>7.4</grade>
-<question>9 J</question><grade>6.9</grade>
+<question>7</question><grade>7.6</grade><comment>Generally clean prose with strong information density and varied syntax. However, several instances of elevated diction strain the voice ("kindled humility" appears twice, "courtesy extended"). Some filter-verb clustering in middle sections. The scientific terminology is precise and purposeful.</comment>
+
+<question>8</question><grade>8.3</grade><comment>Fresh synthesis of astrophysics and lepidoptery to explore grief creates genuine originality. The specific parallel between butterfly scales and neutron star decay feels both surprising and inevitable. The commitment to scientific methodology as emotional processing is distinctive and fully realized.</comment>
+
+<question>9 A</question><grade>8.7</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>8.9</grade>
+<question>9 D</question><grade>7.8</grade>
+<question>9 E</question><grade>8.4</grade>
+<question>9 F</question><grade>7.6</grade>
+<question>9 G</question><grade>8.8</grade>
+<question>9 H</question><grade>7.4</grade>
+<question>9 I</question><grade>8.6</grade>
+<question>9 J</question><grade>7.9</grade>

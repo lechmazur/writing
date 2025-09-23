@@ -1,31 +1,44 @@
 grade_story_wc_49.txt
-<question>1</question><grade>7.9</grade><comment>Elara’s grief for her daughter and her seventeen-year vigil give the stakes visceral weight; her micro-choices (tracing the tendril, modulating song pitch) reveal interior stakes. The shift from cracked voice to full-throated song embodies earned confidence. Yet the daughter remains off-page, blunting relational crucible pressure.</comment>
+<question>1</question><grade>8.8</grade><comment>Elara's contradictory impulses—her scientific rigor clashing with ancestral reverence—are embodied in each micro-choice: tracing the vine while counting lunar seconds. Her daughter’s illness provides visceral stakes, but the interior monologue occasionally slips into explanatory gloss ("accumulated grief of a culture...") that flattens pressure. Still, the final pollen release reads as earned renunciation with visible cost (life-transfer from tendril), satisfying 9+ quick test despite minor voice-abstraction.</comment>
 
-<question>2</question><grade>8.4</grade><comment>The causal chain—moonset → bloom → pollen release → valley-wide restoration—lands cleanly as a Decisive Change with visible cost (tendril withers, moon vanishes). Orientation is immediate; closure reconfigures the valley’s memory without exposition. One minor ellipsis: how pollen travels miles in seconds is elided but doesn’t rupture causality.</comment>
+<question>2</question><grade>9.1</grade><comment>Closure lands cleanly: the moon’s final sliver triggers precise pollen dispersal whose cost Elara feels as “weight of centuries.” Drive lens is Accumulative/Textural—each bioluminescent spore and song-chant layer tightens until the valleywide mnemonic revival reconfigures meaning. Causality holds throughout; no teleporting props or set-up breaches detected.</comment>
 
-<question>3</question><grade>8.6</grade><comment>The arbor’s dawn light, moss, and bioluminescent runes are filtered through Elara’s urgency; the vine’s golden-ratio spiral literally constrains the moment of harvest. Micro-setting (hollowed oak workshop) doubles as memory palace. Final image of new tendrils already spiraling charges the next cycle.</comment>
+<question>3</question><grade>8.7</grade>
+<comment>The oak-workshop clockwork, dawn light, and vine’s golden-ratio spiral constrain choices in real time; the pollen-gathering feather (quill still warm, residual phoenix magic) is handled tactically, not ornamentally. Spatial choreography remains clear; weather (harvest moon slipping) becomes countdown. Minor risk: setting poetry at times over-crowds urgency, but final arbor silence after collective song is earned.</comment>
 
-<question>4</question><grade>8.2</grade><comment>Dominant stake—curing the forgetting sickness—is signaled early and tightened by the one-hour bloom window. Agency resides in song precision; failure costs her daughter’s mind. Escalation is a single deepening: moon’s final sliver forces irrevocable release. Stakes remain personal, not abstract.</comment>
+<question>4</question><grade>9.2</grade>
+<comment>Dominant stake—restoring ancestral memory to save valley’s children—is signaled by line 3 and escalates into a single, coherently pressing beat: the one-hour bloom. Agency resides in perfect song timing; risk is absolute—miss the window, loss is generational. Cost is visible: tendril’s life consumed, valley voices rise not teacher-led but self-led, paying the price in irreversible cultural reawakening.</comment>
 
-<question>5</question><grade>8.7</grade>
-<comment>Sacred practice as encoded agricultural science emerges through living pollen-stories, not sermon. The final dispersal reframes “superstition” as interspecies language lost to progress. Theme resonates without moralizing; ambiguity lingers in the phrase “what was never truly lost.”</comment>
+<question>5</question><grade>9.0</grade>
+<comment>Sacred practice vs industrial abandonment emerges through action, never statement: rotation taught by pollen petals, irrigation via vascular mimicry encoded in songs. Final resonance reweights “forgotten songs” as precise inherited science, achieving conceptual repricing without moralizing. Ambiguity persists in whether recovered knowledge can coexist with modernity—theme resists tidy resolution.</comment>
 
-<question>6</question><grade>8.5</grade>
-<comment>Lush lyricism stays tethered to Elara’s tinkerer perception: “copper goggles reflecting first blush,” “clockwork projections.” Syntax lengthens with song intensity, compresses at moonset. No head-hopping; perceptual signature is consistent. Occasional elevated diction (“verdant arbor”) fits mythic register.</comment>
+<question>6</question><grade>8.9</grade>
+<comment>Third-person limited stays close to Elara’s sensorium; syntax flexes from lyrical compression (“weathered fingers traced”) to muscular urgency (“she released the pollen”). Sensory bias is consistent—copper goggles, moss chill, feather warmth. Distinct perceptual signature maintained; compression, ellipsis taught early and legible through closure.</comment>
 
-<question>7</question><grade>8.3</grade>
-<comment>Prose is dense yet propulsive; each sentence layers sensory, emotional, and mythic data. Metaphors (“liquid fire,” “suspended constellations”) serve immediate beats. One loop risk: “golden stories” thrice in two paragraphs, but the repetition accrues mythic weight rather than stalls. No line-level artifacts touch closure.</comment>
+<question>7</question><grade>9.0</grade>
+<comment>Zero line-level loops; sentence openings vary; information density is maximal (“spores spun golden stories like suspended constellations” does two jobs at once). Rhythm accelerates with moon descent. One mixed metaphor risk—“orange light bleeding like liquid fire”—doesn’t obscure cause. Closure image achieves crystalline clarity under gathering hush.</comment>
 
-<question>8</question><grade>8.8</grade>
-<comment>Fusing botanical science with ancestral songcraft feels fresh; the vine as living USB drive for cultural memory is specific and non-obvious. Risky lyric accumulation pays off in the final pollen release. No derivative templates; transformation test passes—story collapses if tendril is swapped for generic flower.</comment>
+<question>8</question>
+<grade>8.7</grade>
+<comment>Mnemonic plant-song pharmacology feels genuinely fresh, synthesizing animist revival with agronomic precision. Risk—lyric premise could tip into twee—offset by granular specificity (phoenix feather warmth, vascular irrigation mimicked). No derivative scent; transformation test passed; premise would collapse without these exact elements.</comment>
 
-<question>9 A</question><grade>8.2</grade>
-<question>9 B</question><grade>9.1</grade>
-<question>9 C</question><grade>8.7</grade>
-<question>9 D</question><grade>8.0</grade>
-<question>9 E</question><grade>9.3</grade>
-<question>9 F</question><grade>8.9</grade>
-<question>9 G</question><grade>8.4</grade>
-<question>9 H</question><grade>8.6</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 A</question>
+<grade>9.2</grade>
+<question>9 B</question>
+<grade>9.3</question>
+<question>9 C</question>
+<grade>8.8</question>
+<question>9 D</question>
+<grade>9.0</question>
+<question>9 E</question>
+<grade>9.4</question>
+<question>9 F</question>
+<grade>9.1</question>
+<question>9 G</question>
+<grade>9.0</question>
+<question>9 H</question>
+<grade>9.0</question>
+<question>9 I</question>
+<grade>8.7</question>
+<question>9 J</question>
+<grade>8.9</question>

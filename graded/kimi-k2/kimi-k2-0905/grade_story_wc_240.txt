@@ -1,33 +1,53 @@
 grade_story_wc_240.txt
-<question>1</question><grade>8.4</grade><comment>Maya’s grief-driven need to recover her brother powers every beat; her spatial gift is dramatized through laser-guided mapping and the final hand-to-heart merge. Interiority stays embodied (“breath fogging,” “pulse racing”) and the twin-heartbeat moment crystallizes her cost. The only drag is Dr. Voss’s brief expository line, but Maya’s micro-choice to relinquish both Lucs overrides it.</comment>
+<question>1</question>
+<grade>8.4</grade>
+<comment>Maya’s choices directly trigger multiple plot turns (laser use, fold discovery, convergence); contradictory impulses (grief vs rescue) play out in scene, culminating in a clear renunciation of duplicates with felt loss that earns closure.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Causal lens holds: each laser click tightens topology knowledge, leading to the decisive spiral merge. Closure is a Resonant Reconfiguration—one Luc, ambiguous identity, visible cost in the white flare that erases regret. Orientation is immediate; no teleporting props or causality breaks. The final bird-note echo reweights the premise without exposition.</comment>
+<question>2</question>
+<grade>9.2</grade>
+<comment>Closure unit lands as a Resonant Reconfiguration (merging Lucs into a single, freed self). Tight causal chain—laser folds → duplicate revelation → choice to fold them again—holds under the Situational lens, with visible emotional cost on the page.</comment>
 
-<question>3</question><grade>8.7</grade>
-<comment>The mushroom farm’s bioluminescent architecture actively shapes tactics—folding stipes and spore corridors literally guide Maya’s path. Spatial choreography is flawless; the laser dot’s impossible skip across fruiting bodies teaches the permeability rule early. Environment constrains the final choice: only the spiral nexus under dawn light permits the merge. Micro-setting (laser, headset) doubles as tool and topography.</comment>
+<question>3</question>
+<grade>9.0</grade>
+<comment>Spatial choreography remains crisp; the laser‐pointer skips act as the primary constraint enabling Maya’s breakthrough. Blue mushroom glow charges every beat and the final image, constraining tactics and perception throughout.</comment>
 
-<question>4</question><grade>8.6</grade>
-<comment>Dominant stake—recover Luc or accept loss—tightens with each fold discovered. Agency escalates via laser mapping and the climactic hand-to-chest synchronization; no coincidence resolves the conflict. Cost is felt in the white flare that erases outline and regret. One meaningful deepening suffices: from “find original” to “no original, only choice.”</comment>
+<question>4</question>
+<grade>8.8</grade>
+<comment>Dominant stakes (retrieve vs release Luc) crystallize at spiral nexus; escalation is driven by Maya’s spatial choice that compresses the “duplicate strangers,” forcing a trade-off that forecloses an all-happy resolution and articulates real cost.</comment>
 
-<question>5</question><grade>8.8</grade>
-<comment>Theme of letting go emerges through embodied action, not statement; the farm’s “compassionate forgery” reframes grief as spatial negotiation. Final image—one man, unreadable fusion of fear and peace—offers resonant ambiguity without moralizing. Subtext in twin heartbeats merging under Maya’s palms carries the emotional aftereffect. No thematic drift or tidy resolution.</comment>
+<question>5</question>
+<grade>8.6</grade>
+<comment>Theme of grief replacement emerges organically through plot turns rather than labels. Final spiral’s light dispersing grief offers a CR that reweights closure, avoiding tidy moralizing while acknowledging complexity.</comment>
 
-<question>6</question><grade>8.5</grade>
-<comment>Third-person limited stays locked to Maya’s perceptual signature—nested topographies, ionized air, quiet wildfire pulse. Compression (“Topology fold,” “Trust me”) heightens urgency without head-hopping. Dr. Voss’s single line is distinct in cadence; trembling vs. calm Lucs are differentiated by gesture and spore halo. No register drift or filter-verb clutter.</comment>
+<question>6</question>
+<grade>9.1</grade>
+<comment>Distinct perceptual signature (“topology fold,” “bioluminescent breath”) underpins POV, rhythm modulates with urgency, and purposeful elision (gaps in Luc’s reunion) serves pressure. Voice remains consistent, no head-hopping.</comment>
 
-<question>7</question><grade>8.7</grade>
-<comment>Prose is dense yet propulsive: “sapphire-lit caps,” “breadcrumb red bead,” “white flare erasing outline.” No loops, scaffold, or mixed metaphors. Sentence rhythm accelerates toward the spiral nexus, then breathes in the dawn leak. Clean mechanics; every line advances story or atmosphere.</comment>
+<question>7</question>
+<grade>8.7</grade>
+<comment>High information density, rhythmic variation matching escalating tension, zero loops or scaffold. Figurative language (spores copying shape) is precise and paid off at closure without muddle.</comment>
 
-<question>8</question><grade>9.1</grade>
-<comment>Fresh synthesis: quantum topology + grief therapy via fungal farm. Permeable barriers and duplicate biometrics transform a missing-person trope into speculative closure. Risky spiral merge pays off with conceptual cost—identity ambiguity baked into the final image. No derivative echoes; the bioluminescent mushroom farm feels singular and inevitable.</comment>
+<question>8</question>
+<grade>8.9</grade>
+<comment>Fresh synthesis: uses grief duplication as embodied spatial problem rather than sci-fi gimmick. Spiral-compression ending feels inevitable, rose without borrowing a famous meme. Bold architectural risk delivers resonance without abandoning clarity.</comment>
 
-<question>9 A</question><grade>8.9</grade>
-<question>9 B</question><grade>9.0</grade>
-<question>9 C</question><grade>8.7</grade>
-<question>9 D</question><grade>9.2</grade>
-<question>9 E</question><grade>8.5</grade>
-<question>9 F</question><grade>9.1</grade>
-<question>9 G</question><grade>9.3</grade>
-<question>9 H</question><grade>7.8</grade>
-<question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>8.6</grade>
+<question>9 A</question>
+<grade>7.8</grade>
+<question>9 B</question>
+<grade>8.2</grade>
+<question>9 C</question>
+<grade>7.4</grade>
+<question>9 D</question>
+<grade>6.9</grade>
+<question>9 E</question>
+<grade>7.1</grade>
+<question>9 F</question>
+<grade>8.5</grade>
+<question>9 G</question>
+<grade>8.3</grade>
+<question>9 H</question>
+<grade>5.8</grade>
+<question>9 I</question>
+<grade>8.4</grade>
+<question>9 J</question>
+<grade>8.2</grade>

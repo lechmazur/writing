@@ -1,29 +1,34 @@
 grade_story_wc_291.txt
-<question>1</question><grade>8.7</grade><comment>The artist’s face-blindness and methodical nature are embodied through tactile choices—mixing ribbon fibers into pigment, painting negative space—creating credible interior stakes. The final act of leaving the portrait and mask at the sheriff’s doorstep crystallizes her arc: she accepts her mind’s erasure of faces yet still delivers justice. The moment where she “forgives her own mind’s betrayal” is earned by the prior ritual of painting Elias. Cost is visible: she will forget the deputies’ faces even as she forces the town to remember.</comment>
+<question>1</question><grade>9.2</grade><comment>Juniper’s face-blindness, methodical nature, and repressed memory braid into one another; the micro-choice to cut her palm and paint with blood crystallizes her arc and charges the closure.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands with a Resonant Reconfiguration: the painted Elias and the retrieved mask face each other across the mist, reconfiguring the town’s amnesia into collective recognition. The causal chain—ribbon → pigment → portrait → mask → bodies recovered—holds under an Accumulative/Textural lens. The final image (“bodies lifted into light”) carries undeniable social cost. No orientation debt; quarry, floodlights, and mist are anchored by ~120 words.</comment>
+<question>2</question><grade>9.0</grade>
+<comment>Closure lands as a Resonant Reconfiguration: the portrait’s completion reweights the 36-year void and the ribbon’s return with blood-glue makes the cost undeniable; lens is Accumulative/Textural and holds.</comment>
 
-<question>3</question><grade>8.9</grade><comment>The quarry’s furrowed hush, floodlight cables “snaking into black water,” and chalk dust clinging to mist are selective, purposeful details that constrain movement and echo guilt. The mask and ribbon function as micro-setting objects that literally shape the final image. Environment guides choice: the quarry’s black water must be painted as an “empty mirror,” forcing the artist to confront absence. The gardenia scent released from a bubble is a sensory trigger that tightens the temporal loop to the night of the ball.</comment>
+<question>3</question><grade>8.7</grade>
+<comment>Quarry mist, cedar-copper ribbon, and kerosene lamp form a tactile micro-setting that constrains every move; the mist literally soaks the page, charging the final image.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—awakening the town’s empathy by recovering its disappeared—is signaled early and tightened through each beat: archival call replay, pigment mixed with ribbon, portrait warming under her hand. Agency is ritualistic yet decisive; the lancing of the painted heel releases the bead that clears the water and reveals the mask. Cost is felt: the artist’s perpetual forgetting is the price she pays to make others see. One meaningful deepening—water clearing to expose remains—narrows options and delivers consequence.</comment>
+<question>4</question><grade>8.8</grade>
+<comment>Stakes tighten from unsolved vanishings to the personal cost of remembering; the blood-smear on the ribbon is the decisive escalation that forecloses denial.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme emerges from the inverse relationship between personal erasure and collective memory: the artist’s inability to retain faces becomes the very engine that restores the town’s conscience. The ribbon’s embroidered “S” shifts from possible name to literal signature of salvation. Subtext operates in the silence after the emergency call and in the “furrowed hush” that greets the recovered bodies. Final image—portrait and mask facing each other—offers a non-literal answer: remembrance is a mirror we must choose to look into.</comment>
+<question>5</question><grade>9.1</grade>
+<comment>Theme of empathy awakened through unifying opposites emerges from the blood-silk fusion and the portrait’s resurrection of the babysitter; no moralizing, only charged image.</comment>
 
-<question>6</question><grade>8.6</grade><comment>Third-person limited stays tightly bound to the artist’s perceptual signature: she “weighs the silence” because she cannot picture faces. Syntax is precise and rhythmic—“brush dipped in ribbon-black”—mirroring her methodical process. No head-hopping; even the town’s collective flinch is filtered through her observation. Compression in the final paragraph (“her hand steady, already mixing new pigment”) maintains voice while accelerating closure.</comment>
+<question>6</question><grade>8.9</grade>
+<comment>Lyric, compressed diction stays consistent; “furrowed hush” and “quarry exhaled” maintain perceptual signature without head-hop; purposeful elision taught early.</comment>
 
-<question>7</question><grade>9.2</grade>
-<comment>Zero loops or scaffold; every sentence advances story, character, or atmosphere. Figurative language is sparse and exact—“mist clung to guilt”—never muddling causality. High information density: “vials of powdered graphite, a battery lamp, and the ribbon” does triple duty as inventory, character cue, and plot device. Final line’s quiet cadence lands with earned resonance.</comment>
+<question>7</question><grade>9.0</grade>
+<comment>Zero loops or scaffold; every sentence layers sensory, emotional, and symbolic density; metaphors (lamp’s single eye, ribbon as warning flag) are precise and propulsive.</comment>
 
 <question>8</question><grade>9.3</grade>
-<comment>The synthesis of face-blindness, forensic art, and ritual magic feels inevitable and fresh. The quarry masquerade cold-case trope is transformed through the artist’s tactile method and the ribbon-as-pigment conceit. Specificity—“perfume discontinued the same year the investigations froze”—anchors universals. Risk-taking in structure (single ritual scene) heightens stakes without gimmickry.</comment>
+<comment>Face-blind portraitist solving a cold case via self-bloodied ribbon is a fresh synthesis; the quarry as memory abscess and the hair-woven ribbon feel inevitable yet unexampled.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.0</grade>
-<question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>8.2</grade>
+<question>9 A</question><grade>9.0</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>8.8</grade>
+<question>9 D</question><grade>8.6</grade>
 <question>9 E</question><grade>9.1</grade>
-<question>9 F</question><grade>8.8</grade>
+<question>9 F</question><grade>9.0</grade>
 <question>9 G</question><grade>8.9</grade>
-<question>9 H</question><grade>7.6</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 H</question><grade>8.7</grade>
+<question>9 I</question><grade>9.0</grade>
+<question>9 J</question><grade>8.8</grade>

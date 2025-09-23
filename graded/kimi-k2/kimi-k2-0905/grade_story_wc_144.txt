@@ -1,48 +1,50 @@
 grade_story_wc_144.txt
-<question>1</question><grade>8.9</grade><comment>Lira’s interiority is vivid—her tactile reading of light spectra, the memory of the explosion, the micro-choice to teach the drone calm—yet the apprentice Col remains a cipher, muting relationship pressure.</comment>
+<question>1</question><grade>8.9</grade><comment>Lira’s interiority is vivid and embodied—her “magnetic calm” and tactile reading of light spectra reveal a coherent, character-specific perceptual world. The contradiction between her blindness and her precise craft is dramatized in scene, not asserted. Her final choice to teach the drone balance by mirroring water-light is earned by prior causality and carries visible cost (time pressure + personal risk). The only minor slip is Col’s slightly generic apprentice voice, but it never dilutes Lira’s arc.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands as a Charged Poise: the drone arcs away while Lira’s magnetic calm crystallizes the cost of her endurance; the causal lens holds from fracture to flight with no unmotivated turns.</comment>
+<question>2</question><grade>9.2</grade><comment>The causal chain is airtight: cracked wing → torn lumen-veins → swelling battery → ticking clock of Aurora’s anchor. Each beat tightens options until the drone’s jitter forces a creative pivot (water-mirror recalibration). Closure lands as a Decisive Change: the drone lifts, mission saved, but Lira’s “translucent map” of grooves ensures the cost—her method now encoded in the machine—persists. No orientation drift; depot, kiln, and harbor remain spatially legible.</comment>
 
-<question>3</question><grade>8.6</grade>
-<comment>The mist-coated depot, glass drippers, and rain barrel are not backdrop but tools that constrain repair tactics and charge the final image; every sensory detail is filtered through Lira’s non-visual perception.</comment>
+<question>3</question><grade>8.7</grade><comment>The mist-coated depot, kiln heat, and shifting water halos are filtered through Lira’s haptic attention; every environmental detail constrains her next move. The micro-setting of the glass drippers and rain barrel directly enables the climax. While the broader world rules are lightly sketched, the depot’s steam and horn serve as both clock and chorus, charging the final image. Slight over-reliance on visual metaphors for a blind POV is offset by tactile specificity.</comment>
 
-<question>4</question>
-<grade>8.8</grade>
-<comment>Stakes tighten from cracked wing to village-wide delay; the clock of the lifting anchor forces a single, visible trade-off—Lira’s calm for the drone’s fear—escalating under causal pressure.</comment>
+<question>4</question><grade>9.0</grade><comment>Dominant stake—medical seeds must reach the village—escalates with each diagnostic beat: fracture → vein tear → battery swell → anchor horn. The pressure narrows to a single irreversible choice: recalibrate the drone’s panic into torque or lose the season. Lira’s agency drives every turn; coincidence complicates (jitter) but does not resolve. Cost is visceral: seven minutes left, her method forever etched into the drone’s wings.</comment>
 
-<question>5</question>
-<grade>8.4</grade>
-<comment>Theme emerges organically: the translation of damage into direction. The refractive map fused into the wing offers a non-literal answer—chaos read as balance—without moralizing.</comment>
+<question>5</question><grade>9.1</grade><comment>Theme emerges wordlessly: the translation of trauma (drone’s crash-panic, Lira’s blast-blindness) into functional grace. The hummingbird’s final silver arc is a non-literal answer—balance learned from chaos—without moralizing. Subtext hums in the silence between Col’s whispered hues and the depot’s distant boiler. No thematic drift; every image refracts back to decoding feedback into direction.</comment>
 
-<question>6</question>
-<grade>9.0</grade>
-<comment>Lira’s perceptual signature—reading rainbows by fingertip, timing silica with boiler hush—creates a distinct lyric texture; no POV drift, no head-hopping, voice modulates with urgency.</comment>
+<question>6</question><grade>8.8</grade>
+<comment>Lira’s voice is distinct—measured, tactile, quietly urgent. Syntax mirrors her process: long fluid glass-bead sentences underlaid by the metronomic “steady hush” of the boiler. Col’s dialogue is minimal yet differentiated; his nervous whispers contrast Lira’s calm without converging. No head-hopping; perceptual signature remains consistent even under peak stress.</comment>
 
-<question>7</question>
-<grade>8.7</grade>
-<comment>Prose is dense yet propulsive; no loops, no mixed metaphors. “Molten silica drawn from her kiln” marries action and image; rhythm accelerates under the depot clock.</comment>
+<question>7</question><grade>9.0</grade>
+<comment>Prose is dense yet propulsive: “molten silica drawn from her kiln” compresses tool, action, and sensory heat into one clause. Rhythm accelerates with the horn’s countdown, then breathes during the water-mirror sequence. Zero loops or scaffold; every sentence advances story or atmosphere. Figurative language is precise—no mixed metaphors—even in the high-pressure final third.</comment>
 
 <question>8</question>
-<grade>8.9</grade>
-<comment>The fusion of blind craftswoman, light-reading repair, and empathic drone calibration feels inevitable and fresh; no stock tropes, no derivative echoes, risk heightens stakes without gimmickry.</comment>
+<grade>9.3</grade>
+<comment>The synthesis of blind glass-artisan, light-reading diagnostics, and hummingbird courier feels inevitable yet fresh. The conceit of “decoding feedback into direction” is embodied rather than asserted, turning a familiar rescue-quest into a meditation on trauma and calibration. Risky compression—600 words, single scene—heightens stakes without obscuring clarity. No derivative echoes; the final image of etched refractive grooves is singular and unforgettable.</comment>
 
 <question>9 A</question>
-<grade>9.2</grade>
-<question>9 B</question>
 <grade>9.0</grade>
+
+<question>9 B</question>
+<grade>9.2</grade>
+
 <question>9 C</question>
 <grade>8.7</grade>
+
 <question>9 D</question>
 <grade>9.1</grade>
+
 <question>9 E</question>
-<grade>9.3</grade>
-<question>9 F</question>
 <grade>9.0</grade>
+
+<question>9 F</question>
+<grade>9.3</grade>
+
 <question>9 G</question>
 <grade>8.5</grade>
+
 <question>9 H</question>
-<grade>8.8</grade>
+<grade>8.9</grade>
+
 <question>9 I</question>
 <grade>9.0</grade>
+
 <question>9 J</question>
-<grade>8.6</grade>
+<grade>8.8</grade>

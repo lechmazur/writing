@@ -1,27 +1,29 @@
 grade_story_wc_64.txt
-<question>1</question><grade>7.8</grade><comment>Mercy's journey from gardener to "keeper of the spiral" shows genuine transformation with earned cost (abandoning surface world). Her motivation coheres through concrete discovery beats, though some interiority edges toward expository ("uncharted echoes flutter through her ribs"). The final choice to descend permanently carries visible sacrifice.</comment>
+I'll evaluate this story under an Accumulative/Textural lens, as the piece builds density through layered discoveries and symbolic resonance rather than strict causal linkage.
 
-<question>2</question><grade>7.4</grade><comment>Accumulative/Textural lens holds as repeating discoveries build toward Mercy becoming the next keeper. The closure lands with Resonant Reconfiguration (Charged Poise) as she accepts her role, though the cost could be more visceral. Strong causal chain from coin→tapestry→map→cellar, but some transitions feel mechanically convenient ("exactly the diameter of the sovereign").</comment>
+<question>1</question><grade>7.8</grade><comment>Mercy's transformation from "blithe gardener" to "keeper of the spiral" is earned through accumulated revelations, with her methodical decoding revealing both external mystery and internal readiness. The final choice to descend and accept her role carries visible cost (sealing herself below). Minor deduction for some abstraction in emotional states ("uncharted echoes flutter through her ribs") that could be more embodied.</comment>
 
-<question>3</question><grade>8.2</grade><comment>The cemetery-to-silo-to-cellar progression constrains choices effectively, with the tapestry and spiral root system providing crucial spatial logic. "Velveteen gloom" and "cobalt silo" create distinctive atmosphere. The underground refuge with seed packets transforms setting into active story element at closure.</comment>
+<question>2</question><grade>8.2</grade><comment>Strong Resonant Reconfiguration closure where Mercy accepts her inherited role, with the cost of isolation made concrete ("cobalt silo door lock with a soft metallic kiss, sealing the surface world"). The accumulative structure coheres well through the sovereign-tapestry-map sequence. Slight opacity in the grandmother's refugee narrative feels rushed but doesn't break the closure's power.</comment>
 
-<question>4</question><grade>7.3</grade><comment>Stakes escalate from curiosity about the coin to uncovering family history to accepting an eternal role. The "chess clock set to infinite" crystallizes the cost, though middle beats lack opposition—Mercy proceeds without meaningful resistance. One strong deepening occurs when the cellar reveals her inherited duty.</comment>
+<question>3</question><grade>7.6</grade><comment>The cemetery-silo-underground progression creates effective spatial layers, with the tapestry and spiral motif constraining Mercy's path. The subterranean room with preserved apples and seed packets provides sensory grounding. Some middle sections lean abstract ("velveteen gloom," "cobalt silo") without enough tactile detail.</comment>
 
-<question>5</question><grade>7.9</grade><comment>The spiral motif elegantly connects coin→tapestry→family plot→inherited role, with "the dead wager memory" providing thematic backbone. Seeds labeled "hope, defiance, return" avoid explicit moralizing while charging the grandmother's legacy. The ending reweights gardening as communication with the dead without stating it.</comment>
+<question>4</question><grade>7.4</grade><comment>Stakes deepen from curiosity about the coin to understanding her ancestral duty, with the escalation tracking through physical descent (ladder → digging → underground). The cost of accepting her role (isolation from surface world) is legible. The conflict could use more resistance or complication in the middle beats.</comment>
 
-<question>6</question><grade>7.6</grade><comment>Distinctive voice with phrases like "velveteen gloom" and "tenderly organized heart," though some passages drift into elevated register ("uncharted echoes flutter"). POV remains stable with controlled psychic distance. The prose rhythm appropriately slows during discoveries and accelerates at transitions.</comment>
+<question>5</question><grade>8.0</grade><comment>The spiral motif elegantly connects coin, tapestry cipher, and family legacy, with the theme of inherited duty emerging through concrete discovery rather than statement. The seed packets labeled "hope, defiance, return" and the chess metaphor of memory vs. hours create resonant layers. Final image of Mercy setting her "chess clock to infinite" reweights the opening's temporal constraint.</comment>
 
-<question>7</question><grade>7.2</grade><comment>Generally clean prose with evocative phrases ("starlight drips through the skylight"), but several ornamental constructions slow momentum ("As she works, the silo's metal skin picks up distant church bells"). Some filter-heavy passages ("Mercy understands," "she senses") dull immediacy. The multi-clause final sentence maintains control despite complexity.</comment>
+<question>6</question><grade>7.9</grade><comment>Distinctive voice with controlled lyricism ("velveteen gloom," "blithe gardener," "tenderly organized") that maintains consistency. The free indirect style tracks Mercy's perception cleanly. Some phrases edge toward purple ("starlight drips through the skylight") but generally serve the accumulative texture.</comment>
 
-<question>8</question><grade>7.7</grade><comment>The concept of cemetery gardener as decoder of the dead's messages offers fresh angle on familiar Gothic elements. The seed packets as inherited resistance ("hope, defiance, return") transforms expected grave-tending into political legacy. Risk-taking in the hermetic ending pays off thematically.</comment>
+<question>7</question><grade>7.3</grade><comment>Generally clean prose with good rhythm variation, though some ornamental phrases slow momentum ("as though someone absent is trying to speak in geometry"). Information density is high in discovery sequences. Minor issues with abstract constructions that could be more concrete, particularly in emotional registers.</comment>
 
-<question>9 A</question><grade>8.1</grade>
-<question>9 B</question><grade>7.8</grade>
-<question>9 C</question><grade>7.2</grade>
-<question>9 D</question><grade>6.4</grade>
-<question>9 E</question><grade>7.6</grade>
-<question>9 F</question><grade>7.3</grade>
-<question>9 G</question><grade>7.5</grade>
-<question>9 H</question><grade>6.8</grade>
-<question>9 I</question><grade>7.4</grade>
-<question>9 J</question><grade>7.9</grade>
+<question>8</question><grade>7.7</grade><comment>The cemetery-as-communication-system and the grandmother's hidden refugee cellar create an original synthesis of death, memory, and resistance. The chess clock metaphor and the idea of the dead "wagering memory" while the living "wager hours" offers fresh perspective on mortality and legacy.</comment>
+
+<question>9 A</question><grade>7.8</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>7.6</grade>
+<question>9 D</question><grade>7.4</grade>
+<question>9 E</question><grade>8.0</grade>
+<question>9 F</question><grade>7.9</grade>
+<question>9 G</question><grade>7.3</grade>
+<question>9 H</question><grade>7.2</grade>
+<question>9 I</question><grade>7.5</grade>
+<question>9 J</question><grade>7.7</grade>

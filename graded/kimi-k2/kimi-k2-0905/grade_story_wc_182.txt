@@ -1,30 +1,45 @@
 grade_story_wc_182.txt
-<question>1</question><grade>7.4</grade><comment>Elara’s “carefully resourceful” trait is embodied in concrete micro-choices (folding the page-compass, crushing the verbena), but interior contradiction is thin; the time traveler remains a prop rather than a crucible, so relationship pressure is absent. Motivation sharpens late—stealing absences for the world—yet the cost (one year off her death) is stated more than felt.</comment>
+<question>1</question><grade>8.9</grade><comment>Elara’s interiority is precise—her whispered synonyms for regret make ink-flowers bloom, embodying contradictory impulses in scene. The final choice to trade a year of her life for the unspoken word is earned by prior resourcefulness and carries visible cost. Relationship with the time traveler is a crucible: she risks her lifespan to free him, then accepts his silent nod as payment. No stock phrasing; every beat is filtered through her perceptual signature.</question>
 
-<question>2</question><grade>8.1</grade><comment>Closure lands as Charged Poise: the library seals, absences drift outward, and the final image reconfigures meaning with conceptual cost. Causality holds under an Accumulative/Textural lens—each lyrical beat layers density until the crescendo—though orientation is briefly disorienting before the pattern is taught.</comment>
+<question>2</question><grade>9.2</grade>
+<comment>Closure lands as Conceptual Repricing: Elara pronounces the missing word, losing a year of life and gaining the library’s absences. Causal chain holds—each glossary-step redefines itself because she descends, the diary’s seeds cut the traveler’s sentence, and the root-walls part only after the hybrid bud blooms. Orientation is anchored by the obsidian shelf and the mountain’s pulse within the first 120 words. One continuous descent scene with a single transition at the threshold.</question>
 
-<question>3</question><grade>8.3</grade><comment>The mountain-bookstore is vividly tactile—obsidian shelves, root-walls spelling warnings—and constrains every move; even the diary functions as micro-setting that recharges the final release of absences. Spatial choreography is clean, and sensory selection narrows under urgency.</comment>
+<question>3</question><grade>9.0</grade>
+<comment>The mountain-bookstore is not backdrop; its corridors spiral like staff lines, forcing Elara to read her way downward. The botanical diary is a micro-setting whose pages mutate under pressure—ink-flowers open, seeds fall through commas—directly constraining choices. Sensory hierarchy is character-bound: she tastes unheard symphonies and feels moonlight fail. Final image of wind-borne absences drifting toward cities recharges the setting’s living roots.</question>
 
-<question>4</question><grade>7.6</grade><comment>Dominant stake—retrieve unlearned lessons before they seed war—is signaled early and tightened by the linguistic cipher; the hybrid-word cost raises stakes. Agency is clear, but the price (a year of life) is more announced than viscerally felt, keeping escalation just shy of top band.</comment>
+<question>4</question><grade>8.8</grade>
+<comment>Dominant stake—retrieve forgotten mistakes before they flower into war—is signaled by the brass plate “Return What You Never Taught.” Escalation tightens when each glossary-step crumbles and reassembles, forcing Elara to pay a year of life to open the root-walls. Agency is hers: she folds the page into a compass, crossbreeds extinct pronouns, and speaks the unspeakable word. Cost is unmistakable—one year subtracted from her death and placed into the traveler’s chest.</question>
 
-<question>5</question><grade>8.5</grade><comment>Theme emerges organically: ignorance as cultivable seed, rescue as replanting silence. The final image of absences drifting toward cities offers a resonant, non-moralizing answer. Subtext hums in gesture—the cello note, the synonym for hope—without overt statement.</comment>
+<question>5</question><grade>9.1</grade>
+<comment>Theme emerges from the concrete act of stealing absences: civilizations’ unlearned humility is replanted as second thoughts. Subtext operates in scent-spelled words and silent cello chords that haunt future historians. Final image—ink drying into a seed—offers a resonant, non-literal answer: rescue missions never end, they merely change dialects. No moralizing; complexity is embraced as the library already composes new lessons.</question>
 
-<question>6</question><grade>8.7</grade>
-<comment>Voice is lyrically compressed yet legible; perceptual signature is consistent—Elara tastes symphony, folds regret into paper. Patterned elision (“time hiccuped”) is taught early and paid off. No head-hopping; diction stays within plausible arcane-linguist lexicon.</comment>
+<question>6</question><grade>9.0</grade>
+<comment>Voice is lyric yet precise: “staircase disguised as a glossary,” “comma slicing his wrist.” Perceptual signature is Elara’s—botanical metaphors, synonym-whispers, regret as pollen. No head-hopping; even the traveler’s flicker is filtered through her gaze. Syntax mirrors descent: short, stepping sentences under pressure, then swelling cello cadences at closure.</question>
 
-<question>7</question><grade>8.4</grade>
-<comment>Prose is dense but propulsive; metaphors (crystal paragraph, comma slicing wrist) cohere without muddle. Occasional stacked modifiers (“labyrinthine bookstore occupying an entire mountain”) flirt with excess yet serve texture. No loops or scaffold; rhythm modulates with tension.</comment>
+<question>7</question><grade>9.3</grade>
+<comment>Zero loops or scaffold; every sentence advances story or atmosphere. Metaphors are coherent—pollen-dusted compass, petrified-paper desk—and never muddle causality. Rhythm accelerates during the rescue, then resolves into the quiet seed-drying line. High information density with no filler.</question>
 
-<question>8</question><grade>9.0</grade>
-<comment>The library of unlearned lessons, seeded absences, and botanical grammar synthesize into a fresh mythic engine. Risky lyric structure heightens stakes without obscuring closure; the concept feels inevitable in hindsight and could not be transplanted unchanged.</comment>
+<question>8</question>
+<grade>9.4</grade>
+<comment>The library of unlearned lessons is a fresh synthesis of Borgesian archive and eco-fantasy, made specific through Adelpha Green’s emotion-mapping seeds. Risk-taking—trading lifespan for a word—heightens stakes without obscuring clarity. Transformation test: swap any detail and the emotional calculus collapses. Final hush of cello in historians’ dreams is an inevitable echo of the unheard symphony.</question>
 
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.0</grade>
-<question>9 D</question><grade>7.4</grade>
-<question>9 E</question><grade>7.6</grade>
-<question>9 F</question><grade>7.2</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>6.3</grade>
-<question>9 I</question><grade>7.0</grade>
-<question>9 J</question><grade>8.1</grade>
+<question>9 A</question>
+<grade>8.7</grade>
+<question>9 B</question>
+<grade>9.2</grade>
+<question>9 C</question>
+<grade>8.5</grade>
+<question>9 D</question>
+<grade>8.9</grade>
+<question>9 E</question>
+<grade>8.8</grade>
+<question>9 F</question>
+<grade>8.6</grade>
+<question>9 G</question>
+<grade>9.0</grade>
+<question>9 H</question>
+<grade>7.9</grade>
+<question>9 I</question>
+<grade>8.4</grade>
+<question>9 J</question>
+<grade>8.7</grade>

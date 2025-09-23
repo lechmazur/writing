@@ -1,29 +1,31 @@
 grade_story_wc_237.txt
-<question>1</question><grade>8.7</grade><comment>Lina’s contradictory impulses—terror vs trust, revision vs grief—are embodied in the crystallizing breath and quill fracture. The micro-choice to finish the twelfth stroke despite needles in her lungs earns the spiral release. Brother’s fall and her held-breath ritual anchor motive without exposition dump. Cost is visible: quill snaps, rock rises, silence changes texture.</comment>
+<question>1</question><grade>8.7</grade><comment>Lina’s interiority is vivid—her held breath crystallizing into needles, the taste of iron, the memory of her brother’s fall—yet the relationship with Master Jomei remains largely off-stage, so status dynamics and secondary pressure are muted. The earned shift from terror to release is credible and embodied, but the mentor’s function is more symbolic than crucible.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Single-scene causal arc: misdrawn rune → held breath → twelfth stroke → spiral release → rock rises. Orientation anchored by word 60 (“floating rock drifted…tea-dark lake”). Closure is Resonant Reconfiguration: crystallized shards become speakable words, rock ascends—cost is the split quill and the audible click that shatters her chest.</comment>
+<question>2</question><grade>9.1</grade><comment>The causal spine is clean: each stroke of the rune tightens the breath-clock, the kettle’s plume triggers the inversion risk, and the final click releases both breath and grief. Closure is a decisive reconfiguration—scars become airborne stories—paid for by the snapped quill and the platform’s relieved rise.</comment>
 
-<question>3</question><grade>8.8</grade><comment>Floating rock, tatami circle, kettle plume, squid-ink jade—all constrain timing and breath. Micro-setting of the quill’s split tip charges the final image. Weather and platform height shift with emotional stakes. Sensory hierarchy narrows to breath, ink, steam under typhoon pressure.</comment>
+<question>3</question><grade>8.9</grade><comment>The floating rock, tatami circle, and storm-stacked sky are rendered with tactile specificity; the kettle’s mirrored surface and bouncing raindrops constrain posture and timing. The environment is not mere backdrop—it actively shapes the breath-hold ritual and final exhalation.</comment>
 
-<question>4</question><grade>8.6</grade><comment>Dominant stake: can she rewrite grief before the kettle plume rises? Pressure tightens with each stroke and heartbeat; failure means reliving brother’s fall. Agency is the deliberate choice to finish the twelfth stroke despite crystallized lungs. Cost: quill fractures, silence becomes speakable, rock ascends—felt on the page.</comment>
+<question>4</question><grade>9.0</grade><comment>The dominant stake—transforming scars into stories under mortal pressure—escalates with each crystallized breath; the kettle’s plume is a live fuse that narrows options to succeed or repeat her brother’s fall. The cost is visceral: lungs pierced by internal needles, quill snapped, platform rising as if relieved of a corpse-weight.</comment>
 
-<question>5</question><grade>8.9</grade><comment>Theme emerges from the spiral rune: scars become stories only when spoken aloud at cost. Subtext in Master Jomei’s silent nod and bergamot exhale. Final image—rock drifting higher after she speaks her brother’s name—reweights the premise without moralizing. Ambiguity lingers: grief isn’t erased, it’s transformed into flight.</comment>
+<question>5</question><grade>9.2</grade>
+<comment>Theme emerges through image rather than assertion: crystallized grief becomes luminous sentences that orbit then dissolve into story. The final spiral-rune offers a resonant, non-literal answer—stories, unlike bodies, learn to fly—without moralizing.</comment>
 
-<question>6</question><grade>8.8</grade><comment>Lyrical third-person limited stays inside Lina’s perceptual filter: “tasted of iron,” “heartbeat felt like a rune gone wrong.” Syntax mirrors held-breath tension—long sentences compress at stroke eleven. No head-hopping; Master Jomei’s minimal dialogue carries subtext. Voice coherent under pressure, no register drift.</comment>
+<question>6</question><grade>8.8</grade>
+<comment>Voice is lyric yet precise, with rhythmic control under pressure (“storm clouds stacked above like bruised shelves”). Perceptual signature is consistent—Lina’s synesthetic noticing of taste, sound, and texture—without head-hopping or register drift.</comment>
 
-<question>7</question><grade>8.7</grade>
-<comment>Prose is dense yet clear: “storm clouds stacked above like bruised shelves” does double sensory work. No loops or scaffold; each sentence advances breath, ink, or memory. Metaphors are precise and grounded. Final line “stories, unlike bodies, know how to fly” lands clean after earned spiral.</comment>
+<question>7</question><grade>9.0</grade>
+<comment>Prose is dense yet propulsive; each sentence layers sensory detail and stakes (“rain striking the platform so hard that individual drops bounced knee-high”). No loops, no mixed metaphors, no filter-verb clutter—only purposeful compression that accelerates toward the click of closure.</comment>
 
-<question>8</question><grade>9.0</grade>
-<comment>Floating rock tea ceremony + rune magic + grief alchemy feels fresh, not checklist. Superstition of twelfth stroke becomes causal engine. Quill fracture and rock ascent synthesize image and theme. Risky lyric compression pays off in closure without gimmickry.</comment>
+<question>8</question><grade>8.9</grade>
+<comment>The fusion of calligraphy, breath-magic, and grief ritual feels fresh; the floating rock tea-ceremony is a specific cultural invention rather than generic fantasy. The inversion of the childhood superstition into deliberate revision is a non-obvious synthesis that lands with earned inevitability.</comment>
 
 <question>9 A</question><grade>8.4</grade>
 <question>9 B</question><grade>8.7</grade>
 <question>9 C</question><grade>9.0</grade>
-<question>9 D</question><grade>8.9</grade>
+<question>9 D</question><grade>8.6</grade>
 <question>9 E</question><grade>8.8</grade>
-<question>9 F</question><grade>8.6</grade>
-<question>9 G</question><grade>9.1</grade>
-<question>9 H</question><grade>9.2</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 F</question><grade>8.9</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>9.1</grade>
+<question>9 I</question><grade>8.3</grade>
+<question>9 J</question><grade>8.2</grade>

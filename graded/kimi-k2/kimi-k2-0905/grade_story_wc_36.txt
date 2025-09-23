@@ -1,25 +1,31 @@
 grade_story_wc_36.txt
-<question>1</question><grade>8.7</grade><comment>Kaelen’s contradictory impulses—driven keeper vs. stillness-seeker—are embodied in micro-choices (uncasing, breathing silence, laying flute). The final renunciation is earned by prior causality and carries visible cost (loss of flute, guardianship, identity). Interiority is concrete, embodied, and avoids therapy-speak.</comment>
-<question>2</question><grade>8.9</grade><comment>Single-scene structure with clear causal linkage: failure → return → spiral → renunciation. Closure lands as Charged Poise: the seam-mirror reconfigures meaning without crossing, cost paid in silence. Orientation is anchored by driftwood markers and violet seam; no causality breaks.</comment>
-<question>3</question><grade>8.6</grade>
-<comment>Thunder-echo range and canyon hush constrain every choice—sound swallowed, light drunk, markers moved by wind. The flute and driftwood function as micro-settings that alter tactics. Sensory detail is selective, filtered through Kaelen’s guilt-attuned perception.</comment>
-<question>4</question><grade>8.5</grade>
-<comment>Dominant stake: understanding failure’s cost. Pressure tightens when markers rearrange into spiral, forcing stance crystallization. Agency is renunciation; cost is flute and identity. No coincidence resolves; escalation is internal and mirrored in widening seam.</comment>
-<question>5</question><grade>9.1</grade>
-<comment>Theme emerges from particulars: “price of echo is silence paid in advance.” Final image reweights premise—unweaving self to hear silence. No moralizing; resonance is felt through charged spiral and relinquished flute.</comment>
-<question>6</question><grade>9.0</grade>
-<comment>Voice is lyric yet precise, with perceptual signature of guilt-filtered attention. Syntax mirrors hush—long breath-like sentences, compressed fragments under pressure. No head-hopping; diction stays within Kaelen’s lexicon.</comment>
-<question>7</question><grade>8.8</grade>
-<comment>Prose is dense, rhythmic, and propulsive. Metaphors are coherent (velvet, catacombs, reverse snow) and never muddle. No loops or scaffold; every line advances atmosphere or choice. Minor elevation in final third is earned.</comment>
-<question>8</question><grade>9.2</grade>
-<comment>Fresh synthesis of mythic and psychological: flute as rift-key, silence as teacher. Spiral of driftwood markers is non-obvious yet inevitable. Risky lyric compression heightens stakes without obscuring clarity.</comment>
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.4</grade>
-<question>9 C</question><grade>8.3</grade>
-<question>9 D</question><grade>8.6</grade>
-<question>9 E</question><grade>8.5</grade>
-<question>9 F</question><grade>8.4</grade>
-<question>9 G</question><grade>9.1</grade>
-<question>9 H</question><grade>7.9</grade>
+<question>1</question><grade>8.7</grade><comment>Kaelen’s interiority is embodied and specific—her lungs “felt like catacombs,” her thumbs “remember every grain.” The final renunciation (laying the flute across the spiral) is earned by the dramatized flaw: fear dressed as certainty. No stock phrasing; micro-choices (breathing silence, reversing footprints) reveal hierarchy of values. The only minor slip is a touch of diagnostic self-awareness in “understood the flaw had never been the melody but the singer’s fear.”</comment>
+
+<question>2</question><grade>9.2</grade><comment>Closure is a Resonant Reconfiguration: Kaelen’s refusal to step through the mirror, instead leaving the flute, reweights the premise—insight is silence paid in advance. Causal linkage holds: because the spiral rearranges itself, therefore she recognizes the land’s treaty and chooses stillness. Cost is visible—the flute glints once, then is “claimed by the quiet.” Lens is causal throughout.</comment>
+
+<question>3</question><grade>8.9</grade><comment>Thunder-echo range is not backdrop but active agent: the canyon hush “drank light,” the driftwood markers “began to shift.” Sensory hierarchy is POV-filtered—salt-smooth wood, violet seam colder than starlight. Environment constrains the final choice: the spiral points inward, forcing renunciation. One hairline slip: “memory of thunder” edges toward abstraction.</comment>
+
+<question>4</question><grade>8.8</grade><comment>Dominant stake—harvest insight from failure—tightens when the spiral rearranges itself, narrowing options to enter or renounce. Escalation is driven by protagonist agency: her breath through the flute summons the markers, her final refusal seals the seam. Cost is felt: the flute is surrendered, the hush “claimed.” No coincidence resolves the conflict.</comment>
+
+<question>5</question><grade>9.0</grade>
+<comment>Theme emerges from concrete particulars: the price of echo is silence paid in advance. Subtext operates in gesture—laying the flute across driftwood is wordless atonement. The final image (book returned to shelf of stone) offers non-literal resonance without moralizing. No thematic drift; the question of how to keep without possessing is answered by relinquishment.</comment>
+
+<question>6</question><grade>8.6</grade>
+<comment>Third-person limited stays locked to Kaelen’s perceptual signature—“thumbs that remembered every grain,” lungs like catacombs. Syntax mirrors her state: long breath-like sentences in the hush, abrupt fragments at the seam. No head-hopping; distance control is precise. One minor cadence echo—“avalanchingly quiet” appears twice, but the repetition is pattern-taught and pays off.</comment>
+
+<question>7</question><grade>8.9</grade>
+<comment>Prose is dense yet propulsive: “the canyon hush drank light the way dry earth drinks blood.” No loops or scaffold; each sentence advances knowledge or pressure. Metaphors are coherent and grounded—violet seam, reverse snow. Register remains within Kaelen’s plausible lexicon. Final line’s cadence—“avalanchingly quiet, teaching her…”—is earned and resonant.</comment>
+
+<question>8</question><grade>8.7</grade>
+<comment>The “harvest insights from failure” premise is reframed as silence paid in advance—a fresh angle on the keeper trope. Specificity anchors universals: salt-smooth driftwood, cedar box, violet seam. The spiral’s self-rearrangement feels inevitable in hindsight. Risky lyric compression heightens stakes without obscuring clarity.</comment>
+
+<question>9 A</question><grade>8.4</grade>
+<question>9 B</question><grade>9.1</grade>
+<question>9 C</question><grade>7.9</question>
+<question>9 D</question><grade>8.2</grade>
+<question>9 E</question><grade>8.7</grade>
+<question>9 F</question><grade>7.6</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>7.3</grade>
 <question>9 I</question><grade>8.8</grade>
-<question>9 J</question><grade>9.0</grade>
+<question>9 J</question><grade>8.6</grade>

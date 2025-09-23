@@ -1,29 +1,22 @@
 grade_story_wc_79.txt
-<question>1</question><grade>8.7</grade><comment>Interiority is rich and embodied ("ink-stained thumb," "pulse hammered against her coral collar"), motives escalate from curiosity to irreversible choice; final renunciation carries visible cost as she drops the whistle and accepts exile from the known map.</comment>
-
-<question>2</question><grade>9.1</grade><comment>Causal chain is tight: tremor → pattern match → altered whistle note → watchers respond → crack reveals mother → city turns back. Closure lands as Conceptual Repricing: gate closed to protect, not punish, with felt cost in the new chart she must now draw.</comment>
-
-<question>3</question><grade>8.9</grade><comment>Shell-city, desert horizon, oxidized watchers—each constrains action and charges the final image; the spiral-grooved watcher faces mirror her atlas, making the setting an active antagonist rather than backdrop.</comment>
-
-<question>4</question><grade>8.8</grade><comment>Dominant stake—city’s survival versus personal need for truth—tightens once when the whistle’s cracked note forces the turtles north; cost is legible in merchants’ screams and her dropped whistle, foreclosing retreat.</comment>
-
-<question>5</question><grade>9.0</grade><comment>Theme emerges wordlessly: maps are acts of love and betrayal; the final image of “families waiting on the other side of silence” reweights every prior note without moralizing.</comment>
-
-<question>6</question><grade>9.2</grade><comment>Voice is oceanic, tidal, precise—“sunwashed dread,” “sound frayed into harmonics that tasted of iron”—with perceptual signature of a cartographer who hears geography; no head-hopping, compression taught early and paid off.</comment>
-
-<question>7</question><grade>8.8</grade>
-<comment>Prose is dense yet fluid; metaphor serves pressure (“tremor travel up her spine like a warning spelled in Morse”) without overwriting. One minor loop: “sunwashed dread” appears twice; otherwise zero artifacts in peak beats.</comment>
-
-<question>8</question><grade>9.3</grade>
-<comment>Shell-cities, pattern-language cartography, archived watchers—elements synthesize into a singular vision; the crack as living geode feels inevitable yet unforeseen, transforming familiar quest motifs into something uncanny and new.</comment>
-
-<question>9 A</question><grade>9.4</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>8.7</grade>
-<question>9 E</question><grade>9.5</grade>
-<question>9 F</question><grade>9.1</grade>
-<question>9 G</question><grade>9.3</grade>
-<question>9 H</question><grade>8.0</grade>
-<question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>9.2</grade>
+<question>1</question><grade>8.5</grade><comment>Mother-haunted cartographer's quiet obsession is embodied in ritual pattern-song and coral collar throb; decisive turn in cracked whistle note earns closure at cost—the revelation that her mother chose horizon over home lands as earned reprise, not exposition.</comment>
+<question>2</question><grade>9.0</grade><comment>Tremor pattern recognition → cracked harmonic → turtles wheel north → watcher revelation of gate’s true purpose → city turns back; each beat because/therefore linked with visible cost: future wanderers now guided toward the crack, not away.</comment>
+<question>3</question><grade>8.2</grade><comment>Carapace bridges, living market stalls, geode-lit hollow, oxidized metal watchers—each tactile moment constrains choice and charges finale; turtle migration redefines horizon before abyss, bridging personal to mythic scale.</comment>
+<question>4</question><grade>8.7</grade><comment>Gate closure as generational trauma; personal stake becomes collective when city lurches north; choice to play cracked pattern forces irreversible turtle course and moral reckoning; closure cost: future children will meet same choice.</comment>
+<question>5</question><grade>8.8</grade><comment>Obsession vs. devotion to home surfaces wordlessly; final image rescales “Here Be Answers” from blank space to lived reunion inside the crack—conceptual repricing without moral preaching, dread transmuted to bittersweet lineage.</comment>
+<question>6</question><grade>8.6</grade>
+<comment>Lush, rhythmic prose mirrors cartographer’s synesthetic attention to sound-as-map; tactile verbs (“shudder,” “iron-tasting harmonics”), no POV drift, spiral-shell voice consistent through pressure peaks.</comment>
+<question>7</question><grade>8.4</grade>
+<comment>Lines propel—“ink-stained thumb to nape,” “salt-crusted abyss”: sensory triads instead of filter phrases; only one mild loop in “sunwashed dread” repetition; cadence modulates with turtle tremor, no clutter in climax.</comment>
+<question>8</question><grade>9.2</grade>
+<comment>Turtle-city as living atlas, watchers as oxidized archives, pattern languages that are music—synthesis fresh yet inevitable; late crack that reveals mother’s fate reconfigures entire premise without gimmick, earns risk bonus.</comment>
+<question>9 A</question><grade>9.0</question>
+<question>9 B</question><grade>7.6</grade>
+<question>9 C</question><grade>6.9</grade>
+<question>9 D</question><grade>6.8</grade>
+<question>9 E</question><grade>6.7</grade>
+<question>9 F</question><grade>5.9</grade>
+<question>9 G</question><grade>8.9</grade>
+<question>9 H</question><grade>5.2</grade>
+<question>9 I</question><grade>7.1</grade>
+<question>9 J</question><grade>8.0</grade>

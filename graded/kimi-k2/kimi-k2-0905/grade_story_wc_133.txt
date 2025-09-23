@@ -1,27 +1,19 @@
 grade_story_wc_133.txt
-<question>1</question><grade>8.7</grade><comment>Mara’s insomnia and artistic failure are embodied in raw eyes and tactile amber; her micro-choice to kneel and paint redefines her vigilance as gift. The old woman’s presence supplies relational pressure that alters Mara’s stance. Internal contradiction—failure vs. compulsion—remains active in scene. Cost is felt when she trades the painting for the vial.</comment>
-
-<question>2</question><grade>8.9</grade><comment>Single continuous scene; orientation (who/where/when) anchored by tide and causeway within 120 words. Closure is a Resonant Reconfiguration: insomnia becomes gift, foreclosing artistic despair with felt cost—she gives away the painting. Causal linkage: brooch warmth → shell spiral → exchange → painting → vial. No lens ambiguity.</comment>
-
-<question>3</question><grade>8.8</grade><comment>Basalt causeway, half-drowned monastery, and receding tide constrain movement and supply visual metaphor. Rain trails guide literal path and thematic pattern. Amber brooch and pottery shard act as micro-settings that charge the final image. Sensory selection (salt, wet stone, peeling fresco) is filtered through exhaustion.</comment>
-
-<question>4</question><grade>8.6</grade><comment>Dominant stake: thresh meaning from ruin. Pressure tightens when Mara realizes the exchange is memory-for-meaning, not goods. Agency: she paints with rainwater, then relinquishes the canvas. Cost is the painting itself and the sleepless vigilance now accepted. No coincidence resolves; tide’s return is backdrop, not deus.</comment>
-
-<question>5</question><grade>8.5</grade><comment>Theme emerges from particulars: poisoned seas, shell spirals, and amber memory converge on the cost of witness. Subtext in the shard’s moving waves and the vial’s untouched water. Final image of spirals in dream reweights insomnia without moralizing. Complexity preserved—no tidy redemption.</comment>
-
-<question>6</question><grade>8.9</grade><comment>Distinct lyric texture: “rain trails that ribboned,” “broken tooth” monastery. Perceptual signature is painterly and exhausted. No head-hopping; single POV held. Dialogue minimal but subtextual: “You see them too.” Compression taught early and sustained.</comment>
-
-<question>7</question><grade>8.7</grade><comment>High density: “tide retreat like a defeated army,” “pigments bleeding into fantastic shapes.” Rhythm modulates with fatigue. No loops or scaffold; figurative language purposeful. Occasional elevated diction justified by artist POV. Final paragraph cadence mirrors tide return.</comment>
-
-<question>8</question><grade>8.8</grade><comment>Fresh synthesis: post-water-war memory economy, tidal monastery as breathing ruin. Amber brooch as prehistoric witness is non-obvious. Risk in lyric accumulation pays off in closure. No template echoes. Specificity of rain trails and shell spirals anchors universals.</comment>
-
-<question>9 A</question><grade>8.4</grade>
-<question>9 B</question><grade>8.7</grade>
-<question>9 C</question><grade>8.2</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.6</grade>
-<question>9 F</question><grade>7.3</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>7.6</grade>
-<question>9 I</question><grade>8.3</grade>
-<question>9 J</question><grade>8.1</grade>
+<question>1</question><grade>6.9</grade><comment>Interior contradiction flickers in "Another dawn, another failure" and the clutch-gesture around the amber, but Mara’s decisive action—kneeling to paint, drinking the spring water—is rooted more in inherited awe than interior fracture. Relationship is undercooked: the old woman speaks in lore, not status shifts nor fresh pressure. Micro-choice hierarchy legible but cost mostly atmospheric; sleep is “gift” not forfeiture. No earned stasis because renunciation feels gifted, not fought.</comment>
+<question>2</question><grade>7.4</grade><comment>Single-scene mosaic with clear orientation by 70 words, causal beats chain cleanly: rain → shells → shard → vial. Closure via Conceptual Repricing: the “real exchange” reframes insomnia as vigilance. Minor drift: monastery as “broken tooth” is set-up for later re-use but never exploited causally.</comment>
+<question>3</question><grade>7.8</grade><comment>Rain trails and tidal cadence physically steer every footfall; shell spirals and half-drowned monastery window their weight inside the final painting. Texture dense, local: “wet stones gold and crimson” re-anchors place at exit. Scale kept human-scale.</comment>
+<question>4</question><grade>6.7</grade><comment>Dominant stake = “thresh meaning from experience.” Tightens once: Mara must trade creative failure for legacy-memory, narrowing via the shard. Cost remains more philosophical than visceral—vial of “water… never been touched by war” is symbol, not forfeiture.</comment>
+<question>5</question><grade>7.5</grade><comment>Emergent theme of cyclical ruin/renewal arises from shells, pigments, ancestral insects. “Water wars’ aftermath” never sermonized; final image re-prices memory as living organism. No tidy moral; ambiguity left hanging like tide.</comment>
+<question>6</question><grade>8.4</grade><comment>Lyrism is disciplined: “rain trails that ribboned down the basalt” teaches pattern; no purple swerve. Perceptual signature raw-eyes insomnia holds POV cleanly. Occasional over-figurative pulse (water wars as “defeated army”) survives under earned tone.</comment>
+<question>7</question><grade>7.7</grade><comment>Dense two-level sentences, varied cadence: “Paint what the water revealed” cuts like instruction. Few scaffold lines; rhythm breathes with tide retreat/return arc. Minor loop: “Another dawn, another failure” echo is allowed as refrain.</comment>
+<question>8</question><grade>7.9</grade><comment>Wrecked monastery memory-market is fresh angle on post-climate-collapse fiction; shells-to-painting transmutation avoids standard survivor barter. Synthesis makes past/present erosion feel inevitable, avoids gimmickry. Specificity lifts familiar trope.</comment>
+<question>9 A</question><grade>6.2</grade>
+<question>9 B</question><grade>7.9</grade>
+<question>9 C</question><grade>7.7</question>
+<question>9 D</question><grade>6.3</question>
+<question>9 E</question><grade>8.3</question>
+<question>9 F</question><grade>5.9</question>
+<question>9 G</question><grade>8.4</question>
+<question>9 H</question><grade>7.2</question>
+<question>9 I</question><grade>7.4</question>
+<question>9 J</question><grade>8.0</question>

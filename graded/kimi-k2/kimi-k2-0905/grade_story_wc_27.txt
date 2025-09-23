@@ -1,21 +1,33 @@
 grade_story_wc_27.txt
-<question>1</question><grade>8.7</grade><comment>Interiority is vivid—soles tasting dust, heart as second heartbeat—yet the “awkwardly confident” label is asserted rather than embodied; the final choice to ride sound into orbit is earned by the stone circle’s pulse and the shuttle’s awakening, so motivation coheres despite the slight label slip.</comment>
-<question>2</question><grade>9.0</grade><comment>Closure lands as Charged Poise: the shuttle lifts on song, broadcasting the lullaby across militia channels—an undeniable reconfiguration of the rebellion’s pause. Causal chain (hum → duet → ignition) holds; cost is the planet left behind, felt in the whispered promise to return.</comment>
-<question>3</question><grade>8.8</grade><comment>Abandoned hangar is tactile—cracked ferrocrete, rusted gantries, dormant consoles—yet the stone circle beneath and the twin-sun margin act as micro-settings that constrain the final harmonic launch; specificity anchors every beat without clutter.</comment>
-<question>4</question><grade>8.6</grade><comment>Dominant stake—“keep the sky open”—tightens when the lull becomes a held breath; the stone circle’s hum escalates pressure, forcing the stargazer to convert silence into song-powered ignition. One decisive intensification suffices.</comment>
-<question>5</question><grade>8.9</grade><comment>Theme emerges: rebellion as inhalation, individual as exhale. The lullaby woven into stone harmonics reweights the pause from stagnation to potential without moralizing; final image of song-trail instead of fire crystallizes the idea.</comment>
-<question>6</question><grade>9.1</grade><comment>Voice is lyric yet grounded—“blue soup” of swallows, “dumb metal flowers”—with rhythmic control that modulates from hush to crescendo. No head-hopping; POV stays locked to barefoot stargazer’s perceptual signature throughout.</comment>
-<question>7</question><grade>8.8</grade>
-<comment>Prose is dense and propulsive; figurative language (“plasma flowers,” “coins on horizon”) is selective and pattern-taught. One mixed metaphor (“cathedral of thunderous serenity”) is minor; no loops or scaffold obscure clarity at closure.</comment>
-<question>8</question><grade>9.0</grade>
-<comment>Fusion of stone-henge acoustics with derelict spaceport feels inevitable; rebellion-as-breath metaphor is fresh and risk-laden. Specificity—opera glasses as lens and ignition focus—transforms familiar salvage tropes into singular vision.</comment>
-<question>9 A</question><grade>8.6</grade>
-<question>9 B</question><grade>8.3</grade>
-<question>9 C</question><grade>8.1</grade>
-<question>9 D</question><grade>5.7</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>8.4</grade>
-<question>9 G</question><grade>8.2</grade>
-<question>9 H</question><grade>6.8</grade>
-<question>9 I</question><grade>7.9</grade>
-<question>9 J</question><grade>8.5</grade>
+<question>1</question><grade>8.4</grade><comment>Interiority is sensorially rich and idiosyncratic; barefoot contact, crane climb, and harmonic input make motivation visceral. The “awkwardly confident” trait is shown only in the balancing act on the jib—elsewhere she reads as fully heroic, so the flaw is under-dramatized. Final choice to ride sound into orbit is prepared by the stone-circle pulses, so renunciation of escape-for-escape’s-sake carries cost and earns the shift.</comment>
+
+<question>2</question><grade>8.7</grade><comment>Accumulative/Textural lens: images layer (dust, hum, birds, consoles) until the lullaby+stone chord reweights the stake from personal flight to collective signal. Closure is a Charged Poise—she launches, but the price is leaving the planet unguarded while broadcasting a jam-proof song. Orientation anchored by word 60; no因果 breaks, one seamless scene.</comment>
+
+<question>3</question><grade>8.9</grade>
+<comment>Repair bay is tactile—ferrocrete dust on soles, rusted sigil, swallow nests—each detail later re-activated (dust vibrates, birds scatter light, sigil ignites). Opera glasses function as micro-setting that refracts sunlight into ignition beam, so object constrains final tactic. Spatial track clean: crane, jib, hatch, pad all map without drift.</comment>
+
+<question>4</question><grade>8.5</grade>
+<comment>Dominant stake: keep sky open for next dreamers. Pressure tightens when the hum offers power but demands she become the “exhale” of the rebellion—launch is no longer private escape but broadcast. Cost legible: she forfeits anonymity and risks militia fire by riding the harmonic onto open channels.</comment>
+
+<question>5</question><grade>8.8</grade>
+<comment>Theme emerges through reversal: lull ≠ surrender but gathered breath; song becomes weaponized tenderness. Final image of shuttle trailing “song instead of fire” reweights earlier lullaby from comfort to ignition without moralizing. Subtext of barefoot girl turning foundation stone into launch code fuses personal memory with collective revolt.</comment>
+
+<question>6</question><grade>9.1</grade>
+<comment>Voice is lyric yet precise: “paired coins,” “pepper-corns flung into blue soup,” “dumb metal flowers.” Perceptual signature stays within stargazer’s sensory lexicon; no filter-verb clutter. Rhythm accelerates with hum crescendo, then cuts to clean declarative at liftoff—prose breathes with pressure.</comment>
+
+<question>7</question><grade>8.9</grade>
+<comment>High figurative density but each metaphor performs double duty (e.g., swallows as ships prefigure scatter of light that wakes consoles). No mixed vehicles; scaffolding purged. One paraphrase loop: “thunderous serenity” repeated in opening and close—reads as intentional motif, not drift.</comment>
+
+<question>8</question><grade>8.6</grade>
+<comment>Fusion of stone circle, lullaby, and spaceport scrap into launch mechanism feels fresh and inevitable. Risk taken in making climax a harmonic duet rather than firefight pays off. Slight echo of Clarke’s “sufficiently advanced technology” but transmuted through song-magic and barefoot intimacy.</comment>
+
+<question>9 A</question><grade>8.7</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>7.9</grade>
+<question>9 D</question><grade>5.4</grade>
+<question>9 E</question><grade>8.8</grade>
+<question>9 F</question><grade>8.3</grade>
+<question>9 G</question><grade>8.0</grade>
+<question>9 H</question><grade>6.6</grade>
+<question>9 I</question><grade>7.5</grade>
+<question>9 J</question><grade>8.9</grade>

@@ -1,29 +1,39 @@
 grade_story_wc_320.txt
-<question>1</question><grade>8.7</grade><comment>Interiority is vivid and embodied (“serenely electric pins mapped constellations across her skin”), but the arc leans on a single epiphanic pivot rather than a chain of micro-choices; the final renunciation is felt yet causally compressed.</comment>
+<question>1</question><grade>8.4</grade><comment>Interpreter’s silent renunciation of the shard is earned: her prior insight causes the decisive turn. Interiority is embodied (“serenely electric pins that mapped constellations across her skin”). Dialogue is absent yet the psychic distance stays coherent.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands as a Resonant Reconfiguration: the shard dissolves into a sunrise of lost broadcasts, reweighting silence from threat to cocoon. The Accumulative/Textural lens holds—each discarded assumption layers density until the final cadence shift releases every voice.</comment>
+<question>2</question><grade>9.2</grade><comment>Elegant closure lens: causal Accumulative → lyrical final image requeues static. Setup–middle–payoff gates all present; the moon frame anchors who/where/why by beat three ("lunar perigee tugged").</comment>
 
-<question>3</question><grade>8.9</grade><comment>Tower 7, the gorge, and lunar perigee are not backdrop but active constraints: the city’s sway and moon-pull widen the literal gap that births the new transmission bridge. The hollywood star fragment and transmitter guts serve as micro-settings that guide the tuning act.</comment>
+<question>3</question><grade>7.9</grade><comment>Radio-tower gorge constrains choice: cantilevered sway locks tactics, lunar pull widens channel for silence. Micro-setting (Hollywood sequin atop coil) charges final sunrise. Specificity > breadth.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—prevent the shard from devouring all transmissions—escalates through each discarded assumption, tightening until the interpreter trades her last sequin of fame for universal lullabies. Cost is visible: the gold sublimates, the coat is lighter by “one lifetime of conclusions.”</comment>
+<question>4</question><grade>8.1</grade><comment>Shard escalation follows pattern-break: silence eats thunderclap, then cocoons transmissions toward rebirth. Serenely electric vacancy visibly narrows options; tangible cost (gold sublimates into light).</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme emerges wordlessly: every ending is a fold where the tape loops. The shard’s dissolution reconfigures loss into return, and the gorge’s whispered voices embody the idea without exposition. No moralizing—only resonance.</comment>
+<question>5</question><grade>8.7</grade><comment>Theme emerges from particulars: gold fame renounced to locate the beginning in hush. Final image reconfigures endings as folds; no tidy moral, only hinge logic felt at cost.</comment>
 
-<question>6</question><grade>9.2</grade><comment>Voice is lyric yet precise, with a perceptual signature tuned to radio static and cosmic hush. Syntax breathes with lunar gravity; no head-hopping or register drift. The final “soft click of a needle” crystallizes the cadence.</comment>
+<question>6</question><grade>8.3</grade>
+<comment>Lyric third-person free-indirect style stays clean; rhythm compresses under pressure (“creaking as lunar gravity stretched”). No head-hopping; diction within lexicon.</comment>
 
-<question>7</question><grade>9.0</grade>
-<comment>Zero loops or scaffold; each sentence advances image or pressure. Metaphors are coherent—“antennas humming like crickets that had learned grammar”—and never obscure causality. High density without clutter.</comment>
+<question>7</question><grade>8.2</grade>
+<comment>Zero loops—high density (“sunrise bottled inside vacuum tubes”). Metaphor stream coherent: shard=cocoon. Filter-verb stacks absent: verbs strong, props tactile.</comment>
 
-<question>8</question><grade>9.3</grade>
-<comment>The shard-of-hush premise, hollywood star fragment, and lunar perigee synthesize into a fresh mythos of signal archaeology. Risky lyric compression pays off: the cosmic radio tower city feels inevitable, not gimmicky.</comment>
+<question>8</question><grade>8.1</grade>
+<comment>Specific synthesis: celebrity detritus transformed into cosmological seed. Tower-as-bridge concept feels inevitable; risky lyric mode heightens stakes without gimmicks.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.1</grade>
-<question>9 C</question><grade>9.4</grade>
-<question>9 D</question><grade>8.2</grade>
-<question>9 E</question><grade>9.0</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>8.8</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>8.4</grade>
-<question>9 J</question><grade>8.6</grade>
+<question>9 A</question><grade>10.0</grade>
+
+<question>9 B</question><grade>9.4</grade>
+
+<question>9 C</question><grade>9.6</grade>
+
+<question>9 D</question><grade>7.7</grade>
+
+<question>9 E</question><grade>9.8</grade>
+
+<question>9 F</question><grade>8.0</grade>
+
+<question>9 G</question><grade>8.3</grade>
+
+<question>9 H</question><grade>7.5</grade>
+
+<question>9 I</question><grade>9.0</grade>
+
+<question>9 J</question><grade>8.2</grade>

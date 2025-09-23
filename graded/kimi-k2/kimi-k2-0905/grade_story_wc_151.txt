@@ -1,31 +1,29 @@
 grade_story_wc_151.txt
-<question>1</question><grade>8.6</grade><comment>Interiority is vivid and embodied; the protagonist’s contradictory impulses—yearning for self-revelation vs. clinging to anonymity—drive every beat. Micro-choices (slipping the unsigned letter, wiping the chalk spiral) crystallize her hierarchy of values and the cost of refusal. The final Earned Stasis—keeping the confession unread—feels inevitable from prior causality. Only a slight reserve: the childhood postcard beat is summary, not dramatized.</comment>
+<question>1</question><grade>8.4</grade><comment>The pseudonym creator’s interior contradiction—needing to confess yet clinging to anonymity—is dramatized in the split between the two letters; the unsigned envelope’s surrender and the kept confession show a hierarchy of values with felt cost. Micro-choices (kneeling to chalk, wiping the spiral away) embody the tension without therapeutic self-labeling. The only drag is a slight over-articulation of the “meaning in the margins” epiphany; still, the final refusal to be read is credibly earned.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Closure lands as Charged Poise: the drone’s ascent reconfigures meaning without resolving identity. Causal chain holds—each beat (chalk spiral, second letter, slot choice) tightens options under the Accumulative/Textural lens. Orientation is immediate; no teleporting props or plot amnesia. Cost is legible in the erased map and lighter clipboard.</comment>
+<question>2</question><grade>8.7</grade><comment>Closure lands as Earned Stasis: she forfeits the chance to be truly known, a cost made visible when the drone carries away the blank-signed letter. The Accumulative/Textural lens holds—spiral of chalk, neon flicker, and clipboard weight tighten until the unsent confession stays in pocket. Orientation is swift; causality is preserved in every beat. One hairline slip: the “meaning lives in the mailing” line slightly over-explains the already-charged image.</comment>
 
-<question>3</question><grade>8.4</grade><comment>The golden arcade filters dawn into “honeyed beams” and “lavender shadows,” constraining visibility and mood. The postal slot’s soft glow and neon relics anchor era and stakes. Chalk on flagstones and the copper drone supply tactile specificity. Environment subtly guides her kneeling, spiral drawing, and final erasure.</comment>
+<question>3</question><grade>8.6</grade><comment>The arcade’s glass roof, postal slot glow, and lavender neon are filtered through the POV’s nostalgic dread; the chalk spiral physically guides her kneeling body and later erasure, constraining the final choice. Micro-setting triumphs: the clipboard’s lighter weight after the drop signals irrevocable loss. Detail is selective, never touristic. Only the 2080s neon label feels briefly grafted, not lived-in, preventing a higher band.</comment>
 
-<question>4</question><grade>8.7</grade><comment>Dominant stake—whether to mail truth or preserve masks—is signaled in paragraph one and tightens with each chalk symbol. Agency crystallizes in the decisive withholding; the unsigned letter’s surrender carries visible cost. Pressure escalates via the ticking drone, not coincidence. No reversal, but a deepening that reweights identity.</comment>
+<question>4</question><grade>8.3</grade><comment>Dominant stake—true name vs final mask—tightens once: the drone’s early arrival forces the either/or envelope decision. The price is legible: she forfeits reader recognition, keeping the confession unread. Pressure is accumulative, not causal, but coherent under the lyric lens. No off-stage rescue; coincidence (early drone) complicates rather than resolves.</comment>
 
-<question>5</question><grade>9.1</grade>
-<comment>Theme of identity vs. anonymity emerges through image and action: chalk wings, barcode-daisy gateway. Subtext resides in the unsent confession and erased spiral. Final image of torn pages offers resonant, non-moralizing answer. No thematic drift or late sermon.</comment>
+<question>5</question><grade>8.8</grade><comment>Theme emerges organically: identity as an act of erasure and preservation. The chalk gateway of barcode-and-daisy reweights the premise—future and past kissing—without moralizing. Final image of the winged envelope in pocket offers a resonant, non-literal answer: selfhood remains undelivered, forever potential. No tidy thesis is stated; ambiguity is charged, not confusing.</comment>
 
-<question>6</question><grade>9.0</grade>
-<comment>Third-person limited remains stable; perceptual signature is lyric yet precise—“neon signs…like tired fireflies.” Syntax modulates with pressure: longer cadences for reflection, clipped fragments at drone arrival. No head-hopping or register drift. Voice coheres as singular artistic stance.</comment>
+<question>6</question><grade>8.9</grade><comment>Third-person POV stays tight to the creator’s perceptual filter; diction (“honeyed beams,” “torn pages”) mirrors her lyric melancholy without purple drift. Rhythm accelerates into staccato clauses as the drone descends, then exhales in the final sentence. No head-hop or register drift. The voice is distinctive, compressed, and consistent under pressure.</comment>
 
-<question>7</question><grade>8.8</grade>
-<comment>Prose is dense and propulsive; each sentence layers image, memory, and tension. Figurative language is selective—“honeyed beams,” “torn pages”—never overwrought. No loops, scaffold, or mixed metaphors. Final line lands with crystallized rhythm and closure.</comment>
+<question>7</question><grade>8.5</grade>
+<comment>Sentences vary in length and opening; no template cadence or synonym loops. Figurative language is sparse and purposeful—“neon flickered like tired fireflies” sharpens the nostalgic tone without clutter. Information density high: each sentence advances image, emotion, or stakes. One near-scaffold: “carefully inventive to the end” repeats the prompt phrasing; luckily it’s isolated and late enough to avoid dulling the closure image.</comment>
 
-<question>8</question><grade>8.5</grade>
-<comment>Premise—obsolete surface mail as crucible for identity—feels fresh and specific. Chalk codes and barcode-daisy gateway transform familiar tropes of anonymity. Emotional specificity anchors the speculative frame. Risky lyric compression heightens stakes without gimmickry.</comment>
+<question>8</question><grade>8.7</grade>
+<comment>The premise—last analog letter at a dawn arcade—freshly reframes identity-as-unsent-mail. Chalk codes, barcode-daisy gateway, and drone judgment synthesize into a singular visual grammar not seen elsewhere. Risk is taken with near-future nostalgia, yet it coheres without gimmickry. The final winged envelope feels inevitable in hindsight, not borrowed.</comment>
 
-<question>9 A</question><grade>9.2</grade>
-<question>9 B</question><grade>8.7</grade>
+<question>9 A</question><grade>9.1</grade>
+<question>9 B</question><grade>8.9</grade>
 <question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.8</grade>
-<question>9 F</question><grade>8.3</grade>
-<question>9 G</question><grade>8.1</grade>
-<question>9 H</question><grade>7.6</grade>
-<question>9 I</question><grade>8.0</grade>
-<question>9 J</question><grade>7.7</grade>
+<question>9 D</question><grade>7.8</grade>
+<question>9 E</question><grade>8.6</grade>
+<question>9 F</question><grade>8.2</grade>
+<question>9 G</question><grade>8.0</grade>
+<question>9 H</question><grade>8.7</grade>
+<question>9 I</question><grade>7.5</grade>
+<question>9 J</question><grade>8.3</grade>

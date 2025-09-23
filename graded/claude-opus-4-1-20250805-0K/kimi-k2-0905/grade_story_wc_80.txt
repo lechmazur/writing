@@ -1,29 +1,27 @@
 grade_story_wc_80.txt
-I'll evaluate this literary story according to the demanding editorial standards provided.
+<question>1</question><grade>7.8</grade><comment>Mara's "stoically sensitive" nature manifests through concrete embodied reactions (wincing at gull cries "as if the sound had come from inside her own chest") and her methodical ritual of placing confessions in foundation cracks. Her transformation from certifying what stands to documenting "abandoned dreams" shows clear internal evolution with visible cost. The contradictory impulses of professional duty versus personal mourning play out through action rather than exposition.</comment>
 
-<question>1</question><grade>7.8</grade><comment>Mara's interiority is concrete and embodied ("winced as if the sound had come from inside her own chest"), with clear motivation driving her ritual of placing notes in cracks. The transformation from foundation certifier to "archaeologist of abandoned dreams" provides earned character arc. Minor deduction for some abstract phrasing in emotional moments ("stoically sensitive communion") that could be more embodied.</comment>
+<question>2</question><grade>8.2</grade><comment>The story follows an Accumulative/Textural lens with Mara's ritual of placing notes building toward a Resonant Reconfiguration where she becomes "lighter by exactly the amount of a confession." The closure lands with conceptual cost as she transforms from surveyor to "archaeologist of abandoned dreams," with each sealed note a "suture" of memory. Orientation anchors clearly (who/where/when established in opening lines), and the single-scene structure maintains coherent pressure through her descent and return.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural lens with clear closure as Resonant Reconfiguration - Mara's ritual transforms the pavilion into a repository of memory with visible cost (the lightened inkwell, walking away without looking back). The pattern of placing notes builds density through repetition with variation. Orientation anchors (who/where/when) established within first 120 words.</comment>
+<question>3</question><grade>8.4</grade><comment>The submerged pavilion functions as both setting and crucible, its "interlaced absences" directly constraining Mara's movements and shaping her documentary method. Sensory details are selective and POV-filtered ("rusted chains...swaying like censers that had forgotten their prayers"). The environment actively shapes choices—the water level, the fissures accepting notes, the missing keystone all drive specific actions that couldn't occur elsewhere.</comment>
 
-<question>3</question><grade>8.4</grade><comment>Exceptional integration of setting as active constraint - the submerged pavilion's architecture ("circular void where the keystone should have been") directly shapes Mara's final act of writing on stone. The "code of hollows she alone could read" makes environment inseparable from character expertise. Sensory details filtered through professional POV ("slick granite coping," "hydraulic lime").</comment>
+<question>4</question><grade>7.6</grade><comment>The dominant stake—Mara's need to document/mourn "what we almost kept"—deepens through accumulation as each note placed increases emotional weight. Her agency manifests through the deliberate ritual of confession-placing, with visible cost in the "lighter" inkwell and her walking away "without looking back." The tightening occurs through the progression from placing paper notes to writing directly on stone, escalating intimacy with the ruins.</comment>
 
-<question>4</question><grade>7.6</grade><comment>Stakes clearly signaled - documenting whether the pavilion can be saved while secretly preserving abandoned dreams. Escalation through deepening ritual (paper notes → direct inscription on stone) with meaningful cost. The "scheduled betrayal" of the tide creates time pressure, though could benefit from one more turn of complication.</comment>
+<question>5</question><grade>8.6</grade><comment>Theme emerges through the central metaphor of "interlaced absence" where missing elements reveal meaning, never stated but embodied in Mara's actions. The notes themselves ("You loved me only when the band played waltzes") carry subtext about lost love without exposition. The final image of future scholars finding her "fragments" offers a non-literal answer about how abandoned dreams achieve permanence through documentation.</comment>
 
-<question>5</question><grade>8.6</grade><comment>Theme emerges powerfully through the concrete act of "stitching a wound shut with thread made of light" - preservation as both technical and emotional work. The final image of future scholars finding fragments offers resonant answer to the central question of what endures. No explicit moralizing; meaning arises from accumulated particulars.</comment>
+<question>6</question><grade>8.3</grade><comment>Voice maintains consistent lyric elevation appropriate to Mara's perspective, with selective perception reflecting her surveyor's eye ("slick granite coping," "hydraulic lime"). No dialogue appears, allowing interiority to dominate through free indirect style. Rhythmic control heightens at peak moments ("each sentence was a suture, each sealed fissure a blaze so hushed it burned only in the mind").</comment>
 
-<question>6</question><grade>8.3</grade><comment>Distinctive voice with controlled psychic distance and consistent POV. Strong perceptual signature in how Mara reads architecture ("hush of arches and moonlit ribs"). Prose rhythm modulates effectively with scene needs. Minor inconsistency in register with phrases like "stoically sensitive" that feel slightly authorial.</comment>
+<question>7</question><grade>7.4</grade><comment>Prose achieves high density with lines doing multiple jobs, though occasional overwriting appears ("tessellations by the ripples"). Some metaphorical strain exists ("stitching a wound shut with thread made of light") but doesn't obscure meaning. Information density is strong—nearly every sentence advances atmosphere, character state, or symbolic weight. Minor repetition of "interlaced absence" and slight register elevation in places ("stoically sensitive communion") create friction without harming closure.</comment>
 
-<question>7</question><grade>7.9</grade><comment>High information density with lines doing multiple jobs ("boots kissing the wet marble steps that descended into darkness, each footfall echoing like a dropped coin"). Some overwriting in metaphorical density ("stitching a wound shut with thread made of light") but generally strong propulsion. Occasional abstract phrasing ("interlaced absence") that could be more concrete.</comment>
+<question>8</question><grade>8.1</grade><comment>The premise of placing confessional notes inside foundation repairs while conducting a structural survey offers genuine freshness. The specific synthesis of professional expertise with personal mourning ritual feels inevitable in hindsight. Risk-taking through the lyric mode and absence-as-presence metaphor heightens meaning without sacrificing clarity.</comment>
 
-<question>8</question><grade>8.1</grade><comment>Fresh synthesis of architectural survey with emotional archaeology creates non-obvious angle. The specific detail of placing confessions in structural repairs transforms familiar loss/memory themes. Risk-taking in the lyrical mode pays off with earned resonance rather than surface quirk.</comment>
-
-<question>9 A</question><grade>8.7</grade>
+<question>9 A</question><grade>7.8</grade>
 <question>9 B</question><grade>8.2</grade>
-<question>9 C</question><grade>8.9</grade>
+<question>9 C</question><grade>8.6</grade>
 <question>9 D</question><grade>7.4</grade>
 <question>9 E</question><grade>6.8</grade>
-<question>9 F</question><grade>9.1</grade>
-<question>9 G</question><grade>9.3</grade>
-<question>9 H</question><grade>7.1</grade>
+<question>9 F</question><grade>8.4</grade>
+<question>9 G</question><grade>8.8</grade>
+<question>9 H</question><grade>6.2</grade>
 <question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.8</grade>
+<question>9 J</question><grade>7.6</grade>

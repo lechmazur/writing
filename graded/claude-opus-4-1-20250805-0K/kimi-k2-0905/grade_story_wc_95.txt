@@ -1,27 +1,31 @@
 grade_story_wc_95.txt
-<question>1</question><grade>7.8</grade><comment>Strong embodied contradictions through Vela's mechanical precision versus philosophical fluidity, with the needle card serving as both cipher and emotional anchor. The final handclasp between brass and flesh after Caelus removes his vocoder earns the transformation with visible vulnerability. Minor deduction for some abstract philosophical dialogue that could be more grounded in physical struggle.</comment>
+I'll evaluate this story through the lens of a demanding literary editor, applying the rubric strictly.
 
-<question>2</question><grade>7.6</grade><comment>Decisive Change lands cleanly when the glass atrium dissolves and both duelists step into the brook together, transforming philosophical combat into shared journey. Causal linkage holds through the duel's question-parry structure leading to Caelus's vocoder removal. Cost is visible in his exposed scar and raw voice. Slight opacity in the sundial's coded angles weakens mid-story causality.</comment>
+**Drive Lens:** Causal - the story operates through because/therefore linkages as Elian's discovery of the sundial's code leads to understanding Vale's true purpose, which causes their reconciliation.
 
-<question>3</question><grade>7.4</grade><comment>The glass atrium's reflective walls amplify the philosophical duel, while the brook's water becomes the physical threshold they cross at closure. The sundial's shadow tracks time and encodes meaning through specific angles. Minor deduction for the atrium's dissolution being more metaphorical than physically grounded.</comment>
+<question>1</question><grade>6.8</grade><comment>Characters show clear motivation through concrete actions (mechanical arm drumming, tracing sundial) and the shift from rivalry to collaboration is earned through dramatized discovery. The needle card's emotional weight ("Questions are doors, Elian. Kick them open") effectively anchors Elian's philosophical stance. However, Vale's transformation feels slightly underserved - his internal state remains opaque until the reveal, and the "diplomatically fierce" trait appears more as label than embodied contradiction.</comment>
 
-<question>4</question><grade>7.2</grade><comment>Stakes escalate from academic tenure/exile through philosophical sparring to Caelus's physical vulnerability when removing his vocoder. The needle card's punctures accumulate as both cipher and emotional record. Final cost visible in the scar and raw voice, though mid-duel escalation relies heavily on abstract philosophical moves.</comment>
+<question>2</question><grade>7.2</grade><comment>Strong causal chain: sundial discovery → duel as inquiry → brook revelation → shared understanding. The closure lands as Resonant Reconfiguration with visible cost (years of rivalry transformed). However, the orientation slightly lags (mechanical arm's significance unclear early) and Vale's hidden agenda could use earlier subtle cueing to strengthen the because/therefore linkage.</comment>
 
-<question>5</question><grade>7.9</grade><comment>Theme emerges through the central metaphor of questions as destinations, crystallizing when they literally step into the brook to "arrive before departing." The transformation from combat to collaboration reweights all prior dueling imagery. Subtext operates through the needle card's hidden code and Caelus's concealed injury.</comment>
+<question>3</question><grade>6.4</grade><comment>The glass atrium and sundial geometry effectively constrain choices and enable the solution. Strong integration of brook as both atmosphere and functional element. However, some details feel ornamental (hydraulic grace, brass fingers) rather than choice-shaping, and the "danish tin" specificity doesn't earn its prominence.</comment>
 
-<question>6</question><grade>7.3</grade><comment>Distinct voice through academic-mechanical fusion ("the higher whir of gears," "diplomatically fierce negotiations"). Clean POV control throughout with selective perception of shadows and angles. Dialogue maintains philosophical register while carrying combat subtext. Some repetitive "question" constructions in mid-section.</comment>
+<question>4</question><grade>6.9</grade><comment>The philosophical duel elegantly escalates from physical to conceptual combat, with each exchange narrowing understanding ("What is the ethics of a moment that refuses to pass?"). The brook revelation provides meaningful tightening. Yet the stakes could be more visceral - what exactly is at risk beyond intellectual rivalry remains somewhat abstract until the Council doors open.</comment>
 
-<question>7</question><grade>7.1</grade><comment>Strong opening with the atrium's dual hums and closing with copper-thread binding. Information density high in descriptive passages. Template cadence appears in philosophical exchange ("She said," "He spoke," pattern) and some synonym churn around "question/paradox/query." Line-level control stronger in physical description than abstract dialogue.</comment>
+<question>5</question><grade>7.1</grade><comment>Theme emerges cleanly through the sundial's incomplete geometry mirroring incomplete understanding between rivals. The needle card floating downstream as "tiny vessel ferrying their stitched question" resonantly reweights earlier imagery. Some philosophical dialogue ("Time doesn't refuse. We refuse to read it") approaches thesis-speak but stays grounded in scene.</comment>
 
-<question>8</question><grade>7.7</grade><comment>Fresh synthesis of philosophical debate as physical duel with prosthetic enhancements adding stakes to intellectual combat. The needle card as mother's revolutionary gift turned philosophical cipher shows specific invention. Risk-taking in the genre blend pays off, though some philosophical abstractions trend toward familiar academic territory.</comment>
+<question>6</question><grade>6.3</grade><comment>Consistent third-person limited through Elian with controlled psychic distance. Dialogue carries appropriate formality for philosophical duelists. However, register occasionally elevates beyond natural speech ("diplomatically fierce in his stillness"), and some constructions feel writerly rather than lived ("the dignified chaos of their duel still humming").</comment>
 
-<question>9 A</question><grade>8.2</grade>
-<question>9 B</question><grade>8.6</grade>
-<question>9 C</question><grade>7.4</grade>
-<question>9 D</question><grade>6.8</grade>
-<question>9 E</question><grade>7.8</grade>
-<question>9 F</question><grade>6.2</grade>
-<question>9 G</question><grade>7.6</grade>
-<question>9 H</question><grade>5.8</grade>
-<question>9 I</question><grade>7.9</grade>
-<question>9 J</question><grade>8.4</grade>
+<question>7</question><grade>6.2</grade><comment>Generally clean prose with varied syntax and purposeful rhythm. Strong moments like "The brook whispered on, no longer quiet but conversational." However, several overwrought phrases dilute impact ("hidden overture beneath every argument," "co-authors of a question that had finally found its door"), and some metaphor mixing (doors/destinations/stitching) creates mild confusion.</comment>
+
+<question>8</question><grade>6.7</grade><comment>The philosophical duel-as-dialogue concept offers fresh angle on intellectual conflict. The sundial code requiring collaborative interpretation is clever. Yet the setup feels somewhat derivative of puzzle-box narratives, and the transformation from rivalry to partnership follows predictable arc without surprising inflection.</comment>
+
+<question>9 A</question><grade>7.8</grade>
+<question>9 B</question><grade>6.2</grade>
+<question>9 C</question><grade>5.8</grade>
+<question>9 D</question><grade>4.3</grade>
+<question>9 E</question><grade>8.2</grade>
+<question>9 F</question><grade>7.4</grade>
+<question>9 G</question><grade>6.6</grade>
+<question>9 H</question><grade>7.1</grade>
+<question>9 I</question><grade>6.9</grade>
+<question>9 J</question><grade>5.4</grade>

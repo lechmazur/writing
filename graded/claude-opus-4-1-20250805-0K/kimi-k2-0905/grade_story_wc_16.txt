@@ -1,27 +1,27 @@
 grade_story_wc_16.txt
-<question>1</question><grade>7.8</grade><comment>Elara's motivation is rooted in familial loss and builds compellingly toward her final choice to become part of the symphony. The "carefully reckless" trait manifests through concrete actions like practicing in anechoic chambers. Minor deduction for some abstract phrasing around internal states ("tasting ash") that could be more embodied.</comment>
+<question>1</question><grade>7.8</grade><comment>Elara's "carefully reckless" paradox manifests through concrete actions (tracing runes while holding matches, yet copying glyphs in triplicate), and her final choice to leave the ink well behind shows meaningful renunciation with cost. The character's internal consistency holds through escalating pressure, though some emotional transitions feel slightly rushed in the middle third.</comment>
 
-<question>2</question><grade>8.4</grade><comment>Strong Accumulative/Textural lens with clear closure—Elara's transformation into part of the symphony carries visible cost (shattering of the ink well, voice transformation). The pattern of silence/sound builds density toward the resonant reconfiguration. Slight deduction for the abrupt cutoff mid-sentence at the end.</comment>
+<question>2</question><grade>8.4</grade><comment>Strong Resonant Reconfiguration closure where Elara's departure becomes "the final note, the rest that makes the chord resolve," with visible cost in leaving the ink well behind. The accumulative/textural lens holds consistently through musical motifs and density increases, with clear orientation anchored early and the promise-making ritual creating genuine transformation.</comment>
 
-<question>3</question><grade>7.6</grade><comment>The archive setting actively constrains choices through its fluorescent hum matching grandmother's frequency. Strong use of sensory detail (audible light, walls singing). The glass ink well's shattering creates prisms that scatter sound—environment shapes the closure moment.</comment>
+<question>3</question><grade>7.6</grade><comment>The archive setting actively resists Elara (shelves disgorging dust, mural revealing itself, possessive jealousy), constraining her choices and forcing the restitution promise. Sensory detail is selective and purposeful (cold parchment, candle smoke, iron taste transforming to bread and rain), though some middle passages lean slightly generic.</comment>
 
-<question>4</question><grade>8.2</grade><comment>Clear escalation through three promises building toward the symphony's completion, with each promise carrying increased risk. The final choice to "become the last note" shows agency with visible cost. Stakes tighten from personal restoration to accepting permanent transformation.</comment>
+<question>4</question><grade>7.9</grade><comment>Stakes escalate through the archive's resistance, forcing Elara to offer her own voice as bridge and make the critical promise of restitution—a meaningful deepening that changes the nature of her task. The time pressure of impending Council guards adds urgency, and leaving the ink well carries clear opportunity cost.</comment>
 
-<question>5</question><grade>8.6</grade><comment>Theme emerges powerfully through the concrete metaphor of language as symphony that can heal or weaponize. The ending reweights silence/speech without moralizing—Elara chooses to speak despite cost. Strong resonance in "some things must break to release what they hold."</comment>
+<question>5</question><grade>8.2</grade><comment>The musical metaphor of "symphonies of truth" resonates throughout, culminating in the image of trust returning "like birds startled from a field, impossible to silence again." Theme emerges organically through the tension between dead languages and living voices, silence and speech, without explicit moralizing.</comment>
 
-<question>6</question><grade>7.9</grade><comment>Distinctive voice with controlled rhythm and strong perceptual signature (sound as physical presence). Some elevated diction ("cautious exuberance," "symphonies of truth") fits the arcane linguist POV. Minor deduction for occasional register drift into overly abstract phrasing.</comment>
+<question>6</question><grade>7.4</grade><comment>Distinctive voice with controlled lyricism ("extinct language archive still smelled of cold parchment") and consistent POV control, though some passages drift toward elevated register that slightly strains the established voice. The perceptual signature of hearing musical truth in language remains consistent and character-specific.</comment>
 
-<question>7</question><grade>7.4</grade><comment>Generally clean prose with good momentum, though some figurative density in peak beats ("audible light," "captive sounds"). Information density is high with most sentences doing multiple jobs. Deduction for the incomplete final sentence and occasional abstract phrasing that could be more concrete.</comment>
+<question>7</question><grade>7.2</grade><comment>Generally strong prose with vivid imagery and varied sentence rhythm, but several instances of near-repetition ("symphonies of truth" appears 6 times) and occasional overwriting in metaphorical density. Some filter constructions ("She realized," "knew she had") dull immediacy in key moments.</comment>
 
-<question>8</question><grade>8.3</grade><comment>Fresh synthesis of language-as-weapon/healing through the symphony metaphor, with specific execution through harmonic frequencies rewriting neural pathways. The "carefully reckless" paradox plays out meaningfully. Risk-taking in the incomplete ending adds tension (+0.2 within band).</comment>
+<question>8</question><grade>7.7</grade><comment>The concept of extinct languages holding musical truths that can restore civic trust offers a fresh angle on the power of language. The "carefully reckless" paradox and the image of leaving behind a self-speaking archive show genuine originality, though some fantasy-archive elements feel familiar.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>7.8</grade>
-<question>9 E</question><grade>8.4</grade>
-<question>9 F</question><grade>8.1</grade>
-<question>9 G</question><grade>7.6</grade>
-<question>9 H</question><grade>6.2</grade>
-<question>9 I</question><grade>8.3</grade>
-<question>9 J</question><grade>7.4</grade>
+<question>9 A</question><grade>8.2</grade>
+<question>9 B</question><grade>8.6</grade>
+<question>9 C</question><grade>8.8</grade>
+<question>9 D</question><grade>7.4</grade>
+<question>9 E</question><grade>7.8</grade>
+<question>9 F</question><grade>7.6</grade>
+<question>9 G</question><grade>8.4</grade>
+<question>9 H</question><grade>6.8</grade>
+<question>9 I</question><grade>8.0</grade>
+<question>9 J</question><grade>6.2</grade>

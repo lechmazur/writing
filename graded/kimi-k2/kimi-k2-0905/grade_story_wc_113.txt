@@ -1,34 +1,27 @@
 grade_story_wc_113.txt
-<question>1</question><grade>7.9</grade><comment>Musician’s liminal identity is vivid and embodied; interiority is specific and consistent. Ghost remains symbolic rather than a second character, so relationship crucible is N/A. Final acceptance of “between-spaces” identity is earned through micro-choices and carries felt cost.</comment>
-<question>2</question><grade>8.6</grade><comment>Closure lands as Resonant Reconfiguration: musician embraces disruptive music, foreclosing conventional success. Causal chain (ghost → program → chamber → sheet music) holds under Accumulative/Textural lens. Cost is legible in final image of dawn performance outside norms.</comment>
-<question>3</question><grade>8.4</grade><comment>Flooded opera house constrains every move; water level, lantern flicker, and submerged props actively shape tactics. Micro-setting (floating program, hidden staircase) charges closure. Sensory hierarchy filters through musician’s professional ear for altered acoustics.</comment>
-<question>4</question><grade>8.2</grade><comment>Dominant stake—whether to accept ghost’s disruptive gift—tightens once via descent into archive. Escalation is Accumulative: each water-damaged page increases density of meaning and narrows options. Final choice carries visible cost of permanent outsider status.</comment>
-<question>5</question><grade>8.7</grade>
-<comment>Theme emerges organically: art lives in disruption and liminal spaces. Subtext carried by water-damaged images and wordless exchange. Final image of “symphony of the unsung” offers resonant, non-moralizing answer to thematic question.</comment>
-<question>6</question><grade>8.5</grade>
-<comment>Voice is distinct, lyrical, and consistent; perceptual signature filters every detail through musician’s auditory bias. Syntax modulates with rising water tension. No dialogue, so no voice convergence issues.</comment>
-<question>7</question><grade>8.3</grade>
-<comment>Prose is dense, rhythmic, and propulsive; figurative language serves pattern rather than overwriting. Minor loop risk in “between-spaces” phrasing but offset by purposeful repetition. No artifacts near closure.</comment>
-<question>8</question>
-<grade>9.1</grade>
-<comment>Fresh synthesis: flooded opera house as acoustic crucible for liminal art. Ghost story subverted into collaborative creation rather than revenge. Specificity of water-damaged program as evolving text feels inevitable in hindsight.</comment>
-<question>9 A</question>
-<grade>8.7</grade>
-<question>9 B</question>
-<grade>9.0</grade>
-<question>9 C</question>
-<grade>8.8</grade>
-<question>9 D</question>
-<grade>7.4</grade>
-<question>9 E</question>
-<grade>8.6</grade>
-<question>9 F</question>
-<grade>8.9</grade>
-<question>9 G</question>
-<grade>9.2</grade>
-<question>9 H</question>
-<grade>6.9</grade>
-<question>9 I</question>
-<grade>8.1</grade>
-<question>9 J</question>
-<grade>8.5</grade>
+<question>1</question><grade>8.0</grade><comment>The musician’s motivation to unravel the ghost’s “code” is clearly rooted in his own experience of invisibility (“dwelling in pits and shadows”), but the interiority flirts with self-diagnostic phrasing (“recognized his purpose") and the final resolution stays abstract rather than issuing from an enacted cost.</comment>
+
+<question>2</question><grade>8.7</grade><comment>A coherent causal chain leads from salvaging the opera program → reading the dissolved ink → descending via revealed staircase → choosing to leave case and take transformed music → emerging to play the unsung symphony. The closure offers a Conceptual Repricing that reweights the premise with quiet, visible cost: he chooses permanent wordless music over audience applause.</question>
+
+<question>3</question><grade>8.8</grade><comment>The flood, flickering lanterns, submerged wardrobe, and ghostly aisle all constrain action and charge the final image (playing at dawn with water receded). Spatial tracking is clean—“lapping at his waist” anchors depth, staircase and hidden door have tactile verisimilitude while remaining dreamlike.</comment>
+
+<question>4</question><grade>8.6</grade><comment>Central stake—ghost vs. systemic silence—tightens as flood and dissolved pages narrow options: each turn removes expected notation and forces the musician toward disruptive sound. The cost is legible—silence and rejection are embodied risks—but one more physical trade-off in the final image (e.g., broken bow, cut thumb) would anchor the price.</question>
+
+<question>5</question><grade>9.2</grade><comment>Theme of silence-as-voice and the legitimacy of “in between” art unfolds organically through every beat: water warps paper into living notation, the ghost’s wordless mouthings speak louder than libretto, and the final music refuses conventional harmony. No explanatory moralizing; resonance arrives solely via the dawn solo played over empty seats.</comment>
+
+<question>6</question><grade>8.4</grade><comment>Third-person limited sticks tightly to the musician’s sensory attention; perceptual phrases are vivid (“form flickering like lanterns”). Sentence rhythm mirrors submersion: longer languid sentences underwater, then sharp breaks above surface. No head-hopping or register drift.</comment>
+
+<question>7</question><grade>8.3</grade><comment>Lyrical density is purposeful, but a few near-repeats—“between spaces… between notes… between”—slow momentum mid-story and risk template cadence. Otherwise propulsive, with tactile verbs (“clung”, “lapped”, “parted”) and metaphorical cohesion. No artifacts touch closure.</comment>
+
+<question>8</question><grade>9.0</question><comment>Transforms the haunted-theatre trope into meditation on unpaid musical labor, using fluid-damaged program as literal and figurative notation. The ghost’s betrayal by silence feels specific rather than generic; the ending’s choice to play unheard notes is non-obvious and grows organically from the premise. Risk-taking is coherent.</question>
+
+<question>9 A</question><grade>8.1</grade>
+<question>9 B</question><grade>8.7</grade>
+<question>9 C</question><grade>8.2</grade>
+<question>9 D</question><grade>7.3</grade>
+<question>9 E</question><grade>8.8</grade>
+<question>9 F</question><grade>8.6</grade>
+<question>9 G</question><grade>8.2</grade>
+<question>9 H</question><grade>6.8</grade>
+<question>9 I</question><grade>7.9</grade>
+<question>9 J</question><grade>7.7</grade>

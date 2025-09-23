@@ -1,31 +1,50 @@
 grade_story_wc_253.txt
-<question>1</question><grade>8.9</grade><comment>Interiority is precise and embodied (“blank-faced” never lapses into label-speak); contradictory impulses (reporting neighbors vs forging coupons) are dramatized in the present whittling beat. Micro-choices (shaving angle, labeling the scrape “dirge”) reveal hierarchy of values under pressure. Final renunciation—planting bare stems—earns cost via prior causal chain.</comment>
+<question>1</question><grade>8.1</grade>
+<comment>The performer's interior contradiction—“reported neighbors for insufficient smiles, then later forged joy coupons”—is sharply embodied, but the final shift from blankness to shoulder-lightness feels asserted rather than dramatized; micro-choice legibility dips at the watering beat, slightly blunting the earned stasis cost.</comment>
 
-<question>2</question><grade>9.2</grade><comment>Closure lands as Charged Poise: the planted stems, wooden feather, and single tear crystallize options without tidy resolution. Drive lens is Accumulative/Textural; pattern of whittling → gifting → planting reweights the remade hush with undeniable cost. No orientation drift; spatial anchors (porch, turbines, fence) remain legible.</comment>
+<question>2</question><grade>8.7</grade>
+<comment>Under an Accumulative/Textural lens, the crow’s insertion of the feathered stick into the turbine joints the remade hush; the final planted stems plus single tear land Earned Stasis, but the causality between whittling and literal rainfall is more poetic leap than motivated linkage, so the closure cost tingles rather than burns.</comment>
 
-<question>3</question><grade>8.7</grade><comment>Farmhouse porch, turbines, and crow form a micro-setting that constrains every choice: wind snatches shavings, blades cast shadows, fence becomes perch. Sensory hierarchy is POV-bound (scent of nothing, turbine groan). Final image of stems planted at turbine foot ties setting to closure.</comment>
+<question>3</question><grade>8.3</grade>
+<comment>Wind-turbine shadows slicing strawflowers, microphone collar scraping in the remade hush: the setting’s sensory immediacy constrains every carving move; the only minor wobble is the vague farmhouse interior sightlines, but spatial choreography holds through the two-character porch scene.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—cultivating lightness in grief under silence ordinance—tightens via escalating risk: first the hidden microphone, then the crow’s demand, finally the officer’s presence. Each whittled gift raises stakes; cost is the irreversible scattering of petals and the real tear that darkens soil.</comment>
+<question>4</question>
+<grade>7.9</grade>
+<comment>Dominant stake—lightness vs enforced silence—tightens when the officer joins the knife work and the turbines whoosh into shared rebellion; one clear narrowing of option occurs when both blades cease pattern-shaving and plant stems in bare soil, felt cost legible.</comment>
 
-<question>5</question><grade>9.0</grade>
-<comment>Theme emerges from particulars: remade hush as both oppression and medium for new song. Subtext in crow’s request and officer’s unbuttoned badge reframes survival guilt. Final image of flag made from empty wrapper offers non-literal answer without moralizing.</comment>
+<question>5</question>
+<grade>8.4</grade>
+<comment>Grief-as-cultivable-soil motif emerges through particulars rather than statement, culminating in the darkened patch of soil “as if remembering rain,” yet one slightly sermonizing line—“Item: memory retention optional”—leans toward prompt-echo, preventing full subtext purity.</question>
 
-<question>6</question><grade>9.1</grade>
-<comment>Voice is spare, ritualistic, and POV-locked; “Item:” litany and seventeen-degree angle feel performer-specific. Compression (“television left on after the station signed off”) teaches pattern early. No head-hopping; officer’s dialogue is distinct, stripped, and subtextual.</comment>
+<question>6</question>
+<grade>8.2</grade>
+<comment>Lyrical, controlled voice toggles expertly between the performer's reportorial monotone and the crow's oracular diction; no head-hopping and syntactic rhythm modulates under pressure, though the crow’s dialogue “whittle me a space...” flirts with stylized oracle-speak in an otherwise minimalist soundscape.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense yet fluid: every sentence advances image or stakes. No loops or scaffold; metaphors (“heartbeat like vandalism”) are precise. Rhythm modulates with pressure—short clauses under turbine whoosh, longer cadences during planting. Zero artifacts in closure beat.</comment>
+<question>7</question>
+<grade>8.4</grade>
+<comment>Every sentence layers texture without loop repetition: “shavings the wind turbines above snatched” crams action, sound, and micro-physics into one clause. Metaphors are consistent; only the phrase “television left on after the station signed off” nudges cliché but slips by without harming propulsion or closure.</comment>
 
-<question>8</question><grade>9.3</grade>
-<comment>Post-mandate grief farm with wind-turbine liturgy feels unprecedented. Whittled rebellion against enforced hush synthesizes dystopia and pastoral elegy. Crow’s wooden feather lodged in turbine joint is a fresh inflection that reweights the entire premise.</comment>
+<question>8</question>
+<grade>8.7</grade>
+<comment>The happiness-mandate premise is fresh, the crow’s wooden feather rebellion is both mythic and mechanical, and the fusion of grief-farming with turbine surveillance is specific enough that swapping any detail would fracture thematic integrity—earned risk pays off.</comment>
 
-<question>9 A</question><grade>9.0</grade>
-<question>9 B</question><grade>8.7</grade>
-<question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>8.2</grade>
-<question>9 E</question><grade>9.1</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>8.8</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>8.6</grade>
-<question>9 J</question><grade>8.4</grade>
+<question>9 A</question>
+<grade>6.3</grade>
+<question>9 B</question>
+<grade>8.2</question>
+<question>9 C</question>
+<grade>5.9</question>
+<question>9 D</question>
+<grade>8.0</grade>
+<question>9 E</question>
+<grade>9.2</question>
+<question>9 F</question>
+<grade>7.4</question>
+<question>9 G</question>
+<grade>7.9</question>
+<question>9 H</question>
+<grade>6.7</question>
+<question>9 I</question>
+<grade>6.8</question>
+<question>9 J</question>
+<grade>7.1</question>

@@ -1,30 +1,52 @@
 grade_story_wc_25.txt
-<question>1</question><grade>8.7</grade><comment>Mira’s embodied expertise (gait-reading, map-creases) and micro-choice to test the whisper challenge crystallize her arc; the final realization that maps are incomplete without sound carries felt cost. Interiority stays concrete, but the stranger’s motivation is slightly abstract, nudging the score below 9.</comment>
+<question>1</question><grade>6.5</grade>
+<comment>Mira is solid—voice distinct, gait-reading talent tied to action—but internal contradiction stops at curiosity; the stranger’s stakes are generically academic and her coin doesn’t complicate Mira’s identity or choices. Micro-shifts in stance arrive late as mirrored recognition, not active refusal. Closure cost: Mira realizes maps were always incomplete—felt, but not dramatized through an active choice.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Closure lands as Resonant Reconfiguration: the chamber opens, Mira’s worldview reframed under Accumulative/Textural lens. Causality holds—storm, coin, key, whisper converge—though the stranger’s arrival edges coincidence.</comment>
+<question>2</question><grade>7.7</grade>
+<comment>Frame holds: causal because/therefore chain from storm → GPS blackout → walk recognition → key + whisper sequence → chamber doors open. Closure works: chamber reveal reconfigures the labyrinth’s purpose—maps-as-decoy—earning earned stasis for Mira’s professional identity. Orientation is clear; time/space anchors sustained.</comment>
 
-<question>3</question><grade>8.8</grade><comment>Container labyrinth is tactile, resonant, and constrains tactics; storm light and metallic acoustics charge the final image. Spatial choreography is clean; port-city frame is lightly sketched yet sufficient.</comment>
+<question>3</question>
+<grade>7.9</grade>
+<comment>Port container labyrinth is tactile, odor-rich, and weather-sounding. Metal walls resonate as acoustic shell, constraining Mira’s need for whisper-navigation and finally charging the chamber reveal. Geomagnetic storm is vivid, causally tied—not mere backdrop. Scale stays intimate, micro-settings (rust panel, zodiac etching) function as props.</comment>
 
-<question>4</question><grade>8.6</grade><comment>Dominant stake—proving the whisper network—tightens via each beat; storm interference raises cost. Agency is Mira’s decision to lead and speak the code; price is her maps’ inadequacy revealed.</comment>
+<question>4</question>
+<grade>7.0</grade>
+<comment>Dominant stake signaled in opening: “proof that secrets travel farther when whispered.” Escalates through each beat—GPS failure forces reliance on whisper skill, coin-activated lock raises stakes, climactic harmonic resonance tightens option set. Agency remains mutual; cost is the conceptual realization rather than material forfeiture.</comment>
 
-<question>5</question><grade>8.9</grade><comment>Theme emerges organically: quiet communication outlasts loud tech. Subtext in coin reflections and harmonic resonance avoids moralizing; final image of reweighted maps and coins offers non-literal, resonant answer.</comment>
+<question>5</question>
+<grade>7.8</grade>
+<comment>Theme (whisper > noise, analog fidelity > digital) emerges implicitly through labyrinthine acoustics and artifact reveal—no declarative slogan. Final constellation of coins and keys charges historical memory, reweighting earlier maps as blinders. Subtext in metallic echo—“secrets cut through”.</comment>
 
-<question>6</question><grade>8.8</grade>
-<comment>Voice is precise, sensory, and profession-specific; free indirect style stays clean. Whisper dialogue carries subtext and goal; no head-hopping. Rhythm modulates with storm intensity.</comment>
+<question>6</question>
+<grade>8.6</grade>
+<comment>Voice is tight, concrete, and micro-attentive—every sentence tracks body, container resonance, and storm pulse. POV disciplined, focalized cleanly; no head-hopping. Rhythmic compression during walk identification and key sequence accelerates momentum. Diction precise, port-worker cadence held.</question>
 
-<question>7</question><grade>8.7</grade>
-<comment>Prose is dense, rhythmic, and propulsive; figurative language is purposeful. Minor filter verbs (“she realized”) do not stall momentum. No loops or mixed metaphors in peak beats.</comment>
+<question>7</question>
+<grade>8.2</grade>
+<comment>Sentences are lean, propulsive, and information-dense. No scaffold or loop, strong verbs over modifiers. One mixed metaphor in “metallic whisper” noted but minor. No grammar slips, clear causal connectors. Line rhythm breathes with auroral surges.</comment>
 
-<question>8</question><grade>9.1</grade>
-<comment>Fresh synthesis of maritime espionage, geomagnetic acoustics, and container architecture feels inevitable. Specificity of gait-reading and coin constellation transforms familiar tropes; risk in whisper mechanics pays off.</comment>
+<question>8</question>
+<grade>8.1</grade>
+<comment>Fresh synthesis: clandestine network using freight containers as acoustic megaphone during solar storms. Combines noir port noir with antique tech—whisper-cryptography—without gimmick. Specificity in maritime code and 1943 coin weight sells premise. Conceptually fresh while emotionally grounded.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>8.4</grade>
-<question>9 C</question><grade>7.9</grade>
-<question>9 D</question><grade>7.2</grade>
-<question>9 E</question><grade>8.5</grade>
-<question>9 F</question><grade>8.3</grade>
-<question>9 G</question><grade>8.6</grade>
-<question>9 H</question><grade>7.4</grade>
-<question>9 I</question><grade>7.8</grade>
-<question>9 J</question><grade>7.5</grade>
+<question>9 A</question>
+<grade>6.9</question>
+<grade/>
+<question>9 B</question>
+<grade>8.0</question>
+<question>9 C</question>
+<grade>8.2</question>
+<question>9 D</question>
+<grade>6.4</question>
+<question>9 E</question>
+<grade>8.7</question>
+<question>9 F</question>
+<grade>7.8</question>
+<question>9 G</question>
+<grade>8.1</question>
+<question>9 H</question>
+<grade>7.1</question>
+<question>9 I</question>
+<grade>7.9</question>
+<question>9 J</question>
+<grade>6.2</question>

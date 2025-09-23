@@ -1,32 +1,62 @@
 grade_story_wc_114.txt
-<question>1</question><grade>8.9</grade><comment>Oracle’s embodied fever-memory and micro-choices (sketching leaves, stepping into snow) reveal contradictory impulses; final renunciation of the stone costs her the oracle’s burden yet leaves her “temporarily innocent,” a credible Earned Stasis with visible price.</comment>
+<question>1</question>
+<grade>8.1</grade>
+<comment>The oracle’s internal contradiction—needing truth’s exact weight while resisting its sprouting—is shown through sensory micro-choices (smudging leaf sketches, freezing breath bloom) under rising bodily pressure. The final renunciation—spitting the stone of knowing—earns its cost via accumulated physiological toll. Motives stay legible without diagnostic jargon. Minor: the stranger and the “soon-to-die” are remembered more than enacted, giving relationships slight haze.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Accumulative/Textural lens holds: each smudged leaf and instrument echo tightens the weight of truth until the stone’s evacuation reconfigures sky and valley; causality intact, cost legible in the dimmed aurora and hushed antenna.</comment>
+<question>2</question>
+<grade>8.7</grade>
+<comment>Accumulative design holds: each botanical destruction leaf-by-leaf increases visceral density until the stone’s expulsion reverses all external omens. Orientation (station, cot, ridge) anchors early; causality is emotional and symbolic rather than linear-logical. Closure lands as Resonant Reconfiguration—stone expelled, aurora muted, valley “temporarily innocent”—with felt cost etched in torn, blank paper. Minor beat compression makes the stranger’s beat feel off-stage, not on-page.</comment>
 
-<question>3</question><grade>8.7</grade><comment>Weather station, cot, anemometer, and snowfield are filtered through fevered perception; the blanked botanical map constrains the final burial choice, charging closure with place-specific sorrow.</comment>
+<question>3</question>
+<grade>8.3</grade>
+<comment>Mountain weather station functions as full-body micro-setting: rime, spinning anemometer, radio static physically constrain the oracle’s movements and perceptions. Botanical illustration shifts from map surrogate to sacrificial offering, charging the final image with blank laurel silhouette. Sensory precision—“tasting iron and pine resin,” “breath blooming like shattered glass”—is selective, not encyclopedic. Spatial choreography stays coherent under aurora glare.</comment>
 
-<question>4</question><grade>8.8</grade>
-<comment>Dominant stake—“exact weight of swallowed truth”—escalates via bodily intrusion and external omens; the decisive expulsion forecloses oracle power, price paid in 4.7 grams and temporary valley innocence.</comment>
+<question>4</question>
+<grade>8.4</grade>
+<comment>The dominant stake—truth’s internal weight versus valley’s protection—escalates viscerally: smudge after smudge intensifies internal pressure until expulsion. Agency lies in deliberate self-extraction; cost is the embodied rupture and the blank page’s surrender. Coincidence is ornamental; no deus ex machina rescues pressure. The scale tightens one decisive time.</comment>
 
-<question>5</question><grade>9.0</grade>
-<comment>Theme of truth’s unbearable mass emerges through chlorophyll sorrow and auroral light; final burial of the stone offers resonant, non-literal reweighting without moralizing.</comment>
+<question>5</question>
+<grade>9.2</grade>
+<comment>Theme emerges without thesis: responsibility’s weight versus innocence’s fragility is dramatized through body, leaf, and weather, culminating in “truth evacuated, 4.7 grams of sorrow.” Subtext pulses in smears, snow steam, and auroral dimming. Final phrase reframes preceding imagery without moralizing. The reprise—“peripherally aware that innocence… would return”—reads as earned echo, not assertion.</comment>
 
-<question>6</question><grade>9.2</grade>
-<comment>Lyric, fever-bright diction stays oracle-bound; perceptual signature (“tasting iron and pine resin,” “chlorophyll sorrow”) remains consistent; no head-hopping, taught pattern of sensory elision paid off at closure.</comment>
+<question>6</question>
+<grade>8.5</grade>
+<comment>Third-person lyric close limited sustains poetic diction (“ghost of chlorophyll sorrow”) while staying within sensory ken. POV distance remains stable; no filter-verb clusters dull immediacy. Unique rhythm (breath-bloom, mercurial berries) keeps focalizer’s perceptual signature consistent under stress. Minor near-redundancy in “swaying certainties” motif.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense, rhythmic, and propulsive; figurative language disciplined to pressure beats; no loops or mixed metaphors; clarity preserved even at lyric height.</comment>
+<question>7</question>
+<grade>7.9</grade>
+<comment>Metaphors rarely clash, but a few stacked images (“aurora spilled… green ropes dragging violet scars”) verge on excess for a high-pressure beat, registering as slight clarity drag. Otherwise prose propels: information-dense, no synonym loops. Minor syntactic duplication in “heavier—like a pulse inside stone.”</comment>
 
-<question>8</question><grade>9.0</grade>
-<comment>Fresh synthesis of oracle myth and meteorological grief; transformation test passed—story collapses without fevered mountain station and swallowed truth conceit; risk-taking heightens stakes without gimmickry.</comment>
+<question>8</question>
+<grade>8.7</grade>
+<comment>The concept of digestible, evacuable truth is fresh; the laurel-leaf externalization gives new texture to prophecy trope. Specificity (“ink bled into snow, forming black petals”) anchors abstraction in landscape. Ending crystallizes an image rare in speculative fiction—measurable sorrow excreted—without gimmickry. Achieves inevitability while remaining non-obvious.</comment>
 
-<question>9 A</question><grade>8.4</grade>
-<question>9 B</question><grade>8.7</grade>
-<question>9 C</question><grade>7.9</grade>
-<question>9 D</question><grade>7.2</grade>
-<question>9 E</question><grade>8.8</grade>
-<question>9 F</question><grade>7.6</grade>
-<question>9 G</question><grade>8.2</grade>
-<question>9 H</question><grade>6.1</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 A</question>
+<grade>8.1</grade>
+
+<question>9 B</question>
+<grade>9.3</grade>
+
+<question>9 C</question>
+<grade>6.4</grade>
+
+<question>9 D</question>
+<grade>7.7</grade>
+
+<question>9 E</question>
+<grade>9.6</grade>
+
+<question>9 F</question>
+<grade>5.9</grade>
+
+<question>9 G</question>
+<grade>6.2</grade>
+
+<question>9 H</question>
+<grade>4.7</grade>
+
+<question>9 I</question>
+<grade>8.2</grade>
+
+<question>9 J</question>
+<grade>7.5</grade>

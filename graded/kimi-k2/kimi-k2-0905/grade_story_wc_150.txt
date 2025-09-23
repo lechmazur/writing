@@ -1,29 +1,61 @@
 grade_story_wc_150.txt
-<question>1</question><grade>8.7</grade><comment>The returnee’s contradictory pull between exile and home is embodied in tactile beats (cradling the sundial, planting a cleaned rib). Her final choice to stay and teach costs her mobility, earned by prior causal chain. Interiority stays concrete; no diagnostic labels. The boy’s status shift from wary guard to co-builder is legible but brief, so relationship crucible is only lightly charged.</comment>
+<question>1</question><grade>8.7</grade>
+<comment>Multi-layered protagonist whose exile and return drive every beat; contradictions (faith/doubt, belonging/exile) are dramatized through concrete choices like aligning the sundial on bones. Earned refusal—she stays—forecloses exile with visible cost.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Closure lands as Resonant Reconfiguration: the prayer house re-assembles under the sundial’s shadow, faith reborn as shared breath. Causal chain holds—each noon alignment of the base shortens the shadow, proving time intact, which enables the dawn resurrection. Cost is visible: she forfeits further travel, sleeps inside the tomb. Orientation is anchored within 120 words; no lens ambiguity.</comment>
+<question>2</question>
+<grade>8.4</grade>
+<comment>Mosaic track (two shards: orchard excavation & root-road ritual) taught early; closure holds the dominant lens (situational pressure crystallizing belief). Orientation anchored within 120 words; reliquary mirrors create Decisive Change for diaspora closure.</comment>
 
-<question>3</question><grade>9.1</grade><comment>Catacomb orchard is not backdrop but active agent: roots knit femurs into arches that physically point the rebuild path. The sundial base functions as micro-setting cemented into the chapel floor, constraining final choice. Sensory hierarchy skews to myrrh-scented air and fossilized petals under boots, filtering through returnee’s body. Spatial choreography tracks cleanly from iron gates to charred ridge clearing.</comment>
+<question>3</question>
+<grade>7.9</grade>
+<comment>Setting is embodied tool: root ceilings, fossil petals, and orchard gates that literally pressurize choices. Geographic specificity (catacomb orchard) constrains tactics—roots force route, provide living mortar for prayer house rebirth.</comment>
 
-<question>4</question><grade>8.4</grade><comment>Dominant stake—restore collapsed faith—tightens when mirrors fracture her exile-reflection, proving ancestors are suspended waiting. Rebuild action narrows her options: each dusk spent aligning the base forecloses departure. Cost is legible: surrendered mobility, rib given as gnomon. One meaningful escalation suffices under Accumulative lens; no reversal needed.</comment>
+<question>4</question>
+<grade>8.2</grade>
+<comment>Dominant stake: rebuild faith or remain exiled. Tightens as sundial’s shadow shortens; ancestral suspension pays off as root-arches point to burned prayer house, narrowing options from excavating to praying. Conceptual Repricing in dawn’s rebuilding.</comment>
 
-<question>5</question><grade>8.8</grade><comment>Theme of interrupted journeys emerges from bones suspended between departure/arrival, not stated. Final image—planet’s slow spin under chapel floor—reweights exile as continuance rather than end. No moralizing; ambiguity lingers in “colors that had no names.” Mirrors’ twelve faces refract diaspora without abstract jargon.</comment>
+<question>5</question>
+<grade>8.9</grade>
+<comment>Theme emerges through bones vs. blossoms: restoring ritual life from colonial death. Final non-literal answer—shadow on ruins resurrects beams—rewrites premise without preaching. Warmly curious stance toward ancestors charges the catacomb hymn.</comment>
 
-<question>6</question><grade>8.6</grade><comment>Lush lyric compression is taught early (“roots threading warmly curious fingers”) and held to closure. Perceptual signature is returnee’s—stone fruits, brass hum, myrrh exhalation—never tourist catalog. Syntax lengthens during dawn resurrection to mimic breath-held awe. No head-hopping; boy’s voice distinct via oxidized-copper eyes and bright-laugh glass.</comment>
+<question>6</question>
+<grade>8.6</grade>
+<comment>Distinct lyric voice balances compression with rhythmic incantation (“wind invented hymn”). Pattern-taught non-linear cadence sustained; interior/lyric blend tightens under pressure. No head-hopping; entire piece reads via returnee’s perceptual signature.</comment>
 
-<question>7</question><grade>8.5</grade>
-<comment>Sentences vary in length and opening; no template cadence. Figurative density peaks at resurrection yet remains coherent: “wood remembered its former shape.” No paraphrase loops; each line advances image or stakes. Rib-as-gnomon is concrete, not abstract. Minor scaffold: “she felt faith return” could be compressed, but beat is brief.</comment>
+<question>7</question>
+<grade>8.5</grade>
+<comment>Dense, musical prose drives momentum yet avoids ornament; fossil petals, brass mirrors, myrrh air filter POV without purple flourish. No loops; every sentence advances image or choice. Final Charged Poise image earns cost.</comment>
 
-<question>8</question><grade>9.0</grade>
-<comment>Fusion of catacomb-orchard and diaspora-returnee sundial is fresh; neither trope feels stock. Risky resurrection of charred beams via shadow is set up by prior noon alignments, so payoff feels inevitable, not gimmick. Specificity—“wedding beads still on skeletons”—anchors universals of exile and return. Transformation test fails if names/places swapped; setting is inextricable.</comment>
+<question>8</question>
+<grade>8.8</grade>
+<comment>Mythic bones-as-roots synthesis feels inevitable; catacomb orchard as both tomb and birthplace transcends familiar diaspora tropes. Sundial base reprises as bell-tower gnomon—indispensable, not swappable. Risk pays off roots singing “hymn by wind.”</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>7.9</grade>
-<question>9 D</question><grade>6.4</grade>
-<question>9 E</question><grade>9.0</grade>
-<question>9 F</question><grade>7.5</grade>
-<question>9 G</question><grade>8.8</grade>
-<question>9 H</question><grade>6.6</grade>
-<question>9 I</question><grade>8.1</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 A</question>
+<grade>7.6</grade>
+
+<question>9 B</question>
+<grade>9.1</grade>
+
+<question>9 C</question>
+<grade>8.0</grade>
+
+<question>9 D</question>
+<grade>6.2</grade>
+
+<question>9 E</question>
+<grade>8.7</grade>
+
+<question>9 F</question>
+<grade>6.1</grade>
+
+<question>9 G</question>
+<grade>7.5</grade>
+
+<question>9 H</question>
+<grade>5.2</grade>
+
+<question>9 I</question>
+<grade>7.3</grade>
+
+<question>9 J</question>
+<grade>6.8</grade>

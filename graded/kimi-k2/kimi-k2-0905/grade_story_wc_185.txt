@@ -1,32 +1,27 @@
 grade_story_wc_185.txt
-<question>1</question><grade>8.7</grade><comment>The mapkeeper’s interiority is concrete—her learned stillness, tactile handling of ice, and final whispered act all reveal motive and contradiction. Jalen’s presence supplies relational pressure, but his interiority is generic. The earned renunciation (releasing the stories into silence) carries visible cost and is foreshadowed by her earlier “futures in frozen fractures.” Minor voice convergence at climax prevents 9.0.</comment>
+<question>1</question><grade>8.1</grade><comment>The mapkeeper’s motivation to “preserve the stories” and her practiced silences are embodied early; interior contradiction peaks at the center of the great dome where composure shakes. Moments of embodied cost—bone vibration, cracked marrow—crystallize stakes. The final whisper carries the earned burden of renunciation. Voice convergence with Jalen is slight but acceptable.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Closure lands as a Resonant Reconfiguration: the bloom of hush blossoms, the beings fold, and the map is surrendered—cost is the loss of the archive itself. Causal chain (ice augury → scored silence → beings neutralized) holds under a Causal lens. Orientation is immediate; only one brief transition (Warden beat) keeps scope tight. No teleporting props or causality breaks.</comment>
+<question>2</question><grade>9.0</grade><comment>The closure—carving the bloom of hush to silence the beings—is dramatized on the page, not summarized, and forecloses speech forever. The causal chain holds from “examine ice” → “read circle” → “map + stone + fractures → void”. Each absorbed word released without sound is an undeniable conceptual cost.</question>
 
-<question>3</question><grade>9.1</grade><comment>The harmonic caves constrain every breath and footstep; the Mirror Pool and Resonance Dome are not backdrops but tactical terrain. The gently luminous lichen and echo chamber stone are micro-settings that charge the final image. Spatial choreography is flawless; distances and object states track cleanly. The environment’s muteness becomes the decisive weapon.</comment>
+<question>3</question><grade>8.9</grade><comment>Cavern geography is tactile and used dynamically—mineral lace trembling, bridge of petrified song. The echo chamber stone and the Mirror Pool function as micro-settings that constrain choices (silence at water, soundless breach). Spatial choreography across the final walk into the dome is precise. Setting and object directly charge the ultimate image.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—preserve the last map—tightens through the one-hour lacuna and the beings’ feeding. Escalation is a single, deepening silence that forecloses all other options. Agency is the mapkeeper’s deliberate scoring of the dome; cost is the irreversible release of every swallowed story. No coincidence resolves the conflict.</comment>
+<question>4</question><grade>8.9</question><comment>Dominant stake—deliver the last map unseen—tightens as silence hours dwindle. The bloom of hush is not just ambience; its closing circle is the final reversible choice that shrinks possibility to zero. Paid on the page as every absorbed word un-voiced itself, the cost is visible and irreversible.</question>
 
-<question>5</question><grade>9.0</grade>
-<comment>Theme emerges from the tension between memory and survival: stories must be silenced to outlive their speakers. The final image—“We were here” carried by a soundless tide—reweights the premise without moralizing. Subtext lives in gestures: pressing the stone to Jalen’s lips, the Warden’s tremor. The bloom of hush is both literal tactic and metaphorical elegy.</comment>
+<question>5</question><grade>8.8</question><comment>Questions of presence, sound, and memory coil together beneath the dome. The silent release of voices feels conceptually inevitable, re-weighting the entire premise with the cost of future stories spoken by no one. No moral is articulated—only the final, wordless whisper of proof.</question>
 
-<question>6</question><grade>8.9</grade>
-<comment>Voice is lyrical yet precise; “hammered repose,” “batwing leather,” and “fossilized chords” feel coined for this world. Syntax modulates with pressure—long coils of description contract into the spare final whisper. POV remains locked to the mapkeeper; Jalen’s whisper is filtered through her recognition. No head-hopping or register drift.</comment>
+<question>6</question><grade>8.8</question><comment>Lyric compression is purposeful, pattern taught by repetition of “gently luminous,” “ripple-mark,” and “hammered repose,” all of which pay off in the closing hush. Internal POV stays locked in one character with no leaks into omniscience or head-hopping. Each image is filtered through the mapkeeper’s attention, producing a singular voice.</question>
 
-<question>7</question><grade>9.0</grade>
-<comment>Prose is dense and propulsive; each sentence layers sensory, emotional, and tactical information. Metaphors are fresh and internally coherent (“columns of radiant static”). Zero loops or scaffold; no filter-verb stacks. The final cadence—“carrying nothing but the hush they had learned to grow”—closes with rhythmic inevitability.</comment>
+<question>7</question><grade>8.9</question><comment>Information density is high; single sentences braid motive, object and consequence. Figurative language never overloads the final beats; “bloom of hush,” “mineral lace,” and “refugees from the beings’ appetite” stay precise and grounded. No loops or repetition blunt the cadence. Clean proofing.</question>
 
-<question>8</question>
-<grade>9.2</grade>
-<comment>The energy beings, silence-as-weapon, and cartography of memory synthesize into a premise that feels inevitable yet wholly new. Risky lyric compression pays off: the story trusts the reader to assemble the world from shards of sensory evidence. The closing silence reconfigures genre expectations of climactic spectacle. No derivative echoes.</comment>
+<question>8</question><grade>8.8</question><comment>Silence grown as a cultivated artefact—ice-gardened, cricket-winged—feels internally inevitable, not gimmick. The energy beings (classic trope) are transformed into void-hungry choir mouths devouring vibration itself. The risk in making silence itself a weapon pays off cleanly at climax.</question>
 
-<question>9 A</question><grade>8.6</grade>
-<question>9 B</question><grade>9.0</grade>
-<question>9 C</question><grade>8.8</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.7</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>9.1</grade>
-<question>9 H</question><grade>7.4</grade>
-<question>9 I</question><grade>8.2</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 A</question><grade>8.7</grade>
+<question>9 B</question><grade>8.3</grade>
+<question>9 C</question><grade>8.2</grade>
+<question>9 D</question><grade>6.9</grade>
+<question>9 E</question><grade>8.6</grade>
+<question>9 F</question><grade>8.4</grade>
+<question>9 G</question><grade>7.6</grade>
+<question>9 H</question><grade>7.2</grade>
+<question>9 I</question><grade>8.1</grade>
+<question>9 J</question><grade>7.4</grade>

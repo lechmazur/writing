@@ -1,29 +1,31 @@
 grade_story_wc_394.txt
-<question>1</question><grade>8.7</grade><comment>Juniper’s “steadily curious” smirk and brass monocle give her a distinct perceptual signature; the arrow-tip stylus embodies her irreverent awe. Internal contradiction surfaces when she laughs at the bell’s impossibility yet commits fully to translating it, paying with the dulled arrow and a ringing no one else can yet hear. The single on-page character satisfies scope; her micro-choices (etching, lashing, striking) escalate stakes and foreclose retreat.</comment>
+<question>1</question><grade>8.7</grade><comment>Juniper’s irreverent curiosity is vivid and embodied—her smirk while facing the impossible bell crystallizes a consistent, idiosyncratic stance. Micro-choices (etching with the arrow tip, lashing the glider, striking with the kaleidoscope) all flow from the same trait and escalate stakes. The only gap is a missing interior contradiction at the climax: she never doubts or weighs cost, so the final beat feels slightly predetermined rather than earned through internal friction.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands as a Conceptual Repricing: the bell’s “impossible music” redefines the Algorithm from question to answer, with the cost of irreversible change etched on the arrow. Causal chain—kaleidoscope jam → Descend → transliterate → mirror-sea—holds without gaps. Orientation is anchored by line 3; mosaic pattern is taught early and paid off in the mirrored sky.</comment>
+<question>2</question><grade>9.1</grade><comment>Closure lands as Conceptual Repricing: the bell rings not by clapper but by translator, reweighting the quest’s rule-set with undeniable conceptual cost. Causal chain holds—each coordinate from the Algorithm leads to the buoy, the missing clapper forces the kaleidoscope solution, and the arrow tip’s dulling signals price. Orientation is swift: who/where/when anchored by line 3; no teleporting props or convenient amnesia.</comment>
 
-<question>3</question><grade>8.9</grade><comment>Acid sea, creaking canvas, corroded waves, and cathedral-sized buoy create a tactile, lived-in world. The workshop’s brass gears and whale-sized cogs constrain descent and dictate mooring tactics. Sensory hierarchy favors sour wind and ozone chord, narrowing under crisis. Final mirror-sky recharges every prior image with conceptual cost.</comment>
+<question>3</question><grade>8.9</grade><comment>The acid sea, corroding paint, and whale-sized gears are tactile and selective; every sensory note either threatens the glider or feeds the Algorithm. The kaleidoscope itself becomes micro-setting—its shards constrain the final transliteration—so environment directly shapes tactics. One minor over-crank: “cathedral-sized buoy” is the only static visual; no interior spatial map while Juniper climbs, but the final mirror-sea image recharges the motif and satisfies the 9+ gate.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—“ring the bell no one hears yet”—is signaled in paragraph 3 and tightened when coordinates lock on the buoy. Escalation is driven by Juniper’s agency: she risks acid spray, paint loss, and irreversible arrow dulling to complete the transliteration. Cost is visible on the dulled tip and unheard frequency in her ears.</comment>
+<question>4</question><grade>8.8</grade><comment>Dominant stake—“where is the bell that needs ringing?”—is signaled early and tightens once: the clapper is gone, so ringing must be redefined. The deepening is driven by Juniper’s agency: she invents the kaleidoscope strike, pays with the arrow’s glow and subsequent dulling. Cost is visible on the page (paint peels, tip fades, ears ring with future frequency), foreclosing ordinary bell-ringing forever.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme emerges from the irreverent act of translating the untranslatable: knowledge as performance, not possession. The bell’s silence reframed as future resonance avoids moralizing; ambiguity lingers in “generations…would ever see.” Subtext lives in gesture—laughter at impossibility followed by full commitment—rather than statement.</comment>
+<question>5</question><grade>9.0</grade>
+<comment>Theme emerges as the translation of absence into signal—irreverent awe toward the unhearable. No character states the thesis; meaning accrues through the Algorithm’s yearning, the missing clapper, and the mirror-sea that reflects futures. Final image reweights prior material: the bell returns to silence, now charged with the cost of impossible music, inviting reflection without moralizing.</comment>
 
-<question>6</question><grade>8.8</grade><comment>Voice is steampunk-cryptic yet precise: “grammar of light,” “clockwork difference engine,” “acid spray kissed the pontoons.” Syntax mirrors mechanical rhythm under pressure; perceptual signature is Juniper’s smirking awe. No dialogue; internal monologue stays within lexicon and POV bounds.</comment>
+<question>6</question><grade>9.2</grade>
+<comment>Voice is compressed, lyrical, and POV-locked: “gears-and-cogs workshop bolted to its undercarriage” is perception filtered through tinkerer bias. Rhythm accelerates under pressure—frantic spirals, pistons hammering—then widens for the resonant chord. No head-hopping; diction stays within Juniper’s plausible lexicon; non-standard punctuation (em-dash chain) is consistent and purposeful.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense and propulsive: every sentence advances image, motive, or mechanism. Figurative language is controlled—“gears the size of whales” is earned, not ornamental. No loops, scaffold, or register drift. Final chord “tasted of copper and ozone” crystallizes without overwriting.</comment>
+<question>7</question><grade>9.0</grade>
+<comment>Sentences carry double duty: “acid spray kissed the pontoons, paint bubbling away in pink peels” advances action, atmosphere, and cost simultaneously. No loops, scaffold, or mixed metaphors; figurative language peaks at the strike then recedes, mirroring the bell’s single toll. One hairline slip: “mechanical heart beneath the floorboards” is faintly stock, but it occurs early and is quickly subsumed by original imagery.</comment>
 
-<question>8</question><grade>9.2</grade>
-<comment>Combines acid-sea steampunk, algorithmic cartography, and silent bell into a non-obvious synthesis. The transliteration conceit transforms a clichéd “quest for unheard music” into an act of irreverent creation. Risky lyric compression pays off in the mirrored future sky—inevitable in hindsight, fresh on first read.</comment>
+<question>8</question><grade>9.3</grade>
+<comment>The synthesis of clockpunk, acid sea, and algorithmic yearning feels inevitable yet fresh; the bell that can only be rung by refracted sunlight is a non-obvious payoff seeded from the first kaleidoscope twist. Risk—treating a missing clapper as soluble through translation—heightens stakes without gimmickry. Removing any core ingredient (arrow tip, Algorithm, kaleidoscope) collapses the logic, proving irreplaceability.</comment>
 
-<question>9 A</question><grade>9.0</grade>
-<question>9 B</question><grade>9.2</grade>
+<question>9 A</question><grade>8.7</grade>
+<question>9 B</question><grade>9.4</grade>
 <question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>8.7</grade>
-<question>9 E</question><grade>9.3</grade>
-<question>9 F</question><grade>9.1</grade>
+<question>9 D</question><grade>8.2</grade>
+<question>9 E</question><grade>9.6</grade>
+<question>9 F</question><grade>9.5</grade>
 <question>9 G</question><grade>8.8</grade>
-<question>9 H</question><grade>7.9</grade>
+<question>9 H</question><grade>7.1</grade>
 <question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>8.9</grade>
+<question>9 J</question><grade>9.2</grade>

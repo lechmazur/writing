@@ -1,27 +1,27 @@
 grade_story_wc_56.txt
-<question>1</question><grade>7.8</grade><comment>Mara's motivation to uncover her father's lies drives consistent choices through discovery and renunciation. The internal conflict between inherited myth and salvaged truth plays out through embodied actions (tracing numbers, reading journals). Minor deduction for some abstract phrasing ("serene upheaval" as internal state), but the final choice to dismantle monuments shows earned transformation with visible cost.</comment>
+<question>1</question><grade>7.8</grade><comment>Mara's internal journey from seeking truth about her father's lies to becoming a truth-teller herself is well-motivated with concrete details like the sundial's tooth marks contradicting his story. The transformation is earned through specific discoveries (the journals confessing his orchestrated ambush), though some emotional transitions feel slightly compressed in places like "felt both lighter and ancient."</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural lens with pattern of erasure/revelation building to Resonant Reconfiguration where Mara releases the sundial and commits to monument dismantling. Cost is legible in "felt both lighter and ancient" and the foreclosed path of comfortable myth. Minor deduction for slightly delayed orientation of the "who" (Mara's identity emerges gradually).</comment>
+<question>2</question><grade>7.9</grade><comment>Strong Accumulative/Textural structure builds through layered discoveries (sundial coordinates, altered logbooks, buried journals) to a Resonant Reconfiguration where Mara transforms from seeker to dismantler of lies. The cost is visible in her leaving the sundial behind and choosing a new mission. Minor orientation wobble with "twilight barge canal" as an opening location.</comment>
 
-<question>3</question><grade>7.6</grade><comment>The canal, barge, and bunker create atmospheric pressure and constrain movement effectively. Sensory detail like "gold ellipses on the water" and "reedy cut" grounds the journey. The sundial's coordinate discovery uses setting as discovery mechanism. Deduction for some abstract descriptions ("scar trying to heal") that could be more embodied.</comment>
+<question>3</question><grade>7.4</grade><comment>The barge canal setting effectively constrains movement and creates atmosphere ("fog pooled between iron walls"), with specific details like the reedy cut and half-submerged bunker. The sundial functions as micro-setting that drives discovery. Some passages lean toward atmospheric description over constraint ("gold ellipses on the water").</comment>
 
-<question>4</question><grade>7.9</grade><comment>Stakes of understanding father's lies intensify through log discoveries to journal revelation, with meaningful deepening when coordinate leads to bunker. The cost lands in Mara's transformation from "legend seeker" to active dismantler. Minor deduction because the external pressure (Riga, canal journey) could more directly complicate Mara's choices.</comment>
+<question>4</question><grade>7.6</grade><comment>Stakes escalate from personal truth-seeking to systemic dismantling of false histories, with meaningful tightening when Mara discovers her father sacrificed another platoon. The cost is legible in her choice to abandon the sundial and take on a larger mission. One clear deepening that changes knowledge suffices for this length.</comment>
 
-<question>5</question><grade>8.4</grade><comment>Theme of inherited lies emerges through concrete discoveries (altered logs, hidden coordinates, buried journals) without explicit moralizing. The final image of dismantling monuments "beam by beam" offers resonant answer to how truth confronts myth. Strong subtext in the sundial's transformation from relic to burden to released weight.</comment>
+<question>5</question><grade>7.7</grade><comment>Theme emerges organically through the "architecture of lies" motif that transforms from personal investigation to public mission. The final image of Mara moving forward without the sundial while the wake spreads "like a sentence spoken at last" resonates without stating a moral. Slight dock for "serene upheaval do its patient work" edging toward theme statement.</comment>
 
-<question>6</question><grade>7.7</grade><comment>Distinctive voice with literary compression ("morning radio silence," "palimpsests of altered routes"). POV remains stable with Mara's perceptual filter consistent. Some elevated diction ("serene upheaval," "architecture of lies") occasionally strains but serves thematic purpose. Dialogue minimal but effective (Riga's cigarette-smoke communication).</comment>
+<question>6</question><grade>7.5</grade><comment>Distinctive voice with controlled metaphorical language ("the canal as nothing more than a scar trying to heal") and consistent POV. Some register elevation in places ("palimpsests of altered routes") that slightly exceeds Mara's established lexicon. Dialogue minimal but functional when present.</comment>
 
-<question>7</question><grade>7.4</grade><comment>Strong information density and varied syntax, but "serene upheaval" appears three times creating mild repetition. Some abstract phrasing ("scaffolding she now knew how to dismantle") could be more concrete. The prose generally propels forward with purposeful rhythm shifts between discovery and reflection.</comment>
+<question>7</question><grade>7.3</grade><comment>Generally clean prose with strong moments ("morning radio—that hush between the last love song and the shipping forecast"). Some density issues with figurative language appearing in most sentences without clear pattern-teaching. Minor template cadence in "She asked... She read... She traced" sequence mid-story.</comment>
 
-<question>8</question><grade>7.5</grade><comment>Fresh synthesis of war memory, inherited trauma, and archaeological metaphor for truth-seeking. The barge journey as vehicle for historical reckoning feels specific. The image of monuments trembling from spoken truth during "morning radio silence" offers non-obvious resolution. Some familiar elements (hidden war crimes) but transformed through Mara's particular lens.</comment>
+<question>8</question><grade>7.2</grade><comment>The concept of reading erased truth through physical traces (sundial marks, smudged ink, wax-sealed journals) offers a fresh angle on the war-secrets narrative. The transformation feels somewhat expected given the setup, though specific details like the coordinate discovery provide originality.</comment>
 
-<question>9 A</question><grade>6.8</grade>
-<question>9 B</question><grade>7.2</grade>
-<question>9 C</question><grade>7.8</grade>
-<question>9 D</question><grade>6.4</grade>
-<question>9 E</question><grade>7.6</grade>
-<question>9 F</question><grade>6.2</grade>
-<question>9 G</question><grade>6.8</grade>
-<question>9 H</question><grade>6.6</grade>
-<question>9 I</question><grade>8.2</grade>
-<question>9 J</question><grade>7.4</grade>
+<question>9 A</question><grade>7.8</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>7.5</grade>
+<question>9 D</question><grade>6.8</grade>
+<question>9 E</question><grade>7.1</grade>
+<question>9 F</question><grade>6.4</grade>
+<question>9 G</question><grade>7.3</grade>
+<question>9 H</question><grade>6.2</grade>
+<question>9 I</question><grade>8.1</grade>
+<question>9 J</question><grade>7.6</grade>

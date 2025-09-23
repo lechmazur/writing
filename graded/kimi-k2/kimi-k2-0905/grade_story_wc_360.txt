@@ -1,25 +1,27 @@
 grade_story_wc_360.txt
-<question>1</question><grade>8.9</grade><comment>Quince’s contradictory impulses—his need to quantify grief versus the unquantifiable cost of empathy—are dramatized in the press reversal; the final self-printing is earned by the erosion of every borrowed soul, leaving a visible cost on the page.</comment>
-<question>2</question><grade>9.2</grade><comment>Closure lands as a Decisive Change: Quince reverses the press, scattering borrowed personalities and rekindling stars; the causal lens holds because each borrowed life is shown subtracting from his own until only the blank self remains.</comment>
-<question>3</question><grade>8.7</grade>
-<comment>The topaz dome, halo fragment, and letterpress are not mere scenery; they constrain tactics—the dome admits starlight needed for the halo’s glow, the press’s flywheel becomes a heartbeat, and the fragment’s final crack stitches new constellations that charge the ending image.</comment>
-<question>4</question><grade>8.8</grade>
-<comment>Dominant stake—how much of himself Quince will forfeit to understand emotion—tightens when the halo child reveals the remainder he never accounted for; the reversal of the press is the single meaningful escalation that forecloses borrowing forever.</comment>
-<question>5</question><grade>9.0</grade>
-<comment>Theme emerges from the specific mechanism of empathy-as-subtraction; the final sky teaches that “to shine is to be alone together” without moralizing, reweighting every prior borrowed grief into a resonant, non-literal answer.</comment>
-<question>6</question><grade>9.1</grade>
-<comment>Voice is dense, lyrical, and consistent; the operator’s perceptual signature filters every image through print metaphors (“wet newsprint,” “loosened plates”) and the rhythmic control never falters under pressure.</comment>
-<question>7</question><grade>8.9</grade>
-<comment>Prose is propulsive and information-dense; figurative language is disciplined, with no loops or mixed metaphors, and the final cadence—“perfectly weightless and suddenly terrifying”—lands clean.</comment>
-<question>8</question><grade>9.3</grade>
-<comment>The conceit of empathy-as-letterpress is a fresh synthesis; the risk of reversing the press to scatter souls feels inevitable in hindsight, and the story commits fully to its metaphysical premise without gimmickry.</comment>
-<question>9 A</question><grade>9.0</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>9.1</grade>
-<question>9 D</question><grade>9.0</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>8.8</grade>
-<question>9 G</question><grade>8.7</grade>
-<question>9 H</question><grade>8.6</grade>
-<question>9 I</question><grade>8.9</grade>
-<question>9 J</question><grade>8.8</grade>
+<question>1</question><grade>7.9</grade><comment>Quince’s choice to print himself back into singularity is rooted in the escalating loss of self that the borrowed widow-astronomer-grief sequence dramatizes. Interiority is specific and embodied (“her grief clung… like wet newsprint”), and the final endurance—walking away blank but intact—earns its cost because the causality of personality-drain has been shown. The single on-page weakness is slight diagnostic drift around “to understand the mathematics of emotion,” but it is offset by the visceral stakes inside the press-breath moment.</comment>
+
+<question>2</question><grade>7.6</grade><comment>The closure works as a Resonant Reconfiguration under Accumulative lens: every borrowed soul returned and every star rekindled reweights the central empathy premise with undeniable conceptual cost. The Orientation is adequate (topaz cliff, night, present), and causality holds until the final image. One mild telegraph—the decision to reverse the press—arrives with less immediate setup than ideal, preventing the higher 8+ tier.</comment>
+
+<question>3</question><grade>8.3</grade><comment>Topaz dome, cliff workshop, and halo fragment constrain choices and reappear at closure, satisfying the gate. Sensory specificity (“moon-silver ink,” “spectral tears”) is selective and pressure-shaped. Micro-setting (press, plate, balcony rail) acts as bodily limits. Spatial tracking remains coherent even across the workshop doubling.</comment>
+
+<question>4</question><grade>8.1</grade><comment>Stake—loss of self versus need to feel others—ramps coherently as each borrowed identity erodes Quince’s own lattice. A visible tightening occurs when he sees the child-of-light and recognizes subtraction equals annihilation until he chooses reversal. Cost (blank self) is felt on the final line. One small escalatory jump happens slightly off-page during the backward run, keeping it just under 8.5.</comment>
+
+<question>5</question><grade>8.7</grade><comment>Theme of relinquishing borrowed selves as the only way to retain authentic empathy emerges organically through concrete acts—feeding negatives into the press, rekindling stars. Ambiguity lingers without moralizing; the silence after Quince locks the dome invites reader reweighting. Final image refracts the entire arc without declaring the lesson.</comment>
+
+<question>6</question><grade>8.5</grade><comment>No head-hopping; POV remains securely anchored to Quince with patterned lyric compression taught from line 1. Diction and rhythm alter under pressure—longer hypotactic runs when numbers flood in, clipped fragments as he decides. Voice maintains perceptual signature even in shared-child speech.</comment>
+
+<question>7</question><grade>8.5</grade><comment>Few scaffold phrases; lines are densely freighted (“eigenvalues of sorrow, vectors of longing”). One mixed metaphor—“ink flowed uphill”—clears emotional logic without breaking clarity. Rhythm rises and falls with action beats (“pulsed like a question,” “gears clicking out half-truths”). No pervasive loops dilute the closure.</question>
+
+<question>8</question><grade>8.8</grade><comment>Letterpress-as-empathy-press is a bold, non-generic premise. The star-gathering into a child of light re-configures the borrowed-self trope into something inevitable in hindsight. Specificity of materials—cedar drawer, topaz dome, leaden fractions—grounds the concept. The final constellation of emotional glyphs is fresh and fully earned.</comment>
+
+<question>9 A</question><grade>8.7</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>8.8</grade>
+<question>9 D</question><grade>9.2</grade>
+<question>9 E</question><grade>8.4</grade>
+<question>9 F</question><grade>8.0</grade>
+<question>9 G</question><grade>8.1</grade>
+<question>9 H</question><grade>7.9</grade>
+<question>9 I</question><grade>8.3</grade>
+<question>9 J</question><grade>7.8</grade>

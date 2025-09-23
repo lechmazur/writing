@@ -1,29 +1,36 @@
 grade_story_wc_56.txt
-<question>1</question><grade>8.7</grade><comment>Mara’s contradictory impulses—yearning for truth yet fearing its cost—are embodied in her tactile handling of the sundial and the journals; her final resolve to dismantle lies is earned through prior micro-choices and carries visible cost (abandoning the sundial, embracing lifelong labor). Interiority is specific, never diagnostic. Only minor slip: Captain Riga remains functional rather than crucible-level.</comment>
-
-<question>2</question><grade>8.9</grade><comment>Causal lens holds: each beat links because/therefore (logbook discrepancy → coordinate discovery → bunker salvage → renunciation). Closure is a Resonant Reconfiguration—Mara’s stance crystallizes with felt cost as she steers toward open river. No orientation debt; transitions are legible. One tightening suffices at this length.</comment>
-
-<question>3</question><grade>8.5</grade><comment>Twilight canal, reeds, fog, and the half-submerged bunker are vivid, selective, and pressure the action (hidden cut, salvage logistics). The sundial as micro-setting constrains the final choice when its shadow becomes meaningless in daylight. Sensory hierarchy filters through Mara’s urgency; no white-room syndrome.</comment>
-
-<question>4</question><grade>8.6</grade><comment>Dominant stake—understanding the architecture of lies—tightens decisively when journals confirm betrayal; options narrow to renunciation. Escalation is causal and protagonist-driven; cost is visible (loss of inherited myth, lifelong burden). No coincidence resolves conflict.</comment>
-
-<question>5</question><grade>8.8</grade><comment>Theme emerges organically from concrete events: inherited heroism vs. sacrificed lives. Final image—steaming wake as “sentence spoken at last”—reweights prior motifs without moralizing. Subtext in logbook smudges and sundial tooth-marks carries the lie’s blueprint. Complexity lingers; no tidy resolution.</comment>
-
-<question>6</question><grade>8.4</grade><comment>Voice is lyric yet grounded in Mara’s perceptual signature; diction (“serene upheaval,” “architecture of lies”) is consistent and purposeful. No head-hopping; POV distance stable. Compression and elision (e.g., “shipping forecast” shorthand) are taught early and paid off at closure.</comment>
-
-<question>7</question><grade>8.7</grade>
-<comment>Prose is dense, rhythmic, and propulsive; figurative language serves rather than stalls. No loops, scaffold, or mixed metaphors. Sentence variety supports pressure. Minor elevated diction (“palimpsests,” “conceptual repricing”) fits Mara’s erudition without register drift.</comment>
-
-<question>8</question><grade>8.6</grade>
-<comment>Fresh synthesis: war-myth archaeology via barge salvage, pocket sundial as forensic tool. Trope of “hero father” is inverted through specific journals and erased coordinates. Risky lyric structure pays off in resonant closure. Transformation test passes; story could not swap names/places without loss.</comment>
-
-<question>9 A</question><grade>8.3</grade>
-<question>9 B</question><grade>9.0</grade>
-<question>9 C</question><grade>8.2</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.7</grade>
-<question>9 F</question><grade>7.4</grade>
-<question>9 G</question><grade>8.1</grade>
-<question>9 H</question><grade>7.6</grade>
-<question>9 I</question><grade>8.8</grade>
-<question>9 J</question><grade>8.5</grade>
+<question>1</question><grade>8.1</grade><comment>Mara’s contradiction-rich quest to dismantle her father’s heroic myth is embodied on page through micro-choices (angling the sundial at moonlight, tracing the forged log entry). A single slip: the “tremor even bronze generals would feel” edges toward sermon; otherwise contradictions drive the final renunciation.</question>
+<question>2</question><grade>8.7</grade><comment>Causal lens holds: each salvaged logbook smudge tightens Mara’s knowledge and narrows options until the bunker journals detonate the myth. Closure lands with felt cost (“lighter and ancient” at once); a decisive change that forecloses return to the old story.</question>
+<question>3</question><grade>8.5</grade>
+<comment>“Twilight barge canal” steers spatial choreography and pressure: fog folds Caldera in, canal “scar trying to heal” literalizes theme. The reeds-choked bunker and dangling lanterns are not backdrop but choice-constraining terrain.</question>
+<question>4</question><grade>8.4</grade>
+<comment>Single dominant stake—father’s lies—escalates from page one to journals’ ambush confession, tightening with each erasure Mara uncovers. Price (Mara’s inherited identity shatters) is visible, felt, and paid on deck.</question>
+<question>5</question><grade>8.6</grade>
+<comment>Lies-as-architecture emerges organically from concrete wartime documents; no abstract lecture. Final image (“let time keep its own score”) reconfigures theme without moralizing, leaving the reader with a charged afterimage rather than a thesis.</question>
+<question>6</question><grade>8.8</grade>
+<comment>Third-person limited drifts into Mara’s interior with syntactic textures that mirror her shifting weight: long breathy clauses for reflection, taut fragments under discovery. Voice never breaks focus; subtle free-indirect tags hold distance.</question>
+<question>7</question><grade>8.5</grade>
+<comment>Sentences are dense, propulsive yet musical—no paraphrase loops, metaphor coherence intact. One near-artifact: “serene upheaval” is repeated twice; still crisp, but caps the ceiling.</question>
+<question>8</question>
+<grade>8.7</grade>
+<comment>Fresh inversion of veteran-daughter myth using a pocket sundial as navigation to a half-submerged bunker journal delivers originality that feels inevitable. High-stakes risk: no gunfire, yet the climax reweights the national legend itself.</question>
+<question>9 A</question>
+<grade>8.3</grade>
+<question>9 B</question>
+<grade>9.2</grade>
+<question>9 C</question>
+<grade>8.7</grade>
+<question>9 D</question>
+<grade>7.9</grade>
+<question>9 E</question>
+<grade>9.7</grade>
+<question>9 F</question>
+<grade>7.4</grade>
+<question>9 G</question>
+<grade>8.1</grade>
+<question>9 H</question>
+<grade>7.2</grade>
+<question>9 I</question>
+<grade>8.9</grade>
+<question>9 J</question>
+<grade>8.0</grade>

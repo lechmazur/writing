@@ -1,27 +1,31 @@
 grade_story_wc_318.txt
-<question>1</question><grade>7.8</grade><comment>Ellery's grief-driven motivation is embodied through concrete actions with the leaf blower, and his internal contradiction between hope and despair acts simultaneously in the tunnel scene. The moment of hearing Quinn's laughter shows credible irrationality rooted in loss. Minor deduction for the slightly convenient resolution where his wife also laughs, though the emotional cost of conducting for memory remains palpable.</comment>
+I'll evaluate this story systematically under the rubric's demanding standards.
 
-<question>2</question><grade>8.2</grade><comment>The story follows an Accumulative/Textural lens with density increase through the tunnel's acoustic layering, culminating in a Resonant Reconfiguration where absence gains "a shape echoing can carry." The hourglass-to-tunnel-to-home structure creates clear causality, and the cost (accepting loss while preserving memory) is visible. The orientation anchors establish clearly by line 3.</comment>
+**Drive Lens Inference:** Accumulative/Textural - the story builds through layered sonic memories and echoes, with the tunnel's acoustic properties accumulating meaning until the final resonant transformation.
 
-<question>3</question><grade>7.6</grade><comment>The tunnel functions as more than setting—it's an "echo-chamber" and "concrete throat" that enables the story's central action and charges the final haunting. Sensory detail focuses on sound (mechanical howl, layered chords, giggle bouncing wall to wall) fitting the POV's musical perception. The tunnel's transformation into an "organ pipe" constrains future possibility.</comment>
+<question>1</question><grade>7.8</grade><comment>Ellery's grief-driven motivation is embodied through concrete actions with the leaf blower, and his internal contradiction between hope and acceptance plays out physically in the tunnel. The transformation from seeking to restore Quinn's laughter to understanding "tending to the unspoken does not mean bringing the dead back" shows earned wisdom through struggle, though some emotional transitions feel slightly rushed.</comment>
 
-<question>4</question><grade>7.4</grade><comment>The dominant stake (restoring laughter/preserving memory) deepens from mechanical noise-making to accepting absence with new form. The escalation through "killed the throttle" to hearing the impossible sniffle creates meaningful pressure. Cost is legible in Ellery sinking to his knees and the permanence of the tunnel's haunting, though the wife's laughter slightly softens the trade-off.</comment>
+<question>2</question><grade>7.4</grade><comment>The Resonant Reconfiguration closure lands with felt cost as Ellery accepts absence while giving it "a shape echoing can carry," and the house's final exhalation confirms transformation. The accumulative structure coheres as sound layers build meaning, though the magical realist element of Quinn's actual laughter emerging could use one more grounding beat to fully earn its impact.</comment>
 
-<question>5</question><grade>8.4</grade><comment>Theme emerges through the concrete act of conducting absence into presence: "tending to the unspoken does not mean bringing the dead back; it means giving absence a shape." The hourglass/pull-cord/tunnel progression creates non-literal resonance without stated morals. The final image of the tunnel as "organ pipe" ready to sing reweights all prior material.</comment>
+<question>3</question><grade>8.2</grade><comment>The tunnel functions as both setting and instrument, constraining and enabling Ellery's ritual while its acoustic properties drive the story's central transformation. Sensory detail is selective and purposeful ("concrete throat," "glass marble dropped onto tile"), with the tunnel's echo-chamber quality essential to both action and meaning.</comment>
 
-<question>6</question><grade>7.9</grade><comment>Voice maintains consistent elegiac tone with controlled metaphorical density ("leaf-blower symphony conductor," "concrete throat," "glass marble dropped onto tile"). The perceptual signature focuses on sound and musical interpretation fitting Ellery's character. Slight register elevation in philosophical moments ("giving absence a shape echoing can carry") stays within bounds of grief's heightened state.</comment>
+<question>4</question><grade>7.6</grade><comment>The dominant stake—restoring laughter/joy to the grieving household—deepens through Ellery's tunnel performance as he moves from trying to resurrect the dead to accepting absence while preserving echo. The cost is visible in his physical collapse to his knees and the "macerated" heart, though the actual emergence of Quinn's laughter slightly softens what could be a harder-earned acceptance.</comment>
 
-<question>7</question><grade>7.7</grade><comment>Prose shows strong control with varied sentence structures and purposeful rhythm shifts (short declaratives during action, longer accumulative sentences for memory). Information density is high—most lines advance both external action and internal state. Minor metaphor density in places ("heart macerated itself") but serves the heightened emotional register.</comment>
+<question>5</question><grade>8.4</grade><comment>The theme of grief's transformation emerges organically through the concrete metaphor of sound and echo, with the final insight about "giving absence a shape echoing can carry" offering a resonant answer without moralizing. The hourglass-to-tunnel-to-home progression creates layers of meaning about time, memory, and persistence.</comment>
 
-<question>8</question><grade>7.8</grade><comment>The leaf-blower-as-instrument-of-grief premise transforms a mundane object through specific lived detail. The tunnel's evolution from echo chamber to permanent memorial offers a non-obvious synthesis. Risk-taking in the magical realist turn (actually hearing the laughter) heightens stakes while maintaining emotional truth about grief's irrationality.</comment>
+<question>6</question><grade>7.9</grade><comment>The prose maintains a distinctive lyrical register with controlled metaphorical density ("memorial symphony conductor," "concrete throat," "pendulum that had finished counting heartbeats"). POV remains stable with Ellery's grief coloring perception consistently, though occasional phrases like "mournfully eager" feel slightly overwrought.</comment>
 
-<question>9 A</question><grade>7.2</grade>
-<question>9 B</question><grade>8.1</grade>
-<question>9 C</question><grade>8.8</grade>
-<question>9 D</question><grade>7.6</grade>
-<question>9 E</question><grade>3.4</grade>
-<question>9 F</question><grade>7.8</grade>
-<question>9 G</question><grade>8.4</grade>
-<question>9 H</question><grade>6.2</grade>
-<question>9 I</question><grade>8.6</grade>
-<question>9 J</question><grade>8.9</grade>
+<question>7</question><grade>7.5</grade><comment>Sentence rhythm varies purposefully to match emotional beats, with longer accumulative sentences during memory and shorter cuts during action. Some metaphorical density in peak moments ("heart macerated itself against his ribs") borders on overwriting but stays legible; "memorial" should likely be "leaf-blower" in the opening.</comment>
+
+<question>8</question><grade>7.7</grade><comment>The leaf-blower-as-instrument concept offers a fresh angle on grief ritual, transforming a mundane tool into something ceremonial and meaningful. The specific detail of conducting backyard birthday symphonies and the tunnel's acoustic transformation of mechanical noise into lullaby show genuine ingenuity.</comment>
+
+<question>9 A</question><grade>8.1</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>8.4</grade>
+<question>9 D</question><grade>7.2</grade>
+<question>9 E</question><grade>6.3</grade>
+<question>9 F</question><grade>7.6</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>7.4</grade>
+<question>9 I</question><grade>8.2</grade>
+<question>9 J</question><grade>8.6</grade>

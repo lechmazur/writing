@@ -1,27 +1,29 @@
 grade_story_wc_262.txt
-<question>1</question><grade>7.4</grade><comment>Mara's motivation is clear and deeply rooted in personal loss, driving her to seek the lost lyrics through psychometry. Her internal conflict between hope and uncertainty manifests through embodied details like "fingertips tingled" and the physical act of scratching new lyrics onto film. The transformation from passive seeker to active projector of love is earned through accumulated discoveries, though some emotional transitions feel slightly rushed in the middle third.</comment>
+I'll evaluate this story under an **Accumulative/Textural lens**, as it builds density through layered imagery and memory until the final revelation reweights all prior material.
 
-<question>2</question><grade>7.8</grade><comment>The story follows an Accumulative/Textural lens with pattern-building through film imagery, projection metaphors, and the recurring motif of "unused love." Closure lands as a Resonant Reconfiguration when Mara discovers love is "never unused, only stored" and becomes a projector herself, with visible cost in the "envelope ashes" and emotional release. The orientation anchors clearly (projection booth, Mara, abandoned theater) and causality holds as each discovery builds toward the final revelation.</comment>
+<question>1</question><grade>7.8</grade><comment>Mara's motivation to find her mother's lost message drives consistent, embodied choices (pressing palms to reels, performing psychometry, scratching new lyrics). The internal contradiction between needing closure and fearing what she'll find manifests physically when "tears blurred the ink, but she sang the tune perfectly." Minor deduction for some diagnostic language ("love unused is not gone; it loops") that briefly abstracts the emotional state.</comment>
 
-<question>3</question><grade>7.6</grade><comment>The projection booth and abandoned theater function as more than setting—they constrain Mara's search and provide the tools (projector, film strip) essential to resolution. Sensory details like "dust floated like slow film frames" and "hushed thunder outside" create atmosphere while the spatial choreography from booth to auditorium to balcony tracks cleanly. The vintage palace's transformation from "attic of abandonment" to "vault ready" charges the final image.</comment>
+<question>2</question><grade>8.2</grade><comment>Strong accumulative structure builds through discovered objects toward Mara finding her mother's completed letter with "Love is never unused, only stored in dark rooms until someone projects it." The closure lands as Resonant Reconfiguration when Mara becomes a carrier of "stored love" herself, with clear emotional cost ("tears blurred the ink"). Who/where/when anchored early; lens holds throughout.</comment>
 
-<question>4</question><grade>7.2</grade><comment>The dominant stake—finding mother's lost message—intensifies through accumulating discoveries: vision in crystal sphere, film moving independently, mother's voice emerging, cigarette case revelation. Each discovery narrows Mara's understanding until she must accept that love requires projection rather than possession. The cost manifests in breaking the seal (irreversible action) and accepting her mother's absence while gaining the ability to project stored love.</comment>
+<question>3</question><grade>7.6</grade><comment>The projection booth and abandoned palace function as more than backdrop—the space constrains and enables action (ancient projector still works, cigarette case hidden in balcony). Vivid sensory detail: "dust floated like slow film frames," "hushed thunder outside—storm without rain." The setting's decay mirrors the preserved-but-unused love, though some descriptions edge toward the ornamental.</comment>
 
-<question>5</question><grade>7.5</grade><comment>Theme emerges through the concrete metaphor of film projection as memory/love storage, avoiding abstract moralizing until the mother's note provides earned wisdom. The concept of "unused love" develops through specific images—sealed letters, orphaned film, empty seats—that accumulate meaning. The final transformation of Mara into a projector of love resonates without stating an explicit moral, though the mother's postscript comes close to over-articulation.</comment>
+<question>4</question><grade>7.4</grade><comment>The dominant stake (finding mother's lost message/understanding unused love) accumulates pressure through discoveries: vision of mother as the girl, film moving itself, finding the cigarette case. The cost becomes legible when Mara must "break the seal" and accept her role as love's projector. One meaningful deepening when the blank letter transforms to reveal the complete message.</comment>
 
-<question>6</question><grade>7.3</grade><comment>Voice maintains consistent lyrical elevation with distinctive perceptual signatures like "crystal gazer" perspective and film-specific vocabulary. The prose modulates effectively between contemplative observation and active discovery, though occasional phrases like "spatially imaginative mind" feel forced. POV remains stable in close third, with controlled psychic distance that pulls closer during revelations.</comment>
+<question>5</question><grade>8.0</grade><comment>Theme emerges organically through concrete objects (film strips, sealed letters, projection) rather than abstraction. The final revelation that "Love is never unused, only stored in dark rooms until someone projects it" reweights all prior imagery. The recurring motif of projection/storage/release constrains choices and charges the closure when Mara herself becomes the projector.</comment>
 
-<question>7</question><grade>6.8</grade><comment>Prose demonstrates strong rhythmic control with varied sentence structures and purposeful paragraph breaks, particularly in the discovery sequence. However, several instances of elevated diction strain credibility ("incubate the leftover feelings," "emulsion still breathed sentiment") and some metaphors stretch too far ("pigeons that fluttered like white sprocket holes"). Information density is high but occasionally tips into overwriting during emotional peaks.</comment>
+<question>6</question><grade>7.2</grade><comment>Consistent third-person limited POV with controlled psychic distance. Mara's perceptual signature shows in how she sees everything through projection metaphors ("overlaid the present gloom with remembered brightness"). Some filter-verb clustering ("felt the incubated love," "felt along the velvet") and occasional register elevation that doesn't quite match the intimate tone.</comment>
 
-<question>8</question><grade>7.7</grade><comment>The premise of psychometry in an abandoned theater offers a fresh angle on grief and inherited love, with specific details like "wax that smelled of nitrate film" creating originality. The synthesis of projection technology with emotional inheritance feels organic rather than forced. The transformation of Mara from seeker to projector provides an earned twist, though the concept of "stored love" waiting in dark rooms edges toward the sentimental.</comment>
+<question>7</question><grade>6.8</grade><comment>Generally clean prose with moments of genuine beauty ("pigeons that fluttered like white sprocket holes"). However, several paraphrase loops weaken momentum: "love unused is not gone; it loops" followed by similar restatements. Template cadence in middle section ("She climbed... She walked... She felt..."). Mixed metaphor when film strip "threads into Mara's chest" strains physical logic.</comment>
+
+<question>8</question><grade>7.7</grade><comment>Fresh synthesis of projection/psychometry with emotional inheritance creates an original angle on the lost-parent story. The specific detail of love being "stored" in abandoned places until someone can project it transforms familiar grief narrative. Risk-taking in the magical realist elements (self-threading film, glowing fingertips) heightens meaning without obscuring clarity.</comment>
 
 <question>9 A</question><grade>7.8</grade>
 <question>9 B</question><grade>8.2</grade>
-<question>9 C</question><grade>7.5</grade>
-<question>9 D</question><grade>6.4</grade>
+<question>9 C</question><grade>7.4</grade>
+<question>9 D</question><grade>6.6</grade>
 <question>9 E</question><grade>6.8</grade>
-<question>9 F</question><grade>7.3</grade>
+<question>9 F</question><grade>7.2</grade>
 <question>9 G</question><grade>7.6</grade>
-<question>9 H</question><grade>5.2</grade>
-<question>9 I</question><grade>7.4</grade>
-<question>9 J</question><grade>7.1</grade>
+<question>9 H</question><grade>5.8</grade>
+<question>9 I</question><grade>7.0</grade>
+<question>9 J</question><grade>7.4</grade>

@@ -1,27 +1,29 @@
 grade_story_wc_290.txt
-<question>1</question><grade>7.8</grade><comment>Arin's claustrophobia creates genuine internal conflict that drives her descent into the mirror chamber, with embodied stress ("counting each breath as she used to count seconds in locked closets"). The final choice to take the key despite knowing it will seal the tunnels behind her demonstrates earned agency with visible cost.</comment>
+I'll evaluate this story under a **Causal lens** - the narrative follows clear because/therefore linkages as Arin's discovery of the compass point's behavior leads to spatial distortion, which enables her descent to find the key.
 
-<question>2</question><grade>7.4</grade><comment>The story achieves a Resonant Reconfiguration through Arin's acceptance of the spatial mutiny and her transformation from fearing enclosed spaces to carrying "the mutiny inside her." However, the cost of permanently sealing the tunnels feels somewhat abstract rather than viscerally felt in the final moments.</comment>
+<question>1</question><grade>7.8</grade><comment>Arin's claustrophobia creates genuine internal tension against her explorer nature, embodied through concrete details like "counting each breath as she used to count seconds in locked closets." The final choice to accept permanent tunnel closure shows clear cost, though the emotional weight of this sacrifice could be more viscerally felt in the moment of decision.</comment>
 
-<question>3</question><grade>7.2</grade><comment>The nexus setting actively constrains choice through its warping geometry and the spiral shaft that triggers Arin's claustrophobia. The compass point creating a "perfect black circle" that opens the hidden chamber demonstrates setting as mechanism rather than backdrop.</comment>
+<question>2</question><grade>8.2</grade><comment>Strong causal chain from compass-point discovery through spatial mutiny to key retrieval, with clear cost (tunnels closing forever). The Resonant Reconfiguration lands cleanly - Arin internalizes the mutiny and transforms her relationship to confined spaces. Minor deduction for the slightly rushed transition between descent and emergence.</comment>
 
-<question>4</question><grade>6.8</grade><comment>Pressure coheres around finding the key where "echoes mutiny against the ear," with the organ's impossible presence creating spatial distortion. While the stakes tighten when Arin must descend despite her claustrophobia, the resolution lacks a sharp trade-off beyond accepting internal change.</comment>
+<question>3</question><grade>8.1</grade><comment>The nexus setting actively constrains and enables the plot - rails become compass jaws, the glass roof's crack marks the pivot point, and spatial geometry literally rebels. The mirrors showing Arin at different ages effectively charge the closure. The lavender vision could be more concretely integrated.</comment>
 
-<question>5</question><grade>7.6</grade><comment>The theme of rebellion against one's own limitations emerges organically through Arin's confrontation with her claustrophobia and the spatial mutiny itself. The final image of her carrying "the mutiny inside her" reweights the opening's "fallow period" without explicit moralizing.</comment>
+<question>4</question><grade>7.9</grade><comment>Stakes escalate through spatial distortion forcing Arin to confront her claustrophobia in the shaft descent. The bargain - "take the key and the tunnels would close forever behind her" - creates clear trade-off with visible cost. The pressure could tighten more dramatically in the mirror chamber.</comment>
 
-<question>6</question><grade>7.9</grade><comment>Distinctive voice with lyrical precision ("the sky forgot its colors," "iron night felt denser than stone") and controlled psychic distance that tightens during the descent. The perceptual signature remains consistent through stress, though some passages edge toward purple prose.</comment>
+<question>5</question><grade>8.0</grade><comment>Theme of necessary rebellion emerges organically through the spatial mutiny mirroring Arin's internal rebellion against her fears. The ending image of the compass-sized void in the glass resonates without stating a moral. The "cartographer who no longer feared small spaces" line edges toward explicit but stays grounded in earned transformation.</comment>
 
-<question>7</question><grade>7.3</grade><comment>Strong information density with lines doing multiple jobs, though occasional overwriting appears ("The silence was so total that she heard her pulse rattling like loose rolling stock"). Some figurative density in non-pressure beats but clarity remains intact at closure.</comment>
+<question>6</question><grade>8.3</grade><comment>Distinctive voice with poetic precision: "the sky forgot its colors," "iron night felt denser than stone." Perceptual signature remains consistent - an explorer who maps geometry finding meaning in spatial rebellion. Clean focalization throughout with purposeful rhythm modulation during the descent sequence.</comment>
 
-<question>8</question><grade>7.7</grade><comment>The concept of spatial mutiny as both external phenomenon and internal transformation offers fresh synthesis. The mirrors showing Arin at different ages while she claims the key creates an original moment of self-confrontation tied to the story's core tension.</comment>
+<question>7</question><grade>8.4</grade><comment>Prose maintains high density with lines doing multiple jobs: "The organ notes folded into visible ripples, warping the rails further, forcing the tunnels to lean like drunk sentries." Strong syntactic variety and momentum. Minor repetition of "compass point" could be varied but doesn't harm clarity.</comment>
 
-<question>9 A</question><grade>8.2</grade>
-<question>9 B</question><grade>7.8</grade>
-<question>9 C</question><grade>8.5</grade>
-<question>9 D</question><grade>6.4</grade>
-<question>9 E</question><grade>7.6</grade>
-<question>9 F</question><grade>7.4</grade>
-<question>9 G</question><grade>7.2</grade>
-<question>9 H</question><grade>5.8</grade>
-<question>9 I</question><grade>8.0</grade>
-<question>9 J</question><grade>7.9</grade>
+<question>8</question><grade>8.1</grade><comment>Fresh synthesis of claustrophobia with spatial geometry as liberation mechanism. The concept of "spatial mutiny" where "distance revolted, angles went on strike" offers genuine originality. The mirrors showing different ages adds unexpected depth, though the lavender vision feels slightly conventional.</comment>
+
+<question>9 A</question><grade>8.7</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>8.8</grade>
+<question>9 D</question><grade>7.4</grade>
+<question>9 E</question><grade>8.5</grade>
+<question>9 F</question><grade>7.8</grade>
+<question>9 G</question><grade>8.3</grade>
+<question>9 H</question><grade>6.2</grade>
+<question>9 I</question><grade>8.1</grade>
+<question>9 J</question><grade>7.6</grade>

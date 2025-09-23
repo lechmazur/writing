@@ -1,27 +1,29 @@
 grade_story_wc_344.txt
-<question>1</question><grade>7.3</grade><comment>Rowan's motivation to "learn the rhythm of repair" is consistently rooted in the eclipse that took his mentor, driving concrete choices through the hall of mirrors sequence. The moment where he uses the flawed eclipse-key to heal itself through the mirror demonstrates embodied contradiction between doubt and hope. However, the final transformation where he becomes "custodian of every eclipse yet to unlock" feels slightly unearned given the limited on-page struggle.</comment>
+I'll evaluate this story under a **Causal lens** - the narrative follows clear because/therefore linkages as Rowan discovers the hall's true nature and repairs his key to unlock both door and personal healing.
 
-<question>2</question><grade>7.8</grade><comment>The story follows an Accumulative/Textural lens with the hall of mirrors serving as the central transformative mechanism. The closure lands as a Resonant Reconfiguration when Rowan steps through the mirror into his mentor's workshop, with visible cost ("the door locked itself with a click that sounded exactly like a heart finding rhythm"). The pattern of reflection-as-repair is taught early and pays off at closure, though the final paragraph's scope expansion slightly weakens the earned quality of the transformation.</comment>
+<question>1</question><grade>7.8</grade><comment>Strong embodied characterization with Rowan's irregular heartbeat tied to mentor's loss, and the pivotal realization about the mirrors storing "better versions" drives meaningful change. The final choice to step through despite the door locking behind him shows genuine cost. Minor deduction for some abstraction in emotional states ("doubt hissed like thawing steel") rather than fully embodied reaction.</comment>
 
-<question>3</question><grade>8.1</grade><comment>The frozen library setting actively constrains choices—frost on the lock pins, mirrors that store "better versions," and the workshop that exists only through the mirror. The recurring detail of "hauntingly bright" light creates atmospheric coherence while the clockwork imagery (gears, escapements, ticks) grounds the fantastical elements. The final image of overlapping ticks promising "a real moon was waiting" effectively charges the closure through environmental detail.</comment>
+<question>2</question><grade>8.2</grade><comment>Clear causal progression from prophecy → journey → discovery → transformation with a Resonant Reconfiguration closure where Rowan accepts permanent exile to complete his healing. The cost is explicit: "the door locked itself with a click" and "the doorway back had vanished." Orientation anchors (locksmith, frozen library, hall of mirrors) establish by ~100 words.</comment>
 
-<question>4</question><grade>7.6</grade><comment>The dominant stake—learning "the rhythm of repair" to heal Rowan's irregular heartbeat—accumulates through the mirror sequence where "none sang" initially creates genuine tension. The reversal when Rowan realizes the mirrors store "better versions, drafts the universe discarded" meaningfully tightens options and forces the choice to use his flawed key. The cost is legible when "the door locked itself" behind him, though the final expansion to cosmic scope slightly dilutes the personal stakes.</comment>
+<question>3</question><grade>8.4</grade><comment>The frozen library and hall of mirrors directly constrain and enable the central action - the mirrors' ability to heal the broken key is essential to plot resolution. Vivid sensory detail ("boots squealing on crystal floors," "breath unfurled as silver gauze") creates atmosphere while the setting's rules drive the solution.</comment>
 
-<question>5</question><grade>7.9</grade><comment>The theme of repair-through-acceptance emerges organically through the concrete action of healing the broken eclipse-key by "aligning reflection with reality." The final insight that "to mend the world you must first forgive the gear that slipped" arises from specific dramatized experience rather than assertion. The recurring motif of synchronized/unsynchronized time (clocks, heartbeats, lunar cycles) effectively charges the closure without feeling ornamental.</comment>
+<question>4</question><grade>8.0</grade><comment>Clear escalation from failed attempts with gears → discovery of mirrors' true nature → healing the key → irreversible choice to enter. The stakes (learning "rhythm of repair" to heal his grief) tighten when he realizes entry means no return. Cost is visible in the permanent separation from his world.</comment>
 
-<question>6</question><grade>7.7</grade><comment>The voice maintains a distinctive lyrical register with controlled imagery ("coat crackling with rime," "auroras braided overhead") that reflects Rowan's craftsman perspective. The perceptual signature shows in how he notices mechanical details and temporal rhythms. Some elevated diction ("driftwood nostalgia," "escapements") occasionally strains the POV's plausible lexicon, and the final paragraph's shift to omniscient perspective ("somewhere above the frozen library") creates minor distance wobble.</comment>
+<question>5</question><grade>8.3</grade><comment>Theme of repair/forgiveness emerges organically through the mechanics of locks, keys, and time. The insight "to mend the world you must first forgive the gear that slipped" resonates without preaching, earned through concrete action. The final image of overlapping clock ticks promises future healing work.</comment>
 
-<question>7</question><grade>7.5</grade><comment>Prose demonstrates strong control with varied sentence structures and purposeful rhythm that accelerates during the key discovery sequence. Information density is high—most sentences advance both plot and atmosphere simultaneously. However, some figurative density in non-peak moments ("auroras braided overhead through vaulted glass") and occasional register elevation ("custodian of every eclipse yet to unlock") create minor friction without clear pattern-teaching.</comment>
+<question>6</question><grade>7.4</grade><comment>Consistent third-person limited with controlled psychic distance and distinctive voice ("lunar-eclipse locksmith," "driftwood nostalgia"). Some register elevation in places ("hauntingly bright blades") fits the lyrical tone but occasionally strains. The perceptual signature of a craftsman noticing mechanical details throughout maintains character-specific focus.</comment>
 
-<question>8</question><grade>7.8</grade><comment>The central conceit of mirrors storing "better versions, drafts the universe discarded" offers a fresh angle on the repair/redemption theme. The specific synthesis of clockwork mechanics with lunar mythology creates memorable texture. The transformation where healing requires accepting the flaw first ("forgive the gear that slipped") provides genuine insight, though the cosmic scope expansion in the final paragraph trends toward safer territory.</comment>
+<question>7</question><grade>7.2</grade><comment>Generally clean prose with strong imagery, though "hauntingly bright" appears three times creating mild repetition. Some dense figurative sections ("frost racing along the shank until the crack sealed") work well. Minor issues with a few abstract constructions ("Understanding settled like fresh snow") and one instance of telling what could be shown.</comment>
+
+<question>8</question><grade>7.6</grade><comment>Fresh synthesis of clockwork repair with emotional healing through the inventive "hall of mirrors showing better versions" concept. The lunar-eclipse locksmith profession and frozen library setting avoid generic fantasy tropes. The resolution through accepting permanent transformation rather than simple return shows commitment to premise.</comment>
 
 <question>9 A</question><grade>8.2</grade>
 <question>9 B</question><grade>7.8</grade>
 <question>9 C</question><grade>8.5</grade>
-<question>9 D</question><grade>7.6</grade>
-<question>9 E</question><grade>6.3</grade>
-<question>9 F</question><grade>5.8</grade>
-<question>9 G</question><grade>8.4</grade>
-<question>9 H</question><grade>6.2</grade>
+<question>9 D</question><grade>6.2</grade>
+<question>9 E</question><grade>7.0</grade>
+<question>9 F</question><grade>6.8</grade>
+<question>9 G</question><grade>8.0</grade>
+<question>9 H</question><grade>5.5</grade>
 <question>9 I</question><grade>8.3</grade>
-<question>9 J</question><grade>7.4</grade>
+<question>9 J</question><grade>7.5</grade>

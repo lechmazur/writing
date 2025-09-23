@@ -1,29 +1,30 @@
 grade_story_wc_7.txt
-<question>1</question><grade>8.9</grade><comment>Marisol’s interiority is vivid and embodied—tasting memories, pruning the past, feeding the sprout her blood—each choice rooted in her trait of informal wisdom and escalating the stakes. The final renunciation (stealing the next seed) crystallizes her arc with felt cost. Minor slip: “informally wise” is stated rather than dramatized once.</comment>
+<question>1</question><grade>8.7</grade><comment>Marisol’s tasting of rusted glass and her whispered vow give a vivid, embodied entry into her motives; the blood-fed sprout and rooftop exit show a consistent arc of risk-taking self-exposure. Interiority stays concrete, never drifts into label-speak, and the final image of seeds in officers’ pockets proves her resolve has propagated. The only minor gap: we get no contradictory impulse mid-scene to test her certainty, so the change feels slightly single-note rather than torn. Still, her choices drive every beat and carry visible cost.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands as a Resonant Reconfiguration: the greenhouse’s transformation and the officers’ disarming rewire collective memory under an Accumulative/Textural lens. Causality holds—each beat (tasting, planting, pruning, harvesting) tightens the pattern and forecloses the Ministry’s control. Cost is legible in the blood-fed sprout and Marisol’s rooftop vigil.</comment>
+<question>2</question><grade>8.9</grade><comment>Closure is a clear Resonant Reconfiguration: the greenhouse’s transformation and the officers leaving “disarmed” reweight the Ministry’s authority with conceptual cost. Causal chain holds—seed stolen → alignment window → plant → scent diffusion → synaptic shift—each step triggered by Marisol’s micro-choices. Orientation is anchored by line 3 (who, where, when) and the celestial countdown supplies tightening. One small elasticity: the exact mechanism by which aroma rewires entire city synapses is asserted not tested, but the lyric lens lets it pass.</comment>
 
-<question>3</question><grade>8.7</grade><comment>The rusted greenhouse is no backdrop; its corroded ribs, cracked panes, and ash-laden soil constrain every action and charge the final image. Sensory detail is selective and POV-filtered (tasting rust, smelling birthday cakes). The transformed leaves replacing glass reconfigure meaning at closure.</comment>
+<question>3</question><grade>9.1</grade><comment>The rusted greenhouse is not backdrop but tool: its broken panes admit the alignment light, its ash from confiscated books becomes soil, its vines later replace glass—environment directly constrains and enables every tactic. Sensory triage is POV-specific (tasting rust, humming to cuts), and spatial choreography stays clean as Marisol kneels, plants, harvests, exits rooftop. Weather/celestial clock is tracked precisely and affects action timing. Final image of copper bones polished by tendrils reuses prior detail with reweighted meaning, meeting the 9+ gate.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—rewiring collective memory versus Ministry control—tightens once: the seed sprouts, aromas infiltrate sleep, officers drop torches. Escalation is driven by Marisol’s agency under the Accumulative lens; the cost is the blood she feeds the plant and her future risk.</comment>
+<question>4</question><grade>8.8</grade><comment>Dominant stake—illicitly rewire collective memory before the Ministry stops her—is signaled in paragraph 4 and tightens via the seven-breath countdown. Each pruning cut narrows her options (blood spent, scent released, exposure inevitable) and escalates social risk when loudspeakers warn of treason. The celestial deadline provides a single meaningful intensification; no reversal is needed under the lyric-causal hybrid lens. Cost is legible: physical blood, certain future pursuit, and the irreversible release of forbidden nostalgia into strangers.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme emerges organically: beauty as an offshoot of decay, rebellion through synaptic taste. Subtext in the fruit’s galaxy-swirl and the officers’ tears avoids moralizing. Final image of plum-colored seeds in pockets reweights the premise without statement.</comment>
+<question>5</question><grade>9.0</grade><comment>Theme emerges organically: beauty as insurgent remediation of state-imposed amnesia. No character articulates a thesis; meaning accrues through edible scripture vines, confiscated-cookbook ash, and officers waking with “borrowed recollections.” Final image of seeds in pockets reconfigures the premise—rebellion is now self-replicating—without moralizing. Ambiguity lingers: whose memories will sprout next, and who controls them? Complexity is embraced, not tidied.</comment>
 
-<question>6</question><grade>9.2</grade><comment>Voice is lush yet precise, modulating from groaning greenhouse to synaptic lullabies. Compression (“prune you back to beauty”) and sensory synesthesia remain legible. No head-hopping; POV stays anchored to Marisol’s perception.</comment>
+<question>6</question><grade>9.2</grade>
+<comment>Third-person keeps psychic distance steady yet filters every detail through Marisol’s gustatory cognition—tasting rust, reading wind by bolt-rattle—creating a distinct perceptual signature. Syntax flexes with pressure: long liquid sentences for planting, staccato clauses when seed splits “with a soft pop.” Ministry loudspeakers enter only as “muffled echoes, filtered through chlorophyll,” preserving POV integrity. No head-hopping; every metaphor is gustatory or horticultural, reinforcing voice.</comment>
 
 <question>7</question><grade>8.9</grade>
-<comment>Prose is dense and propulsive; metaphors (molten lattice, edible scripture) serve atmosphere without clutter. Rhythm shifts under pressure—short clauses at climax, longer lulls for planting. Zero loops or scaffold; every sentence advances.</comment>
+<comment>Prose is dense yet propulsive: “ash from confiscated cookbooks and the dust of shattered memory jars” does triple duty (world-building, sensory, thematic). Rhythm modulates—pre-planting suspense stretches sentences; post-bite memory burst contracts them. No paraphrase loops or scaffold; each image advances story or stakes. One hairline slip: “clock hands spinning backward” is a familiar trope, but it occupies only half a line and does not dull the final image.</comment>
 
 <question>8</question><grade>9.3</grade>
-<comment>Premise fuses culinary magic, synaptic rebellion, and celestial botany into a singular vision. Transformation of rust into stained-glass forgiveness feels inevitable yet fresh. Risk-taking (tasting memories, Ministry as taste police) heightens stakes without gimmickry.</comment>
+<comment>Fusion of synaptic-plasticity insurgency with gustatory horticulture feels inevitable yet fresh; no existing template matches “chef-pruner rewrites city memory via fruit.” Risk-taking is high—lyric compression, magical botany, off-stage mass mind-change—but pattern is taught early and closure remains legible. Specificity anchors novelty: monastery-wall plums, confiscated-cookbook ash, copper ribs polished by tendrils. Transformation test fails if names are swapped, confirming authentic vision.</comment>
 
 <question>9 A</question><grade>9.0</grade>
-<question>9 B</question><grade>9.2</grade>
+<question>9 B</question><grade>9.5</grade>
 <question>9 C</question><grade>8.8</grade>
 <question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>9.1</grade>
-<question>9 F</question><grade>8.7</grade>
-<question>9 G</question><grade>9.0</grade>
-<question>9 H</question><grade>8.6</grade>
-<question>9 I</question><grade>8.9</grade>
-<question>9 J</question><grade>9.0</grade>
+<question>9 E</question><grade>8.7</grade>
+<question>9 F</question><grade>8.2</grade>
+<question>9 G</question><grade>9.3</grade>
+<question>9 H</question><grade>8.4</grade>
+<question>9 I</question><grade>8.6</grade>
+<question>9 J</question><grade>8.0</grade>

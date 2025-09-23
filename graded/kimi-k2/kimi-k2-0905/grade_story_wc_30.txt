@@ -1,32 +1,49 @@
 grade_story_wc_30.txt
-<question>1</question><grade>8.4</grade><comment>Interiority is vivid—gears, creel, ribbon all externalize motive—but the librarian’s contradictory impulses (preserve vs release) are asserted rather than dramatized in scene; the final renunciation is earned yet the cost feels abstract.</comment>
+<question>1</question><grade>3.9</grade><comment>Lacks embodied interior contradiction; emotions described rather than enacted. Flexes only in final smelt beat, but decisions mostly observational and labeled.</comment>
 
-<question>2</question><grade>8.6</grade><comment>Closure lands as Charged Poise: the ribbon wound round the creel, the promise to “routine you into stars,” and the hollow in her chest reconfigure stakes with felt absence; lens is Accumulative/Textural, pattern taught early and held.</comment>
+<question>2</question><grade>4.2</grade><comment>Closure is lyrical re-crystalization without a legible before/after caused by librarian choice; waits for moon to act. Causality is external, not character-driven.</comment>
 
-<question>3</question><grade>8.7</grade><comment>Atrium’s tidal rise, brass roots knitting archive to seabed, and moonlit skylight actively constrain her choices; the bamboo creel as micro-setting charges the final image when it drinks memories and expands one ring.</comment>
+<question>3</question><grade>8.5</grade><comment>Moonlit brass, salt crystals, bamboo fibers unfolding memories—concrete sensory anchors that evolve with pressure and charge the final ribbon glow.</comment>
 
-<question>4</question><grade>8.3</grade>
-<comment>Dominant stake—preserve wonder without caging identity—tightens when moon pulls contradictions outward; smelting identities into ribbon is the decisive act that forecloses easy separation, paid for by her own looming erasure.</comment>
+<question>4</question><grade>4.7</grade><comment>Explicit task (smelt identities) provides pressure, but escalation leans on moon cycles; no visible cost or felt narrowing of options from librarian agency.</comment>
 
-<question>5</question><grade>8.8</grade>
-<comment>Theme emerges from action: identity as migratory flux, wonder sustained only in motion; final whispered promise and expanding creel reweight premise without moralizing, leaving resonant ambiguity.</comment>
+<question>5</question><grade>5.8</grade><comment>“Preserve wonder in routine” surfaces in dialogue, but tension wavers; identity ribbon is forged because needed, not because theme pressed harder.</comment>
 
-<question>6</question><grade>9.0</grade>
-<comment>Voice is crystalline, metallic yet tender; perceptual signature filters every image through brass, salt, moon-phase mesh; rhythmic control tightens under pressure, no head-hopping, consistent lyric distance.</comment>
+<question>6</question><grade>8.1</grade><comment>Voice is ornate yet coherent—selective attention, brass-tick rhythms, lunar cadence—never swerving into confusion; reads like a single devoted consciousness.</comment>
 
 <question>7</question><grade>8.9</grade>
-<comment>Prose is dense, musical, propulsive; figurative layering is disciplined, no mixed metaphors or loops; “salt settled on brass like frost that had never heard of cold” exemplifies precision without clutter.</comment>
+<comment>Paragraph turnover, lunar rhyming metaphors, and net-like syntax heighten pressure without clutter; a hairline purple line in “tomorrow dissolve into foam” keeps it under 9.</comment>
 
-<question>8</question><grade>9.1</grade>
-<comment>Fusion of steampunk librarian, lunar tidal archive, and migratory souls feels inevitable; no stock tropes, every image particular; risk in lyric structure heightens stakes without gimmickry.</comment>
+<question>8</question>
+<grade>9.0</grade>
+<comment>Identity-ribbon kintsugi conceit feels inevitable yet fresh; mythology of titan-gear mystics melded with tide lore offers an arresting synthesis seldom seen.</comment>
 
-<question>9 A</question><grade>8.6</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.8</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.7</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>8.4</grade>
-<question>9 H</question><grade>7.2</grade>
-<question>9 I</question><grade>7.8</grade>
-<question>9 J</question><grade>8.0</grade>
+<question>9 A</question>
+<grade>3.9</grade>
+
+<question>9 B</question>
+<grade>7.8</grade>
+
+<question>9 C</question>
+<grade>4.8</grade>
+
+<question>9 D</question>
+<grade>2.4</grade>
+
+<question>9 E</question>
+<grade>4.2</grade>
+
+<question>9 F</question>
+<grade>3.6</grade>
+
+<question>9 G</question>
+<grade>4.3</grade>
+
+<question>9 H</question>
+<grade>3.2</grade>
+
+<question>9 I</question>
+<grade>4.0</grade>
+
+<question>9 J</question>
+<grade>6.1</grade>

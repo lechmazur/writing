@@ -1,29 +1,27 @@
 grade_story_wc_357.txt
-I'll evaluate this story as a demanding editor for a prestigious literary publication, applying the rubric strictly.
+<question>1</question><grade>7.8</grade><comment>Aera's motivation to understand resilience drives consistent choices through discovery and integration. The contradictory impulse between seeking/receiving knowledge plays out concretely when she offers her memories to the sapling and receives calm in return. Minor deduction for the slightly abstract resolution of "resilience is the echo we decide to keep speaking" which edges toward diagnostic label-speak, though it's earned through prior dramatization.</comment>
 
-<question>1</question><grade>7.8</grade><comment>Aera's motivation is clear and rooted in childhood memory, with concrete embodied reactions throughout (fingers closing on arrow, boots skating leaves). The transformation from seeking to understanding resilience as "the echo we decide to keep speaking" is earned through dramatized discovery. Minor deduction for the slightly abstract nature of the collective memory transfer, though it's anchored in physical sensation.</comment>
+<question>2</question><grade>8.2</grade><comment>Clear Accumulative/Textural lens with density increase through the gravity inversion sequence leading to a Resonant Reconfiguration where Aera gains embodied understanding of resilience. The cost is visible when she offers her painful memories ("first crash, mother's final harvest, loneliness") to the collective. Orientation anchors (orchard pilot, skiff, planet, gravity inversion) establish cleanly by ~100 words.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural lens with clear closure as Resonant Reconfiguration—Aera's understanding transforms from question to embodied answer with visible cost (her memories given to the collective). The gravity inversion provides excellent structural backbone. Slight deduction for the abstract nature of some transitions in the Silent Core sequence, though causality holds.</comment>
+<question>3</question><grade>8.4</grade><comment>The inverted gravity environment directly constrains navigation ("boots skating across leaves that now served as stepping-stones") and the arrow tip's acceleration of growth cycles shapes the discovery sequence. Water flows that "ribbon the air like music scores" provide navigation method tied to setting. The Silent Core's "cathedral of unheard choir" charges the final transformation.</comment>
 
-<question>3</question><grade>8.4</grade><comment>Exceptional world-building with the floating orchards, inverted gravity, and water streams as navigation. The environment actively constrains choice (following water paths, gravity inversion timing). The arrow tip and sapling become micro-settings that charge the final image. Physical choreography during gravity inversion is particularly vivid.</comment>
+<question>4</question><grade>7.9</grade><comment>Single dominant stake (understanding resilience's source) tightens through the gravity inversion creating time pressure and the arrow's acceleration revealing "countless generations running their survival dance at lightspeed." Cost manifests when Aera surrenders her memories and receives understanding that "giving and taking are the same motion." The escalation follows the Accumulative lens through layered sensory discoveries.</comment>
 
-<question>4</question><grade>7.9</grade><comment>Dominant stake (discovering source of resilience) escalates through physical journey to metaphysical understanding. The gravity inversion creates natural pressure and deadline. Cost is visible in the reciprocal exchange of memories. Minor deduction as the conflict is primarily internal discovery rather than contested opposition.</comment>
+<question>5</question><grade>8.3</grade><comment>Theme emerges through the concrete transfer of endurance across voices and generations without explicit moralizing until the near-end. The sapling as "prism of every hardship outlived" offers a non-literal answer through image. Minor deduction for the slightly abstract articulation "resilience is the echo we decide to keep speaking" though it's integrated with the trees' responsive blossoming.</comment>
 
-<question>5</question><grade>8.6</grade><comment>Theme emerges beautifully through concrete action—resilience as collective echo rather than individual trait. The arrow transformation (broken tip to living wood shaft) provides perfect symbolic resolution without stating the moral. The final orchard response ("quiet fireworks of yes") confirms thematic resonance through image alone.</comment>
+<question>6</question><grade>8.1</grade><comment>Distinctive perceptual signature through navigation metaphors ("irrigation streams...like music scores") and lyrical compression ("frost laughter, pest indifference"). POV remains stable with consistent focalization through Aera. Voice modulates effectively during the gravity inversion sequence with shorter, more immediate syntax matching the urgency.</comment>
 
-<question>6</question><grade>8.3</grade><comment>Distinctive voice with poetic compression ("roots easing free of soil that would soon forget which way was down"). Consistent POV with controlled psychic distance. Excellent perceptual signature in how Aera reads water streams like "music scores." Minor deduction for occasional register elevation that slightly exceeds the established voice.</comment>
+<question>7</question><grade>7.6</grade><comment>Strong information density and varied rhythm, particularly in the gravity inversion sequence. Some figurative density in peak beats ("cathedral of unheard choir," "prism of every hardship") without clear pattern-teaching. Minor template cadence in middle sections ("She reached...She descended...She logged") though it doesn't pervade. Clear propulsion through the discovery sequence.</comment>
 
-<question>7</question><grade>8.1</grade><comment>High information density with lines doing multiple jobs. Strong rhythm variation and propulsion. Some figurative density in peak beats ("cathedral of unheard choir") that borders on overwriting but remains legible. Excellent opening and closing lines that frame the journey.</comment>
-
-<question>8</question><grade>8.5</grade><comment>Fresh synthesis of SF elements with lyrical meditation on resilience. The gravity inversion as both literal and metaphorical device is ingenious. The collective memory archive and reciprocal grafting concept transforms familiar "quest for wisdom" tropes. Risk-taking in the accumulative structure pays off.</comment>
+<question>8</question><grade>8.0</grade><comment>The concept of resilience as collective memory transfer offers a fresh angle on survival narrative. The gravity inversion as discovery mechanism and water-flow navigation create specific world logic. The arrow transforming from broken artifact to "living wood" provides concrete transformation of the abstract concept.</comment>
 
 <question>9 A</question><grade>8.2</grade>
-<question>9 B</question><grade>8.8</grade>
-<question>9 C</question><grade>8.5</grade>
-<question>9 D</question><grade>7.6</grade>
-<question>9 E</question><grade>8.4</grade>
-<question>9 F</question><grade>7.8</grade>
-<question>9 G</question><grade>8.6</grade>
-<question>9 H</question><grade>8.7</grade>
-<question>9 I</question><grade>8.3</grade>
-<question>9 J</question><grade>8.1</grade>
+<question>9 B</question><grade>9.1</grade>
+<question>9 C</question><grade>8.7</grade>
+<question>9 D</question><grade>7.8</grade>
+<question>9 E</question><grade>8.5</grade>
+<question>9 F</question><grade>7.4</grade>
+<question>9 G</question><grade>8.8</grade>
+<question>9 H</question><grade>8.3</grade>
+<question>9 I</question><grade>8.9</grade>
+<question>9 J</question><grade>7.9</grade>

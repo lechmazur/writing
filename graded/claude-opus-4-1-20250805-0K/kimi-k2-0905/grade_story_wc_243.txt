@@ -1,36 +1,27 @@
 grade_story_wc_243.txt
-<question>1</question><grade>7.8</grade><comment>The archivist's motivation crystallizes through concrete actions—sketching barnacles, preserving the boy's memory, sacrificing her locket—with embodied emotion in "pulse syncing with waves" and "steep absence like a clean nail wound." The daughter relationship provides subtle pressure that forces the final choice. Minor deduction for some abstract phrasing ("haunted euphoria") but the cost of her sacrifice lands viscerally.</comment>
+<question>1</question><grade>7.8</grade><comment>The archivist's internal conflict between preservation duty and personal loss manifests through concrete micro-choices (steeping the locket into the tube). Her motivation intensifies credibly from professional obligation to sacrificial act, with the locket photo creating a visceral parallel between the drowned boy and her daughter.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong Resonant Reconfiguration closure where the archivist's locket sacrifice transforms memory from personal possession to public covenant, with clear cost in the "empty wrist" and daughter's recognition. The accumulative/textural lens holds as density builds from individual sketching to communal preservation. Slight deduction for the abrupt ending mid-sentence ("motel") which weakens the final beat's resonance.</comment>
+<question>2</question><grade>7.4</grade><comment>Accumulative/Textural lens holds as density increases toward the archivist's sacrificial gesture of sealing her locket in the tube—a Resonant Reconfiguration with visible cost (the "steep absence like a clean nail wound"). The piece anchors who/where/when early and builds through sensory accumulation, though the final scene with the daughter could strengthen the cost's immediacy.</comment>
 
-<question>3</question><grade>7.9</grade><comment>The jetty's physical decay ("salt-rimmed plank," "loose board, slick algae") directly shapes the archivist's urgency and method, while sensory detail grounds the atmosphere effectively. The regenerated covenant stones and sunflower petals create a lived-in world that constrains choices. Setting functions as more than backdrop, though the final apartment scene could use sharper spatial anchoring.</comment>
+<question>3</question><grade>7.6</grade><comment>The jetty functions as active setting—its "salt-rimmed planks," "loose board," and "furthest piling" with dried sunflowers constrain the archivist's documentation choices and create the pressure of imminent demolition. The walnut ink bleeding into surfaces and the copper tube's patina ground the atmosphere in tactile specificity.</comment>
 
-<question>4</question><grade>7.6</grade><comment>The dominant stake—preserving memory before demolition—tightens through approaching "contractors testing equipment" and the security encounter, forcing the locket sacrifice. Cost is visible in the permanent loss and the daughter's observation. The escalation works under the accumulative lens but could benefit from one more intermediate pressure point between arrival and sacrifice.</comment>
+<question>4</question><grade>7.2</grade><comment>Stakes escalate from professional preservation to personal sacrifice as the archivist moves from sketching to surrendering her locket, with demolition's approach ("Distant engines growled") tightening pressure. The cost materializes in the "steep absence" and her daughter's recognition of the missing locket, though the final apartment scene slightly diffuses urgency.</comment>
 
-<question>5</question><grade>8.4</grade><comment>Theme emerges organically through the contrast between preservation and demolition, with the locket transformation offering a non-literal answer about memory's persistence through material sacrifice. The "regenerated covenant" concept layers meaningfully throughout, and the final piano scene resonates without stating a moral. Strong subtext in the security guard's retreat and the daughter's understanding.</comment>
+<question>5</question><grade>8.2</grade><comment>The theme of memory as active force ("artifacts become verbs") emerges through concrete images—sunflowers dried into wood, the boy's negative space, the locket pressed against sketch. The final waltz where mother and daughter play together while the "demolition crews slept" offers a non-literal answer about preservation through transformation rather than stasis.</comment>
 
-<question>6</question><grade>7.7</grade><comment>Distinctive voice with poetic compression ("sky forgets its own colors") and consistent perceptual signature focused on texture and decay. The dialogue between archivist and guard carries effective subtext. Some register elevation ("haunted euphoria," "proximate causes") occasionally strains against the intimate POV, and the syntactic patterns could vary more under pressure.</comment>
+<question>6</question><grade>7.9</grade><comment>Distinctive voice filters perception through archival consciousness ("walnut-ink," "regenerated covenant stones," "proximate causes"), with syntax modulating under pressure (shorter fragments as she works faster). The security guard exchange carries naturalistic subtext, though occasional elevated diction ("haunted euphoria") slightly strains the register.</comment>
 
-<question>7</question><grade>7.3</grade><comment>Generally strong prose with vivid imagery and purposeful rhythm, but several instances of abstract phrasing ("haunted euphoria" appears twice, "proximate causes" twice) create mild repetition. The abrupt truncation at "motel" harms momentum at closure. Information density is high and most sentences do multiple jobs, though some philosophical abstractions ("when context changes, artifacts become verbs") slow the narrative drive.</comment>
+<question>7</question><grade>7.3</grade><comment>Strong information density with lines doing multiple jobs ("Wind carried haunted euphoria: gulls laughing like children who knew they were already ghosts"). Some repetitive phrasing around "weight of small moments" and "regenerated covenant" creates minor loops, and the phrase "steep absence" feels forced, but propulsion remains strong through varied sentence lengths.</comment>
 
-<question>8</question><grade>7.4</grade><comment>The premise of an archivist preserving intangible memory through physical sacrifice offers a fresh angle on loss and preservation. The specific detail of walnut ink and copper tubes grounds the concept memorably. The transformation of the locket from personal talisman to public covenant shows genuine ingenuity, though the "haunted euphoria" phrase feels less original through repetition.</comment>
+<question>8</question><grade>7.7</grade><comment>The archivist preserving a drowning site through walnut ink while sacrificing her daughter's photo offers a fresh angle on memory and loss. The specific detail of sunflowers dried into wood and the mother-daughter parallel avoid generic grief narrative, though the archival conceit itself is somewhat familiar.</comment>
 
-<question>9 A</question><grade>8.7</grade><comment></comment>
-
-<question>9 B</question><grade>8.9</grade><comment></comment>
-
-<question>9 C</question><grade>7.8</grade><comment></comment>
-
-<question>9 D</question><grade>6.2</grade><comment></comment>
-
-<question>9 E</question><grade>5.8</grade><comment></comment>
-
-<question>9 F</question><grade>6.4</grade><comment></comment>
-
-<question>9 G</question><grade>7.6</grade><comment></comment>
-
-<question>9 H</question><grade>5.3</grade><comment></comment>
-
-<question>9 I</question><grade>8.1</grade><comment></comment>
-
-<question>9 J</question><grade>7.2</grade><comment></comment>
+<question>9 A</question><grade>8.2</grade>
+<question>9 B</question><grade>8.7</grade>
+<question>9 C</question><grade>7.4</grade>
+<question>9 D</question><grade>6.8</grade>
+<question>9 E</question><grade>7.9</grade>
+<question>9 F</question><grade>6.3</grade>
+<question>9 G</question><grade>7.6</grade>
+<question>9 H</question><grade>6.1</grade>
+<question>9 I</question><grade>8.4</grade>
+<question>9 J</question><grade>7.8</grade>

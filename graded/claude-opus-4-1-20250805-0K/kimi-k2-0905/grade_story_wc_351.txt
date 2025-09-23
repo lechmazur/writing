@@ -1,29 +1,27 @@
 grade_story_wc_351.txt
-I'll evaluate this story under an Accumulative/Textural lens, as it builds through layered imagery and memory accretion toward a resonant reconfiguration where Mara accepts partial failure while gaining fragmentary dreams.
+<question>1</question><grade>7.8</grade><comment>Mara's motivation to resurrect abandoned dreams through dangerous neural modification is consistently rendered through embodied details like "screwdrivers turn left when she meant right" and the calibration scene's physical precision. The choice to risk motor cortex overwriting for the chance to "map every buried wish" shows genuine internal conflict between ambition and self-preservation. Minor deduction for the slightly abstract handling of the miners' voices section, though the return to Mara's singular consciousness lands with appropriate cost.</comment>
 
-<question>1</question><grade>7.8</grade><comment>Mara's motivation is clear and embodied through concrete details like "screwdrivers turn left when she meant right." The internal conflict between risking motor cortex overwrite versus mapping buried wishes creates genuine tension. Her final acceptance of partial success with "chaotically precise hunger" shows earned transformation, though some interiority edges toward abstraction ("helix-minded" remains more label than embodied trait).</comment>
+<question>2</question><grade>7.6</grade><comment>The story achieves a Resonant Reconfiguration through Mara's partial success—she gains the sketches but loses the full dream extraction, establishing clear before/after with visible cost (blood, burned-out mirror). The causal chain from childhood sensitivity through the helmet modification to the moon's angle shift maintains coherent linkage. Deduction for the somewhat compressed middle section where the miners' memories could use one more beat of concrete detail to fully earn the transformation.</comment>
 
-<question>2</question><grade>7.6</grade><comment>The Resonant Reconfiguration lands with visible cost (blood, burned-out mirror, dreams turned to dust) as Mara gains sketches she doesn't remember drawing. The accumulative structure coheres through the canyon's memory-storage premise. Minor orientation delay (who/where clarifies gradually) and some causality softness around how exactly the helmet enables memory extraction prevent higher scoring.</comment>
+<question>3</question><grade>8.2</grade><comment>The moonlit canyon functions as more than setting—its quartz veins containing entangled memories directly constrain Mara's choices and methods, while the iron rail and cliff edge create physical stakes. Sensory detail is selective and purposeful: "cold light," "fractures reflecting lunar silver," "red grit." The broken periscope mirror's precise angle requirement elegantly ties environment to consequence. Strong spatial choreography throughout.</comment>
 
-<question>3</question><grade>8.2</grade><comment>The moonlit canyon functions as both setting and mechanism, with quartz veins storing memories that constrain Mara's choices. Sensory detail is selective and purposeful ("cold light," "red grit," "copper lace"). The mirror angle's milliradian precision creates spatial stakes. The setting actively shapes the climax when moonlight's shift causes system collapse.</comment>
+<question>4</question><grade>7.4</grade><comment>Stakes escalate from personal risk (motor cortex overwriting) through the helmet activation to the moon's sliding light forcing premature disconnection. The milliradian precision requirement creates genuine tension, and Mara pays visible costs (blood, lost opportunity). However, the middle section with the miners' voices could generate more resistance or complication before the moon shifts—the transformation feels slightly too smooth before the reversal.</comment>
 
-<question>4</question><grade>7.4</grade><comment>Stakes escalate from personal risk (motor cortex overwrite) through the helmet sequence to the collapse when moonlight shifts. The dominant stake—recovering abandoned dreams—tightens when the angle requirement proves unsustainable. Cost is visible in blood and equipment loss, though the middle section's pressure could intensify more sharply.</comment>
+<question>5</question><grade>7.2</grade><comment>The archaeology metaphor works throughout, from excavating dreams as data to the final image of "new seams of quartz" ready for the next dreamer. The theme of incomplete resurrection despite technological ambition emerges through action rather than statement. Deduction for the slightly overt phrasing "archaeology of abandoned dreams" appearing multiple times, and the miners' section trending toward the abstract rather than maintaining concrete particularity.</comment>
 
-<question>5</question><grade>7.9</grade><comment>Theme emerges through the concrete metaphor of dreams as extractable data stored in stone. The final image of Mara carrying sketches while the canyon awaits "the next dreamer" offers a non-literal answer about partial recovery and persistent hunger. Subtext operates through images like "archaeologist of abandoned dreams" without over-explaining.</comment>
+<question>6</question><grade>7.9</grade><comment>Strong perceptual signature with distinctive phrases like "helix-minded," "chaotically precise," and the controlled technical register fitting an engineer's consciousness. The prose modulates effectively during the helmet sequence, compressing during peak intensity. Minor deduction for occasional register elevation ("fruition," "inextricable") that slightly exceeds Mara's established lexicon during non-technical moments.</comment>
 
-<question>6</question><grade>7.5</grade><comment>Voice maintains consistent texture through compound constructions and technical-poetic fusion ("synthetic neurotrophin," "synaptic plasticity gone feral"). POV control is clean with selective perception reflecting engineering mindset. Some phrases edge toward purple prose ("cold fire crawled over her skull") but largely serve the quaking reverie tone.</comment>
+<question>7</question><grade>7.3</grade><comment>Generally clean prose with strong opening ("helix-minded engineer") and varied sentence structures. Information density is high in descriptive passages. However, several instances of repetitive phrasing ("chaotically precise" appears three times, "abandoned dreams" four times) create mild loops. The phrase "archaeology of abandoned dreams" in particular becomes scaffolding. Some filter verbs in the middle section ("she felt," "she knew") dull immediacy.</comment>
 
-<question>7</question><grade>7.3</grade><comment>Prose density is high with most sentences carrying multiple functions. Information unfolds efficiently through action. However, some metaphorical density in peak beats ("helical, tightening until she could not tell which longing belonged to whom") and occasional abstract phrasing ("chaotically precise déjà vu") create minor opacity without full payoff.</comment>
+<question>8</question><grade>7.7</grade><comment>The concept of mining consortium dreams stored in canyon quartz as quantum drill coolant offers genuine originality. The specific risk calculation (milliradian precision affecting motor cortex) and the helix-mind trait create memorable character specificity. Deduction for the somewhat familiar "failed experiment but gains partial knowledge" resolution pattern, though the execution remains distinctive.</comment>
 
-<question>8</question><grade>7.7</grade><comment>The premise of dreams as coolant data stored in canyon walls offers genuine freshness. The synthesis of mining, neuroscience, and archaeology creates an organic world-logic. Specific details like "periscope glass salvaged from a submarine graveyard" avoid generic sci-fi, though some elements feel slightly derivative of memory-extraction narratives.</comment>
-
-<question>9 A</question><grade>8.1</grade>
-<question>9 B</question><grade>8.4</grade>
-<question>9 C</question><grade>8.7</grade>
-<question>9 D</question><grade>7.8</grade>
-<question>9 E</question><grade>8.2</grade>
-<question>9 F</question><grade>7.6</grade>
-<question>9 G</question><grade>8.3</grade>
-<question>9 H</question><grade>6.9</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>7.4</grade>
+<question>9 A</question><grade>8.4</grade>
+<question>9 B</question><grade>8.7</grade>
+<question>9 C</question><grade>8.8</grade>
+<question>9 D</question><grade>7.2</grade>
+<question>9 E</question><grade>8.6</grade>
+<question>9 F</question><grade>7.8</grade>
+<question>9 G</question><grade>8.2</grade>
+<question>9 H</question><grade>6.4</grade>
+<question>9 I</question><grade>8.1</grade>
+<question>9 J</question><grade>7.5</grade>

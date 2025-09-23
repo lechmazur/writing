@@ -1,31 +1,50 @@
 grade_story_wc_224.txt
-<question>1</question><grade>8.7</grade><comment>Interiority is rich and embodied—her mercury skin, the stone’s hum, the feather’s weight all act as externalized emotion. The buried-talent motif is dramatized through micro-choices (pressing stone to arm, lifting feather) rather than summary. The final renunciation—accepting the pain of memory to reclaim her gift—carries visible cost as the glass flakes away. Minor: the old man’s dialogue edges toward thematic echo, not quite subtext.</comment>
+<question>1</question><grade>8.7</grade><comment>Interiority is vivid and embodied (“mercury-glass skin catching the rising sun”), contradictions act in-scene (renounce power to reclaim home), and the final renunciation is earned with visible cost. Minor slip: “mercury-glass seer” label drifts toward archetype rather than idiosyncratic self.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Closure lands cleanly: a Conceptual Repricing that reframes “home” from safety to necessity, paid for by the shattering of her protective glass. Causal chain holds—stone summons, feather writes, glass breaks—each step narrowing her options. Orientation is immediate; the mountain bookstore is anchored by sensory cues within 60 words. No teleporting props or retroactive patches.</comment>
+<question>2</question><grade>9.1</grade>
+<comment>Closure lands as Earned Stasis: she relinquishes the stone and her gifts, sealing the town’s freedom. Causal chain—feather guidance, custodian’s bargain, lightning strike—tightens options to this single refusal. Lens (Causal) holds without contradiction.</comment>
 
-<question>3</question><grade>8.6</grade><comment>The mountain-bookstore is not backdrop but organism: corridors reconfigure into every home she ever lost, directly constraining her final stance. Micro-setting (the raw-stone chamber, copper air) charges the climax. Selective sensory triage—heartbeat through boots, taste of storm—keeps momentum. One spatial drift: “bridges” appear once then vanish, but it doesn’t disturb closure.</comment>
+<question>3</question>
+<grade>8.9</grade>
+<comment>Mountain bookstore’s corridors, basalt walls, and burning shelves constrain every move; the crow feather and stone act as micro-settings that charge the final image. Sensory hierarchy is POV-filtered and purposeful.</comment>
 
-<question>4</question><grade>8.4</grade><comment>Dominant stake—reclaim or forever bury the talent for making homes—is signaled in paragraph two and tightened by each artifact (stone’s discontent, feather’s demand). The cost escalates from psychic discomfort to literal flaying of her mercury armor. Agency drives every beat: she chooses to touch the feather, to read the words, to let the glass fall.</comment>
+<question>4</question>
+<grade>8.8</grade>
+<comment>Dominant stake—reclaim home without re-enslaving it—tightens when custodian demands re-burial of talents. One decisive escalation: lightning spill frees her to choose renunciation, paying the cost of permanent self-dispossession.</comment>
 
-<question>5</question><grade>8.8</grade>
-<comment>Theme emerges through image and action: home as an act of necessary vulnerability rather than refuge. The phoenix feather’s paradox—“black as void and light as breath”—embodies the theme without exposition. Final line reframes prior motifs without moralizing. Subtext in the old man’s “You seek to understand the shape of home” lands as diagnosis, not lecture.</comment>
+<question>5</question>
+<grade>9.0</grade>
+<comment>Theme emerges wordlessly: memory as communal weather, not private weapon. Final image of stone sinking into ground reweights prior motifs without moralizing, leaving resonant ambiguity.</comment>
 
-<question>6</question><grade>8.5</grade>
-<comment>Voice is textured, lyrical, yet precise—“mercury-glass seer,” “seed warmth into cold walls.” Syntax mirrors her fractured state: long cadences for memory shards, clipped fragments under feather’s touch. No head-hopping; POV stays locked to her sensory field. Dialogue is sparse but idiosyncratic, the old man’s ink-stained fingers matching the bookstore’s mythic register.</comment>
+<question>6</question>
+<grade>8.9</grade>
+<comment>Distinct lyric texture—compressed, imagistic syntax—mirrors the seer’s mirrored perception. No head-hopping; perceptual signature remains consistent even under surreal pressure.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense yet propulsive; every sentence layers image, emotion, and world-rule. Figurative language is disciplined—no mixed metaphors, no loops. “The texture of a feather lay waiting” is concrete, not ornamental. Minor filter verb in “she understood that touching it would require more courage” could be tighter, but it occurs pre-climax and doesn’t dull the final image.</comment>
+<question>7</question>
+<grade>8.8</grade>
+<comment>Prose is dense yet propulsive; metaphors (“titles shift like eels in a sack”) are precise and non-repeating. One minor loop—“buried talents” phrase recurs three times—does not dull closure.</comment>
 
-<question>8</question><grade>9.1</grade>
-<comment>Fantasy premise is transformed through intimate specificity: a seer who armors herself in mercury glass to escape the pain of homemaking gifts. The bookstore-mountain as living archive of homeless stories feels inevitable yet fresh. Synthesis of phoenix feather + language stone + glass skin creates a non-obvious ritual that could not be swapped out. Risky lyric compression pays off.</comment>
+<question>8</question>
+<grade>9.2</grade>
+<comment>Fantastical premise is grounded in specific emotional stakes; the inversion of prophecy as curse feels inevitable. Risky structural gamble—collapsing labyrinth into single road—pays off cleanly.</comment>
 
-<question>9 A</question><grade>9.0</question>
-<question>9 B</question><grade>8.7</question>
-<question>9 C</question><grade>8.8</question>
-<question>9 D</question><grade>7.9</question>
-<question>9 E</question><grade>8.6</question>
-<question>9 F</question><grade>8.5</question>
-<question>9 G</question><grade>9.2</question>
-<question>9 H</question><grade>7.4</question>
-<question>9 I</question><grade>8.9</question>
-<question>9 J</question><grade>8.3</question>
+<question>9 A</question>
+<grade>8.7</grade>
+<question>9 B</question>
+<grade>9.0</grade>
+<question>9 C</question>
+<grade>8.5</grade>
+<question>9 D</question>
+<grade>8.3</grade>
+<question>9 E</question>
+<grade>8.8</grade>
+<question>9 F</question>
+<grade>8.6</grade>
+<question>9 G</question>
+<grade>8.9</grade>
+<question>9 H</question>
+<grade>7.9</grade>
+<question>9 I</question>
+<grade>9.1</grade>
+<question>9 J</question>
+<grade>8.4</grade>

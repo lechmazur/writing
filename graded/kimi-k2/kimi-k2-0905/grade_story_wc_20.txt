@@ -1,29 +1,36 @@
 grade_story_wc_20.txt
-<question>1</question><grade>8.7</grade><comment>Alder’s grief-driven choices (melting the coin, kintsugi-ing the mirror) are embodied and irreversible; the internal contradiction—love vs. guilt—drives every beat. The final renunciation (slipping the silver tube into the downspout) costs him any further claim to her name, earned by prior causality.</comment>
-
-<question>2</question><grade>9.0</grade><comment>Closure is a Resonant Reconfiguration: the mirrored image of the daughter fractures and is gilded, reweighting the premise that wounds can become lanterns. Causal chain—coin → mirror → tube → river—holds without gaps; the cost (permanent surrender of the name) is legible in the final image.</comment>
-
-<question>3</question><grade>8.8</grade><comment>The rain-washed foundry is not backdrop; its cracked beams, slag yard, and forge constrain every action and supply the crucible, cooling floor, and downspout that enable the ritual. Weather and architecture evolve with the scene, charging the closure.</comment>
-
-<question>4</question><grade>8.5</grade><comment>Dominant stake—can Alder redeem the weight of his daughter’s vanished name?—tightens once: from possession (coin) to reflection (mirror) to surrender (tube). Each step narrows options and exacts visible cost under the Accumulative/Textural lens.</comment>
-
-<question>5</question><grade>9.2</grade><comment>Theme emerges from the kintsugi conceit: brokenness gilded becomes strength. The final image of the river carrying silvered names downstream offers a non-literal, resonant answer without moralizing.</comment>
-
-<question>6</question><grade>9.1</grade><comment>Voice is lyric yet precise, with metallic, alchemical diction and rhythmic control that modulates with pressure (“blood-colored glow,” “luminous regret”). No head-hopping; perceptual signature is Alder’s throughout.</comment>
-
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense but propulsive; figurative language is pattern-taught and paid off (luminous regret, kintsugi seams). No loops or scaffold; sentences advance story, character, or atmosphere. One hairline slip—“factually mystical pulse”—barely grazes clarity.</comment>
-
-<question>8</question><grade>9.0</grade>
-<comment>Fresh synthesis of alchemy, kintsugi, and filial grief; the conceit that a name can be minted, mirrored, then surrendered feels inevitable yet non-obvious. Risky lyric compression heightens stakes without obscuring closure.</comment>
-
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.3</grade>
-<question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>8.2</grade>
-<question>9 E</question><grade>9.0</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>8.8</grade>
-<question>9 H</question><grade>7.4</grade>
-<question>9 I</question><grade>8.6</grade>
-<question>9 J</question><grade>8.4</grade>
+<question>1</question><grade>8.9</grade><comment>Hurt widow-alchemist emerges fully realized: brittle interior monologue cracks open, embodied tears add exact weight to infant breath. Micro-choices—pocketing coin, gold scar to sternum—anchor twin grief and redemption without therapy-speak.</comment>
+<question>2</question><grade>8.7</grade><comment>Causality holds cleanly: each limit—name weighing, gold seam, weight redistribution—tightens because/therefore chain to closure. Closure lands as earned stasis: she learns a scale she carries is also a burden, visibly weighted.</comment>
+<question>3</question><grade>8.6</grade><comment>Rain-slick anvil, still-warm steel that hisses—concrete stimuli constrain and echo inner rupture, charging the final kintsugi image. Metaphor feels inevitable rather than ornament.</comment>
+<question>4</question><grade>8.5</grade><comment>Dominant stake: can a name outweigh grief? Tightening choices weld that weight to a golden scar, narrowing options toward acceptance with a felt price. Quiet but decisive escalation.</question>
+<question>5</question><grade>9.0</grade>
+<comment>Redemption through loving fracture emerges from specific grief events; closure images the gold scar as necessary counterweight rather than moral. Theme refuses tidy moral, lingers.</comment>
+<question>6</question>
+<grade>8.8</grade>
+<comment>Distinct perceptual signature: alloyist diction (alembic, calcined, ductile) remains coherent; rhythm bends under emotional pressure. No head-hopping, steady interior voice.</comment>
+<question>7</question>
+<grade>8.9</grade>
+<comment>High information density, zero scaffold or ornamental loops. Luminous regret is propelled through fresh syntax, specific steampunk tools; each sentence advances momentum.</comment>
+<question>8</question>
+<grade>8.7</grade>
+<comment>Kintsugi frame plus factually mystical sigil-coin feels inevitable synthesis, not gimmick. Specific emotional arc transforms alchemy cliché into personal grief calculus.</comment>
+<question>9 A</question>
+<grade>9.1</grade>
+<question>9 B</question>
+<grade>9.3</grade>
+<question>9 C</question>
+<grade>9.4</grade>
+<question>9 D</question>
+<grade>8.7</grade>
+<question>9 E</question>
+<grade>9.4</grade>
+<question>9 F</question>
+<grade>5.9</grade>
+<question>9 G</question>
+<grade>8.2</grade>
+<question>9 H</question>
+<grade>7.8</grade>
+<question>9 I</question>
+<grade>8.9</grade>
+<question>9 J</question>
+<grade>9.0</grade>

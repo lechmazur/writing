@@ -1,29 +1,26 @@
 grade_story_wc_170.txt
-<question>1</question><grade>8.6</grade><comment>The painter’s interiority is vivid—her borrowed heartbeat syncs with song, her choice to dance instead of flee crystallizes her arc, and the cost of shared rather than stolen life is felt. Motivation remains consistent, but the child-donor stays off-page, limiting relational crucible pressure.</comment>
-
-<question>2</question><grade>8.9</grade><comment>Closure lands cleanly: the decisive shift from painting illusions to becoming a mirror is dramatized on the terrace, cost paid by surrendering her solitary practice. Causal chain (song → resonance → mirror shift) holds under Accumulative/Textural lens; no orientation debt.</comment>
-
-<question>3</question><grade>8.4</grade><comment>Prism parapet and rainwater droplets are not mere backdrop—they refract possibilities, constrain her movements, and charge the final cascade. Spatial choreography is clear; micro-setting (terrace acoustics) actively shapes the coded lullabies’ effect.</comment>
-
-<question>4</question><grade>8.7</grade><comment>Dominant stake—persuading mirrors to show real possibilities—escalates through each beat: song fails, dance re-weights, heartbeat shared. One meaningful tightening: she must abandon her lifelong method and accept vulnerability; cost is the loss of her former identity.</comment>
-
-<question>5</question><grade>8.8</grade><comment>Theme emerges from action: the move from deception to reflection, from solitary art to communal truth. Final image of shared heartbeat and teaching others offers resonant non-moral answer—mirrors change only when the seer changes.</comment>
-
-<question>6</question><grade>8.5</grade><comment>Voice is lyric yet precise, with rhythmic control matching the lullaby cadences. Perceptual signature is painterly—light, refraction, color—without head-hopping. Compression (“she pressed the borrowed heartbeat”) keeps density high; no register drift.</comment>
-
-<question>7</question><grade>8.7</grade>
-<comment>Prose is lush yet propulsive; each sentence layers sensory and conceptual work. No loops or scaffold; figurative language (“droplets clung like tiny lenses”) is purposeful and coherent. Final cascade is vivid without overwriting.</comment>
-
-<question>8</question><grade>9.0</grade>
-<comment>Fresh synthesis: lullabies as code, heartbeat as shared tool, mirrors as civic intervention. The transformation of mirage painter into mirror-teacher feels inevitable yet non-obvious; risk in lyric fabulism heightens stakes without gimmickry.</comment>
-
-<question>9 A</question><grade>9.2</grade>
-<question>9 B</question><grade>9.0</grade>
-<question>9 C</question><grade>9.1</grade>
-<question>9 D</question><grade>7.8</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>9.0</grade>
-<question>9 G</question><grade>8.7</grade>
-<question>9 H</question><grade>8.5</grade>
-<question>9 I</question><grade>9.3</grade>
-<question>9 J</question><grade>8.6</grade>
+<question>1</question><grade>5.9</grade><comment>The painter’s motive—to trade three memories for the heartbeat—reads clear, yet the emotional cost feels reported; her “perceptively calm” composure softens the tension when she finally releases the heartbeat. Interiority stays lyrical but lacks contradictory pulses on the page; the one visible decision—giving up the pulse—carries less felt body-cost because we were not shown her prior hunger to keep it. Secondary characters function only as silhouettes in the mirrors, never applying direct pressure.</comment>
+<question>2</question><grade>7.4</grade><comment>Closure lands cleanly: she chooses gift over possession, seals the crack, and the heartbeat remains drumming in the mirror, a resonant reconfiguration with conceptual cost. The lens is Accumulative/Textural—patterned refrains and density—not strict cause-and-effect; pattern is taught early but causal “because” chains are light. Orientation tight; who-where-when anchors within 120 words.</comment>
+<question>3</question><grade>7.8</grade>
+<comment>From the first prism parapet to the final terrace sunrise, every reflective surface is worked into a choice: the rain-slick stone drinks color, mirrors are jury and doorway, and the heartbeat is physically pressed to glass. Descriptive specificity is selective, tactile, and recharges the final communal image.</comment>
+<question>4</question><grade>7.0</grade>
+<comment>A single, coherent stake—free the mirrors from truth to possibility—tightens decisively when the third mirror bargains for the entire heartbeat. Her surrender narrows the options and loads visible conceptual cost. One deepening, no false reversals.</comment>
+<question>5</question><grade>8.3</grade>
+<comment>Theme—vision over literal truth—grows organically through repeated prismatic imagery ending in collective awakenings. No moralizing; resonance comes from the communal sunrise image, not statement.</question>
+<question>6</question><grade>8.8</grade>
+<comment>Lyrical compression and cadence are purpose-driven, teaching a shimmer-step rhythm readers follow to closure. Diction stays within an elevated fairytale register without register drift. No head-hopping. Texture distinct enough to mark this singular voice.</question>
+<question>7</question><grade>8.2</grade>
+<comment>Information-dense sentences avoid loops and deliver multi-layered metaphors that still stay legible. Micro-level elegance—“bruised violets and slow gold”—pays acoustic dividends without overwriting. Occasional cumulative modifiers flirt with ornate overload but never blur causal clarity.</question>
+<question>8</question>
+<grade>8.9</grade>
+<comment>The premise—heartbeat as pigment-bait and mirrors as jury—is fresh and carries through without gimmick. The final gift of the pulse and communal refractive dawn feels inevitable yet non-obvious, recharging all prior prisms.</question>
+<question>9 A</question><grade>7.6</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>9.0</grade>
+<question>9 D</question><grade>5.8</grade>
+<question>9 E</question><grade>6.4</grade>
+<question>9 F</question><grade>7.7</grade>
+<question>9 G</question><grade>7.9</grade>
+<question>9 H</question><grade>5.7</grade>
+<question>9 I</question><grade>8.5</grade>
+<question>9 J</question><grade>6.9</grade>

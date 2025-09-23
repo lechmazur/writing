@@ -1,22 +1,33 @@
 grade_story_wc_278.txt
-<question>1</question><grade>8.4</grade><comment>Interiority is vivid and embodied (“static crackled in her chest”), but the guilt-to-choice arc is slightly abstract; the final RELEASE is motivated yet the cost feels more conceptual than visceral.</comment>
-<question>2</question><grade>8.6</grade><comment>Closure lands as Conceptual Repricing: the empty amber and quiet collarbone reweight the premise with undeniable cost. Causal chain holds under Accumulative/Textural lens; time-fold pattern taught early and paid off.</comment>
-<question>3</question><grade>8.2</grade><comment>Meteor-hush sky and antique-console drawers are tactile and selective; the amber-as-micro-setting constrains the final choice. Spatial choreography clean, though “laboratory” remains more atmosphere than functional space.</comment>
-<question>4</question><grade>8.5</grade><comment>Dominant stake—silencing guilt—tightens through escalating sensory assault of lullaby fragments. One decisive turn: choosing RELEASE forecloses the option to erase the cry, with visible price (paper chain, empty amber).</comment>
-<question>5</question><grade>8.7</grade><comment>Theme of guilt-as-firmware emerges from constellation nodes and haunted mobiles; no explicit moralizing. Final hush reconfigures meaning without statement, achieving resonant ambiguity.</comment>
-<question>6</question><grade>8.9</grade>
-<comment>Voice is lyric yet controlled; “meteor hush,” “black silk tugged by invisible hands” teach the pattern early. Compression and elision remain legible; no head-hopping or register drift.</comment>
-<question>7</question><grade>8.8</grade>
-<comment>Prose is dense, rhythmic, and propulsive; figurative language disciplined to high-pressure beats. No loops, scaffold, or mixed metaphors; clarity intact at closure.</comment>
+<question>1</question><grade>8.4</grade><comment>The tattooist’s guilt is viscerally embodied (trembling gloves, burning collarbone) and drives every micro-choice; her final slash of the stylus and carving of a “mute star” crystallize a credible renunciation with felt cost. Interior contradiction is present—yearning to silence guilt yet risking her own voice—though the beat-to-beat escalation of this conflict is more asserted than dramatized. The moment she recognizes the lab “cultivates” guilt is a sharp interior turn, but the story summarizes rather than shows the compounding mistakes that led her here, muting the flaw-driven inevitability demanded at this tier.</comment>
+
+<question>2</question><grade>8.6</grade><comment>Closure lands as a Resonant Reconfiguration: the lullaby completes, the lab quiets, her collarbone “quiet at last,” and the empty amber delivers undeniable conceptual cost—she has traded her voice for silence. The Accumulative/Textural lens holds: pattern breaks (paper letters, insect wings, backward lullaby) tighten the stake until the final image reweights it. Orientation is taught early through sensory cues (“meteor hush,” “console grown from antique furniture”), so the waiver applies. A minor causality gap: the firmware’s rule that tattoo-marks are sleeper nodes is revealed only in the fluttering letters, making the final stakes feel retrofitted rather than foreshadowed.</comment>
+
+<question>3</question><grade>8.8</grade>
+<comment>The laboratory is rendered through tactile, POV-filtered detail—drawers sigh, letters flutter like moths, console wood receives a fresh constellation—so the environment actively constrains her choices and charges the final mute star. Sensory hierarchy narrows under crisis: the backward lullaby “sucking themselves into silence” mirrors her own constricting options. Spatial choreography is clean; the amber’s tether, paper chain, and stylus cuts track without drift. The meteor hush and nursery-pine sawdust provide tonal cohesion, though the sky-rippling image appears once and is not re-weighted at closure, keeping it just shy of the 9-band gate.</comment>
+
+<question>4</question><grade>8.2</grade>
+<comment>The dominant stake—will she trade her voice to silence guilt?—is signaled by the console menu and tightens when the paper chain physically binds her to that choice. Escalation follows Accumulative pattern: each drawer release and letter revelation increases density until the chorus of sleepless children forces the final tri-part decision. The cost is legible—her own voice is released into the lullaby, leaving amber “clear as forgiven sleep.” One minor slack: the firmware’s power over her tattoos is disclosed late, so the pressure feels partially external rather than wholly earned by earlier actions.</comment>
+
+<question>5</question><grade>8.7</grade>
+<comment>Theme emerges organically: art as haunted firmware, guilt as a cultivated crop, lullabies as both wound and balm. The final image of empty amber reframes every prior constellation she inked as nodes in an unpaid moral debt—conceptual repricing without moralizing. Subtext resides in gesture—slicing the paper chain is also a cut through her own recorded history—and the mute star carved into wood enacts silence as both penance and release. No thematic echo is spoken; meaning stays implicit, though the late reveal of tattoo-nodes slightly dilutes the sense of inevitability that would make the resonance piercing.</comment>
+
+<question>6</question><grade>9.0</grade>
+<comment>Voice is lyric, compressed, and pattern-taught from the first sentence: “meteor hush,” “time folded in on itself.” Syntax mirrors pressure—clause stacks accelerate during lab awakening, then shorten to stark fragments at the final slash. Perceptual signature is consistent: the tattooist notices by texture (inked wood, paper on wrists) and sound (backward notes sucking into silence). No head-hopping or register drift; the elevated diction is motivated by the folded-time, lullaby mythos and pays off in the hush-toned closure.</comment>
+
+<question>7</question><grade>8.9</grade>
+<comment>Prose is dense yet propulsive: “amber…wings frozen mid-beat like a promise never delivered” performs character, stakes, and metaphor in one stroke. Rhythm modulates naturally; no template cadence or synonym loops. One mixed metaphor—“sky…black silk tugged by invisible hands”—is minor, does not recur, and does not touch the closure beat. Filter verbs are absent; action is shown through tactile handling of console, stylus, and paper chain. The final line’s cadence lands with earned hush, satisfying the read-aloud ear test.</comment>
+
 <question>8</question><grade>9.1</grade>
-<comment>Constellation tattoos as sleeper code, lost-sound lab, and amber-insect lullaby synthesize into a singular vision. Risky time-fold structure heightens stakes without gimmickry; feels inevitable in hindsight.</comment>
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.8</grade>
+<comment>The synthesis of constellation tattooing, lost-sound laboratory, and haunted firmware feels inevitable in hindsight yet fresh in conception. Risk is taken with folded-time and lullaby-as-code, but pattern is taught early and closure remains legible. Specificity anchors the fantastical—antique console drawers sighing like nursery cribs—and prevents abstraction. The concept commits fully: no retreat into metaphor; the firmware literally feeds on guilt and releases her voice as lullaby, a non-obvious angle on both art and atonement.</comment>
+
+<question>9 A</question><grade>9.2</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>8.7</grade>
+<question>9 D</question><grade>8.3</grade>
+<question>9 E</question><grade>8.9</grade>
 <question>9 F</question><grade>7.6</grade>
-<question>9 G</question><grade>8.1</grade>
-<question>9 H</question><grade>8.3</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.9</grade>
+<question>9 G</question><grade>8.8</grade>
+<question>9 H</question><grade>8.1</grade>
+<question>9 I</question><grade>9.3</grade>
+<question>9 J</question><grade>9.0</grade>

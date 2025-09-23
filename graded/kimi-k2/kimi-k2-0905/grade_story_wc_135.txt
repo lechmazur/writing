@@ -1,29 +1,19 @@
 grade_story_wc_135.txt
-<question>1</question><grade>8.7</grade><comment>The archivist’s drive to “compile the echo” is concrete and embodied; every micro-choice (showing the valve, offering the satchel) is tethered to that want. Interior contradiction surfaces in the same moment he admits the satchel is empty—an honest, costly stance. The final blow of the trumpet is earned because he has physically re-assembled the instrument and emotionally accepted that his archive begins with absence. Cost is visible: he trades future testimony for the mouthpiece, foreclosing the easier path of silence.</comment>
-
-<question>2</question><grade>9.1</grade><comment>Causal chain is clean: fragment → search → trade → blow. Each because/therefore linkage narrows options until the single note becomes the only possible archive. Closure lands as Conceptual Repricing: the tone folds into doorways, reweighting the city’s acoustic memory with undeniable social cost—he can never collect what that sound awakens. Persistent constraint (the trumpet now belongs to the harbor, not to him) shapes the final image and satisfies the 9+ cost test.</comment>
-
-<question>3</question><grade>8.9</grade><comment>Ivory harbor after rain is never backdrop; wet hemp, ozone gutters, and tide-scrawled margins actively guide movement and supply the raw material for the trumpet’s eventual note. The missing boots, scar-fresh ledger, and etched mop handle all function as micro-settings that charge the final image. Spatial choreography is flawless: valve, kiosk, conservatory, cliff, pier—each new site re-uses sensory anchors (brass, salt, fog) so the world feels continuous. Environment constrains choice: only the cliff wind and tide timing make the final tone possible.</comment>
-
-<question>4</question><grade>8.8</grade><comment>Dominant stake—can one exile hearten the city with absence itself—is signaled in paragraph two and tightened at every trade: valve for access, empty satchel for mouthpiece, future echo for present sound. Each transaction forecloses an easier option (silence, forgetting, personal keepsake) so pressure escalates under causal lens. The final blow is not victory but costly surrender of the note to public space; price is legible in the same sentence the sound folds into doorways. One meaningful tightening suffices and is executed without coincidence.</comment>
-
-<question>5</question><grade>9.0</grade><comment>Theme emerges from the central conceit: archives can hold absence only by releasing it as sound. No character moralizes; the insight is performed when the protagonist literally gives the note away. Subtext resides in objects—valve, mouthpiece, ledger columns—each re-pricing what counts as record. Final image offers resonant, non-literal answer: the tone that does not fade becomes the first page of a living archive, reweighting all prior fragments.</comment>
-
-<question>6</question><grade>9.2</grade><comment>First-person voice carries a salt-crusted, cadenced texture that remains consistent under pressure. Perceptual signature is specific: “every mast a sentence snapped in half,” “bell tower drunk on storm water.” No head-hopping; psychic distance tightens naturally as the trumpet nears completion. Dialogue with the janitor and the vigil woman is spare, idiomatic, and carries subtext about tallied absences and tasted exile.</comment>
-
-<question>7</question><grade>9.0</grade>
-<comment>Sentences vary in length and rhythm, accelerating toward the final sustained blow. Figurative language is dense but patterned early (“every cobblestone a word”) so the return in the final line feels earned, not overwritten. No synonym loops or scaffold; each image advances stakes or atmosphere. Brass-warming and tide-margin are precise, concrete, and causally active.</comment>
-
-<question>8</question><grade>8.9</grade>
-<comment>Premise—an archivist who restores an instrument of banishment to hearten a city—offers a fresh angle on exile and memory. Recurrent object (trumpet) and method (staggered intervals) are not quirky ornaments but structural engines that drive every beat. Risk is taken: the climax is a single sustained note, yet the story commits fully, making the acoustic archive feel inevitable. Specificity of harbor details prevents the concept from drifting into allegory.</comment>
-
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.3</grade>
-<question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.8</grade>
-<question>9 F</question><grade>7.6</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>6.2</grade>
-<question>9 I</question><grade>8.6</grade>
-<question>9 J</question><grade>N/A</grade>
+<question>1</question><grade>8.2</grade><comment>Distinct interior voice and embodied contradiction—his tremor on the trumpet’s mouthpiece is tactile micro-choice—but the woman’s motive leans on thematic assertion rather than interior action.</comment>
+<question>2</question><grade>8.5</grade><comment>Framed as causal quest: valve → trumpet → mouthpiece → note, each stage narrowing options; final tone “folded into every doorway” reweights the city’s silence with Charged Poise.</comment>
+<question>3</question><grade>8.3</grade><comment>Ivory harbor’s salt-cracked docks, tarp smells, and stone-still bell tower ground choices; the trumpet bore warming “as skin remembered skin” functions as micro-setting that constrains the reunion and finale.</comment>
+<question>4</question><grade>8.1</grade><comment>Tension escalates by “exile archives” mandate until the single note crystallizes meaning; cost is the woman relinquishing her memento and the archivist his protective emptiness.</answer>
+<question>5</question><grade>8.4</grade><comment>Theme of remembrance versus purposeful forgetting unfolds through objects not exposition; the trumpet’s reassembled silence offers a resonant reconfiguration of absence without moral.</comment>
+<question>6</question><grade>9.0</grade><comment>Rhythm and diction evoke salt-tanged fatigue; staggered, incremental phrasing mirrors the bell’s drunken noon, voice never cracks under emotional load.</comment>
+<question>7</question><grade>8.7</grade><comment>Lyric cadences carry near-poetic density yet remain lucid; only slight figurative excess in “absence tasted metallic” brushes past embodied limit.</comment>
+<question>8</question><grade>8.9</comment><comment>Transforms exile trope into artifact archaeology; singular coastal micro-culture, invented occupation, reclaimed silenced instrument—all specific and necessary.</comment>
+<question>9 A</question><grade>7.8</grade><comment>Archivist leads every beat of quest, negotiation, and final sounding; his micro-choice to trade future archive for mouthpiece is pivotal.</comment>
+<question>9 B</question><grade>8.5</grade><comment>Valve threads the middle beats, its brass fit exact; only returns in closure via the trumpet, yet memory-heat cues the final note’s earned resonance.</comment>
+<question>9 C</question><grade>7.3</grade><comment>Navigated absences shift from bureaucratic to sonic, culminating in the harbor’s written margin, but late appearance caps it below 8.0.</comment>
+<question>9 D</question><grade>6.4</grade><comment>Archivist must “prove” vision, and the old janitor tests him—trumpet reunion verifies trait; still feels ascribed more than dramatized.</comment>
+<question>9 E</question><grade>8.1</grade><comment>Blowing the note is decisive act that heartens the city and closes arc; its singular tone replaces archive and rewrites exile’s silence. 8.5-10 applies fully.</answer>
+<question>9 F</question><grade>6.0</grade><comment>Bell tower’s drunken staggered intervals recurs, but phrase appears only in setting, not driving tactics—functional but replaceable band.</comment>
+<question>9 G</question><grade>5.9</question><comment>Harbor grounds the stakes and sets atmospheric tone, yet another coastal city could substitute—strong sensory but mid-line necessity.</comment>
+<question>9 H</question><grade>5.8</comment><comment>Ends of exile prompt quest urgency, time is present but abstract constraint; absence tracks years lost without a ticking clock pressing the beat.</comment>
+<question>9 I</question><grade>7.1</question><comment>Desire to compile memory into new archive is dramatized: he bargains the catalog for the mouthpiece and seals the act with the note, closing the loop.</comment>
+<question>9 J</question><grade>N/A</question>

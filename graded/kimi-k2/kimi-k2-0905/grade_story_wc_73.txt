@@ -1,29 +1,27 @@
 grade_story_wc_73.txt
-<question>1</question><grade>8.7</grade><comment>Elara’s grim optimism is embodied in every micro-choice—counting primes, rolling dice, smearing blood—so motive stays kinetic. Interiority is concrete (“ghost-weight of a hand”) and contradictory (panic vs. resolve). The final refusal to step through the ripple is earned by the entire texture of climbing; cost is the blood-smeared steps that keep turning. Only the “mathematician” backstory is slightly abstract, not dramatized in-scene.</comment>
+<question>1</question><grade>8.7</grade><comment>Elara’s interior contradiction—mathematician’s certainty vs. climber’s need for asymmetry—drives every micro-choice; the dice cut her palm and she *smears* the sigma, a bodily cost that seals her renunciation. The “grim optimism” is shown, not labeled, in her backwards count and refusal to step through the ripple. One slip: the equation whispered at step 2,357 is quoted but not dramatized as a choice, blunting the final causality by a hair.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands as Conceptual Repricing: the staircase forgets her, reweighting the rule-set with the chipped die as key. Causal chain—equation whisper, dice balance, blood sigma—drives the rupture that ends the perpetual motion. Orientation is taught early (“infinite staircase spiraled”), no drift. Cost is the bleeding palm and the staircase’s shiver, both on-page.</comment>
+<question>2</question><grade>9.1</grade><comment>Closure is a Resonant Reconfiguration: the staircase slows, she refuses exit, and the dice become a lodged key—cost is the blood-stamped steps and the staircase beginning to “forget,” a conceptual price that reweights the infinite loop. Accumulative/Textural lens holds: each prime-number leap and dice roll thickens the texture until the chipped die balances on its missing corner, the pattern break that crystallizes stance. Orientation is taught early (“the infinite staircase spiraled…”) so the waiver applies; no caps triggered.</comment>
 
-<question>3</question><grade>8.9</grade><comment>The staircase is not backdrop; its perpetual motion constrains every choice and is finally ruptured. Micro-setting of the step itself becomes canvas for blood-sigma, charging the final image. Sensory selection (“velvet-heavy with the texture of almost”) is urgent and POV-filtered. Spatial choreography is clean: steps fold like paper, no impossible positions.</comment>
+<question>3</question><grade>8.9</grade><comment>The staircase itself functions as micro-setting: its refusal to accumulate time constrains her tactics (prime leaps, blood sigma) and charges the final image with scarlet timestamps. Velvet-thick “almost” air is sensory, selective, and POV-filtered. One hairline slip: spatial choreography when the ripple-hand warmth is felt through stone is briefly ghosted, but the tactile rebound in the next line restores clarity.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—capture the texture of a missed opportunity—is signaled early and tightened when the dice balance on the missing corner. One meaningful deepening: the staircase slows, forcing her to choose between stasis and continued climbing. Agency drives the rupture; luck complicates but does not resolve. Cost is the perpetual climb itself and the blood she pays to keep it moving.</comment>
+<question>4</question><grade>8.8</grade><comment>Dominant stake—capture the texture of a missed opportunity—tightens when the die balances on its absent corner, forcing her to recognize the door never seen; the backwards count is the visible price that alters tactics. Pressure escalates under Accumulative lens: each prime leap and blood mark increases density until the staircase falters, then resumes scarred. No reversal, but one decisive deepening suffices at this length.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme emerges from the recursive regret equation and the staircase’s refusal to accumulate time. Subtext lives in the chipped die’s asymmetry and the blood-sigma that marks time in a timeless place. Final image—the staircase forgetting her—offers a resonant, non-literal answer without moralizing. No thematic drift; every motif constrains choice.</comment>
+<question>5</question><grade>9.0</grade><comment>Theme emerges from the asymmetry of the chipped die: incompleteness as the only honest infinity. The final image—staircase forgetting her—reweights the recursive regret function without moralizing. Subtext in the sigma-shaped blood smear silently argues that summation requires a wound. No thematic echo violations.</comment>
 
-<question>6</question><grade>9.2</grade><comment>Voice is mathematician-poet: “probability was a liar here,” “counting backwards from infinity.” Syntax mirrors the spiral—long sentences for ascent, fragments for rupture. No head-hopping; POV is locked to Elara. Compression (“grim optimism”) is taught early and paid off in the final smile.</comment>
+<question>6</question><grade>9.2</grade><comment>Voice is mathematically precise yet lyrically compressed: “probability was a liar here” marries concept to sensation. Rhythm accelerates under pressure—sentence fragments (“Panic flared—”) mirror the skipped heartbeat of the stairs. Perceptual signature is consistent: she notices edges, balances, primes; no POV leakage. The final laugh, “rusted hinges opening,” keeps diction inside her grim optimism.</comment>
 
-<question>7</question><grade>9.0</grade>
-<comment>Zero loops or scaffold; every sentence advances story or atmosphere. Metaphors are precise (“heartbeat skipping”) and physically coherent. Density is high: dice clatter, stone shivers, blood smears all in one breath. No overwriting; even the velvet-heavy air is earned by context.</comment>
+<question>7</question><grade>9.0</grade><comment>Zero loops or scaffold; each sentence layers job—action, image, concept—without redundancy. Metaphors stay coherent: staircase heartbeat, velvet air, gear with missing tooth. One near-muddle: “ghost-weight of a hand” is abstract, but immediately anchored by “friction of skin against skin.” Read-aloud rhythm breathes with the climb, then tightens into the final convulsion.</comment>
 
-<question>8</question><grade>9.3</grade>
-<comment>The infinite staircase as recursive regret engine is a fresh synthesis of Sisyphus and Gödel. The chipped die’s asymmetry becomes a key, transforming a familiar trope. Risk is high—non-linear, lyric, conceptual—but coherence never breaks. Specificity of “sigma symbol she once used to sum infinite series” anchors the abstract in lived detail.</comment>
+<question>8</question><grade>9.3</grade><comment>Infinite-regret staircase is familiar conceit, yet the chipped die as engine of asymmetry and the blood-sigma summation feel inevitable and fresh. Risk in backwards-counting from infinity pays off: the negative step −1 becomes the unseen door. Mathematical proofs repurposed as tactile ritual transform abstract trope into lived stakes. No derivative aftertaste; specificity makes the premise hers alone.</comment>
 
 <question>9 A</question><grade>8.7</grade>
 <question>9 B</question><grade>9.5</grade>
-<question>9 C</question><grade>9.2</grade>
-<question>9 D</question><grade>8.4</grade>
+<question>9 C</question><grade>8.2</grade>
+<question>9 D</question><grade>7.9</grade>
 <question>9 E</question><grade>9.0</grade>
-<question>9 F</question><grade>7.9</grade>
-<question>9 G</question><grade>9.6</grade>
+<question>9 F</question><grade>7.4</grade>
+<question>9 G</question><grade>9.3</grade>
 <question>9 H</question><grade>N/A</question>
-<question>9 I</question><grade>9.3</grade>
+<question>9 I</question><grade>9.2</grade>
 <question>9 J</question><grade>8.8</grade>

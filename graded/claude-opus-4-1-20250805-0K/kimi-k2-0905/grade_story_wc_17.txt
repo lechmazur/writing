@@ -1,27 +1,27 @@
 grade_story_wc_17.txt
-<question>1</question><grade>7.8</grade><comment>Mira's transformation from cartographer to corridor/echo fusion is earned through discovery of her lineage and the building's photographic nature, with visible cost as she loses physical form. The "sensitively perceptive" trait drives her ability to hear older frequencies and track the echo to its source. Minor deduction for some abstract interiority ("name rise in her throat like a stone") rather than fully embodied emotion in middle beats.</comment>
+<question>1</question><grade>7.8</grade><comment>Mira's discovery of her lineage through acoustic perception and the building-as-camera revelation creates genuine internal conflict, with her transformation into corridor echo serving as earned, irreversible cost. The "sensitively perceptive" trait drives every major beat, from hearing pre-flood murmurs to recognizing herself in negatives. Minor deduction for the rescue team's discovery feeling slightly detached from Mira's embodied experience in the tunnel.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural design where density increases through ivy/film/memory motifs until Mira becomes the corridor echo she was hired to trace—a Resonant Reconfiguration with clear cost (loss of human form). The recursive structure (finding herself at age seven in the tunnel she's discovering) and the building-as-camera revelation create coherent pressure. Slight deduction for orientation taking until ~150 words to fully anchor the when ("2081" reference helps retroactively).</comment>
+<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural lens with pattern-taught imagery (negatives, echoes, ivy) building to Mira's absorption into the building's memory—a Resonant Reconfiguration with clear cost. The recursive structure (her childhood self already in the tunnel) and building-as-camera revelation reweight all prior exploration. Slight dock for the rescue team coda which, while thematically apt, arrives after the primary closure already landed.</comment>
 
-<question>3</question><grade>7.6</grade><comment>The ivy-veiled passage functions as both setting and mechanism (camera shutter), with film negatives as developing medium—environment directly shapes the transformation. Strong sensory work with "choked gurgle of rainwater pipes" and negatives "brushing her face." The maintenance hatch and service tunnel provide spatial constraint that forces the final transformation.</comment>
+<question>3</question><grade>8.4</grade><comment>The ivy-veiled passage functions as both literal space and developing apparatus, with film strips as physical memory constraining Mira's final choice. Sensory hierarchy privileges sound over sight ("corridor echo," "murmurs," "heartbeat of guilt"), fitting the cartographer's expertise. The tunnel of negatives creates visceral spatial progression where touching strips triggers visions, making setting inseparable from action.</comment>
 
-<question>4</question><grade>7.9</grade><comment>Escalation builds through accumulative discoveries: hearing the echo → finding diaries → seeing herself in negatives → discovering her lineage → entering the tunnel → becoming the corridor. Each revelation tightens the trap of "legacy's burden" until transformation becomes inevitable. The cost is visceral: Mira loses human form to become what she sought to map.</comment>
+<question>4</question><grade>7.9</grade><comment>Stakes escalate from professional mapping to discovering family legacy to becoming trapped in the building's recursive memory. The tension between inheritance ("legacy's burden") and erasure drives Mira deeper despite mounting evidence of danger. Cost is visceral—she literally becomes what she was hired to trace—though the agency in her final transformation could be slightly more contested.</comment>
 
-<question>5</question><grade>8.1</grade><comment>The theme of legacy's burden emerges through the building-as-camera concept, where walls preserve all joy and grief, making inheritance a trap. The final image of Mira "walking backward through time, mapping the dreams of stone" resonantly answers what it means to carry ancestral memory. The recursive hiring of new cartographers suggests cyclical entrapment without stating a moral.</comment>
+<question>5</question><grade>8.6</grade><comment>Theme emerges through the accumulation of "legacy's burden" as both textual refrain and embodied fate, with the building-as-camera concept reframing architecture as memory apparatus. The final image of Mira walking backward through time while others hear her counting "footsteps that never arrived" creates haunting resonance without stating meaning. Subtext operates through the negatives showing reversed reality where "light became shadow."</comment>
 
-<question>6</question><grade>7.7</grade><comment>Distinctive voice with architectural/photographic lexicon ("silver halide," "developing trays," "negative space") that supports the concept. Perceptual signature strong in how Mira processes sound and space. Some register elevation in places ("lung of moss and dripping memory") works mostly but occasionally strains; psychic distance control wavers slightly when shifting between action and reflection.</comment>
+<question>6</question><grade>8.3</grade><comment>Distinctive voice blends technical precision ("silver halide," "photosensitive gel") with lyrical compression ("lung of moss and dripping memory," "corridors narrowing like clogged arteries"). POV control remains tight to Mira's perceptual field, with the corridor's "sigh" and ivy functioning as extensions of her sensitive hearing. Minor dock for rescue team section shifting to external view, though it serves closure.</comment>
 
-<question>7</question><grade>7.3</grade><comment>Generally strong prose with vivid imagery ("blackened edges fluttering like moth wings," "film negative strip curled like a sleeping serpent"). Deductions for repetitive structure in the diary section ("Vale wrote that...," "The diaries had warned...") and some abstract phrasing ("pure cadence, a heartbeat of guilt"). Information density high in most beats but occasional redundancy ("echo she pursued"/"echo she had been hired to trace").</comment>
+<question>7</question><grade>8.1</grade><comment>Strong syntactic variety and information density, with lines like "walls dream about the shapes they once contained" doing multiple jobs. Some repetition of "negative" and "corridor echo" serves accumulative pattern rather than loop. Slight overreliance on participial phrases in middle section ("Following the ivy-veiled passage," "walking the tunnel") creates minor momentum drag.</comment>
 
-<question>8</question><grade>8.3</grade><comment>The building-as-camera concept is genuinely inventive, transforming the haunted-building trope through photographic mechanics. The recursive structure (Mira finding herself as a child in negatives, then becoming what she sought) offers fresh temporal complexity. Risk-taking in the transformation ending where protagonist becomes infrastructure pays off thematically (+0.3 within band).</comment>
+<question>8</question><grade>8.7</grade><comment>The building-as-camera concept with ivy as shutter and storms as flash powder offers genuinely fresh architectural metaphor. The recursive time structure (Mira age seven already in the undiscovered tunnel) and transformation of job into fate avoid predictable haunted-building tropes. Risk-taking with the meta-cyclical ending where the position is reposted pays off thematically (+0.3).</comment>
 
-<question>9 A</question><grade>8.7</grade>
+<question>9 A</question><grade>8.2</grade>
 <question>9 B</question><grade>8.9</grade>
 <question>9 C</question><grade>8.5</grade>
-<question>9 D</question><grade>7.8</grade>
-<question>9 E</question><grade>8.2</grade>
-<question>9 F</question><grade>8.4</grade>
+<question>9 D</question><grade>8.7</grade>
+<question>9 E</question><grade>7.8</grade>
+<question>9 F</question><grade>7.4</grade>
 <question>9 G</question><grade>8.6</grade>
-<question>9 H</question><grade>7.2</grade>
-<question>9 I</question><grade>8.8</grade>
+<question>9 H</question><grade>6.8</grade>
+<question>9 I</question><grade>8.1</grade>
 <question>9 J</question><grade>N/A</grade>

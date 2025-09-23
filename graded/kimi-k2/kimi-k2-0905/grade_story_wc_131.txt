@@ -1,31 +1,53 @@
 grade_story_wc_131.txt
-<question>1</question><grade>8.7</grade><comment>Elias’s interiority is vivid and embodied—his fingers tracing the tape, the scent of lavender water—but the shift from solitary caching to “I will not cache alone” is slightly under-motivated; the girl’s presence is too brief to act as crucible. The contradiction between hiding and revealing is dramatized in micro-choices (sliding fragments through knotholes), yet the final smile feels slightly safe, blunting the cost.</comment>
+<question>1</question>
+<grade>8.4</grade>
+<comment>Elias embodies a quiet, methodical caretaker whose years of mapping every pipe and night-quiet whisper anchor his motives; his interiority is textured via tactile memory (lavender water, reel hiss). Yet the girl lacks individuation—functions only as an audience whose tears shortcut interior complexity, reducing relationship crucible to gentle projection rather than mutual exchange.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Closure lands cleanly as Charged Poise: the girl’s whispered “I see you” reconfigures Elias’s invisibility into shared stewardship; the cost is the permanent loss of his hidden life. The Accumulative/Textural lens holds—each fragment’s release tightens the pattern—though the causality of the girl’s arrival is lightly situational rather than strictly because/therefore.</comment>
+<question>2</question>
+<grade>8.2</grade>
+<comment>Closure is earned stasis: Elias renounces invisibility, trading the safety of cache for public recognition in a single crystallized moment (hand pressing the boards, whispered “I see you”). The before/after is legible—voice now co-circulates rather than hides—with felt cost (exposure risk, loss of sole custodianship). Drive lens tightens via accumulative/textural patterning; fragment releases build pressure rather than causal chain.</comment>
 
-<question>3</question><grade>8.4</grade><comment>The library’s underside—joists, copper pipes, sapphire emergency glow—constrains every move; the tape fragments act as micro-setting that charge the final image. Spatial choreography is exact: floorboard gaps, pipe chases, the candle’s jitter. One slip: “steam and time couldn’t reach” contradicts the later dust-filled pipe.</comment>
+<question>3</question>
+<grade>7.7</grade>
+<comment>The shadowed, powerless library is a living constraint: blackout darkness, copper pipes, narrow gaps physically dictate Elias’s crawl and caching tactics. Sensory selectivity (dust, steam warmth, cold reel oxide) is tuned to POV attention and filters through Elias’s intimate map; no static postcard.</comment>
 
-<question>4</question><grade>8.2</grade><comment>Dominant stake—Elias’s need to be seen—escalates through each released voice; the tightening is the irreversible exposure of his cache. The cost is the forfeiture of his three-year anonymity, felt when the girl’s palm presses the boards. Pressure remains coherent under the Accumulative lens.</comment>
+<question>4</question>
+<grade>8.6</grade>
+<comment>One dominant stake: keep invisible or become visible to help others hear the lost voices. Each fragment Elias uncovers tightens his dilemma—cache secrecy vs. sharing—with the blackout forcing an immediate choice in the final beat. Cost is visceral; exposure of the crawl space life becomes the unavoidable price for preserving memory.</comment>
 
-<question>5</question><grade>8.6</grade>
-<comment>Theme emerges organically: memory as communal lantern. Subtext lives in gesture—the girl’s hand on the floorboards—rather than statement. The final image reframes “cache” from solitary hoard to shared inheritance without moralizing.</comment>
+<question>5</question>
+<grade>8.9</grade>
+<comment>Mortality and remembrance emerge through concrete particulars: “last reading…firing squad,” father’s tape, Elias’s own young voice—never asserted. Subtext inheres in the girl’s silent weeping; no thesis delivered. Final image—girl’s palm on floorboards—quietly reprices the premise: memory stays alive only when shared.</comment>
 
-<question>6</question><grade>8.8</grade>
-<comment>Voice is distinct—methodical, sensory, quietly lyrical. POV remains stable; no head-hopping. The compression (“oxide surface flaking like dried blood”) is taught early and paid off in the final hush. One minor register drift: “conceptual repricing” feels outside Elias’s lexicon.</comment>
+<question>6</question>
+<grade>8.8</grade>
+<comment>Voice texture—precise, tactile, rhythmically hushed—mirrors Elias’s sub-floor existence; diction is selective (pipe, chase, joist) rather than expositive. Free-indirect movement and filtered interior anchor the POV; only minor drift when summarizing the girl’s reaction.</comment>
 
-<question>7</question><grade>8.5</grade>
-<comment>Prose is dense yet fluid; each sentence advances cache, memory, or visibility. No loops or scaffold. Rhythm modulates with pressure—short clauses during fragment release, longer breaths during memory floods. One strained metaphor: “ghost of sound” is borderline cliché.</comment>
+<question>7</question>
+<grade>8.5</grade>
+<comment>Syntactic compression avoids padding: information is layered in image-dense clauses without scaffold (“oxide surface flaking like dried blood”). Micro-beats propelled by strong verbs; no redundancies. Figurative muddle avoided; rhythm modulates with tension rise.</comment>
 
-<question>8</question><grade>9.1</grade>
-<comment>Premise—subterranean librarian archiving voices during blackout—is fresh and fully committed. The synthesis of Lorca’s last reading with a child’s rediscovery feels inevitable. Risk in the lyric accumulative structure heightens resonance without gimmickry.</comment>
+<question>8</question>
+<grade>9.2</grade>
+<comment>Crawl-space guardian of ghosts is an original synthesis rooted in specific world logic: a former librarian who caches sound fragments inside copper conduits, risking life to rescue collective memory. Conceptual risk (non-human antagonist, blackout grid pressure) heightens stakes while clarity remains intact. The premise could not transplant unchanged to any setting; pipes, oxide reels, blackout grid are integral.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.0</grade>
-<question>9 C</question><grade>7.8</grade>
-<question>9 D</question><grade>7.2</grade>
-<question>9 E</question><grade>9.3</grade>
-<question>9 F</question><grade>8.1</grade>
-<question>9 G</question><grade>7.9</grade>
-<question>9 H</question><grade>6.4</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>7.6</grade>
+<question>9 A</question>
+<grade>8.7</grade>
+<question>9 B</question>
+<grade>9.1</question>
+<question>9 C</question>
+<grade>7.3</question>
+<question>9 D</question>
+<grade>6.8</question>
+<question>9 E</question>
+<grade>8.4</question>
+<question>9 F</question>
+<grade>8.1</question>
+<question>9 G</question>
+<grade>7.5</question>
+<question>9 H</question>
+<grade>5.9</question>
+<question>9 I</question>
+<grade>7.8</question>
+<question>9 J</question>
+<grade>8.0</grade>

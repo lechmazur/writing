@@ -1,29 +1,33 @@
 grade_story_wc_386.txt
-<question>1</question><grade>8.7</grade><comment>Marrow’s interiority is vivid—her cautious weaving of truth is dramatized in every beat, from the cold-burning candles to the second heart she accepts. The contradictions (listening to ghosts yet guarding herself) are embodied, not labeled. Final renunciation—leaving the mirror—carries visible cost and is earned by prior causality.</comment>
+<question>1</question><grade>8.7</grade><comment>Marrow’s interiority is vivid—her “second heart” moment embodies the cost—but the cameo-analysis method is asserted, not dramatized; we never see her actually sift a dream. The final smile is earned, yet the absence of on-page micro-choices while “analyzing” keeps her just shy of the 9-band.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands as Charged Poise: the intact snow globe crystallizes the before/after of salvage and teaching. Causal chain holds—dream summons globe, globe demands analysis, analysis yields shrine, shrine yields choice. Cost is legible in the glacier’s groan and the footprints filling with future meltwater.</comment>
+<question>2</question><grade>8.9</grade><comment>Closure lands as Charged Poise: the mirror-of-ice reconfigures every prior cameo into a legible tapestry, cost paid in the glacier’s re-claim. Accumulative lens holds—each shard adds density until the final cadence shift—but the causal leap from “found globe” to “understands pattern” is ellipsis, not dramatized beat, preventing a flawless 9.</comment>
 
-<question>3</question><grade>8.9</grade><comment>Glacier, shrine, and snow globe function as micro-settings that constrain every move: ice walls stick skin, candles burn cold, globe’s weight settles like a heart. Sensory selection (crevasse-blue starlight, salt-tasting hymn) is filtered through Marrow’s professional attention. Final mirror of ice recharges the setting as both tool and image.</comment>
+<question>3</question><grade>9.2</grade>
+<comment>Glacier, shrine, and unfrozen sphere are tactile constraints: skin sticks to ice, candles burn cold, the globe’s weight settles “like a second heart.” These micro-settings force her slower ascent and final relinquishment; the mirror left on snow is environment charging the exit image with conceptual cost.</comment>
 
-<question>4</question><grade>8.6</grade><comment>Dominant stake—salvage something pure—tightens through each descent: shrine cracks, corridor narrows, passengers sing. One meaningful deepening: the intact globe demands she become its future teacher, foreclosing solo anonymity. Cost is felt in the glacier’s closing throat and the glittering dissolution of the dead.</comment>
+<question>4</question><grade>8.4</grade>
+<comment>Dominant stake—“salvage something pure”—tightens when the glacier demands silence, then cracks, forcing her deeper; the price is the mirror she must abandon. Escalation is accretive, not reversal-based, but the absence of a live alternative after the crack keeps pressure coherent yet not razor-sharp.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme of salvage-as-transmission emerges from concrete acts: melted globe reweights to intact globe, cameo faces reconfigure from random to tapestry. No moralizing; final image of footprints filling with future light invites open reflection. Resonance arises from specific objects and gestures rather than assertion.</comment>
+<question>5</question><grade>9.0</grade>
+<comment>Theme of collective rescue emerges through image, not thesis: cameo strangers re-thread into a tapestry whose pattern is legible only after she gives the globe back. The final snow-flake windows refract “someone else’s rescue,” reweighting wreckage as cradle—an earned, non-moralizing resonance.</comment>
 
-<question>6</question><grade>8.8</grade><comment>Voice is distinct—compressed, lyrical, ocean-cold. Perceptual signature favors tactile and synesthetic detail (“tasted like salt and forgiveness”). Patterned elision (dream logic, glacier speech) is taught early and paid off in closure. No head-hopping; interior texture remains coherent under pressure.</comment>
+<question>6</question><grade>9.1</grade>
+<comment>Voice is lyric-accumulative, taught early by crevasse-blue filters and “borrowed starlight,” sustained without head-hop. Rhythmic compression (“glacier groaned like a sleeping whale”) mirrors diving breath-control; final open smile releases the guarded cadence, proving deliberate modulation.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense yet fluid; each sentence advances image or stakes. Metaphors are precise (“glacier groaned like a sleeping whale”) and never muddle causality. Zero loops or scaffold; rhythm modulates with descent and ascent. Final line’s cadence mirrors the story’s exhalation.</comment>
+<question>7</question><grade>8.8</grade>
+<comment>Sentences carry triple duty—image, motion, myth—without scaffold; only the phrase “windows of connection” risks mild abstraction, but it is immediately anchored to ice walls and candles. No mixed metaphors or loops; read-aloud rhythm accelerates ascent, then stills on the mirror, propelling closure.</comment>
 
 <question>8</question><grade>9.3</grade>
-<comment>Premise—wreck-diver ghost whisperer salvaging dream artifacts from a glacier-ship—synthesizes familiar tropes into something non-obvious. Risky lyric structure pays off: dream-to-reality bleed, miniature shrine within globe within shrine. Transformation test: story collapses if any element swapped. Bold yet coherent.</comment>
+<comment>Synthesizes dream-cameo archaeology, ghost-whisperer wreck-diving, and melting relics into an inevitable fable about shared salvage. Risky accumulative structure pays off: the reader feels the tapestry form in real time, a freshness that would collapse if any trope were swapped out.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>8.1</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>8.3</grade>
-<question>9 G</question><grade>8.5</grade>
+<question>9 A</question><grade>7.9</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>7.4</grade>
+<question>9 D</question><grade>6.2</grade>
+<question>9 E</question><grade>8.1</grade>
+<question>9 F</question><grade>5.5</grade>
+<question>9 G</question><grade>8.6</grade>
 <question>9 H</question><grade>N/A</question>
-<question>9 I</question><grade>8.6</grade>
-<question>9 J</question><grade>8.2</grade>
+<question>9 I</question><grade>7.7</grade>
+<question>9 J</question><grade>8.8</grade>

@@ -1,33 +1,35 @@
 grade_story_wc_115.txt
-<question>1</question><grade>8.7</grade><comment>Jules’ reckless-explorer identity is shown through the single choice to enter the sealed factory, but the interiority stays lyrically general (“reckless… drowsy alertness”) rather than revealing a contradictory hierarchy of values under pressure; the final cost (beads clicking in his ribs) is felt, yet the turn from skeptical observer to ritual weigher of souls is asserted more than dramatized.</comment>
+<question>1</question><grade>8.7</grade>
+<comment>Mara’s skeptical interiority is vivid (“religiously skeptical to the marrow”), bodily (her pulse as a hunter’s sway), and contradictory (rational doubt vs. compulsive faith acts like “kissed”). Micro-choice to unscrew the wheel shows value hierarchy. Cost is felt when the wheel “jerked” in her grip. Slight under-realized secondary pressure from radio-psychic callers who are never on stage. Final renunciation/forgiveness leans more lyrical gesture than concrete loss—enough for this length but keeps it beneath absolute top-tier.</comment>
 
-<question>2</question><grade>8.9</grade><comment>Closure lands as Conceptual Repricing: the 1,887-lb truth is transferred from the dead to the narrator’s lungs, a cost made legible in the final image; the Accumulative/Textural lens holds—each bead added thickens atmospheric density until the wheel becomes weightless and the bulb bursts—without causality breaks; orientation is taught early through the tunnel mouth and radio cue, so no penalty applies.</comment>
+<question>2</question><grade>9.2</grade>
+<comment>Causal lens anchored in brother’s confession → search tunnel → physical trial with valve → tag revelation reweights guilt → acceptance. Each turn is contiguous and driven by her agency. Closure (Conceptual Repricing) hits when the wheel balances and the ghost-clank quietens: 12 years of unfinished motion halted. Cost is viscerally paid in the “swallowed truth” becoming bearable brass rather than lead.</comment>
 
-<question>3</question><grade>9.1</grade>
-<comment>The beaded valve wheel functions as micro-setting: its rosary-bead sequence physically constrains the narrator’s decoding action and is recharged in the closing image of beads clicking against ribs; tunnel coal dust, creosote stink, and the green bulb’s sickly pulse are filtered through a skeptical industrial sensibility, guiding the final ritual act with tactile specificity.</comment>
+<question>3</question><grade>8.5</grade>
+<comment>Tunnel anchors are immediate—rusted rail, dripping culvert, mineral stink—integrated with action (hoist wheel, screw cap). Foundry drains feeding in create plausible spatial lattice. Beaded valve itself evolves from artefact to character witness. Environment constrains final stance when draft carries the machine pulse that aligns with her heartbeat. No orientation drift.</comment>
 
 <question>4</question><grade>8.8</grade>
-<comment>Dominant stake—“find the weight of what we swallowed”—tightens when each bead added compresses the air and translucent workers appear; the narrator’s agency to keep loading beads despite rising dread visibly forecloses the option of walking away, paying the cost of internalizing 1,887 lbs of reckoning.</comment>
+<comment>Dominant stake locked in by confession: “what really happened.” Pressure tightens incrementally: valve weight → sloshing secret → brass tag → balanced wheel. Only one decisive reversal needed at pay-off; the tag forces reframing of brother’s guilt. Luck never rescues, stakes cost legible when she finally forgives and leaves the spin to silence.</comment>
 
-<question>5</question><grade>8.9</grade>
-<comment>Theme of industrial sin made literal emerges through coolant mist ingested as “body of industry” and the ledger’s net-weight entry; the final transference avoids moralizing, instead reconfiguring the moral calculus so the living lungs now carry the workers’ unabsolved mass—an image that reverberates without tidy thesis.</comment>
+<question>5</question><grade>8.9</question>
+<comment>Themes of guilt, witness, forgiveness emerge from concrete particulars (wheel beads vs rosary). Re-emergence of “mercury or guilt” subtly reweights religious resonance. Story refuses tidy thesis; final equilibrium is secular yet sacramental in feel. The brass tag functions as secular reliquary—image reconfigures premise without sermons.</comment>
 
-<question>6</question><grade>9.0</grade>
-<comment>First-person voice maintains a skeptical mill-explorer idiom—“religiously skeptical iron,” “diesel-pink light”—with rhythmic compression that accelerates under pressure; no head-hopping, and the delayed radio echo of the narrator’s own voice is handled as externalized phenomena rather than omniscient intrusion.</comment>
+<question>6</question><grade>9.1</question>
+<comment>Third-person limited stays locked to Mara’s sensory lattice—rhythm, perceptual signature, and diction track her drowsy-alert state (e.g., “dense as a lead slug,” “drowsy alertness that had carried her”). Elision is coherent (no sudden head-hop). Dialogue sparse but purposeful: her single challenge to the dark carries subtext. Rhythm modulates to sentence fragments under final stress without breaking continuity.</comment>
 
-<question>7</question><grade>8.8</grade>
-<comment>Sentences vary in length and opening, propel information without scaffold, and avoid mixed metaphor; occasional lyric stacking (“coal dust communion wafers”) is purposeful and pattern-taught, never obscuring causality; no loops or filter-verb clusters appear in the closure beat.</comment>
+<question>7</question><grade>8.6</question>
+<comment>Read-aloud line rhythms vary and are high-density. Not a single paraphrase loop or filler stem found. Minor overwriting haze in one metaphor string (“hush…damp wool…dense lead slug”) risks minor density drag. Sentence mechanics clean; pronoun and tense stable. Opening line anchors voice and stakes, final line resolves by image that recharges beads as gyroscope. Still within publish-now tier.</comment>
 
-<question>8</question><grade>9.2</grade>
-<comment>The industrial-purgatory conceit fuses ghost-shift folklore with hydraulic Catholic guilt, transforming the trope into a physical weighing ritual; the valve-rosary is a fresh synthesizing object whose bead-count literally tallies the dead, making the final transference feel inevitable yet non-obvious.</comment>
+<question>8</question><grade>7.9</question>
+<comment>The ghost-shift locked-in factory mythos is familiar, elevated here by bodily metaphor (heartbeat rhythm inside wheel) and brass tag as witness artifact. Synthesis of mechanical haunting with secular confession registers fresh. Lacks an additional conceptual risk that would vault into 9+ originality, hence mid-8s ceiling.</comment>
 
-<question>9 A</question><grade>6.4</grade>
-<question>9 B</question><grade>9.1</grade>
-<question>9 C</question><grade>8.7</grade>
-<question>9 D</question><grade>6.8</grade>
-<question>9 E</question><grade>7.2</grade>
-<question>9 F</question><grade>7.8</grade>
-<question>9 G</question><grade>7.5</grade>
-<question>9 H</question><grade>6.6</grade>
-<question>9 I</question><grade>8.0</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 A</question><grade>9.0</grade>
+<question>9 B</question><grade>9.6</grade>
+<question>9 C</question><grade>9.2</grade>
+<question>9 D</question><grade>9.0</grade>
+<question>9 E</question><grade>9.4</grade>
+<question>9 F</question><grade>4.5</grade>
+<question>9 G</question><grade>9.2</grade>
+<question>9 H</question><grade>7.8</grade>
+<question>9 I</question><grade>9.3</grade>
+<question>9 J</question><grade>8.9</grade>

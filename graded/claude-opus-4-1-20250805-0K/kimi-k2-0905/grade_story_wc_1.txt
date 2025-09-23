@@ -1,27 +1,27 @@
 grade_story_wc_1.txt
-<question>1</question><grade>7.2</grade><comment>The protagonist's motivation to find meaning in stillness rather than revenge drives a coherent arc from trauma through quest to transformed purpose. The internal contradiction between fleeing/following and the final choice to create rather than pursue shows genuine complexity. However, the transformation to opening a studio for "quiet hours at dawn" feels slightly unearned given the intensity of the preceding journey.</comment>
+<question>1</question><grade>7.8</grade><comment>The protagonist's motivation to find meaning in stillness rather than revenge drives credible choices throughout, with internal contradictions embodied in physical details like "breath on cracked glass." The final renunciation of the smuggling path for teaching others who survived fire shows earned change with visible cost. Minor deduction for some abstract phrasing ("discover purpose in the pauses") that occasionally replaces embodied emotion.</comment>
 
-<question>2</question><grade>7.8</grade><comment>Strong Accumulative/Textural structure with the ledger's physical decay paralleling the protagonist's release from its encoded path. The closure—choosing to step off the smuggler's route and create a healing space—lands with visible cost (abandoning revenge/justice). The orientation anchors arrive cleanly within the first 120 words.</comment>
+<question>2</question><grade>8.2</grade><comment>Strong Resonant Reconfiguration closure where the artist transforms from fugitive to teacher, with cost visible in the charcoal line "printing a ghost that faded mile by mile." The accumulative/textural lens holds as patterns build through glass beads, frost readings, and the obsidian shard to create density that reweights her stance. Orientation anchors clearly by line 2-3 with who/where/when established.</comment>
 
-<question>3</question><grade>7.4</grade><comment>The canyon setting actively constrains movement ("walls narrow until sky became a blade") and provides discovery sites that advance the quest. Sensory detail is selective and purposeful—frost patterns revealing cart tracks, obsidian singing against fingerprint. The glass beads as breadcrumbs create micro-setting that both marks passage and enables return.</comment>
+<question>3</question><grade>8.4</grade><comment>The canyon functions as both physical constraint and psychological crucible, with walls narrowing "until sky became a blade of starlight" forcing introspection. Sensory detail is selective and POV-filtered through the artist's craft lens ("frost silvered the ground like her own imperfect glazing"). The obsidian shard and glass beads constrain choices and charge the final teaching image.</comment>
 
-<question>4</question><grade>7.1</grade><comment>The dominant stake—discovering purpose beyond revenge—tightens when she finds evidence of other murdered glass artists and must choose between pursuit and release. The scorched ledger's physical disintegration creates urgency. However, the final transformation to opening a studio lacks the visceral pressure of the canyon sequence.</comment>
+<question>4</question><grade>8.0</grade><comment>Escalation follows accumulative deepening as each discovery (ledger decoding, frost patterns, campfire circle, obsidian shard) adds texture that forces stance crystallization. The dominant stake of finding purpose over revenge tightens when she discovers other glass artists were silenced, forcing the choice between pursuit and retreat. Cost is visible in crushing the ledger and accepting the bus driver's ignorance of the shard's value.</comment>
 
-<question>5</question><grade>7.6</grade><comment>Theme emerges through the recurring motif of reading patterns—in frost, in fire damage, in human choices—culminating in the insight that meaning lies "in the pauses." The glass artist's transformation from accomplice to healer resonates without stating a moral. The final image of shaping "transparency without secrets" reweights the entire journey.</comment>
+<question>5</question><grade>8.3</grade><comment>Theme emerges through the concrete motif of pauses/stillness versus action, with the final studio offering "quiet hours at dawn" answering the central question without stating a moral. The resonant ending where "nothing and no one would be erased again" reweights all prior erasure attempts. Subtext operates effectively through the obsidian shard exchange and the blank route sign.</comment>
 
-<question>6</question><grade>7.9</grade><comment>Distinctive voice employs purposeful compression and lyric density ("air so cold it rang," "canyon under stars kept its silence"). The perceptual signature—a glass artist reading the world through temperature, light, and material transformation—remains consistent. No dialogue appears, maintaining the interior focus throughout.</comment>
+<question>6</question><grade>7.9</grade><comment>Distinct perceptual signature filters everything through glass-making metaphors ("breath on cracked glass," "floating sparks," "world was a blank gather of molten light"). POV remains stable with controlled psychic distance that tightens during discovery moments. Minor deduction for occasional elevated diction ("drifting resonance," "scorched testament") that slightly exceeds the character's established register under stress.</comment>
 
-<question>7</question><grade>6.8</grade><comment>Strong figurative language occasionally tips into overwriting ("flames licking rafters like wolves tasting blood"). Template cadence appears in the final third with repetitive "She [verb]" constructions. The prose achieves moments of excellence ("frost told her the smugglers had passed") but lacks consistent restraint, particularly in the studio-opening sequence which shifts to more abstract phrasing.</comment>
+<question>7</question><grade>7.6</grade><comment>Strong information density with lines doing multiple jobs, especially in the canyon sequence where each image advances both external journey and internal transformation. Some figurative density in high-pressure beats ("flames licking rafters like wolves tasting blood") without clear pattern-teaching. Template cadence appears briefly ("She knelt...She pocketed...She understood") but doesn't pervade closure.</comment>
 
-<question>8</question><grade>7.3</grade><comment>The concept of a glass artist tracking smugglers through material traces offers fresh specificity. The transformation from seeking justice to creating healing space through art feels earned. However, the resolution's pivot to opening a therapeutic studio feels somewhat conventional against the story's more original desert quest elements.</comment>
+<question>8</question><grade>7.8</grade><comment>The synthesis of glass artistry with smuggling investigation offers a non-obvious angle, particularly the transformation from victim to teacher of other fire survivors. The specific detail of reading smuggler movements in frost patterns and using failed vase fragments as trail markers shows originality. The quiet ending that refuses revenge for teaching represents meaningful risk-taking that heightens thematic stakes.</comment>
 
 <question>9 A</question><grade>8.2</grade>
 <question>9 B</question><grade>7.8</grade>
-<question>9 C</question><grade>7.4</grade>
-<question>9 D</question><grade>6.1</grade>
-<question>9 E</question><grade>7.2</grade>
+<question>9 C</question><grade>7.5</grade>
+<question>9 D</question><grade>7.3</grade>
+<question>9 E</question><grade>7.0</grade>
 <question>9 F</question><grade>6.8</grade>
 <question>9 G</question><grade>7.6</grade>
-<question>9 H</question><grade>5.4</grade>
-<question>9 I</question><grade>8.4</grade>
-<question>9 J</question><grade>7.9</grade>
+<question>9 H</question><grade>6.5</grade>
+<question>9 I</question><grade>8.0</grade>
+<question>9 J</question><grade>7.2</grade>

@@ -1,31 +1,42 @@
 grade_story_wc_250.txt
-<question>1</question><grade>7.8</grade><comment>The guardian’s mute interiority is embodied in micro-choices—adjusting shutters, raising the mirror—yet the “half-spoken secret” remains abstract, softening the final cost. Motivation is consistent but not sharply escalated; the dance of light feels ritual more than risk.</comment>
+<question>1</question><grade>7.8</grade><comment>The guardian’s muteness earns interior depth with “silent empathy” made tactically visible; each shutter-angle adjustment and micro-choice under starlight embodies cost. The backstory of the lost child is brief, anchored in present reflection, and tilts her final stance (“offering back” the mirror) into an earned renunciation of speech.</comment>
 
-<question>2</question><grade>8.4</grade><comment>Accumulative/Textural lens holds: each shutter adjustment and mirror reflection layers density until the final image reweights darkness as partner. Closure is a Resonant Reconfiguration—darkness “full of borrowed starlight”—with felt cost in the guardian’s nightly return. Orientation is immediate; no causality breaks.</comment>
+<question>2</question><grade>8.7</grade><comment>Accumulative/Textural lens: star-light density builds across the dock plank by plank until the darkness is reweighted (“pulsed with remembered starlight”). Final Charged Poise crystallizes in the act of “offering back” the dental mirror, binding the pattern to an undeniable felt cost of letting the memory go into water.</comment>
 
-<question>3</question><grade>8.6</grade><comment>Cobalt dock, wet cobbles, and reeds are filtered through the guardian’s precise attention; the dental mirror becomes micro-setting that constrains every move. Sensory detail is selective and purposeful, charging the final shimmer across water.</comment>
+<question>3</question><grade>8.9</grade>
+<comment>The dock after rain, the mirror-caught helix, and the wet coat-wing all act as micro-environments; they physically constrain where the guardian can kneel and adjust the shutter angles. Each environmental cue tightens the same beat of star-light weaving.</comment>
 
-<question>4</question><grade>7.9</grade><comment>Dominant stake—teaching darkness to value stars—tightens via incremental light patterns; the cost is the guardian’s eternal nightly labor. One deepening beat: darkness grows “thinner and more translucent,” proving progress yet demanding endless repetition.</comment>
+<question>4</question><grade>8.5</grade>
+<comment>Dominant stake: darkness itself must learn it can “cradle wonder.” Tightening occurs each time the guardian dims or redirects lantern-light; the spiral brightens and finally “nurses it like an ember” at an unavoidable conceptual cost for both darkness and guardian.</comment>
 
-<question>5</question><grade>8.7</grade>
-<comment>Theme emerges wordlessly: silence as empathy, darkness as loneliness rather than evil. The final image reconfigures the premise without moralizing, letting the mirrored star speak.</comment>
+<question>5</question><grade>8.6</grade>
+<comment>Theme of shared worth arises from image, never statement: darkness gains the ability to carry light, rewriting the tragedy drowned beneath the pier. The ending’s hush answers the core question wordlessly through final dock shimmer and barge whispers.</comment>
 
-<question>6</question><grade>9.1</grade>
-<comment>Lyric, hushed cadence mirrors the guardian’s silence; diction is spare yet luminous. No head-hop; perceptual signature is consistent and atmospheric.</comment>
+<question>6</question><grade>8.3</grade>
+<comment>Elegant second-person compression—“the darkness leaned closer, tasting”—creates signature diction aligned with the mute guardian’s silent tactility. No dialogue appears, so the lyric texture remains unbroken under pressure.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Prose is taut, rhythmic, and image-dense; no loops or scaffold. Metaphors (bruised sky, darkness pooling) are precise and purposeful, never muddying causality.</comment>
+<question>7</question><grade>8.4</grade>
+<comment>Metaphor is purposeful and never congestive; each image folds back into the weaving action (“starlight dripped,” “pooled, curious”). Read-aloud rhythm modulates naturally, and every sentence advances setting, motion, or reflection.</comment>
 
-<question>8</question><grade>8.8</grade>
-<comment>Familiar tropes—mute guardian, starlight redemption—are transformed through tactile specificity and the dental mirror’s unlikely magic. The synthesis feels inevitable.</comment>
+<question>8</question><grade>8.7</question>
+<comment>The canal-guardian-as-cosmic-weaver is fresh, yet grounded in salvage planks and a salvaged dental mirror. Darkness becomes an emergent character taught wonder, an angle untransformed in any prior canon I know.</comment>
 
 <question>9 A</question><grade>7.2</grade>
-<question>9 B</question><grade>8.8</grade>
-<question>9 C</question><grade>7.5</grade>
-<question>9 D</question><grade>6.4</grade>
-<question>9 E</question><grade>7.9</grade>
-<question>9 F</question><grade>8.3</grade>
-<question>9 G</question><grade>7.6</grade>
-<question>9 H</question><grade>5.9</grade>
-<question>9 I</question><grade>7.1</grade>
-<question>9 J</question><grade>8.0</grade>
+
+<question>9 B</question><grade>9.4</grade>
+
+<question>9 C</question><grade>8.7</grade>
+
+<question>9 D</question><grade>7.4</grade>
+
+<question>9 E</question><grade>9.6</grade>
+
+<question>9 F</question><grade>8.8</grade>
+
+<question>9 G</question><grade>8.5</grade>
+
+<question>9 H</question><grade>6.4</grade>
+
+<question>9 I</question><grade>9.1</grade>
+
+<question>9 J</question><grade>8.2</grade>

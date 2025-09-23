@@ -1,19 +1,19 @@
 grade_story_wc_82.txt
-<question>1</question><grade>9.4</grade><comment>The lantern maker's motivation is painfully clear and rooted in consistent, embodied grief. Her micro-choices—breathing in the dream, folding the cranes—are specific, tactile, and reveal a hierarchy of values under immense pressure. The final, quiet endurance (Earned Stasis) is earned by the entire ritual's causality, with the cost legible in her hands finally smelling only of tea.</comment>
-<question>2</question><grade>9.5</grade><comment>An Accumulative/Textural lens holds perfectly, building pressure through dense, resonant imagery toward a Charged Poise closure. The paradoxical path (descending to ascend) is taught early and pays off thematically and emotionally at the end. The cost is undeniable in the final image of the cranes becoming "living lanterns" and the moonstone's dissolution.</comment>
-<question>3</question><grade>9.6</grade><comment>Setting is not merely described but is the engine of the plot and emotion. The floating stones, glass basilica, and dream-steaming tea bushes are vividly specific and actively constrain the protagonist's journey. The environment charges the final image, with the tea garden becoming the permanent home for the cranes/lanterns.</comment>
-<question>4</question><grade>9.3</grade><comment>Under the Accumulative lens, pressure escalates masterfully through a single, profound intensification: the act of drawing the dream into her lungs and folding it. This is a massive, consequential choice that narrows all options to this one ritual, paid for with the visible cost of her "translucent ribs holding a galaxy of unfinished bedtime stories."</comment>
-<question>5</question><grade>9.7</comment>The theme of processing grief through craft is fully integrated, emerging from the specific, gut-wrenching particulars of the ritual. The final image offers a resonant, non-literal answer: grief is not erased but transformed into a light for others. The subtext in lines like "grief is only another kind of flame" is profound without being stated.</comment>
-<question>6</question><grade>9.8</grade><comment>The POV is stable, deeply internal, and the voice is exceptionally distinct—lyrical, precise, and saturated with the character's professional and emotional worldview. The perceptual signature is unwavering; every image is filtered through her specific lens as a craftsperson and a grieving mother. The prose is character.</comment>
-<question>7</question><grade>9.5</grade><comment>The prose is stunningly dense and precise, with every image doing multiple jobs. Figurative language is consistent, purposeful, and never muddled. Rhythm is expertly controlled, modulating from the heavy, ritualistic pace of folding to the lighter, releasing flight of the cranes. A single, very minor synonym churn ("luminous torment" used twice) prevents a perfect score.</comment>
-<question>8</question><grade>9.6</grade><comment>The synthesis of dream-recording technology, origami ritual, and a floating world feels entirely fresh and organic. The core concept is not a gimmick but the very mechanism of the character's emotional arc. The story commits fully to its singular, high-concept premise and follows its implications with breathtaking emotional honesty and risk.</comment>
-<question>9 A</question><grade>9.8</grade>
-<question>9 B</question><grade>9.5</grade>
-<question>9 C</question><grade>9.9</grade>
-<question>9 D</question><grade>8.7</grade>
-<question>9 E</question><grade>9.7</grade>
-<question>9 F</question><grade>7.2</grade>
-<question>9 G</question><grade>8.9</grade>
-<question>9 H</question><grade>6.8</grade>
-<question>9 I</question><grade>9.9</grade>
-<question>9 J</question><grade>9.6</grade>
+<question>1</question><grade>9.2</grade><comment>Interiority is concrete and embodied, particularly in the final beat where the protagonist's hands smell of tea instead of kerosene. Motivation is clear and intensifies under pressure, compelling the high-stakes choice to inhale the dream. The final endurance is earned by prior causality with visible cost. A minor deduction for a moment of near-diagnostic language ("luminous torment" risks abstraction, though it is quickly grounded).</comment>
+<question>2</question><grade>9.5</grade><comment>Closure is a flawless Resonant Reconfiguration (Charged Poise) with undeniable cost in the final image of the tea leaf chimney. The inferred Accumulative/Textural lens holds throughout, with pressure escalating through density of imagery and emotional cadence. The paradoxical path ("descend while ascending") is taught early and pays off at closure. Orientation is immediate and purposeful.</comment>
+<question>3</question><grade>9.6</grade><comment>The floating tea garden and glass basilica are not merely vivid but actively constrain choice and charge the final image. The environment is a crucible, forcing the protagonist's ritual. Sensory detail is selective and purposeful, filtered through a professional lens (e.g., "lantern-maker’s knees"). The moonstone and tea leaf function as micro-settings that shape tactics.</comment>
+<question>4</question><grade>9.3</grade><comment>Escalation is driven by protagonist agency under the Accumulative lens, with the folding ritual serving as a meaningful deepening that reweights the stake of grief. Cost is legible on the page in the image of "translucent ribs holding a galaxy." The dominant stake (transforming grief) is signaled early and tightens through the protagonist's irreversible act of inhaling the dream.</comment>
+<question>5</question><grade>9.7</grade><comment>The theme of processing grief emerges organically through event and image, culminating in a resonant, non-literal answer: grief transformed into light for others. The origami cranes and final tea leaf chimney are earned particulars, not abstract statements. Subtext operates powerfully in gesture and silence, avoiding any moralizing.</comment>
+<question>6</question><grade>9.4</grade><comment>POV is stable and deeply characterized, with a distinct perceptual signature shaped by the protagonist's profession. Diction and syntax are consistently controlled and purposefully compressed under emotional pressure. The voice modulates with intensity but never loses its specific texture. No head-hopping or register drift.</comment>
+<question>7</question><grade>9.5</grade><comment>Prose exhibits exceptional rhythmic control and high information density, with every sentence advancing story or atmosphere. Figurative language is pattern-taught and pays off at closure without muddle. There are no loops, scaffold, or artifacting. The final line is a masterclass in concision and resonance.</comment>
+<question>8</question><grade>9.8</grade><comment>The synthesis of dream-recording technology, origami ritual, and a floating world is fresh, specific, and feels inevitable in hindsight. The core concept is fully committed to and explored through character-specific detail. Risk-taking in the lyric, accumulative structure heightens stakes without obscuring clarity. A singular artistic stance.</comment>
+<question>9 A</question><grade>9.5</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>9.7</grade>
+<question>9 D</question><grade>7.8</grade>
+<question>9 E</question><grade>9.6</grade>
+<question>9 F</question><grade>8.9</grade>
+<question>9 G</question><grade>9.1</grade>
+<question>9 H</question><grade>6.2</grade>
+<question>9 I</question><grade>9.4</grade>
+<question>9 J</question><grade>9.3</grade>

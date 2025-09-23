@@ -1,19 +1,19 @@
 grade_story_wc_164.txt
-<question>1</question><grade>9.2</grade><comment>The sea-foam recollectionist's characterization is exceptional. Her internal conflict—the trade-off between personal memory and preserving others' stories—is concrete, embodied in her interaction with the crater glass, and culminates in a final choice (laughter and tears) that is earned by prior causality with visible cost. Her emotional progression is complex and contradictory, avoiding diagnostic label-speak.</comment>
-<question>2</question><grade>9.5</grade><comment>The structure is a masterful example of an Accumulative/Textural drive lens. Pressure builds through a density of emotional and conceptual revelations, culminating in a powerful Conceptual Repricing at the climax: the final cascade of emotions reweights the entire premise, answering her question with undeniable cost and affirmation. The closure is flawless and deeply felt.</comment>
-<question>3</question><grade>9.8</grade><comment>The iridescent cave and crater glass are not merely described; they are the engine of the plot. The setting actively pressures choices, supplies the key resource (emotional transliteration), and decisively charges the final image. Sensory detail is vivid, selective, and fully integrated into the POV's goal-directed action, constraining and enabling her every move.</comment>
-<question>4</question><grade>9.3</grade><comment>Under the accumulative lens, escalation is driven by the protagonist's active use of conjecture and engagement with the seeds/glass, leading to a series of deepening realizations. The dominant stake (discovering the fate of paths) is tested and reweighted, culminating in a choice to plant seeds that forecloses her personal path with a visible, felt cost scaled perfectly to the length.</comment>
-<question>5</question><grade>9.6</grade><comment>Theme emerges organically from the core concept and the character's specific struggle. The ending offers a resonant, non-literal answer to the central question ("Every path disappears...") through the powerful final image of planting seeds and the sunrise, reweighting all prior material without moralizing. The emotional aftereffect is profound and earned.</comment>
-<question>6</question><grade>9.4</grade><comment>The POV is stable and deeply immersive, with a distinct perceptual signature and rhythmic control that modulates perfectly with emotional intensity. The voice is consistently poetic yet precise, filtered entirely through the recollectionist's unique worldview. Purposeful elision (e.g., the specifics of the stories) is taught and pays off at closure.</comment>
-<question>7</question><grade>9.1</grade><comment>The prose is exquisite, with high information density and rhythmic variety that propels the narrative. There is a single, minor instance of potential ornamental density in the phrase "cheerful gloom," but this is a hairline slip that does not obscure clarity or causality. Otherwise, the line-level craft is flawless, with every sentence advancing story and atmosphere.</comment>
-<question>8</question><grade>9.7</grade><comment>The story's synthesis of concept (emotional fossils, disappearing paths), character (the recollectionist's sacrifice), and setting (the geode) is profoundly original, inevitable in hindsight, and executed with breathtaking boldness. It transforms its core ideas through specific, lived detail and a non-obvious moral calculus, committing fully to its premise without retreat.</comment>
-<question>9 A</question><grade>10.0</grade>
-<question>9 B</question><grade>10.0</grade>
-<question>9 C</question><grade>10.0</grade>
-<question>9 D</question><grade>10.0</grade>
-<question>9 E</question><grade>9.8</grade>
-<question>9 F</question><grade>9.5</grade>
-<question>9 G</question><grade>10.0</grade>
-<question>9 H</question><grade>8.2</grade>
-<question>9 I</question><grade>10.0</grade>
-<question>9 J</question><grade>9.9</grade>
+<question>1</question><grade>9.2</grade><comment>Lira's characterization is vivid with embodied emotion ("her gloom felt cheerful") and micro-choices that reveal values. Her final choice to plant seeds is earned by prior causality. A minor deduction for interiority that could show more contradictory impulses acting simultaneously in scene.</comment>
+<question>2</question><grade>9.5</grade><comment>Accumulative/Textural lens holds strong. Closure is a Resonant Reconfiguration (Conceptual Repricing) with clear cost: the cave seals, its job complete. The final image reweights the premise that paths disappear only when unwalked with wonder.</comment>
+<question>3</question><grade>9.7</grade><comment>The iridescent cave and crater glass are not just vivid but actively constrain choice and charge the final image. Sensory detail is purposefully selective and integrated into action, reflecting Lira's priorities perfectly.</comment>
+<question>4</question><grade>9.0</grade><comment>Escalation is driven by Lira's agency under the accumulative lens, moving from curiosity to a decisive act of creation. The cost is legible as the cave seals behind her. A minor deduction for the cost feeling more conceptual than viscerally felt.</comment>
+<question>5</question><grade>9.6</theme><comment>Theme emerges organically from the central conflict and images, culminating in the resonant, non-literal realization that "paths disappear only when no one walks them with wonder." Avoids moralizing, offering a profound answer through particulars.</comment>
+<question>6</question><grade>9.3</grade><comment>POV is stable and voice is distinct with a strong perceptual signature. The lyrical, compressed style is taught early and pays off at closure. Minor deduction for occasional over-written density in peak beats that slightly obscures immediacy.</comment>
+<question>7</question><grade>9.1</grade><comment>Prose is exquisite with high information density and rhythmic control. A minor deduction for slight figurative density in the climax ("sand rose in a slender whirlwind, painting a fresh path midair") that borders on overwriting without harming closure clarity.</comment>
+<question>8</question><grade>9.8</grade><comment>A singularly original synthesis of concept, character, and setting. The premise is fully committed to and transformed through specific, grounded choices. The final reconfiguration feels both surprising and inevitable, a hallmark of high ingenuity.</comment>
+<question>9 A</question><grade>9.5</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>8.8</grade>
+<question>9 D</question><grade>8.7</grade>
+<question>9 E</question><grade>8.0</grade>
+<question>9 F</question><grade>8.5</grade>
+<question>9 G</question><grade>9.4</grade>
+<question>9 H</question><grade>4.5</grade>
+<question>9 I</question><grade>9.0</grade>
+<question>9 J</question><grade>9.3</grade>

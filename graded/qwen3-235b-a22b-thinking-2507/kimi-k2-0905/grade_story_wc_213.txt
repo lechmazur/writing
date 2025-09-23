@@ -1,19 +1,19 @@
 grade_story_wc_213.txt
-<question>1</question><grade>9.2</grade><comment>Interior contradiction shines in Mara’s "credibly curious" mind cataloging possibilities while trusting the mountain’s tug; her shift from data collection to "courtesy" earns via tactile choices (tying rope to servo) with felt cost in altered purpose.</comment>
-<question>2</question><grade>9.5</grade><comment>Closure lands as Charged Poise: bell tolls map the downdraft, then wind collapses "as if satisfied," crystallizing Mara’s realization with conceptual cost—tracking shifts from prediction to answering whispers, all under Accumulative lens.</comment>
-<question>3</question><grade>9.8</grade><comment>Sanctuary’s micro-setting (bell rope’s pine-tar scent, barometer’s trembling brass) constrains choices—Mara must climb to belfry—and charges the final image where citizens carry the "ghost of six low notes."</comment>
-<question>4</question><grade>9.3</grade><comment>Pressure tightens via microclimate anomalies (pressure dips, wind shifts) under Accumulative lens; Mara’s agency in switching the toggle forecloses prediction for "courtesy," with cost legible in her altered stance: "she would listen."</comment>
-<question>5</question><grade>9.7</grade><comment>Theme emerges through action: bell tolls "warm stones in cold milk" reweight "listening over noise" without moralizing; final image of citizens’ lingering "ghost" offers resonant answer to the central question.</comment>
-<question>6</question><grade>9.6</grade><comment>Perceptual signature is precise—"electric scent of alpine dawn," "brass face trembling"—with rhythmic control under pressure; no POV leakage as diction modulates from technical ("katabatic spill") to lyrical ("moon nailed to sky").</comment>
-<question>7</question><grade>9.4</grade><comment>Zero loops; propulsion via concrete verbs ("clouds surged," "rope twitched"); figurative language ("warm stones in cold milk") clarifies pressure without muddle, even in climax.</comment>
-<question>8</question><grade>9.1</grade><comment>Transforms "scientist vs. nature" trope through specific stakes—copper patches lowering pitch, barometer dips—as fresh inflection where microclimate tracking becomes "courtesy," avoiding abstraction.</comment>
-<question>9 A</question><grade>9.9</grade>
-<question>9 B</question><grade>9.8</grade>
-<question>9 C</question><grade>9.7</grade>
-<question>9 D</question><grade>9.6</grade>
-<question>9 E</question><grade>10.0</grade>
-<question>9 F</question><grade>9.5</grade>
-<question>9 G</question><grade>9.9</grade>
-<question>9 H</question><grade>9.4</grade>
-<question>9 I</question><grade>9.8</grade>
-<question>9 J</question><grade>9.7</grade>
+<question>1</question><grade>8.9</grade><comment>Mara’s interiority avoids stock phrasing; her contradictory impulses (duty vs. listening) manifest in concrete micro-choices like tying the bell rope. The earned renunciation—prioritizing the mountain’s voice over protocol—carries visible cost through the unauthorized act, though "credibly curious" risks label-like phrasing.</comment>
+<question>2</question><grade>9.2</grade><comment>Closure as Charged Poise lands cleanly: the bell’s toll reconfigures stakes with conceptual cost (defying civic ritual for ecological truth), under an Accumulative/Textural lens where pressure builds via sensory density. Orientation anchors ("windblown sanctuary," "solstice hush") establish setting by line 3 without disorientation debt.</comment>
+<question>3</question><grade>9.1</grade><comment>The bell rope functions as micro-setting, constraining Mara’s choice (tying it to the servo arm) and charging the final image ("released the rope, heart drumming"). Environmental pressure is tactile—barometer trembling, wind shifting 30 degrees—evolving causally with microclimate anomalies to shape tactics.</comment>
+<question>4</question><grade>9.0</question><grade>9.0</grade><comment>Escalation is protagonist-driven under Accumulative lens: pressure dips at 03:17/03:42 narrow options, forcing Mara’s switch decision. The cost—professional risk of "first unauthorized test"—is legible through her defiance, though the mountain’s "satisfaction" slightly softens consequence.</comment>
+<question>5</question><grade>8.8</grade><comment>Theme emerges implicitly via action ("favor listening over noise" dramatized in bell choice), with the final "ghost of six low notes" offering resonant, non-literal closure. Avoids moralizing, but "courtesy" insight edges toward neatness without deeper counterweight.</comment>
+<question>6</question><grade>8.9</grade><comment>Mara’s perceptual signature shines ("ears cleansed by altitude," "electric scent"), with syntax modulating under stress (short phrases during pressure dips). "Credibly curious" slightly strains lexicon, but rhythmic control—e.g., "low notes rolling... like warm stones"—avoids ventriloquism.</comment>
+<question>7</question><grade>9.0</grade><comment>Zero loops; high density ("glue glowed dull silver... set hard as trust itself" merges action, metaphor, and character). Only minor deduction: "microclimate hiccup... fingerprint" risks adjacent paraphrase, but closure imagery ("ghost of six low notes") remains crystalline.</comment>
+<question>8</question><grade>8.9</grade><comment>Original synthesis: storm siren tester + cathedral bell reframes climate anxiety through tactile ritual. "Sky’s throat" metaphor and data-driven resonance (72 hertz) avoid cliché, though "humble" trait slightly echoes prompt safety. Risk-taking (quiet closure) heightens stakes without obscuring coherence.</comment>
+<question>9 A</question><grade>9.2</grade>
+<question>9 B</question><grade>9.5</grade>
+<question>9 C</question><grade>8.7</grade>
+<question>9 D</question><grade>8.3</grade>
+<question>9 E</question><grade>9.8</grade>
+<question>9 F</question><grade>7.6</grade>
+<question>9 G</question><grade>8.4</grade>
+<question>9 H</question><grade>3.0</grade>
+<question>9 I</question><grade>8.7</grade>
+<question>9 J</question><grade>8.8</grade>

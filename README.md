@@ -32,47 +32,49 @@ The top bar chart summarizes **mean story quality** for each model with uncertai
 
 #### Full overall leaderboard
 
-| Rank | LLM | Mean |
-|-----:|-----|-----:|
-| 1 | Kimi K2‑0905 | 8.749 |
-| 2 | GPT‑5 (medium reasoning) | 8.723 |
-| 3 | Qwen 3 Max Preview | 8.711 |
-| 4 | Kimi K2 | 8.693 |
-| 5 | Mistral Medium 3.1 | 8.629 |
-| 6 | o3‑pro (medium reasoning) | 8.628 |
-| 7 | Gemini 2.5 Pro | 8.602 |
-| 8 | Claude Opus 4.1 (no reasoning) | 8.538 |
-| 9 | DeepSeek V3.1 Reasoner | 8.517 |
-| 10 | DeepSeek V3.1 Non‑Think | 8.507 |
-| 11 | Qwen 3 235B A22B 25‑07 Think | 8.495 |
-| 12 | Baidu Ernie 4.5 300B A47B | 8.110 |
-| 13 | Grok 4 | 8.068 |
-| 14 | GLM‑4.5 | 7.803 |
-| 15 | GPT‑OSS‑120B | 7.726 |
-| 16 | Cohere Command A | 7.459 |
-| 17 | Llama 4 Maverick | 6.370 |
+| Rank | LLM                    | Mean Score | Samples | SEM |
+|-----:|------------------------|-----------:|--------:|----:|
+| 1 | Kimi K2-0905 | 8.729 | 2800 | 0.0115 |
+| 2 | GPT-5 (medium reasoning) | 8.723 | 2800 | 0.0100 |
+| 3 | Qwen 3 Max Preview | 8.711 | 2800 | 0.0108 |
+| 4 | Kimi K2 | 8.693 | 2800 | 0.0101 |
+| 5 | Mistral Medium 3.1 | 8.629 | 2800 | 0.0110 |
+| 6 | o3-pro (medium reasoning) | 8.628 | 2800 | 0.0103 |
+| 7 | Gemini 2.5 Pro | 8.602 | 2800 | 0.0100 |
+| 8 | Claude Opus 4.1 (no reasoning) | 8.538 | 2800 | 0.0110 |
+| 9 | DeepSeek V3.1 Reasoner | 8.517 | 2800 | 0.0099 |
+| 10 | DeepSeek V3.1 Non-Think | 8.507 | 2800 | 0.0100 |
+| 11 | Qwen 3 235B A22B 25-07 Think | 8.495 | 2800 | 0.0115 |
+| 12 | Grok 4 Fast Reasoning | 8.114 | 2800 | 0.0141 |
+| 13 | Baidu Ernie 4.5 300B A47B | 8.110 | 2800 | 0.0130 |
+| 14 | Grok 4 | 8.068 | 2800 | 0.0137 |
+| 15 | GLM-4.5 | 7.803 | 2800 | 0.0175 |
+| 16 | GPT-OSS-120B | 7.726 | 2800 | 0.0177 |
+| 17 | Cohere Command A | 7.459 | 2800 | 0.0172 |
+| 18 | Llama 4 Maverick | 6.370 | 2800 | 0.0226 |
 
 #### Full normalized leaderboard
 
-| Rank | LLM | Normalized Mean |
-|-----:|-----|-----------------:|
-| 1 | Kimi K2‑0905 | 0.680 |
-| 2 | Qwen 3 Max Preview | 0.618 |
-| 3 | GPT‑5 (medium reasoning) | 0.605 |
-| 4 | Kimi K2 | 0.585 |
-| 5 | Mistral Medium 3.1 | 0.492 |
-| 6 | o3‑pro (medium reasoning) | 0.486 |
-| 7 | Gemini 2.5 Pro | 0.444 |
-| 8 | Claude Opus 4.1 (no reasoning) | 0.367 |
-| 9 | DeepSeek V3.1 Reasoner | 0.339 |
-| 10 | Qwen 3 235B A22B 25‑07 Think | 0.325 |
-| 11 | DeepSeek V3.1 Non‑Think | 0.325 |
-| 12 | Baidu Ernie 4.5 300B A47B | -0.225 |
-| 13 | Grok 4 | -0.244 |
-| 14 | GLM‑4.5 | -0.577 |
-| 15 | GPT‑OSS‑120B | -0.659 |
-| 16 | Cohere Command A | -1.065 |
-| 17 | Llama 4 Maverick | -2.497 |
+| Rank | LLM                    | Normalized Mean |
+|-----:|------------------------|-----------------:|
+| 1 | Kimi K2-0905 | 0.675 |
+| 2 | Qwen 3 Max Preview | 0.639 |
+| 3 | GPT-5 (medium reasoning) | 0.626 |
+| 4 | Kimi K2 | 0.605 |
+| 5 | Mistral Medium 3.1 | 0.512 |
+| 6 | o3-pro (medium reasoning) | 0.505 |
+| 7 | Gemini 2.5 Pro | 0.463 |
+| 8 | Claude Opus 4.1 (no reasoning) | 0.385 |
+| 9 | DeepSeek V3.1 Reasoner | 0.356 |
+| 10 | Qwen 3 235B A22B 25-07 Think | 0.342 |
+| 11 | DeepSeek V3.1 Non-Think | 0.342 |
+| 12 | Grok 4 Fast Reasoning | -0.202 |
+| 13 | Baidu Ernie 4.5 300B A47B | -0.214 |
+| 14 | Grok 4 | -0.234 |
+| 15 | GLM-4.5 | -0.571 |
+| 16 | GPT-OSS-120B | -0.654 |
+| 17 | Cohere Command A | -1.063 |
+| 18 | Llama 4 Maverick | -2.514 |
 
 #### Element integration only (9A–9J)
 
@@ -483,6 +485,7 @@ For the prior edition’s full leaderboard and the list of “old” grader LLMs
 - [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/)
 
 ## Other benchmarks
+- [LLM Round‑Trip Translation Benchmark](https://github.com/lechmazur/translation/)
 - [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/)
 - [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization/)
 - [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
@@ -492,6 +495,7 @@ For the prior edition’s full leaderboard and the list of “old” grader LLMs
 
 
 ## Updates 
+- Sep 23, 2025: Grok 4 Fast Reasoning added.
 - Sep 9, 2025: Major new version of the benchmark: V3. See the section "What’s new in V3"
 
 - Follow [@lechmazur](https://x.com/LechMazur) on X for other upcoming benchmarks and more.

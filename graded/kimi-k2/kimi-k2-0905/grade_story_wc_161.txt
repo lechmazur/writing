@@ -1,29 +1,56 @@
 grade_story_wc_161.txt
-<question>1</question><grade>8.6</grade><comment>Mirela’s contradictory impulses—flight vs. preservation, guilt vs. hope—are embodied in the meteorite chip and Inkspot; her renunciation of the old identity and final dispersal of the song feel earned by prior micro-choices and visible cost.</comment>
+<question>1</question><grade>8.7</grade><comment>Mirela’s fleeing the smugglers’ ring and her decision to hide the meteorite chip both seed and pay off her internal turn toward trust; her silence while risky feels true to a fugitive still weighing loyalties. Calves “remembering” rooftop leaps is clean embodied emotion rather than label-speak.</comment>
 
-<question>2</question><grade>8.8</grade><comment>Accumulative/textural lens holds: each shard (arrival, cataloguing, sanctuary, disappearance) layers density until the final image reweights the premise—her absence and the sky-stitched song create a resonant reconfiguration with felt cost.</comment>
+<question>2</question><grade>8.9</grade><comment>The meteorite drop-closet for tomorrow’s memory cleanly sets off the attic sequence; Blackwood’s sanctuary offer escalates stakes by turning hiding into alliance, and her final silent release of wings is a perfect causal link to vanishing the archive.</comment>
 
-<question>3</question><grade>8.7</grade><comment>The attic’s dust-mote swirl and skylight rectangle constrain Mirela’s balancing act and return in the final chord; rejected libretti nests and ration cards ground the world without clutter, all filtered through her fugitive attention.</comment>
+<question>3</question><grade>9.1</grade>
+<comment>The camphor-and-sheet-music attic is weighted by the loft’s skylight, governing visibility and Inkspot’s cadence; space tightens each night she returns until the bright dust-mote chord blooms and withers, charging the closing image.</comment>
 
-<question>4</question><grade>8.4</grade><comment>Dominant stake—preserve lost songs while evading capture—tightens as constables close in; Mirela’s agency drives the dispersal of the melody, paying the price of permanent exile.</comment>
+<question>4</question><grade>8.6</grade>
+<comment>“Preserve the echo of lost songs” versus “smugglers’ paper trails” tightens the central choice: erase identity or bear witness; the pigeon loft and covert air-drops incrementally narrow options until Mirela’s release is foreclosed. </comment>
 
-<question>5</question><grade>8.9</grade><comment>Theme of memory as migratory song emerges from the concrete act of encoding lullabies onto birds; the ending’s aerial quilt offers a non-literal answer without moralizing, reweighting erasure into communal remembrance.</comment>
+<question>5</question>
+<grade>9.0</grade>
+<comment>Preserving lost songs becomes both driving want and symbol of endurance—beauty surviving regime purge—rendered as a non-literal lullaby carried bird-to-bird and echoing in children’s jump-rope rhymes years later, never declared, always embodied.</comment>
 
-<question>6</question><grade>8.5</grade><comment>Lyrical, sensorily precise voice remains anchored in Mirela’s perceptual signature; purposeful compression (“dust motes rose and fell in slow arpeggios”) teaches the pattern and pays off in the final dust chord.</comment>
+<question>6</question>
+<grade>8.8</grade>
+<comment>Lyrical, visionary lens stays locked in Mirela’s skewed attic observations: oil-drop eyes, apricot Bucharest, dust motes as musical notation. Register never drifts; every descriptor tightened under the threat of constables or dementia.</comment>
 
-<question>7</question><grade>8.4</grade>
-<comment>Prose is dense yet clear; no loops or mixed metaphors; rhythm modulates with pressure; occasional elevated diction (“feathery envelopes for forged borders”) stays within the narrator’s lexicon.</comment>
+<question>7</question>
+<grade>9.0</grade>
+<comment>Rhythm pulses in camphor-arpeggios, dust-note cadences, minimal scaffold; high-density image strings (“camphor and yellowed sonatas,” “oil-drop eyes that reflected...”) advance with no loops or near-duplicates, all under skylight pressure.</comment>
 
-<question>8</question><grade>8.7</grade>
-<comment>Fusing courier pigeons, meteorite seed, and attic archive into a fugitive lullaby feels fresh; the synthesis is inevitable in hindsight and the risk of lyric dispersal heightens stakes without gimmickry.</comment>
+<question>8</question>
+<grade>8.5</grade>
+<comment>The archived-lost-songs-as-avian-code premise feels fresh because it is rooted in specific bird-breading and hymnal watermarks—not quirk for its own sake—and ends with city sky quilts humming echoes survivors will hum unaware.</comment>
 
-<question>9 A</question><grade>8.2</grade>
-<question>9 B</question><grade>7.9</grade>
-<question>9 C</question><grade>7.6</grade>
-<question>9 D</question><grade>7.8</grade>
-<question>9 E</question><grade>8.1</grade>
-<question>9 F</question><grade>7.4</grade>
-<question>9 G</question><grade>7.7</grade>
-<question>9 H</question><grade>7.3</grade>
-<question>9 I</question><grade>8.0</grade>
-<question>9 J</question><grade>7.5</grade>
+<question>9 A</question>
+<grade>7.2</grade>
+
+<question>9 B</question>
+<grade>8.3</grade>
+
+<question>9 C</question>
+<grade>6.8</grade>
+
+<question>9 D</question>
+<grade>6.5</grade>
+
+<question>9 E</question>
+<grade>7.9</grade>
+
+<question>9 F</question>
+<grade>5.4</grade>
+
+<question>9 G</question>
+<grade>6.2</grade>
+
+<question>9 H</question>
+<grade>3.3</grade>
+
+<question>9 I</question>
+<grade>6.9</grade>
+
+<question>9 J</question>
+<grade>7.7</grade>

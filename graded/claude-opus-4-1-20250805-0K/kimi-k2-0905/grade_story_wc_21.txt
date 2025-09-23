@@ -1,27 +1,27 @@
 grade_story_wc_21.txt
-<question>1</question><grade>7.8</grade><comment>Mireya's motivation is rooted in her identity as an archivist seeking suppressed truth, with the personal cost of learning her mother's betrayal creating genuine internal conflict. The choice to broadcast the truth despite potential "crucifixion" shows earned character change through concrete loss (trading future years for knowledge). Minor deduction for some abstract emotional labeling ("throat full of salt") rather than fully embodied reaction at the revelation moment.</comment>
+<question>1</question><grade>7.8</grade><comment>Mireya's internal conflict between preserving truth and confronting her mother's betrayal drives authentic stakes, with the lagoon exchange creating genuine moral complexity. The moment of kneeling "throat full of salt" after discovering the betrayal embodies emotion without therapy-speak. Minor deduction for some abstract phrasing around memory encryption that could be more visceral.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural lens with the lagoon as cipher that trades memory for future, building to Mireya's public broadcast as a Decisive Change with clear cost ("years rearrange inside me," potential crucifixion). The pattern of exchange (shells for vowels, kelp for interrogatives) teaches its logic early and pays off when she accepts her mother's betrayal page. Orientation anchors solidly by line 3, and the final act of reading names over loudspeaker transforms private knowledge into public reckoning.</comment>
+<question>2</question><grade>8.2</grade><comment>Accumulative/Textural lens coheres as Mireya trades future fragments for past truths, building to a Resonant Reconfiguration where she broadcasts the suppressed testimonies despite personal cost. The "kerosene onto a ready flame" image crystallizes both the danger and necessity of her choice. Orientation anchors cleanly by line 3 with character, role, and immediate situation.</comment>
 
-<question>3</question><grade>7.6</grade><comment>The obsidian lagoon constrains choice through its retrocognitive trap that holds Mireya's ankles "like shackles," while the grammar of shells and debris enables communication. Sensory detail is selective and purposeful ("hot glass-grain," "dark petals"). The floating library zeppelin and capital with celebratory cannons below provide spatial coherence for the final broadcast, though some middle passages lean abstract.</comment>
+<question>3</question><grade>7.9</grade><comment>The obsidian lagoon functions as micro-setting that constrains choice—Mireya must trade her future to decrypt the past. Beach debris grammar ("scallop edges for vowels, black urchin spines for stops") creates specific tactile detail. The gondola/zeppelin setting enables the final broadcast but could pressure choices more directly in the middle beats.</comment>
 
-<question>4</question><grade>7.9</grade><comment>Escalation builds through the accumulating exchange system where each configuration of debris prompts deeper revelations, culminating in the mother's betrayal confession. The cost is legible both physically ("years rearrange inside me") and in the final choice to broadcast despite knowing she'll be "crowned or crucified." One meaningful deepening as Mireya progresses from seeking archives to accepting personal shame and choosing public truth.</comment>
+<question>4</question><grade>8.0</grade><comment>Stakes escalate through accumulative pressure as each decoded page costs years of Mireya's future ("futures closing like doors"), culminating in the mother's betrayal revelation that forces the broadcast decision. The "crown me or crucify me" acknowledgment shows clear understanding of consequences. One meaningful deepening satisfies this length.</comment>
 
-<question>5</question><grade>8.0</grade><comment>Theme emerges through the concrete metaphor of encryption/decryption, where suppressed truth requires personal sacrifice to unlock. The final broadcast over the capital transforms private grief into public reckoning, offering a non-literal answer about the cost of historical truth. The image of "names now unerasable because they were spoken above the obsidian lagoon" resonates without moralizing, though the "kerosene onto a ready flame" metaphor slightly overstates.</comment>
+<question>5</question><grade>8.3</grade><comment>The ending's broadcast of names "now unerasable because they were spoken above the obsidian lagoon" offers a non-literal answer about how truth persists through sacrifice. The lagoon-as-memory-cipher avoids abstraction through concrete beach grammar exchanges. Theme emerges from the specific cost of preserving suppressed histories.</comment>
 
-<question>6</question><grade>7.7</grade><comment>Distinctive voice with controlled register mixing archival precision ("two cables above," "isolation protocol") with lyrical compression ("dune-sheet parted like a sigh"). POV remains stable with Mireya's perceptual signature as archivist filtering observations. Some elevated diction ("searing reverie") occasionally drifts from established voice, and the final paragraph's rhythm could vary more under peak pressure.</comment>
+<question>6</question><grade>7.6</grade><comment>Distinctive voice with controlled elevation ("the dune-sheet parted like a sigh") and specific perceptual signature in how Mireya catalogues archive materials. Some register drift into academic abstraction ("retrocognitively trapped") that slightly distances from immediate experience. No dialogue to evaluate.</comment>
 
-<question>7</question><grade>7.5</grade><comment>Generally strong prose with vivid specificity ("scallop edges for vowels, black urchin spines for stops") and good information density. The "throat full of salt" and "kerosene onto a ready flame" push toward overwriting without quite breaking coherence. Some template cadence in the middle exchange sequences ("I offered... In return...") that could vary more, though the pattern serves the accumulative structure.</comment>
+<question>7</question><grade>7.4</grade><comment>Generally clean prose with strong images like "ink bubbling" and "dark petals" floating up. Information density high in the beach debris grammar section. Deduction for conceptual abstraction around "encrypted memory" and some filter-heavy passages ("I felt years rearrange inside me") that could be more immediate.</comment>
 
-<question>8</question><grade>7.4</grade><comment>The retrocognitive lagoon that encrypts memory is a fresh angle on revelation stories, with the specific grammar of beach debris as communication system adding originality. The twist of mother's betrayal grows from established details rather than convenience. While the frame of uncovering suppressed history is familiar, the specific mechanism and cost structure feel earned and particular to this world.</comment>
+<question>8</question><grade>8.1</grade><comment>The lagoon-as-memory-cipher concept freshly reimagines archival discovery through visceral exchange rather than passive reading. The specific detail of constructing beach debris grammar to communicate with water transforms a potentially abstract concept. Risk-taking in the non-linear revelation structure pays off at closure.</comment>
 
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>8.6</grade>
-<question>9 C</question><grade>8.2</grade>
-<question>9 D</question><grade>7.4</grade>
-<question>9 E</question><grade>7.6</grade>
-<question>9 F</question><grade>7.8</grade>
-<question>9 G</question><grade>6.2</grade>
-<question>9 H</question><grade>5.8</grade>
-<question>9 I</question><grade>8.0</grade>
-<question>9 J</question><grade>7.2</grade>
+<question>9 A</question><grade>8.2</grade>
+<question>9 B</question><grade>9.1</grade>
+<question>9 C</question><grade>8.5</grade>
+<question>9 D</question><grade>7.8</grade>
+<question>9 E</question><grade>8.0</grade>
+<question>9 F</question><grade>7.5</grade>
+<question>9 G</question><grade>6.8</grade>
+<question>9 H</question><grade>5.2</grade>
+<question>9 I</question><grade>8.3</grade>
+<question>9 J</question><grade>7.9</grade>

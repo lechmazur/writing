@@ -1,31 +1,27 @@
 grade_story_wc_46.txt
-Looking at this story through the lens of a demanding editor, I'll evaluate it systematically across all categories.
+<question>1</question><grade>7.8</grade><comment>Lira's motivation to share light without fire is embodied through concrete ritual actions and sensory memories, with internal conflict between isolation and connection driving her choices. The transformation from weighted absence to "fullness" at closure is earned through prior causality, though some introspective passages lean toward diagnostic clarity ("the exact mass of every night she had spent alone") rather than pure embodiment.</comment>
 
-**Drive Lens:** Accumulative/Textural - the story builds through layered imagery and memory toward a resonant transformation.
+<question>2</question><grade>8.2</grade><comment>The story achieves a Resonant Reconfiguration where Lira's successful sharing of stillness-light transforms both her internal state and the villagers' relationship to darkness, with visible cost in the pearl's dissolution. The accumulative/textural lens holds throughout, building pressure through ritual repetition and sensory density toward the final image of "weighing nothing, lighting everything."</comment>
 
-<question>1</question><grade>7.8</grade><comment>Lira's motivation to share light without fire is clearly rooted and intensifies through concrete embodied moments like "weight settle inside her chest, the exact mass of every night she had spent alone." The final choice to release the pearl shows meaningful change with visible cost ("the pearl dissolve between her fingers"), though some interiority edges toward over-articulation.</comment>
+<question>3</question><grade>7.9</grade><comment>The serpentine grotto functions as more than setting—its calcite veins, ancient seawater, and resonant spine actively participate in the transformation ritual, constraining Lira's actions and enabling the pearl's creation. Sensory detail is selective and purposeful (salt-sweet breath, emerald gloom), though the village setting remains somewhat generic beyond rooftops and fields.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong Resonant Reconfiguration closure where Lira transforms from isolated star-watcher to communal light-bearer, with clear cost ("pearl dissolve between her fingers, its last weight the exact heft of a sigh released after long crying"). The accumulative structure coheres well, though the orientation could anchor "who" slightly earlier.</comment>
+<question>4</question><grade>7.6</grade><comment>The dominant stake—sharing light without kindling fear—is signaled early and tested through the ritual's progression, with the pearl's weight-exchange creating a meaningful tightening that forecloses Lira's isolation. Cost is visible in the pearl dissolving "between her fingers" and felt in the transformation from burden to "fullness," though escalation relies more on accumulation than decisive reversals.</comment>
 
-<question>3</question><grade>8.4</grade><comment>The serpentine grotto functions as more than setting—its "calcite veins pulse like faint heartbeats" and later becomes a mirror that enables transformation. Sensory detail is selective and purposeful ("salt-sweet breath of tides"), and the environment constrains choices through the specific ritual space.</comment>
+<question>5</question><grade>8.1</grade><comment>Theme emerges through the central metaphor of light-without-fire as connection-without-fear, with the pearl of stillness literalizing inner calm that can be shared. The final image of Lira as "a lantern needing no wick" resonantly answers the story's question about how to bridge isolation, though some passages edge toward explicit thematic statement ("memories resurfaced not as chains but as constellations").</comment>
 
-<question>4</question><grade>7.9</grade><comment>The dominant stake of sharing light without fire escalates through the ritual's progression, with meaningful deepening when "the pearl's absence as fullness" reweights her relationship to darkness. Cost is visible in the pearl's dissolution and her acceptance of loss, though pressure could tighten more sharply mid-story.</comment>
+<question>6</question><grade>7.7</grade><comment>The lyric voice maintains consistent perceptual signature through selective attention to luminous detail and weight-based metaphors, with purposeful compression in phrases like "zephyr bloom cool." Some introspective passages drift toward elevated register ("the exact heft of a sigh released after long crying") that slightly exceeds Lira's established lexicon, but rhythmic control during the ritual sequence is strong.</comment>
 
-<question>5</question><grade>8.3</grade><comment>Theme emerges organically through the pearl of stillness metaphor—light without burning becomes healing without harm. The final image of Lira as "a lantern needing no wick" offers a non-literal answer to the central question, and the recurring memory motif ("memories resurfaced") gains depth through repetition.</comment>
+<question>7</question><grade>7.3</grade><comment>Prose achieves moments of genuine beauty ("dandelion seed" light shafts, "shoreline receiving tide") with strong information density in ritual passages. However, the phrase "memories resurfaced" appears three times with diminishing returns, and some constructions lean toward template cadence ("She had come to... She thought of... She felt..."). The closing image recovers momentum with integrated metaphor.</comment>
 
-<question>6</question><grade>7.6</grade><comment>Distinctive lyrical voice with controlled rhythm ("three circles sunwise, one slow breath"), though occasionally drifts toward elevated register ("fugitive glimmers," "zephyr bloom cool"). The perceptual signature is strong in moments like "eyes wide as lunar craters, mouth a shoreline receiving tide," but some passages edge toward purple prose.</comment>
+<question>8</question><grade>7.4</grade><comment>The concept of sharing light without fire offers a fresh angle on connection and fear, with the pearl of stillness as tangible manifestation of inner calm providing specific grounding. The serpentine grotto ritual and weight-exchange mechanism feel organic to this world, though the village's generic fear of light lacks the specificity that elevates other elements.</comment>
 
-<question>7</question><grade>7.4</grade><comment>Information density is high with lines doing multiple jobs ("The mist reacted, coiling tighter, weaving itself into translucent ropes"). Some figurative density in peak beats ("soft petals of luminance unfurling") and occasional register drift ("the exact mass of every night") prevent higher scoring, though no major clarity issues.</comment>
-
-<question>8</question><grade>7.7</grade><comment>The concept of sharing light without fire offers a fresh angle on healing/transformation narratives. The synthesis of astronomical observation with cave ritual creates specificity, though some metaphorical choices ("dandelion seed" for light shafts) feel less original. The pearl of stillness as transformative medium shows genuine ingenuity.</comment>
-
-<question>9 A</question><grade>8.2</grade>
-<question>9 B</question><grade>8.8</grade>
-<question>9 C</question><grade>9.1</grade>
-<question>9 D</question><grade>7.4</grade>
-<question>9 E</question><grade>8.6</grade>
-<question>9 F</question><grade>7.8</grade>
-<question>9 G</question><grade>8.4</grade>
-<question>9 H</question><grade>7.2</grade>
-<question>9 I</question><grade>8.9</grade>
-<question>9 J</question><grade>7.6</grade>
+<question>9 A</question><grade>7.8</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>8.6</grade>
+<question>9 D</question><grade>6.8</grade>
+<question>9 E</question><grade>7.9</grade>
+<question>9 F</question><grade>7.2</grade>
+<question>9 G</question><grade>7.6</grade>
+<question>9 H</question><grade>6.4</grade>
+<question>9 I</question><grade>8.8</grade>
+<question>9 J</question><grade>6.9</grade>

@@ -1,31 +1,55 @@
 grade_story_wc_87.txt
-<question>1</question><grade>8.1</grade><comment>Elara's inner contradiction—navigator stripped of maps—drives every on-the-water choice; her shift from chart-obedience to marrow-steering feels fully earned. Micro-turns (paddle toward shoals, laughter at the gash) show traits in action, and her emotional spiral is embodied rather than labeled. No second character, so relationship pressure bullet not applicable. Internal beats crystallize the price paid in self-forfeiture of certainty.</comment>
+<question>1</question><grade>8.7</grade><comment>Elara’s self-recrimination fuels every pivot; her choice to stop relying on metal instead of marrow crystallizes the arc. Interior shifts are embodied, not labeled, and her renunciation lands with audible cost. Flawed, specific, and irreversible.</comment>
 
-<question>2</question><grade>9.0</grade><comment>Closure delivers an earned Resonant Reconfiguration: Elara’s final forward stroke abandons destination and embraces process. Each pole-light beat tightens stakes (“charts were just paper apologies”) under the Accumulative/Textural lens. No teleporting props or logic breaks; the compass stays cracked, never magically repaired. All causality holds through the final “widening yes” that reconfigures meaning instead of place.</comment>
+<question>2</question><grade>9.2</grade>
+<comment>Closure is a resonant reconfiguration: the cracked compass is abandoned, and the paddle strokes become the new rhythm. Causality locks—regret tightens into forward motion via utility-pole navigation. No exposition, only image and consequence.</comment>
 
-<question>3</question><grade>8.2</grade><comment>Salt wind biting cheeks, drysuit breach, bioluminescent dolphins—all ground choices and reweight the final image. Utility poles as surrogate constellations provide macro-setting that shapes the literal course, while kayak hull and cracked compass act as micro-settings constraining stance. Spatial anchors are legible throughout; no impossible movements or white-room effects. Weather and tidal blackness heighten pressure without expository excess.</comment>
+<question>3</question><grade>8.4</grade>
+<comment>The kayak, body, and sea function as micro-setting—cold water baptism, hull slap as Morse code. Utility poles constrain direction; fog erases landmarks, forcing auditory navigation. Tactile, coherent, and specific.</comment>
 
-<question>4</question><grade>8.4</grade><comment>Stake is clear—restore self-trust while risking the unknown. Escalation progresses as safer harbor fades, compass fails, water invades suit, shoals threat rises. Each decision (steering off-chart, renouncing maps) narrows options under visible risk. No coincidence resolves; dolphins bless rather than rescue, so agency remains hers. Cost is on-page: the final “widening yes” carries acceptance of limitless exposure.</comment>
+<question>4</question><grade>8.1</grade>
+<comment>Stakes escalate when regret’s backlash becomes the recalibration tool. Each pole light forecloses the former star-map, narrowing options. One decisive intensification carries felt loss.</comment>
 
-<question>5</question><grade>8.8</grade>
-<comment>No moralizing; theme emerges viscerally through the journey from instrument to intuition. Metaphors shift “burned pier,” “paper apologies,” “confetti charts”—reweighted meaning arrives in final “widening yes.” Complex invitation to read navigation as living rather than plotting. The ending crystallizes thematic stakes without tidy maxim.</comment>
+<question>5</question><grade>9.0</grade>
+<comment>Theme emerges from the synthesis of broken instruments and broken selves—ambiguity lingers but the final image reweights meaning around flickering faith versus silence. No tidy moral, only embodied cost.</comment>
 
-<question>6</question><grade>9.0</grade>
-<comment>Voice is lyric yet muscular, diction salted like the setting; perceptual signature filters every detail through Elara’s navigator mind. Rhythm adjusts to each beat, from breathless compound clauses under stroke to single stark end-phrase. No register drift or filter-verb clutter. Distinct metaphors invented on the fly (“merrily melancholic god”) feel character-consistent rather than ornamental.</comment>
+<question>6</question><grade>8.6</grade>
+<comment>Merrily melancholic tone modulates from ironic prayer to quiet baptism in cold water. Rhythm and diction shift under pressure; no head-hopping, POV stable. Final line crystallizes the stance without explication.</comment>
 
-<question>7</question><grade>9.1</grade>
-<comment>Dense information packing without paraphrase loops: single gestures carry narrative load (“paddle blades flickering faith”). Figurative language varied; each metaphor serves moment and avoids cluttering high-pressure beats. Sentence lengths and cadence mirror water chop and fog. Line clarity pristine—no typographic, tense, or simultaneity confusion. Final line lands clean.</comment>
+<question>7</question>
+<grade>8.3</grade>
+<comment>Sentence rhythms mirror kayak cadence; metaphor density is purpose-driven. Only one small template cadence in peak beat; keeps propulsion. Read-aloud test passes.</comment>
 
-<question>8</question><grade>9.2</grade>
-<comment>Fresh synthesis: turning roadside utility poles into navigational constellations feels non-obvious yet inevitable. Conceptual risk in replacing celestial mechanics with man-made lamps pays off as metaphor for post-trust navigation. Emotional specifics root universal plight of direction-lost individuals. Final image of kayak advancing into “uncharted” without destination resists template ending and remains grounded in lived experience.</comment>
+<question>8</question>
+<grade>8.6</grade>
+<comment>Salt as percussion revisits without cliché; forsaking charts for pole lights feels inevitable yet fresh. Conceptual repricing reframes navigation as a moral act. Risk distinction in lyric-mosaic pacing charges closure.</comment>
 
-<question>9 A</question><grade>8.1</grade>
-<question>9 B</question><grade>7.9</grade>
-<question>9 C</question><grade>7.4</grade>
-<question>9 D</question><grade>6.8</grade>
-<question>9 E</question><grade>7.0</grade>
-<question>9 F</question><grade>8.3</grade>
-<question>9 G</question><grade>7.2</grade>
-<question>9 H</question><grade>6.4</grade>
-<question>9 I</question><grade>7.7</grade>
-<question>9 J</question><grade>7.5</grade>
+<question>9 A</question>
+<grade>8.7</grade>
+
+<question>9 B</question>
+<grade>9.4</grade>
+
+<question>9 C</question>
+<grade>8.5</grade>
+
+<question>9 D</question>
+<grade>7.2</grade>
+
+<question>9 E</question>
+<grade>8.9</grade>
+
+<question>9 F</question>
+<grade>9.1</grade>
+
+<question>9 G</question>
+<grade>7.3</grade>
+
+<question>9 H</question>
+<grade>7.8</grade>
+
+<question>9 I</question>
+<grade>8.0</grade>
+
+<question>9 J</question>
+<grade>8.8</grade>

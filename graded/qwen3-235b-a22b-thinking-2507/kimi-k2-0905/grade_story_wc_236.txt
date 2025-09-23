@@ -1,19 +1,19 @@
 grade_story_wc_236.txt
-<question>1</question><grade>8.6</grade><comment>Mira’s sensory loss fuels authentic contradiction (memory vs proof, professional identity vs new role), but her epiphany about the screw’s origin edges toward convenient imagination rather than earned struggle. Micro-choices like rotating the screw show hierarchy of values, though the transition from despair to insight lacks sufficient friction in the final beat.</comment>
-<question>2</question><grade>8.8</grade><comment>Closure as Charged Poise lands powerfully when Mira rotates the screw toward the float—a crystallized stance with felt cost (permanent smell loss now reframed). Orientation anchors immediately ("morning fog"), but the screw’s backstory relies on Mira’s speculation rather than textual evidence, slightly weakening causality in the pivotal realization beat.</comment>
-<question>3</question><grade>9.1</grade><comment>The water clock’s mechanics actively constrain choices: its dripping sound shapes Mira’s perception ("breath held between contractions"), and the screw’s micro-scratches charge the final image. Fog transforms the shop into a "diaphragm," directly mirroring her emotional state while guiding her tactile investigation.</comment>
-<question>4</question><grade>8.7</grade><comment>Stakes tighten when Mira shifts from analyzing the screw to repositioning it—a meaningful choice that forecloses passive observation. Cost is visceral (tears, "hollow nose"), but escalation leans slightly on Horace’s absence rather than protagonist-driven pressure; the "panic" metaphor risks abstracting the concrete birth trauma it references.</comment>
-<question>5</question><grade>9.3</grade><comment>Theme emerges through the screw’s transformation from artifact to "spindle of unseen wonders," avoiding moralizing. Final image ("maps drawn by loss as much as landmark") reweights the premise with conceptual cost—Mira’s sensory deprivation becomes a lens for meaning—without stating a moral, though "trembling calm" risks thematic echo if overemphasized.</comment>
-<question>6</question><grade>9.0</grade><comment>Prose has a distinct perceptual signature ("bottled dawn itself," "ticking ghosts") filtered through Mira’s sensory deprivation. Rhythmic control under pressure shines in fragmented clauses during her realization, but "reading between lines of metal she could no longer scent" slightly over-explains the central motif, nudging toward tell.</comment>
-<question>7</question><grade>8.9</grade><comment>Zero loops or scaffold; high density ("gurgled, its descending float marking seconds with drops instead of hands"). Minor overwriting in "micro-scratches spiraling outward like the panic in a delivery room" risks mixed metaphor (scratches as panic), and "motivation to unveil ordinary miracles flickered" uses abstract phrasing that dilutes momentum.</comment>
-<question>8</question><grade>9.2</grade><comment>Transforms familiar tropes through Mira’s sensory loss: the water clock repair shop becomes a crucible for redefining meaning, and the birthing screw motif synthesizes medical and temporal imagery in a fresh, non-obvious way. Risk-taking (sensory deprivation as narrative engine) heightens stakes without gimmickry, though the "loss as gift" arc flirts with sentimentality.</comment>
-<question>9 A</question><grade>8.9</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.7</grade>
-<question>9 D</question><grade>8.5</grade>
-<question>9 E</question><grade>9.0</grade>
-<question>9 F</question><grade>8.8</grade>
-<question>9 G</question><grade>9.1</grade>
-<question>9 H</question><grade>8.6</grade>
-<question>9 I</question><grade>8.9</grade>
-<question>9 J</question><grade>9.3</grade>
+<question>1</question><grade>8.9</grade><comment>Interior contradiction (scent memory vs anosmia) drives embodied micro-choices like rotating the screw; closure's earned endurance—carrying the screw without scent—forecloses healing with palpable cost in the pocket gesture.</comment>
+<question>2</question><grade>9.2</grade><comment>Closure as Charged Poise: the quarter-turn reassembly crystallizes Mira’s stance shift (from seeking smell to mapping emotion), with cost legible in "hollow nose might refill with meaning if not molecules" now resolved through tactile legacy.</comment>
+<question>3</question><grade>9.5</grade><comment>The birthing clamp screw constrains choice (rotating its scar) and charges the final image (pocketed keepsake); fog’s diaphragm contraction mirrors Mira’s emotional constriction, avoiding static description through causal weather-pressure integration.</comment>
+<question>4</question><grade>8.7</grade><comment>Stakes tighten via Mira’s agency: her realization about the screw’s origin transforms passive reflection into active reassembly, narrowing options to "humanize every future client" with cost visible in tears blurring the loupe—a single deepening suffices for this length.</comment>
+<question>5</question><grade>9.3</comment><comment>Theme emerges through the screw’s reweighted meaning: "maps of emotional terrain are drawn as much by loss as by landmark" crystallizes in the final walk, avoiding moralizing via the lavender-pinning woman and bicycle boy as organic extensions of Mira’s earned insight.</comment>
+<question>6</question><grade>9.6</grade><comment>Perceptual signature shines—"reading between lines of metal she could no longer scent" filters setting through anosmia; rhythmic control under pressure peaks when fog "pressed against windows," compressing diction without sacrificing voice coherence.</comment>
+<question>7</question><grade>9.1</grade><comment>Zero paraphrase loops; every line propels momentum (e.g., "warm, as though it still carried the heat of a stranger’s first breath" merges object, emotion, and backstory). Figurative language ("bottled dawn") remains character-particular in high-pressure beats.</comment>
+<question>8</question><grade>9.4</grade><comment>Transforms the "lost sense" trope through specific synthesis: anosmia reframed as tactile emotional mapping, with the screw’s origin story avoiding cliché via midwife’s metallic prayer—a risk that heightens stakes without obscuring clarity.</comment>
+<question>9 A</question><grade>9.7</grade>
+<question>9 B</question><grade>9.8</grade>
+<question>9 C</question><grade>9.5</grade>
+<question>9 D</question><grade>9.3</grade>
+<question>9 E</question><grade>9.6</grade>
+<question>9 F</question><grade>9.4</grade>
+<question>9 G</question><grade>9.2</grade>
+<question>9 H</question><grade>8.9</grade>
+<question>9 I</question><grade>9.1</grade>
+<question>9 J</question><grade>9.7</grade>

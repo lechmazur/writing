@@ -1,29 +1,39 @@
 grade_story_wc_145.txt
-<question>1</question><grade>8.7</grade><comment>Maren’s dry wit and subtle confidence are shown through her refusal to answer the radio, her measured descent, and her final smile—each action rooted in her cataloguer’s discipline and quiet rebellion. Interiority is concrete (watching condensation, swallowing editorial instinct), and the moment she tears the map page carries visible cost. The flaw is that her childhood question about river origins is stated rather than embodied in a micro-choice.</comment>
-
-<question>2</question><grade>9.1</grade><comment>The causal chain is tight: late falcon → radio word → condensation pattern → phrasebook cue → ice opens → descent → map dissolves → Registry thwarted. Closure is a Resonant Reconfiguration: Maren renounces institutional validation, choosing myth over data, and the cost is the Registry’s dismissal and the falcon’s death. The spiral motif threads every beat, paying off in the final frost spiral.</comment>
-
-<question>3</question><grade>8.9</grade><comment>The rusted outpost, frost-torn falcon, and subterranean estuary are rendered with tactile specificity (ice groans, limestone balcony, glowing microorganisms). Each detail constrains choice: the corroded tripod anchors the rope, the warm crack in the ice forces the descent, the glowing water rewrites the map. The lake’s “worrying tranquility” charges the final image.</comment>
-
-<question>4</question><grade>8.8</grade><comment>Dominant stake—preserve the river-origin truth before the Registry buries it—tightens when the radio demands coordinates and Maren instead transmits the living map. Pressure escalates through each beat: frost-torn falcon, impossible warmth, liquefying ice, map’s dissolution. The cost is explicit: the falcon dies, the page is lost, her career is “classified.”</comment>
-
-<question>5</question><grade>9.0</grade><comment>Theme emerges from particulars: every river word carved in stone, the atlas blank page, the dissolved map carried by microorganisms. The final image—rivers stitching the world—reweights the premise without moralizing. Subtext lives in silence: Maren never speaks to the Registry, only to the ice. The cost of myth over data is felt, not stated.</comment>
-
-<question>6</question><grade>8.6</grade><comment>Third-person limited stays close to Maren’s cataloguer gaze: “she adjusted the atlas,” “she watched condensation,” “she understood.” Diction is precise, slightly clinical, modulating under pressure (“swallowed her editor’s instinct”). No dialogue, but the internal voice is consistent and textured.</comment>
-
-<question>7</question><grade>9.0</grade>
-<comment>Prose is dense and propulsive: “ice groaned beneath her boots,” “water glowed faintly, lit by microorganisms that pulsed in sequence.” No loops or scaffold; every sentence advances. Metaphors are controlled (spiral as Braille, rivers as silver thread). Final line—“she listened for rivers learning to speak”—lands with rhythmic closure.</comment>
-
-<question>8</question><grade>9.2</grade>
-<comment>The premise—an underground estuary where all river origins converge—feels inevitable yet fresh. The phrasebook as linguistic key, the map as living ink, and the falcon as dying herald transform familiar quest tropes. The risk of myth over data is fully committed to, culminating in the dissolved page carried by glowing microbes.</comment>
-
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.1</grade>
-<question>9 C</question><grade>9.3</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.8</grade>
-<question>9 F</question><grade>8.6</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>7.4</grade>
-<question>9 I</question><grade>8.8</grade>
-<question>9 J</question><grade>8.9</grade>
+<question>1</question><grade>8.7</grade><comment>Interiority is sharp—Maren’s cataloguing instinct collides with wonder—and each micro-choice (ignoring the radio, tearing the page, descent) emerges from a trait that has already been staged (‘dry-witted,’ ‘subtly confident’). Motivation is legible until the final beat; only the falcon’s resurrection-by-updraft slightly blurs cost, keeping the score just outside the 9-band.</comment>
+<question>2</question><grade>8.8</grade><comment>The drive lens is Accumulative/Textural. Closure is a Conceptual Repricing: the map dissolves into living waterways, replacing conquest with witness. Causality is intact—each beat adds density (the warm exhale-spiral, the chime responding to Quechua)—until Maren actively chooses to transmit the image rather than coordinates.</comment>
+<question>3</question><grade>9.2</grade>
+<comment>Place is never decorative: the corroded tripod becomes lifeline and compass, the throat-shaped limestone balcony supplies footing, the frozen lake constrains every move. Micro-setting objects (ice fracture, survey rope) actively shape tactics and are recharged under the ending image.</comment>
+<question>4</question><grade>8.9</grade>
+<comment>Single dominant stake—how to be the first witness—tightened once by the Registry’s demand and again by the decision to transmit the ephemeral map rather than betray it. The choice exacts an on-page cost (sacrificing confirmation, erasing the artifact) that crystallizes the stance.</comment>
+<question>5</question>
+<grade>8.7</grade>
+<comment>The question of origin emerges through repeated river words and glowing microorganisms, culminating in a resonant gesture: map becomes river, secrecy becomes transmission. Theme is earned without direct articulation—ambiguity lingers, inviting future children to dream.</comment>
+<question>6</question>
+<grade>9.0</grade>
+<comment>Perceptual signature is controlled throughout: Maren catalogs, annotates, and breathes spirals. Compression (“she listened for rivers learning to speak”) is taught early enough; no lines obscure interiority or leak distance.</comment>
+<question>7</question>
+<grade>9.3</grade>
+<comment>Lines do multiple jobs (setting + body + metaphor) without figurative clutter. Rhythm accelerates at descent—condensation, chime, rope rungs—then softens into the final image. No filler or synonym loops dull the closure.</comment>
+<question>8</question>
+<grade>9.0</grade>
+<comment>Forges a fresh angle on the “hidden source of all rivers” idea through bilingual etymology, glowing biome map, and the ethical pivot of letting truth propagate instead of archiving it. The synthesis feels inevitable yet non-obvious.</comment>
+<question>9 A</question>
+<grade>8.5</grade>
+<question>9 B</question>
+<grade>7.9</grade>
+<question>9 C</question>
+<grade>9.2</grade>
+<question>9 D</question>
+<grade>7.6</grade>
+<question>9 E</question>
+<grade>8.8</grade>
+<question>9 F</question>
+<grade>9.1</grade>
+<question>9 G</question>
+<grade>8.9</grade>
+<question>9 H</question>
+<grade>7.4</grade>
+<question>9 I</question>
+<grade>9.0</grade>
+<question>9 J</question>
+<grade>8.3</grade>

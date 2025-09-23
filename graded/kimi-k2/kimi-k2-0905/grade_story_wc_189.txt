@@ -1,29 +1,61 @@
 grade_story_wc_189.txt
-<question>1</question><grade>8.7</grade><comment>The chronicler’s interiority is textured and embodied; her tangential method and tactile attention to tide-pool life reveal contradictory impulses—flight from confrontation vs. longing for reconnection. The jade cicada as inherited pulse anchors her grief and patience, charging the final hand-off with felt cost. Micro-choices (shifting lantern, writing “texture,” offering the carving) all tilt the relationship under pressure. Only slight reserve: the daughter’s interiority is implied rather than dramatized, keeping the crucible slightly one-sided.</comment>
+<question>1</question><grade>8.9</grade><comment>Porous, tidal chronicler’s choices (offering cicada, shifting lantern) directly shape the turning point; interiority skews lyrical but always grounds in embodied sensation—salt on lips, pulse of stone.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands as Resonant Reconfiguration: the shared warmth of the cicada crystallizes a before/after in their stance without tidy resolution. Accumulative/Textural lens holds—each sensory layer (salt, drip, starlight) deepens the stake until the final image reweights it. Causality is sideways, deliberate; no causal leaps. Cost is legible in the erased word, the chill dawn, the erased footprints—time touched only as it disappears.</comment>
+<question>2</question><grade>9.1</grade><comment>Accumulative/Textural closure: patterned moonlight→fracture→texture reweights reconciliation stakes with earned silt-layer cost; no causality misstep.</comment>
 
-<question>3</question><grade>8.9</grade><comment>Grotto as throat between worlds constrains movement and metaphor; limestone ribs and phosphorescence guide the lantern’s placement and the daughter’s approach. Tide-pool micro-setting—anemone, brittle star, mussel—mirrors negotiation of pain. The jade cicada functions as portable setting, its temperature shift marking relational change. Final image of stone warmed by shared skin charges closure.</comment>
+<question>3</question><grade>8.7</grade>
+<comment>Grotto’s limestone ribs act as micro-setting; tide and phosphorescence constrain footing and time, recharging the final panoramic moment.</comment>
 
-<question>4</question><grade>8.4</grade><comment>Dominant stake—will reconciliation be possible before dawn—tightens through accumulating texture rather than causal reversals. The pause itself becomes a breathing creature; silence and sideways attention escalate pressure. Agency is renunciation of direct interrogation in favor of shared witness. Cost is the dawn’s chill and the erased footprints—time’s silt layering irreversibly.</comment>
+<question>4</question><grade>8.4</grade>
+<comment>Pause-as-creature metaphor tightens emotional bandwidth one meaningful turn: argument→quiet co-observation→re-tidal shift with tangible cost of eighteen-year cicada patience.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme of transition emerges through concrete particulars: cicada’s seventeen-year sleep, tide’s recession, texture of time as silt. No moralizing; the final non-verbal dawn image reweights the premise. Subtext in gesture—lantern shift, thumb brushing wings—carries apology and acceptance. Ambiguity lingers: conversation resumes but remains tidal, not resolved.</comment>
+<question>5</question><grade>9.2</grade>
+<comment>Transition-period rhetoric unifies theme via silt-layer metaphor; closure image rerenders time as tactile pay-all, not abstract thesis.</comment>
 
-<question>6</question><grade>9.2</grade><comment>Voice is lyric yet precise, with tidal cadence and selective sensory hierarchy. “Texture” written and erased, “pause…a creature, breathing” show perceptual signature. No head-hopping; daughter’s arrival is external until shadow merges. Compression taught early (“truth arrived sideways”) and paid off in final oblique dawn.</comment>
+<question>6</question><grade>8.6</grade>
+<comment>Vintage marine diction and rhythmic tide-cadence hold under daughter’s entry; no lexical slippage at climax.</comment>
 
 <question>7</question><grade>9.0</grade>
-<comment>Prose is dense, rhythmic, and propulsive; each sentence layers image and meaning without scaffold. Metaphors (grotto as throat, cicada as stored song) are coherent and grounded. No loops or synonym churn. Final line’s “slippery yet luminous” crystallizes texture without overwriting.</comment>
+<comment>Salt-line propulsion; zero loops; compact metaphors (jade heart, lunar fracture) enrich without muddle.</comment>
 
-<question>8</question><grade>8.8</grade>
-<comment>Familiar estrangement trope is transformed through tidal-pool chronicle and sideways method. Specificity of limestone ribs, brittle star negotiation, and cicada lore creates fresh synthesis. Risk in quiet, accumulative structure pays off in resonant closure. No derivative echoes.</comment>
+<question>8</question>
+<grade>8.3</grade>
+<comment>Silt-time recalibration feels fresh; sideways truth-telling rescues familiar estrangement trope through tidal specificity.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.4</grade>
-<question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>7.8</grade>
-<question>9 E</question><grade>7.2</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>8.3</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>8.0</grade>
-<question>9 J</question><grade>N/A</question>
+<question>9 A</question>
+<grade>8.8</grade>
+<comment>Observer-turned-initiator at pool and cliff rim; her every lantern tilt and cicada offering directly tighten reconciliation stakes.</comment>
+
+<question>9 B</question>
+<grade>8.6</grade>
+<comment>Jade cicada handled four times—pocket pulse, ledge promise, apology-shaped exchange, shared heartbeat—evolves from memory token to covenant tool.</comment>
+
+<question>9 C</question>
+<comment>Every beat measured in patience (cicada 17-year metaphor), redefining urgency from calendar to sediment; fundamental to tactic shift.</comment>
+
+<question>9 D</question>
+<grade>7.8</grade>
+<comment>Warm observation enables noticing brittle-star diagram, constraining how they witness pain together; deduction for fewer trade-off moments.</comment>
+
+<question>9 E</question>
+<grade>9.3</grade>
+<comment>Foreseeing expressed via sideways watching directly triggers offer of cicada, crystallizing future breakfast/joke micro-moments; unswappable pivot.</comment>
+
+<question>9 F</question>
+<comment>“Listen sideways” reframes question pool-side rather than daughter-in-law; shapes how chronicler initiates contact and reopens conversation late in scene.</question>
+
+<question>9 G</question>
+<grade>8.2</grade>
+<comment>Grotto’s tide rise constrains standing spots and clock; ritual cradle of starlight turns to erasing footprints, affecting departure path.</comment>
+
+<question>9 H</question>
+<grade>7.4</grade>
+<comment>Pause across conversation is dramatized as living creature; timeline remains clear but less enforced by external countdown, small cap.</comment>
+
+<question>9 I</question>
+<grade>8.1</grade>
+<comment>Desire for texture of time anchored in concrete touch of vanishing sand and cicada pulse; friction shown in awkward jokes tomorrow.</question>
+
+<question>9 J</question>
+<grade>7.7</grade>
+<comment>Tone modulates from brittle-star resilience to shared dawn luminosity, coherent but subtle; mid-chart since not foregrounded.

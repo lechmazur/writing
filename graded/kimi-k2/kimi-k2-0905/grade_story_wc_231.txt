@@ -1,31 +1,45 @@
 grade_story_wc_231.txt
-<question>1</question><grade>8.9</grade><comment>Maris’s interiority is vivid and embodied; her contradictory impulses (to keep the memory vs. release it) act simultaneously in the climactic release of the Edelweiss. The micro-choice to pin then surrender the flower crystallizes her arc with visible cost—loss of personal memories—earning the final “Repaid.” Only the stranger remains a cipher, but that serves the thematic design.</comment>
+<question>1</question><grade>7.4</grade><comment>Maris's interior contradiction between duty and memory is embodied (fingertip stain, log entry), but the final cost—the voluntary surrender of personal memories—is gestured more than dramatized; still, her micro-choice to drop the flower carries visible loss and earns the renunciation.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure is a Resonant Reconfiguration: Maris’s act of releasing the flower reweights the premise, paying the “memory interest” and restoring temporal symmetry. The Accumulative/Textural lens holds—each gap observed tightens the pattern until the final cadence shift. Cost is legible in the line “took with it a slice of her recollection.” No orientation debt; anchors clear by line 3.</comment>
+<question>2</question><grade>8.9</grade><comment>Closure is a resonant reconfiguration (Earned Stasis); the cycle is broken when Maris releases the Edelweiss, paying its debt with slices of her own recollections. Causality is compressed but legible under an Accumulative/Textural lens—the gaps tighten until the final image reweights the premise.</comment>
 
-<question>3</question><grade>9.0</grade><comment>The opal dock, mist, and lighthouse are not backdrop but instruments: the mist catches the beam like “milk stirred with silver,” the tide accepts the Edelweiss, and the balcony rail becomes the site of decisive action. Micro-setting (the lamp room glass, the planks) constrains movement and frames the final image. Weather and architecture actively shape tactics and closure.</comment>
+<question>3</question><grade>8.3</grade><comment>The mist-bound dock and tower rooms are rendered in precise sensory strokes that constrain movement and dictate how sound/light travel, charging the climax when the beam finds the ghostly stranger whole; micro-settings (rail, logbook page) double as active agents.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—breaking the memory-debt cycle—is signaled early and escalates through each observed gap. The tightening occurs when Maris realizes the gesture is a loan, not a gift, forcing the costly surrender. Agency drives the resolution; coincidence merely complicates. One meaningful deepening suffices at this length.</comment>
+<question>4</question><grade>8.2</grade><comment>The central stake—the cost of borrowed memory—escalates once through a deepening rather than reversal: what began as mystery becomes a debt payable only in her own past. The act of release narrows her future to lighthouse solitude, a price felt on the page.</comment>
 
-<question>5</question><grade>9.2</grade>
-<comment>Theme emerges from the tension between remembrance and erasure: the lighthouse must “remember what the sea forgets,” yet memory itself is a debt. Subtext resides in gesture, silence, and the final image of petals drifting like “tiny rafts.” The ending offers a resonant, non-literal answer without moralizing.</comment>
+<question>5</question><grade>8.7</grade><comment>"What the sea forgets" emerges organically from Maris’s act of substitution—she gives memory so the light can remember. The theme avoids moralizing; the final beam sweeping an empty dock speaks the question louder than any statement.</comment>
 
-<question>6</question><grade>9.0</grade>
-<comment>Voice is lyrical yet precise, with a perceptual signature tuned to maritime detail (“tide slapped the pilings with a rhythm that left gaps”). Syntax modulates with pressure—short clauses under climax, longer cadences in reflection. No head-hopping; POV remains locked to Maris. Compression and elision are taught early and paid off at closure.</comment>
+<question>6</question><grade>8.8</grade>
+<comment>A distinctive cadence—fog-hums, tide-slaps, mist-swallowed clangs—marks Maris’s POV; rhythmic control tightens under pressure (“boots now silent as if moss had grown”). The lyric drift is purposeful, paid off at closure when silence is replaced by gull-scold.</comment>
 
-<question>7</question><grade>9.3</grade>
-<comment>Prose is dense, musical, and propulsive; every sentence advances atmosphere or stakes. Figurative language is purposeful—e.g., “fog hums in a bell”—and never muddles causality. No loops, scaffold, or register drift. Rhythm accelerates naturally during the release of the flower, then exhales into the final line.</comment>
+<question>7</question><grade>9.0</grade>
+<comment>High-density, propulsive lines (“read absences as diligently as any signal”) do double work; no loops or scaffold. Metaphors stay coherent (fog/dock/milk), register consistent with POV, and zero figurative drag in the critical beat of release.</comment>
 
-<question>8</question><grade>9.4</grade>
-<comment>The memory-as-debt premise is fresh, and the transformation of a sentimental flower into a temporal anchor feels inevitable in hindsight. Specificity of setting and voice prevents cliché. Risky lyric compression heightens stakes without obscuring clarity. The final reconfiguration is both surprising and earned.</comment>
+<question>8</question><grade>8.5</question>
+<comment>Few stories hinge an entire arc on paying debts with literal memories exchanged for lighthouse vigilance; the alpine–maritime fusion and cyclical haunting feel fresh and inevitable in hindsight, not stitched gimmickry.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.5</grade>
-<question>9 C</question><grade>9.2</grade>
-<question>9 D</question><grade>8.1</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>8.6</grade>
-<question>9 G</question><grade>9.0</grade>
-<question>9 H</question><grade>7.4</grade>
-<question>9 I</question><grade>8.8</grade>
-<question>9 J</question><grade>8.9</grade>
+<question>9 A</question><grade>8.4</grade>
+
+<question>9 B</question><grade>9.2</grade>
+
+<question>9 C</question><grade>7.8</grade>
+
+<question>9 D</question><grade>6.9</grade>
+
+<question>9 E</question>
+<grade>7.6</grade>
+
+<question>9 F</question>
+<grade>7.3</grade>
+
+<question>9 G</question>
+<grade>6.8</grade>
+
+<question>9 H</question>
+<grade>5.7</grade>
+
+<question>9 I</question>
+<grade>8.0</grade>
+
+<question>9 J</question>
+<grade>7.4</grade>

@@ -1,27 +1,27 @@
 grade_story_wc_81.txt
-<question>1</question><grade>7.8</grade><comment>Mara's motivation is clear and deepens from professional curiosity to moral imperative, with concrete embodied details like the tingling stamp mark and working by touch. The final choice to rewrite history carries visible cost (defying the Council), though internal contradiction could be more simultaneous rather than sequential.</comment>
+<question>1</question><grade>7.8</grade><comment>Mara's motivation to uncover the catalogue's "honest origins" drives concrete choices throughout, from entering during the blackout to pressing the stamp on her wrist to reorganizing cards by their indentations. Her internal contradiction between duty to the Council and need for truth creates genuine tension, particularly when she discovers the catalogue's erasure purpose and chooses to create a counter-index.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural drive with pattern-based discovery building to a Decisive Change where Mara chooses to document suppressed history. Orientation anchors clearly by ~100 words, and the cost of defying the Council's false history is legible. The closure lands with "each step echoing like a newly catalogued truth," though the conceptual cost could be more visceral.</comment>
+<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural lens with pattern-based discovery leading to a Resonant Reconfiguration where Mara creates the counter-index, accepting the cost of defying the Council's false history. The closure lands with "knowledge begins where silence is stamped back into speech," crystallizing both conceptual and personal cost. Minor orientation lag (sunken city's relation to current city unclear until mid-story) prevents higher scoring.</comment>
 
-<question>3</question><grade>8.4</grade><comment>The flooded library setting directly constrains Mara's investigation (darkness forcing tactile reading, water rising to her knees) and enables discovery through phosphorescent plankton. Spatial choreography tracks cleanly from atrium to catalogue to stairwell, with environment shaping both method and meaning.</comment>
+<question>3</question><grade>8.4</grade><comment>The flooded library constrains every choice—from wading through rising water to working by touch when the lantern dims, to the phosphorescent plankton revealing the stamp's true pattern. The setting literally rises around Mara as she works, creating urgency, and the contrast between the submerged truth and the city "above" that pretends it never fell charges the final image.</comment>
 
-<question>4</question><grade>7.6</grade><comment>Stakes escalate from professional task to uncovering civilizational deception, with the blackout creating urgency and water rising as physical pressure. The tightening occurs when Mara discovers the catalogue's "honest origin was erasure itself," forcing her choice between compliance and truth.</comment>
+<question>4</question><grade>7.9</grade><comment>Stakes escalate from professional duty through epistemological crisis to political resistance as Mara discovers each layer of suppression. The rising water and dimming lantern create physical pressure while her discoveries narrow options to binary choice: comply with erasure or resist with the counter-index. Cost is visible in her "dappled resolve" and the warm mark on her wrist as she surfaces.</comment>
 
-<question>5</question><grade>8.0</grade><comment>Theme emerges through the stamp's negative space metaphor—truth found in absence rather than presence—culminating in "knowledge begins where silence is stamped back into speech." The concept of institutional erasure develops through concrete discovery rather than assertion, though the final line edges toward explicit statement.</comment>
+<question>5</question><grade>8.3</grade><comment>Theme emerges through the central metaphor of indentations as "silent witnesses"—what's suppressed reveals more than what's written. The story explores how power maintains itself through controlled forgetting, with Mara's counter-index embodying resistance through remembering. The final image of "silence stamped back into speech" resonantly reweights the entire catalogue project without moralizing.</comment>
 
-<question>6</question><grade>7.9</grade><comment>Distinctive voice with controlled elevated diction ("reclaimed stillness settled," "dappled resolve") that maintains consistency. Perceptual signature shows in details like "neural static" and "the hush of civilizations," though some phrases like "tranquilly perceptive" feel slightly forced from the prompt requirements.</comment>
+<question>6</question><grade>7.6</grade><comment>Voice maintains consistent literary register with precise diction ("latent pattern," "immaculate conception of knowledge") that fits Mara's role as indexer. Some overwrought moments ("neural static, the hush of civilizations") strain credibility under pressure. Strong perceptual signature in how she reads absence and pattern, though occasional purple prose ("kelp forests and reading tables into coral reefs") weakens control.</comment>
 
-<question>7</question><grade>7.5</grade><comment>Generally strong prose with varied syntax and purposeful rhythm shifts, but occasional overwriting ("immaculate conception of knowledge") and some template phrasing ("Hours dripped past"). Information density is high with most sentences carrying multiple functions, though metaphor density in places approaches excess.</comment>
+<question>7</question><grade>7.4</grade><comment>Generally strong prose with varied syntax and purposeful rhythm, particularly in discovery sequences. However, several overwrought phrases blur clarity: "the hush of civilizations that had mistaken ink for immortality" and "light and shadow alternating inside her like breathing" approach purple prose. Some template phrasing appears ("Hours dripped past" following "decades, leaks turned") but doesn't pervade.</comment>
 
-<question>8</question><grade>7.7</grade><comment>The concept of reading absence as presence offers fresh perspective on archival work, with the underwater library providing non-obvious setting. The revelation about erasure as control mechanism transforms a procedural task into political resistance, though the civics-and-catalogues combination feels somewhat familiar.</comment>
+<question>8</question><grade>8.1</grade><comment>Fresh synthesis of library-as-archaeology with submersion-as-erasure creates non-obvious angle on knowledge control. The specific innovation of reading indentations rather than ink, and the stamp revealing the pre-flood city grid, transforms expected archive story into something more resonant. Risk-taking in the extended metaphor of cataloguing as governance mechanism pays off at closure.</comment>
 
-<question>9 A</question><grade>7.2</grade>
+<question>9 A</question><grade>7.8</grade>
 <question>9 B</question><grade>8.6</grade>
-<question>9 C</question><grade>6.8</grade>
-<question>9 D</question><grade>4.2</grade>
-<question>9 E</question><grade>7.8</grade>
-<question>9 F</question><grade>6.4</grade>
+<question>9 C</question><grade>7.2</grade>
+<question>9 D</question><grade>6.4</grade>
+<question>9 E</question><grade>7.4</grade>
+<question>9 F</question><grade>7.6</grade>
 <question>9 G</question><grade>8.8</grade>
-<question>9 H</question><grade>7.6</grade>
+<question>9 H</question><grade>7.9</grade>
 <question>9 I</question><grade>8.2</grade>
-<question>9 J</question><grade>5.8</grade>
+<question>9 J</question><grade>6.8</grade>

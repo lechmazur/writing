@@ -1,31 +1,27 @@
 grade_story_wc_347.txt
-I'll evaluate this story through the lens of a demanding literary editor, applying the rubric systematically.
+<question>1</question><grade>7.8</grade><comment>Mara's characterization achieves strong embodied emotion through concrete details like "clenched a small nut" and "tasting iron and pine," with her motivation rooted in duty rather than love creating authentic internal conflict. The micro-choices of leaving warmth-ghosts and crushing the nut-kernel reveal her values under pressure with visible cost. Minor deduction for the slightly convenient timing of travelers reaching critical junctions just as Mara arrives to help.</comment>
 
-**Drive Lens:** Causal - the story follows a clear because/therefore chain where Mara's actions directly enable the travelers' escape.
+<question>2</question><grade>8.2</grade><comment>Strong Accumulative/Textural lens with Earned Stasis closure—Mara's acceptance of her cursed role forecloses freedom with visible cost ("the long walk back to the orchard that kept her prisoner"). The piece teaches its pattern early through the warmth-ghost mechanism and mechanical birds' rules, building density through repeated gestures that culminate in the saved travelers. Orientation anchors solidly by line 3 with who/where/when clear.</comment>
 
-<question>1</question><grade>7.8</grade><comment>Strong embodied tension through physical details like "clenched a small nut" and "knees popping," with Mara's motivation rooted in duty rather than love creating authentic complexity. The constraint of being unable to enter the labyrinth forces creative problem-solving that reveals character through action. Minor deduction for the slightly abstract "graceless beauty" formulation appearing twice without full dramatization.</comment>
+<question>3</question><grade>8.5</grade><comment>Exceptional integration of setting as constraint—the cliff edge, labyrinth walls, and mechanical birds actively shape every tactical choice Mara makes. The frost deadline creates tangible pressure, and the environment constrains her to indirect methods. Vivid sensory detail ("brass wings clicking like metronomes," "frost-brittle grass") filtered through Mara's urgent perception charges the final image.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Clear causal chain from Mara's inability to enter → warm impressions → travelers noticing → escape, with the nut's blueprint providing crucial navigation knowledge. Closure lands as Earned Stasis with visible cost ("the long walk back to the orchard that kept her prisoner"). The time constraint and mechanical birds create persistent pressure that shapes tactics throughout.</comment>
+<question>4</question><grade>7.9</grade><comment>Dominant stake (saving travelers before frost) established immediately with clear time pressure. Escalation reads through accumulating warmth-ghosts and the final handprint constellation, with meaningful deepening when Mara uses the nut's blueprint. Cost is legible in her permanent imprisonment and the "graceless beauty" of saving strangers she'll never meet.</comment>
 
-<question>3</question><grade>8.5</grade><comment>Exceptional integration of setting as constraint - the cliff edge, forbidden stones, and frost deadline all directly shape Mara's available actions. The "warm-ghosts" and "crystal fossils" create vivid, specific imagery that serves the plot. The mechanical birds' "lens-eye whirring" and "gears singing a lullaby of grinding teeth" achieve both atmosphere and active threat.</comment>
+<question>5</question><grade>8.3</grade><comment>Theme emerges organically through the paradox of imprisonment enabling salvation—Mara's curse becomes her purpose. The nut transforms from mother's gift to tactical tool, reweighting its meaning. The final image of "graceless beauty" offers a non-literal answer to duty versus freedom without moralizing, though the concept could resonate more deeply through the travelers' perspective.</comment>
 
-<question>4</question><grade>7.9</grade><comment>Stakes escalate through the tightening frost deadline and the travelers' wrong turn toward "deceptive moonlight," forcing Mara to innovate with the nut-kernel solution. The cost is visible in Mara's physical toll and her perpetual imprisonment. Slight deduction as the middle section could have one more turn where Mara's method nearly fails.</comment>
+<question>6</question><grade>8.6</grade><comment>Distinct perceptual signature throughout—Mara notices in tactical terms ("third junction, where the path split into seven lies") with consistent POV control. Prose rhythm accelerates during the time-critical final sequence. Voice maintains consistency even under pressure, with purposeful compression ("Time thinned") that serves urgency.</comment>
 
-<question>5</question><grade>8.1</grade><comment>Theme emerges organically through the contrast between imprisonment and freedom, duty without love, and "graceless beauty" of thankless service. The final image of Mara returning to her prison while others go free resonates without stating a moral. The nut as both gift and tool deepens the mother-daughter connection to the broader theme of inherited burdens.</comment>
+<question>7</question><grade>8.4</grade><comment>High information density with lines doing multiple jobs—"Wind hissed through the cliffside labyrinth patrolled by mechanical birds, their brass wings clicking like metronomes against the dusk" establishes setting, threat, and atmosphere simultaneously. No loops or scaffolding, strong verb choices throughout. Minor deduction for occasional filter construction ("she saw the travelers") in high-pressure moments.</comment>
 
-<question>6</question><grade>8.3</grade><comment>Distinctive voice with inventive constructions like "frost-brittle grass" and "warmth-ghosts," maintaining consistency throughout. POV control is excellent - we never slip into the travelers' heads or gain knowledge Mara doesn't have. The prose rhythm varies purposefully, accelerating during the time-pressure sequences.</comment>
+<question>8</question><grade>8.1</grade><comment>Fresh synthesis of curse-as-duty with the specific innovation of warmth-ghosts as communication method. The mechanical birds and microscopic blueprint on the nut shell show imaginative worldbuilding. Risk-taking in the indirect salvation method heightens stakes—Mara can only guide, never directly intervene.</comment>
 
-<question>7</question><grade>8.4</grade><comment>Clean, propulsive prose with high information density - nearly every line advances plot, atmosphere, or character simultaneously. Strong verb choices throughout ("hissed," "spewed," "banked"). No loops or scaffolding, though "graceless beauty" appears twice identically when variation might have enriched the echo.</comment>
-
-<question>8</question><grade>8.6</grade><comment>Fresh synthesis of fairy-tale curse with mechanical/steampunk elements creates an original world. The specific constraint of helping without touching is inventive and drives unique problem-solving. The "warm impressions" method and microscopic blueprint on the nut shell show genuine imagination. Risk-taking in the blend of genres pays off (+0.3).</comment>
-
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.1</grade>
-<question>9 D</question><grade>6.8</grade>
-<question>9 E</question><grade>7.5</grade>
-<question>9 F</question><grade>9.4</grade>
-<question>9 G</question><grade>8.9</grade>
-<question>9 H</question><grade>8.3</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>7.2</grade>
+<question>9 A</question><grade>9.2</grade>
+<question>9 B</question><grade>8.7</grade>
+<question>9 C</question><grade>7.8</grade>
+<question>9 D</question><grade>6.3</grade>
+<question>9 E</question><grade>7.4</grade>
+<question>9 F</question><grade>8.9</grade>
+<question>9 G</question><grade>9.4</grade>
+<question>9 H</question><grade>8.6</grade>
+<question>9 I</question><grade>8.8</grade>
+<question>9 J</question><grade>9.1</grade>

@@ -1,19 +1,19 @@
 grade_story_wc_64.txt
-<question>1</question><grade>8.9</grade><comment>Mercy's characterization is vivid and specific, with her "tenderly organized" nature compelling her actions. Her final choice to descend feels earned by prior causality, though her emotional journey during the tapestry decoding is slightly summarized, preventing a perfect score.</comment>
-<question>2</question><grade>9.2</grade><comment>The plot's accumulative structure is masterful, with each discovery logically leading to the next. The closure is a resonant reconfiguration (Charged Poise) that lands with undeniable conceptual cost, as Mercy accepts her new role as "keeper of the spiral."</comment>
-<question>3</question><grade>9.5</grade><comment>The cobalt silo, tapestry, and marble lamb are not just vivid but actively constrain choices and charge the final image. The setting is fully integrated into the narrative's causality, with the silo's transformation into a sanctuary being the story's climax.</comment>
-<question>4</question><grade>9.1</grade><comment>Stakes escalate cleanly from curiosity to a profound, life-altering discovery. Each beat narrows options and deepens knowledge, driven by Mercy's agency. The cost is legible in her final, deliberate choice to seal herself underground.</comment>
-<question>5</question><grade>9.0</grade><comment>The theme of memory versus oblivion is woven expertly through concrete particulars—the coin, the tapestry, the root cellar. The ending offers a resonant, non-literal answer, though the concept of "uncharted echoes" remains slightly more thematic than actively shaping tactics.</comment>
-<question>6</question><grade>8.7</grade><comment>The voice is distinct and consistently maintained, with a lyrical, slightly archaic quality that suits the tone. Minor register drift occurs in high-pressure beats (e.g., "uncharted echoes flutter through her ribs" edges toward abstraction), slightly dulling immediacy.</comment>
-<question>7</question><grade>8.8</grade><comment>Prose is lush and highly controlled, with excellent rhythm and sensory detail. A minor deduction for figurative density in some sentences, which, while beautiful, occasionally slows momentum (e.g., "starlight drips through the skylight"). No artifacts harm closure.</comment>
-<question>8</question><grade>9.3</grade><comment>The synthesis of a gardener, a Cold War silo, and a metaphysical cipher feels fresh and inevitable. The core concept is transformed through specific, grounded choices in character and setting, resulting in a singular and memorable vision.</comment>
-<question>9 A</question><grade>9.5</grade>
-<question>9 B</question><grade>8.7</grade>
-<question>9 C</question><grade>6.2</grade>
+<question>1</question><grade>9.4</grade><comment>Mercy's interiority is concrete and embodied, her blithe nature contrasting with the gravity of her discoveries. Her final choice to descend is earned by the causal chain of decoding and discovery, with a visible cost in her renunciation of her former role. The single micro-choice to dig at the lamb instead of the family mound reveals a hierarchy of values under pressure.</comment>
+<question>2</question><grade>9.5</grade><comment>An Accumulative/Textural lens is clear, with pressure building through the layering of symbolic discoveries. The closure is a masterful Conceptual Repricing: Mercy's role is redefined from gardener to keeper, with the cost of sealing herself from the surface world made legible in the final image. The linkage from coin to tapestry to map to cellar is taut and inevitable.</comment>
+<question>3</question><grade>9.6</grade><comment>The cobalt silo, tapestry, and spade are not merely described but actively constrain and enable Mercy's choices, charging the final image. Sensory detail is vivid and selective, filtered through her professional priorities ("dawn pruning," "potted seedlings"). The setting's evolution from cemetery to silo to root cellar is choreographed with impeccable spatial coherence.</comment>
+<question>4</question><grade>9.3</grade><comment>Under the Accumulative lens, escalation is a flawless density increase, each discovery narrowing options and deepening the central stake of memory vs. oblivion. The dominant stake is signaled early ("the dead keep their intentions folded") and tightens meaningfully with the decoded message. Mercy's agency drives every turn, culminating in the decisive choice to descend.</comment>
+<question>5</question><grade>9.7</grade><comment>Theme emerges organically from the juxtaposition of gardening and wartime refuge, memory and obligation. The final image of the seed packets labeled "hope, defiance, return" offers a resonant, non-literal answer to the central question of intention, reweighting the entire narrative without moralizing. The complexity of tending the dead to preserve the living is fully earned.</comment>
+<question>6</question><grade>9.5</grade><comment>The POV is stable and deeply characterized, with a distinct perceptual signature ("velveteen gloom," "starlight drips"). The lyrical, compressed syntax is perfectly controlled and voice-motivated, heightening pressure without obscuring clarity. The patterned elision of the grandmother's past is taught early and pays off decisively at closure.</comment>
+<question>7</question><grade>9.2</grade><comment>Prose is exceptionally dense and rhythmic, with high information density and zero scaffold or loops. A minor risk of overwriting exists in phrases like "uncharted echoes flutter through her ribs," but the figurative language is coherent and purpose-driven, never muddying causality. The final paragraph's cadence is a masterful acceleration into the new status quo.</comment>
+<question>8</question><grade>9.6</grade><comment>The synthesis of gardener, cemetery, and wartime refuge is wholly original and feels inevitable in hindsight. The core concept is transformed through specific, grounded choices in the tapestry's cipher and the root cellar's revelation. The bold risk of a quiet, symbolic climax pays off with profound emotional and thematic resonance.</comment>
+<question>9 A</question><grade>9.8</grade>
+<question>9 B</question><grade>9.5</grade>
+<question>9 C</question><grade>7.2</grade>
 <question>9 D</question><grade>8.9</grade>
-<question>9 E</question><grade>9.1</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>9.6</grade>
-<question>9 H</question><grade>7.8</grade>
-<question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>8.7</grade>
+<question>9 E</question><grade>9.7</grade>
+<question>9 F</question><grade>9.6</grade>
+<question>9 G</question><grade>9.4</grade>
+<question>9 H</question><grade>8.1</grade>
+<question>9 I</question><grade>9.3</grade>
+<question>9 J</question><grade>9.9</grade>

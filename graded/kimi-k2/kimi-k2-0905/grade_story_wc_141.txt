@@ -1,31 +1,47 @@
 grade_story_wc_141.txt
-<question>1</question><grade>8.7</grade><comment>Arlen’s interiority is vivid and embodied—his “grim knowledge that he was probably wrong” and heartbeat feeding the cello—but the final renunciation feels slightly under-motivated; the compass-pulse choice is more image than earned consequence.</comment>
+<question>1</question><grade>8.5</grade><comment>Arlen's self-contradiction – myth-buster who plays memory-alive cello – drives the arc; interiority vivid, yet final “gloomy cheerfulness” feels summary; cost is felt via lost seashell and deliberate leave of cello, but interior shift is more stated than embodied.</comment>
 
-<question>2</question><grade>9.0</grade><comment>Closure lands cleanly: the three sounds blur into one hum, reconfiguring the universal riddle from difference to sameness. The Accumulative/Textural lens holds—each note thickens memory density until the compass crystallizes meaning with felt cost.</comment>
+<question>2</question><grade>8.4</grade><comment>Drive lens: Accumulative/Textural (images and tones accrete to CR closure). Closure on compass-pulse realization lands with conceptual cost (no proof but carried pulse), but final sentence drifts toward summary rather than crystallised image, capping high-band reach.</comment>
 
-<question>3</question><grade>8.9</grade><comment>Observatory, cello, and seashell form a micro-setting that constrains every action; broken telescope swinging north and flaking paint charge the final image. Spatial choreography is tight, sensory detail selective and purposeful.</comment>
+<question>3</question><grade>8.1</grade>
+<comment>Observatory cliff, broken telescope, cracked plaster constellations constrain posture and frame cello; telescope swings itself provides moment of charged presence, yet setting never narrows physical choice – acts more mood backdrop than tactical cage.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—decode the riddle—tightens through each resonant hum; the cost is the surrender of certainty and the audible forgiveness of retold voices. Agency remains with Arlen; coincidence never rescues.</comment>
+<question>4</question><grade>7.4</grade>
+<comment>Single stake: decode same three buried sounds. Tightening occurs when realization flips from “why identical” to “why audience insists on difference”; cost is conceptual rather than visceral, so lower than high band; agency is attention/refusal, cleanly depicted.</comment>
 
-<question>5</question><grade>9.2</grade>
-<comment>Theme emerges organically: the riddle was never the sounds but the insistence on difference. Final image of porous, unvarnished truth resonates without moralizing, reweighting prior myths and debunks alike.</comment>
+<question>5</question>
+<grade>8.7</grade>
+<comment>Thematic question reframes perception rather than mystery, earned by musical retellings. Resonant, non-literal answer – listeners create difference – avoids didacticism and is carried by image of drifting hum reassembling listener’s past; nuanced, avoids platitude.</comment>
 
-<question>6</question><grade>9.1</grade>
-<comment>Voice is distinct—lyric compression, maritime diction, and spiral syntax mirror Arlen’s obsessive listening. No head-hopping; perceptual signature (“salt spray,” “star-dust”) stays consistent under pressure.</comment>
+<question>6</question>
+<grade>9.1</grade>
+<comment>Voice texture rich with controlled diction: “bruised sky,” “sunburned pigment,” syntax breathes with cello phrases, no head-hop; perceptual ear-to-inner alignment remains tight; minor risk of lyric excess at climax but kept taut under pressure.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense yet propulsive; figurative language serves pattern (spirals, tides) without overwriting. Zero loops or scaffold; final cadence breathes exactly where the hum dissolves into silence.</comment>
+<question>7</question>
+<grade>9.0</grade>
+<comment>Sentences do multiple jobs – description-action-metaphor triangulate in single lines, no loop or scaffold, rhythm modulates with cello pulses, high clarity; minor overwriting check in “salt spray: the grim knowledge…” – abstract intensifier – but never clouds cause or closure.</comment>
 
-<question>8</question><grade>9.3</grade>
-<comment>Premise—every culture buries the same three sounds—is transformed through the cello-as-memory-grave. The synthesis of seashell compass and unfinished instrument feels inevitable and fresh; risk-taking heightens stakes without gimmickry.</comment>
+<question>8</question>
+<grade>8.8</grade>
+<comment>Conceit unique: universal sonic ur-message decoded by myth-buster via literal instrument feeding on memory voices, synthesis of myth archaeology and musical séance; premise feels inevitable; risk distinction bonus for cello-as-resurrection device heightens closure without gimmick.</comment>
 
-<question>9 A</question><grade>8.4</grade>
-<question>9 B</question><grade>9.0</grade>
-<question>9 C</question><grade>8.6</grade>
-<question>9 D</question><grade>8.7</grade>
-<question>9 E</question><grade>9.2</grade>
-<question>9 F</question><grade>9.1</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>8.2</grade>
-<question>9 J</question><grade>8.8</grade>
+<question>9 A</question>
+<grade>7.6</grade>
+<question>9 B</question>
+<grade>8.9</grade>
+<question>9 C</question>
+<grade>7.4</question>
+<question>9 D</question>
+<grade>7.2</grade>
+<question>9 E</question>
+<grade>8.5</question>
+<question>9 F</question>
+<grade>8.0</question>
+<question>9 G</question>
+<grade>6.7</question>
+<question>9 H</question>
+<grade>6.9</question>
+<question>9 I</question>
+<grade>7.8</question>
+<question>9 J</question>
+<grade>8.2</question>

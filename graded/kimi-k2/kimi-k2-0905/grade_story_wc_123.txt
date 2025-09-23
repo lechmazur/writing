@@ -1,30 +1,50 @@
 grade_story_wc_123.txt
-<question>1</question><grade>8.7</grade><comment>Elara’s interiority is vivid and specific; her “lantern in wind” motive drives every micro-choice. The contradiction between mapping truth and being used as a conduit is embodied in the act of writing backward logs. The final renunciation—choosing to stay underground—carries visible cost and is earned by prior causality.</comment>
+<question>1</question><grade>8.7</grade><comment>Elara’s embodied curiosity and meticulous streak drive every micro-choice; her contradictory impulse (preserve integrity vs. obey self-future) animates interior monologue and action. Moment-by-moment calibration of instruments, backward-writing of logs, and final solitude-with-storms show flaws feeding stakes. Cost of isolation, plus tangible risk of being vanished, is palpable at close.</comment>
 
-<question>2</question><grade>9.0</grade><comment>Closure lands as a Resonant Reconfiguration: the lateral chain of integrity is now irreversible, and Elara’s solitude is charged with the cost of permanent exile. Causal linkage holds from forged message → lateral escape → underground log → pigeon release. The ending image of “truth, once released, finds its own velocity” crystallizes the new stakes.</comment>
+<question>2</question><grade>8.9</grade><comment>Causal chain holds: tomorrow-dated vellum → immediate lateral retreat → pneumatic descent → lichen map → log reversal → tube release. Closure earns resonant reconfiguration: she refuses to falsify data, accepts perpetual exile. Final image of rain on her face crystallizes cost without dialogue.</comment>
 
-<question>3</question><grade>8.5</grade><comment>The courtyard, pneumatic shaft, and lichen map are selective, tactile, and pressure-driven; each constrains movement (gargoyle eye opens the shaft; lichen redraws borders). The “wet limestone and pigeon feathers” scent anchors the hidden network. Final rain is unrecorded by any official gauge, recharging the motif of uncensored weather.</comment>
+<question>3</question><grade>8.5</grade><comment>Sensory selection (wet limestone, pigeon feathers, phosphorescent lichen) is filtered through Elara’s meteorological lens and constrains choices (narrow shaft, hidden valve). Courtyard dusk and pneumatic under-city are anchored early; micro-settings (gargoyle eye, valve seat) charge final isolation image. One minor cap: courtyard layout only sketched laterally.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—preserve integrity of storm data—tightens when Elara realizes the zone suppresses truth. One decisive turn: she chooses to seed the lateral chain rather than replace the vellum. Cost is explicit: she must remain underground, exiled from official record.</comment>
+<question>4</question><grade>8.8</grade><comment>Dominant stake—protect uncensored weather truth—tightens after vellum receipt; each beat lowers external options (city observer in shadow, sealed pneumatic layers, rogue zone itself). Cost scales: she forfeits return path, accepts permanent quarantine to preserve data integrity. Tension remains coherent throughout, one decisive tightening suffices.</comment>
 
-<question>5</question><grade>8.9</grade><comment>Theme emerges through action: the conflict between curated forecasts and raw atmospheric truth. The final image of rain “unrecorded by any official gauge” reweights the premise without moralizing. Subtext in the pigeon’s deliberate nod and the follower’s retreat enriches the political stakes.</comment>
+<question>5</question><grade>8.9</grade><comment>Integrity-vs-surveillance theme never sermonizes, emerges from concrete tools (anemometer, vellum, lichen map). Final rain image reframes earlier “gentle forecasts” lie as silvered truth. Theme coheres through small particulars; backward-writing detail reweights the value of authorship without overt statement.</question>
 
-<question>6</question><grade>8.6</grade>
-<comment>Third-person limited stays close to Elara’s perceptual signature—wind shear to the third decimal, lichen as living map. Syntax tightens under pressure: “Ice traced her spine.” No head-hopping; even the follower is only sensed, not interiorized. Voice modulation matches emotional intensity.</comment>
+<question>6</question><grade>9.0</grade><comment>Voice is specific, lyrically precise: “sky bruised into violet,” “earth breathing slowly.” Sensory bias of a recorder’s mind suffuses perceptual signature; no head-hopping. Rhythm modulates under pressure (brief, elliptical passages in shaft descent). Line-level control supports theme without obscuring clarity.</comment>
 
-<question>7</question><grade>8.4</grade>
-<comment>Prose is dense and propulsive; each sentence advances plot or atmosphere. No loops or scaffold. Figurative language is precise—“sky bruised into violet,” “lantern in wind.” Rhythm accelerates during descent, then exhales in the final hush. Minor elevated diction (“crystallized,” “velocity”) is voice-motivated.</comment>
+<question>7</question>
+<grade>8.8</grade>
+<comment>Diction vivid (“silver message tube,” “storm screamed pressure”), metaphor coherence holds; no overwritten beats. One stray simile “lantern in wind” is minor, not muddled. Information density high; no loops, pronoun clarity secure. Minor scaffold (“the words were written in her own handwriting”) could be sharper.</comment>
 
-<question>8</question><grade>9.1</grade>
-<comment>Fresh synthesis: storm recorder + pneumatic resistance network + time-looped forgery. The rogue quarantine zone as truth-suppression engine is non-obvious and fully realized. Lateral movement as both physical tactic and ethical stance feels inevitable. Risky structure (underground epistolary chain) heightens stakes without gimmickry.</comment>
+<question>8</question>
+<grade>9.3</grade>
+<comment>Mundane conspiracy trope is refreshed by meteorological lens and hidden pneumatic city layer. Pigeons carrying forged self-notes is fresh; data-censorship as disease quarantine is conceptually sharp. Final inversion—she chooses exile to keep data pure—grows inevitably from established recorder psychology. Risky lateral movement mechanic enhances stakes without gimmickry.</question>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.0</grade>
-<question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>8.2</grade>
-<question>9 E</question><grade>8.5</grade>
-<question>9 F</question><grade>8.6</grade>
-<question>9 G</question><grade>7.9</grade>
-<question>9 H</question><grade>7.6</grade>
-<question>9 I</question><grade>8.8</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 A</question>
+<grade>9.0</grade>
+
+<question>9 B</question>
+<grade>8.7</grade>
+
+<question>9 C</question>
+<grade>8.2</grade>
+
+<question>9 D</question>
+<grade>8.5</grade>
+
+<question>9 E</question>
+<grade>7.6</grade>
+
+<question>9 F</question>
+<grade>6.4</grade>
+
+<question>9 G</question>
+<grade>5.7</grade>
+
+<question>9 H</question>
+<grade>5.2</grade>
+
+<question>9 I</question>
+<grade>8.1</grade>
+
+<question>9 J</question>
+<grade>6.0</grade>

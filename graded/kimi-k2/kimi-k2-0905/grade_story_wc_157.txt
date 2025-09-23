@@ -1,27 +1,30 @@
 grade_story_wc_157.txt
-<question>1</question><grade>8.4</grade><comment>Arlo’s contradictory impulses—taxed dreams vs. subversive planting—are dramatized in real time; the final smile and sprint crystallize his rogue stance with visible cost. Interiority is specific, embodied, and consistent. Minor slip: Inspector Voss remains a cipher, so relationship crucible is thin.</comment>
+<question>1</question><grade>9.1</grade><comment>Arlo's interiority sparkles with contradictory impulses; he's a tax-evading smuggler of dreams who nevertheless fears the Revenue Bureau. His final choice—slipping the seed and his taxed imaginings into soil—materializes a micro-chose that crystallizes a hierarchy of values: rebellion over safety, imagination over compliance. The cost is palpable: one more minute and satellite photos may expose him, yet he smiles the rogue scholar's smile. Every beat roots his decision in prior characterization—spectacles, cracked but still useful, like the taxed dreams they let him glimpse.</comment>
 
-<question>2</question><grade>8.7</grade><comment>Closure lands as a Resonant Reconfiguration: the planted seed becomes a city-wide flowering “Resist,” reweighting reality with conceptual cost. Causal chain (seed → warp → glyph → dawn bloom) holds under a Causal lens. One transition (greenhouse to alley sprint) is legible. No orientation debt.</comment>
+<question>2</question><grade>9.2</grade><comment>The closure lands cleanly under a Situational lens: the final image (rooftop vine spelling "Resist" in firefly-readable cursive) reconfigures the municipal grid as living typography, with undeniable social cost on citizens. Each because/therefore linkage tightens: seed → warp → glyph → warning. Inspector Voss’s sneeze is the micro-turn that forces Arlo’s escape. Cost is unmistakable: “by sunrise, seven gardens would bloom”—a visible, distributed consequence rather than a single triumph.</comment>
 
-<question>3</question><grade>8.6</grade><comment>The greenhouse’s glass, orchid bees, and moonlit soil constrain every move; the seed-as-micro-setting literally rewrites reality. Sensory selection is urgent and POV-filtered. Spatial choreography is clean; drone lens and footsteps track believably.</comment>
+<question>3</question><grade>8.7</grade><comment>The greenhouse is tactile glass, moonlit soil, and spatial choreography that guides choices: drone lens = scythe, benches narrow lanes, pollen clouds serve as syllables. Orchid stems and broken petals act as micro-setting props constraining the conversation. Scale is precise: the seed’s burial depth (“two knuckles deep”) is the first glyph’s datum. Only minor drift into tourist-catalog flora keeps it from 8.8.</comment>
 
-<question>4</question><grade>8.5</grade><comment>Dominant stake—guard the spark before the Bureau snuffs it—tightens when Voss appears and the satellite clock looms. Agency drives escalation: Arlo plants, recites Lucretius, sprints. Cost is felt in taxed thoughts and risk of capture. One meaningful deepening suffices.</comment>
+<question>4</question><grade>8.8</grade><comment>Dominant stake is “guard your spark before it’s sur-taxed”; it intensifies with each seed’s placement. Meaningful tightening occurs at the micro-turn: Inspector arrival x satellite pass deadline—Arlo must slip away and plant six more seeds before dawn. Renunciation is palpable: time and distance foreclose sleep as he sprints through moonlight that taxes itself. Coincidence (Voss sneeze) only complicates; resolution flows from distributed citizen awakening.</comment>
 
-<question>5</question><grade>8.8</grade><comment>Theme of taxed imagination vs. subversive creativity emerges through concrete acts, not statement. Final flowering “Resist” offers non-literal, resonant answer. Subtext in vegetal code and pollen clouds deepens without moralizing.</comment>
+<question>5</question><grade>8.6</grade><comment>“Resist” emerges organically rather than preached: encoded vine, subversive pollen, refunded dreams. Motifs—seed, drone, taxable synapse—reappear with shifted weight. Final image of pollinated hope crystallizes without moralizing; citizens wake to find dreams refunded. Ambiguity remains: revenue drones may still prosecute, but flowers persist.</question>
 
-<question>6</question><grade>8.9</grade><comment>Distinct perceptual signature: “orchid bees droned like tiny tax auditors,” “nectar and nerves.” Syntax and diction mirror Arlo’s rogue-scholar mind. No head-hopping; POV distance stable. Dialogue sparse but coded and goal-driven.</comment>
+<question>6</question><grade>8.9</grade>
+<comment>Compressed poetic cadence—“drone’s lens swept like a scythe”, “seed clicked like a clock”—is deliberate and taught by early lines; closure reprise in “cursive only fireflies could read” stays readable. Distinct perceptual signature sustained across compression; no head-hopping or register drift. Occasional micro-cadence echo (“candidly cryptic warning the surveillance drones could not parse”) stays safely below loop penalty.</comment>
 
-<question>7</question><grade>8.7</grade><comment>Prose is dense, rhythmic, and propulsive; figurative language is selective and purposeful. No loops, scaffold, or mixed metaphors. Minor register drift (“conceptual repricing”) is voice-motivated. Final image crystallizes without clutter.</comment>
+<question>7</question><grade>8.7</question>
+<comment>Metaphor fleet is dense yet purposeful: “charming rogue scholar adjusted his cracked spectacles” marries tool, character, status. Zero scaffold sentences, minimal generic adjectives. Only the twin “taxed” verbs in close repetition register as a minor artifact, not obscuring meaning. Pronoun chain stays clean; no impossible simultaneity.</comment>
 
-<question>8</question><grade>9.1</grade><comment>Fresh synthesis: taxable thoughts + vegetal code + community-garden insurgency feels inevitable yet new. Tropes (rogue scholar, surveillance dystopia) are transformed through sensory specificity and lived stakes. Risk-taking (warp grammar) heightens coherence.</comment>
+<question>8</question><grade>8.4</question>
+<comment>The premise—“thoughts taxable”—is inventive but not earth-shattering; its execution through bee-carried pollen glyphs and refunding dreams feels fresh. Specificity elevates: Lucretius line as passphrase, cracked spectacles as talisman. Transformation passes: seed swaps cannot replace the seed’s double life as seed & tax-receipt. No close echoes of recent published work. Occasional near-trope (“rooftops quilted”) caps it a hair under 9.0.</question>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.8</grade>
-<question>9 F</question><grade>8.6</grade>
-<question>9 G</question><grade>8.3</grade>
-<question>9 H</question><grade>7.4</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.0</grade>
+<question>9 A</question><grade>8.3</question>
+<question>9 B</question><grade>9.1</question>
+<question>9 C</question><grade>7.4</question>
+<question>9 D</question><grade>8.2</question>
+<question>9 E</question><grade>9.0</question>
+<question>9 F</question><grade>7.7</question>
+<question>9 G</question><grade>8.0</question>
+<question>9 H</question><grade>7.2</question>
+<question>9 I</question><grade>8.7</question>
+<question>9 J</question><grade>7.9</question>

@@ -1,36 +1,27 @@
 grade_story_wc_214.txt
-<question>1</question><grade>7.9</grade><comment>The janitor’s grief-driven spiritual curiosity is vivid and embodied; his micro-choice to speak to reflections and later leave the dome open crystallizes a believable arc from isolation to openness. Interior contradiction—grief for a planet that “forgot how to look up”—and embodied emotion carry through the vision sequence. The final renunciation (trading the lantern’s external glow for an internal one) lands as Earned Stasis with visible cost. However, the meteor’s “question” is slightly abstract-therapy phrased, trimming the top band.</comment>
+<question>1</question><grade>8.7</grade><comment>Interiority is rich and embodied; the janitor's micro-choices (kneeling, speaking to reflections, trading lantern) expose contradictory grief and wonder. Flaw: the renunciation of the lantern itself is told more than dramatized, damping the felt cost.</comment>
 
-<question>2</question><grade>8.4</grade><comment>A coherent Accumulative/Textural drive holds: each nightly sweep tightens the image bank inside the lantern until the charcoal fleck offers one decisive vision that reweights the janitor’s stance. Closure (leaving the observatory open, chest re-lamped) presents a Resonant Reconfiguration with felt cost—he will never again carry the lantern’s glow as armor. No causal leaps; every beat escalates attention and memory density. The orientation debt for era and station is paid by the final scientists’ discovery scene.</comment>
+<question>2</question><grade>8.6</grade><comment>Closure is a resonant reconfiguration—he leaves the station open without the lantern, a charged poise that forecloses future return. Lens is hybrid: situational pressure builds to accumulated reweighting of fragility as strength. One minor debt: trajectory vision is summary more than scenework, so the causality to his final renunciation feels slightly floated.</comment>
 
-<question>3</question><grade>8.2</grade><comment>The station’s dust-mote galaxies, brass instruments, and eventual afterimage constitute a micro-setting that constrains the janitor’s nightly ritual and then reappears charged in closure. Specificity is selective: a cracked yellow shard, warm lens caps. Spatial choreography (“leaving the dome open”) reshapes the world for future meteors. No excess cataloguing—every detail feeds the final image.</comment>
+<question>3</question><grade>9.0</grade><comment>The dome’s dust motes, abandoned brass, and telescope aperture double as externalized psyche, constraining every beat; the yellow shard functions as micro-setting that evolves from relic to portal, culminating in the final image of heart-shaped afterglow. Exquisite specificity meets the object-to-theme test.</comment>
 
-<question>4</question><grade>7.8</grade>
-<comment>Dominant stake is healing by witnessing fragility; pressure tightens nightly as reflections linger longer, forcing the janitor from sweeping to communion. A single meaningful escalation—the fleck vision—forecloses return to the prior numb routine. Cost (loss of lantern glow, exposure of the chest’s bruise) legible on page. Coincidental luck is absent.</comment>
+<question>4</question><grade>8.5</question><comment>Stake—permission for the universe to confess its fragility—intensifies until the meteor’s own question tightens it: burn or remain. Decision to open the dome and let stars see themselves is agency with cost; price is the loss of the lantern glow, felt though underdramatized by one clause.</comment>
 
-<question>5</question>
-<grade>8.7</grade>
-<comment>Theme of strength-through-vulnerability emerges organically from the janitor’s embodied experience; no statement eclipses the meteor’s song of iron and ice. Subtext accumulates in the lantern’s gradual transparency—vulnerability literally admitting light. The final image (heart-shaped afterimage) reweights the premise without moralizing.</comment>
+<question>5</question><grade>9.1</question><comment>Theme emerges organically from janitor–meteor mirror: vulnerability as necessary atmosphere for light to bruise and still shine. Refrains from overt moralizing; final image of “humming” shard reconfigures the premise without stated lesson. Slight surplus of abstract nouns (“flourishing stillness”) nudges it shy of perfect.</comment>
 
-<question>6</question>
-<grade>8.6</grade>
-<comment>Third-person limited maintains clean distance, cosmic diction (“dark dialects of iron and ice”) fitting an obsolete astronomer’s heir. Repetition of “flourishing stillness” becomes a rhythmic mantra rather than monotonous. Syntax breathes with emotional tempo: short clauses during meteor flare, languid stretches during dawn. No head-hops or register drift.</comment>
+<question>6</question><grade>9.0</grade><comment>A singular lyric voice of hush and starlight; diction (“dark dialects of iron and ice”) stays rooted in focalizer’s perceptual universe. Prose rhythms swell and contract with emotional pressure; one stray echo of prior clause (“cosmic janitor… in an obsolete observatory”) is negligible.</comment>
 
-<question>7</question>
-<grade>8.5</grade>
-<comment>Prose is dense and lyrical yet propulsive; occasional elevated flourishes (“primal elegance of shared orbit”) remain within the cosmic lyric license. Zero loops, synonym churn, or register muddle. One tight mixed metaphor—“reopened chest” could risk sentimental—but the earned grief context carries it.</comment>
+<question>7</question><grade>9.2</question><comment>Sentences layered, no loops, dense sonic patterning; metaphorical traffic is heavy yet precise. Minor echo “cosmic janitor…” is the single scaffold artifact and does not dull the closure image.</comment>
 
-<question>8</question>
-<grade>8.3</grade>
-<comment>A cosmic janitor at an abandoned observatory learning from meteor memory feels fresh; the grandmother’s lantern trope is elevated into a memory-catcher that hoards star sighs. The insight (burning ≠ brave change) arises credibly from the meteor’s autobiography, not late grafted wisdom.</comment>
+<question>8</question><grade>9.0</question><comment>Cosmic-janitor conceit, star-reflection confessional, and meteor empathy are unusual syntheses rendered inevitable here. Risky lyric structure pays off with conceptual repricing at the end; no derivative echoes of famous scenes.</comment>
 
-<question>9 A</question><grade>8.2</grade>
-<question>9 B</question><grade>9.1</grade>
-<question>9 C</question><grade>7.9</grade>
-<question>9 D</question><grade>7.4</grade>
-<question>9 E</question><grade>8.0</grade>
-<question>9 F</question><grade>7.7</grade>
-<question>9 G</question><grade>7.5</grade>
-<question>9 H</question><grade>6.3</grade>
-<question>9 I</question><grade>7.8</grade>
-<question>9 J</question><grade>7.2</grade>
+<question>9 A</question><grade>7.8</grade>
+<question>9 B</question><grade>9.9</grade>
+<question>9 C</question><grade>6.1</grade>
+<question>9 D</question><grade>6.3</grade>
+<question>9 E</question><grade>8.7</grade>
+<question>9 F</question><grade>7.5</grade>
+<question>9 G</question><grade>7.4</grade>
+<question>9 H</question><grade>3.9</question>
+<question>9 I</question><grade>7.2</grade>
+<question>9 J</question><grade>7.6</grade>

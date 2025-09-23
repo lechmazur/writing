@@ -1,34 +1,29 @@
 grade_story_wc_268.txt
-<question>1</question><grade>8.7</grade><comment>The titan’s interiority—“precision, not revenge”—is crisp, embodied in micro-choices (ink droplet flick, marginalia placement). Contradictory impulses (mercy vs. duty) surface only in the final line, not mid-scene, so the earned renunciation feels slightly under-cooked. Still, the single POV holds, and the cost (forgetting the man’s face) is visible.</comment>
+<question>1</question><grade>7.8</grade><comment>The titan’s interior contradiction—precision over revenge—remains abstract; no embodied emotion or micro-choice under pressure shows the cost of that creed. The moment he descends and whispers is the only beat where motive narrows options, but it’s narrated from outside, not felt. Still, the single-minded drive keeps the arc coherent and the renunciation of trophy at the end reads as credible endurance.</comment>
 
-<question>2</question><grade>9.1</grade>
-<comment>Causal lens: each marginal clue tightens the trap; the ink-on-skin beat is the decisive change that strips glamour. Closure lands with unmistakable cost—the pretender’s visage melts and the titan forfeits memory. No causality breaks; transitions (spiral carrel → shattered codex) are legible.</comment>
+<question>2</question><grade>8.4</grade><comment>Closure lands cleanly: the glamour ruptures and the throne is conceptually repriced when the ink droplet sinks—“a stranger wearing ambition for a crown.” Causal chain is intact: marginalia lure → thumb smear → rune awakened → sundering. The lens is causal throughout; no teleporting props or convenient amnesia. Cost is visible in the final image—dust coronet dissolves, titan leaves with only rust on his hands.</comment>
 
-<question>3</question><grade>8.9</grade>
-<comment>Library’s dust, gutter shadows, and iron-gall scent anchor space early and return in the final image (rust smell on hands). The pellet-as-micro-setting constrains the climax; its dissolution charges the ending. Spatial choreography is clean; no white-room drift.</comment>
+<question>3</question><grade>8.1</grade><comment>Library is evoked through sensory selectivity—“parchment breath,” “iron gall across fingertips”—and the tightening shelves literally lean in to witness exposure, so environment constrains the climax. Spatial choreography is clear: apex carrel → gutter of folio → forehead strike. Micro-setting (ink pellet) functions as the pivot object. A hairline slip: we never get a tactile anchor for how a mite-sized pellet is later seen as a “droplet,” but the image is charged enough to pass.</comment>
 
-<question>4</question><grade>8.8</grade>
-<comment>Dominant stake—restoration of balance—escalates through each cryptic clue until the pellet’s touch forecloses the pretender’s legitimacy. One meaningful tightening suffices; cost is the titan’s erasure of the man from memory. Agency drives every beat.</comment>
+<question>4</question><grade>8.0</grade><comment>Dominant stake—restoring cosmic balance by unmasking illusion—is signaled early and tightened once: the pretender’s page-turning smear awakens the rune, foreclosing the option to remain hidden. Escalation is single-track but sufficient for 700 words; no reversal beyond the decisive exposure. Cost is legible in the dissolving coronet and the titan’s empty hands. The beat earns its place under causal lens without coincidence.</comment>
 
-<question>5</question><grade>9.0</grade>
-<comment>Theme of truth-as-drift emerges from the pellet’s journey and the titan’s renunciation; no moralizing. Final line (“every throne is only ink yet to fade”) reweights the premise with conceptual cost. Subtext in marginal doodles and dust coronet enriches without exposition.</comment>
+<question>5</question><grade>8.5</grade><comment>Theme emerges from the image sequence: ink as mutable truth, thrones as fading stains. No moralizing—final line invites rather than asserts. The graceful-collapse tone itself becomes the thematic answer: history practices mercy by forgetting the usurper’s face. Subtext resides in the dust coronet that never lands—power recognized as ephemeral particulate.</comment>
 
-<question>6</question><grade>9.2</grade>
-<comment>Voice is lapidary yet restrained—“regally unpretentious” in cadence itself. Perceptual signature filters every detail through miniature scale (“no taller than a candlestick”). No head-hopping; free-indirect texture remains consistent. Compression is purposeful and taught early.</comment>
+<question>6</question><grade>8.9</grade><comment>Voice is lyric-courtly yet restrained—“regally unpretentious,” “calm as closed winter”—a perceptual signature befitting a miniature cosmic auditor. Rhythm modulates: longer cadence for celestial pause, clipped flick for the droplet strike. No head-hopping; POV remains anchored to titan’s sensorium. One register drift: “monarchical entitlement” sounds like editorial label rather than in-world perception, but it’s isolated.</comment>
 
-<question>7</question><grade>9.0</grade>
-<comment>Prose is dense, musical, and propulsive; no loops or scaffold. Metaphors (moonlit alabaster, cold starlight) serve pressure without overwriting. Sentence rhythm mirrors titan’s stealth—long glides, then abrupt flick. Zero artifacts in closure beat.</comment>
+<question>7</question><grade>8.6</grade>
+<comment>Sentence variety and information density are high; most lines do two jobs (“ink pellet no wider than a mite, pressed long ago into the gutter”). Figurative layering is controlled—no mixed metaphors in peak beat. One scaffold echo: “regally unpretentious” is repeated verbatim; intentional refrain but still loops. Otherwise clean, propulsive, and read-aloud ready.</comment>
 
-<question>8</question><grade>9.3</grade>
-<comment>Fresh synthesis: miniature cosmic custodian unmasking a false king via microscopic ink rune. Tropes (hidden heir, ancient library) are transformed through scale and sensory specificity. Risk in lyric compression pays off; closure feels inevitable yet non-obvious.</comment>
+<question>8</question><grade>8.7</grade>
+<comment>Fusion of candle-sized titan with library espionage feels fresh; the rune dissolved in ink rather than carved is a specific, non-obvious twist. Conceptual risk—cosmic balance maintained by marginalia—pays off without gimmickry. Transformation test fails: swap names and the emotional arc still works, but the miniature scale and ink physics are particular enough to resist full genericization.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>9.0</grade>
-<question>9 F</question><grade>8.8</grade>
-<question>9 G</question><grade>8.6</grade>
-<question>9 H</question><grade>7.2</grade>
-<question>9 I</question><grade>8.5</grade>
+<question>9 A</question><grade>7.2</grade>
+<question>9 B</question><grade>8.8</grade>
+<question>9 C</question><grade>7.9</grade>
+<question>9 D</question><grade>6.4</grade>
+<question>9 E</question><grade>8.5</grade>
+<question>9 F</question><grade>7.7</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>6.1</grade>
+<question>9 I</question><grade>7.0</grade>
 <question>9 J</question><grade>8.3</grade>

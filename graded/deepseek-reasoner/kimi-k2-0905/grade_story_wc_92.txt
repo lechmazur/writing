@@ -1,19 +1,19 @@
 grade_story_wc_92.txt
-<question>1</question><grade>8.8</grade><comment>Garnet's internal "cradle of sparks" is a concrete, character-specific motivation that compels her higher-stakes choices, and her final choice to deceive Commander Voss is a credible micro-decision under pressure. However, her ally Luce feels more like a functional secondary character than a fully realized crucible for her choices.</comment>
-<question>2</question><grade>9.2</grade><comment>The causal lens holds tightly from the inciting blackout to the decisive change of the freed barges. Closure is a clear Decisive Change with a visible, felt cost (the fort's unlocked state) and is earned entirely through the protagonists' on-page actions and choices.</comment>
-<question>3</question><grade>8.9</grade><comment>Sensory detail is vivid, selective, and purposefully integrated into action ("cool iron," "bruised violet" sky). The setting actively pressures choices via the blackout and constrains tactics. It falls just short of a 9.0 as the environment, while evocative, doesn't quite *constrain* a pivotal choice.</comment>
-<question>4</question><grade>9.1</grade><comment>Escalation is driven by protagonist agency under the causal lens, from tracing the sundial to bridging the terminals. The cost is unmistakable on the page in the final image of the drifting barges and the fort's unlocked gates, a direct consequence of their risky actions.</comment>
-<question>5</question><grade>9.0</grade><comment>Theme emerges organically from the core concept of "cradle of sparks" and the final, resonant image of writing "with light." The ending offers a non-literal answer to the central question of oppressive control versus silent revolution without moralizing.</comment>
-<question>6</question><grade>8.7</grade><comment>The prose has a distinct, poetic texture with a controlled, consistent POV. Some phrases ("winking hush of conspirators") verge on overwriting but remain legible and voice-motivated. The distinct perceptual signature is maintained throughout.</comment>
-<question>7</question><grade>8.5</grade><comment>Prose is highly dense and purposeful, with strong rhythmic control. Minor artifacts include a slight over-reliance on figurative language in high-pressure beats (e.g., "two tongues of the same silent flame") and a template cadence in "Footsteps approached... Footsteps again."</comment>
-<question>8</question><grade>9.0</grade><comment>The story presents a fresh, non-obvious synthesis of steampunk-esque rebellion and poetic lyricism. The core concept of a "cradle of sparks" is original and deeply integrated, feeling inevitable in hindsight. The risk-taking with language heightens stakes without obscuring clarity.</comment>
-<question>9 A</question><grade>9.5</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>9.8</grade>
-<question>9 D</question><grade>7.5</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>7.1</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>9.0</grade>
-<question>9 I</question><grade>9.5</grade>
-<question>9 J</question><grade>8.7</grade>
+<question>1</question><grade>9.2</grade><comment>Garnet's internal conflict between obedience and invention is embodied in her micro-choices, most notably the decision to use the graphite instead of reporting. The "cradle of sparks" is a concrete, character-particular interiority that intensifies under pressure, compelling her higher-stakes choice to deceive Commander Voss. Her final renunciation of the mask is earned by the prior causality of her actions, with the visible cost of the risk taken.</comment>
+<question>2</question><grade>9.4</grade><comment>A clear Causal drive lens is established and held: the blackout enables the conspiracy, the sundial provides the key, and Garnet's actions in the keep directly cause the barges to break free. The closure is a decisive physical and social change—the fort is unlocked and neutral—with the felt cost of the ongoing revolution and the personal risk taken legible in the final image of the falling mask.</comment>
+<question>3</question><grade>9.5</grade><comment>The setting is a masterclass in economical, pressure-driven detail. The "murdered torch bracket," "cool iron," and "copper coils" are not merely descriptive but actively constrain choices and charge the final image. The half-painted sundial and the bronze quill holder function as micro-settings whose specific properties are essential to the plot's mechanics and the story's closure.</comment>
+<question>4</question><grade>9.3</grade><comment>Escalation is tightly driven by protagonist agency under the Causal lens. The stakes shift from personal rebellion to enabling the escape of the sky-barges, a tangible consequence of Garnet's choice to bridge the terminals and Luce's use of the quill holder. The cost is unmistakable in the shouted surprise of the sentries and the palpable risk of Voss's arrival, which forces a tactical deception.</comment>
+<question>5</question><grade>9.6</grade><comment>Theme emerges organically from the central conflict of light versus dark, control versus freedom. The final image of writing "tomorrow with light" is a resonant, non-literal answer that reweights the prior motif of ink and fear, avoiding any direct statement or moralizing. The concept of the "cradle of sparks" transforms from an internal feeling to an external, revolutionary force.</comment>
+<question>6</question><grade>9.4</grade><comment>The voice maintains a distinct, poetic yet precise texture throughout, with a consistent perceptual signature filtered through Garnet's urgency and expertise. Syntax and rhythm modulate perfectly with pressure, from the hushed conspiratorial tone to the swift, decisive actions in the keep. The limited dialogue is natural, goal-driven, and carries significant subtext.</comment>
+<question>7</question><grade>9.5</grade><comment>Prose is exceptionally dense and propulsive, with high information density and zero scaffold or loop artifacts. Figurative language ("twilight itself had swallowed their sparks," "voices were thin kites") is sharp, consistent, and deepens atmosphere without muddying clarity. The rhythm is controlled and varied, accelerating and breathing in step with the scene's needs.</comment>
+<question>8</question><grade>9.7</grade><comment>The story synthesizes a familiar rebellion premise with a highly original, tactile steampunk-esque world. The specific mechanics of the sundial-as-key and the quill holder-as-tool feel inevitable and irreplaceable, not a checklist of elements. The quiet, precise execution is a bold risk that pays off, fully committing to its premise without a hint of derivative or template plotting.</comment>
+<question>9 A</question><grade>9.8</grade>
+<question>9 B</question><grade>9.9</grade>
+<question>9 C</question><grade>9.7</grade>
+<question>9 D</question><grade>8.5</grade>
+<question>9 E</question><grade>9.6</grade>
+<question>9 F</question><grade>9.8</grade>
+<question>9 G</question><grade>9.5</grade>
+<question>9 H</question><grade>9.7</grade>
+<question>9 I</question><grade>9.6</grade>
+<question>9 J</question><grade>9.7</grade>

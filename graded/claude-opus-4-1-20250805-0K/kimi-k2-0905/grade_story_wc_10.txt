@@ -1,31 +1,27 @@
 grade_story_wc_10.txt
-I'll evaluate this story systematically under the rubric's demanding standards.
+<question>1</question><grade>7.8</grade><comment>Mara's internal journey from fear through grief to wonder reads through embodied actions (pressing palm to glass, striking forks) rather than labels. The contradiction between her scientific training and emotional need to "translate" creates genuine tension that drives choices. Loses points for some therapy-speak ("grief in slow violet waves") and the final paragraph's slight drift toward abstraction.</comment>
 
-**Drive Lens:** Accumulative/Textural - the story builds through layered sensory transformations and pattern accumulation rather than causal linkage.
+<question>2</question><grade>8.2</grade><comment>Clear Accumulative/Textural lens with thermal music as the organizing principle, building to a Resonant Reconfiguration where silence becomes visible symphony. The cost is legible in Mara leaving her empty case and the conservatory's permanent transformation. Minor deduction for slightly delayed orientation (the Great Hush context comes late) and the somewhat abstract nature of the final "seeds of thermal song."</comment>
 
-<question>1</question><grade>7.8</grade><comment>Mara's motivation to translate silence crystallizes through embodied action (striking forks, mapping thermal emotions) with clear internal stakes. The transformation from acoustic scientist to thermal composer earns its arc through concrete choices under pressure. Minor deduction for some abstraction in emotional processing ("grief in slow violet waves") that could be more embodied.</comment>
+<question>3</question><grade>8.4</grade><comment>The winterglass conservatory functions as both setting and instrument, its frost and architecture constraining how Mara must work (through heat rather than sound). Sensory detail balances temperature, color, and implied sound brilliantly. The micro-setting of the tuning fork case drives the entire resolution.</comment>
 
-<question>2</question><grade>8.1</grade><comment>Strong Resonant Reconfiguration closure where Mara's discovery that "the world had never been silent—only speaking in a dialect of heat and light" reweights the entire premise with visible cost (her capsizing becomes her masterpiece). The accumulative lens holds throughout with pattern-taught thermal translations. Slight deduction for orientation taking until line 3 to fully anchor the when ("three months ago").</comment>
+<question>4</question><grade>7.9</grade><comment>The dominant stake—proving the world still speaks—escalates through Mara's systematic experimentation with the forks, each strike revealing more of the conservatory's hidden life. The cost manifests in the scanner's death and her walking away from her creation. The pressure builds well but could be sharper in the middle third.</comment>
 
-<question>3</question><grade>8.4</grade><comment>The winterglass conservatory functions as active constraint—its frost melts in response to thermal music, becoming both canvas and instrument. Vivid sensory detail ("boots crunching on diamond dust," "frost-laced dome") serves the accumulative design. The setting transforms from sealed tomb to living artwork, directly enabling the closure.</comment>
+<question>5</question><grade>8.6</grade><comment>Theme emerges organically through the concrete action of translating sound to color/heat, avoiding direct statements about loss or communication. The final image of the child's treble-clef breath perfectly reweights the entire premise without moralizing. The recurring fork/temperature motif constrains choices throughout.</comment>
 
-<question>4</question><grade>7.9</grade><comment>Escalation builds through accumulative density: single fork strike → multiple strikes → full thermal orchestra → melting dome → city-wide transformation. The cost is legible (Mara's capsizing trauma transforms into artistic purpose). One meaningful deepening suffices at this length, though the stakes could intensify more sharply at the peak moment.</comment>
+<question>6</question><grade>8.1</grade><comment>Distinctive voice with scientific precision ("calibrating underwater microphones") married to lyrical perception ("diamond dust of shattered glass"). POV remains tightly controlled through Mara's sensory filter. Minor deduction for slight register elevation in emotional peaks ("unshaken marvels of music") that doesn't quite match her scientific lexicon.</comment>
 
-<question>5</question><grade>8.2</grade><comment>Theme emerges organically through the transformation of loss into new language—silence as translation rather than absence. The child's treble-clef breath and the conservatory's thawing "in perfect fifths" avoid explicit moralizing while offering resonant answers. The capsizing-to-masterpiece turn reweights trauma without false redemption.</comment>
+<question>7</question><grade>7.7</grade><comment>Generally strong prose with excellent rhythm variation and information density. Deductions for template cadence in the middle ("She struck...she struck another, then another") and some overwriting in figurative language ("seeds of thermal song waiting for spring"). The opening and closing lines are exceptional.</comment>
 
-<question>6</question><grade>7.6</grade><comment>Distinctive voice with scientific precision ("heat-mapping emotions scanner," "twelve forks ranging from whale-low to bat-high") that maintains consistency. Some register elevation in peak moments ("unshaken marvels," "liquid notes") slightly strains the POV's lexicon. Clean focalization throughout with no head-hopping.</comment>
+<question>8</question><grade>8.3</grade><comment>The synthesis of scientific instrumentation with emotional synesthesia creates a genuinely fresh angle on post-apocalyptic silence. The specific detail of tuning forks as emotional measuring devices feels inevitable in hindsight. Risk-taking in the concept pays off without sacrificing clarity.</comment>
 
-<question>7</question><grade>7.3</grade><comment>Generally strong propulsion with vivid imagery, but several instances of abstract phrasing reduce immediacy: "silently expressive" appears twice, "the expression silently expressive" is redundant. Template cadence in the sequence "She struck...she struck another, then another" and some synonym churn around thermal/heat/warmth. Information density is high but could be tighter.</comment>
-
-<question>8</question><grade>8.5</grade><comment>The synthesis of acoustic science with thermal synesthesia after a sound-ending catastrophe is genuinely fresh. The specific detail of tuning forks becoming painting tools and the conservatory as thermal canvas elevates beyond template post-apocalyptic fiction. Risk-taking in the lyric-scientific hybrid mode heightens rather than obscures meaning (+0.3 within band).</comment>
-
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>8.2</grade>
-<question>9 C</question><grade>6.8</grade>
-<question>9 D</question><grade>5.4</grade>
-<question>9 E</question><grade>6.2</grade>
-<question>9 F</question><grade>7.6</grade>
-<question>9 G</question><grade>8.4</grade>
-<question>9 H</question><grade>7.2</grade>
-<question>9 I</question><grade>8.6</grade>
+<question>9 A</question><grade>7.2</grade>
+<question>9 B</question><grade>8.8</grade>
+<question>9 C</question><grade>7.6</grade>
+<question>9 D</question><grade>6.4</grade>
+<question>9 E</question><grade>6.8</grade>
+<question>9 F</question><grade>8.1</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>7.9</grade>
+<question>9 I</question><grade>8.7</grade>
 <question>9 J</question><grade>N/A</grade>

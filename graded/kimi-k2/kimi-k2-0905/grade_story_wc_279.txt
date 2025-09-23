@@ -1,29 +1,50 @@
 grade_story_wc_279.txt
-<question>1</question><grade>8.9</grade><comment>Mira’s interior contradiction—yearning for permanence yet erasing her life’s work—drives every micro-choice; the final refusal to keep the mandala crystallizes this tension with visible cost. Embodied emotion (“lilac unease that would tint every future line”) anchors her arc without label-speak. The flaw of compulsive listening becomes the engine of change, not ornament. Earned stasis lands cleanly: she walks away lighter, pockets empty, path foreclosed.</comment>
+<question>1</question><grade>8.6</grade><comment>Mira’s need to rediscover meaning after erasing her life’s work is credibly embodied through tactile choices—grinding quartz, sweeping spirals—yet the interior contradiction between ‘meaning as chalk dust’ and the final acceptance could be sharper; the social perceptiveness is shown through ambient insect withholding and grotto etiquette more than in status dynamics.</comment>
 
-<question>2</question><grade>9.2</grade><comment>Closure is a Conceptual Repricing: the mandala’s scattering redefines meaning as motion, not object, with the porcelain snow melt as felt cost. Accumulative/Textural lens holds—each added grain and hush layer deepens the stake until the radial storm reconfigures the world. No orientation drift; anchors (grotto, plaza, twilight) are clear by line 3. Pattern taught early (spirals within spirals) pays off in the final sweep.</comment>
+<question>2</question><grade>9.2</grade><comment>The closure lands with full Resonant Reconfiguration (Charged Poise) when the tile whispers “the mess is the only place unfinished enough to welcome you” and Mira scatters the mandala; accumulated hush converges into a legible before/after shift, the cost is the permanent disappearance of her work and the tile itself; the Accumulative/Textural lens holds cleanly.</comment>
 
-<question>3</question><grade>8.7</grade><comment>The grotto’s damp stone and lilac mist constrain posture and breath, forcing Mira to kneel and whisper. The tile flake’s porcelain face and the quartz circle act as micro-settings that limit gesture and carry memory. Weather (mist folding into a pearl) directly enables the climactic silence. Spatial choreography is clean: kneel → rake → sprinkle → sweep → scatter.</comment>
+<question>3</question><grade>8.8</grade><comment>Whispering grotto and lilac mist are not mere backdrop; they constrain her breath, impose silence rules, and yield a ‘pearl’ enclosure that actively shapes the final act; tactile grit of quartz and porcelain snow pin the sensory world underfoot while charging the closing image.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—how to live with impermanence—tightens as each spiral completes only to be erased. Agency: Mira’s decision to scatter the mandala forecloses the option of keeping any artifact, with the tile’s blanking as visible price. Escalation is accumulative: hush thickens, heartbeat becomes intrusion, lilac unease ripens into acceptance. No coincidence; every intensification is authored by her hand.</comment>
+<question>4</question><grade>8.9</grade><comment>Stakes crystallize early: the need to hear the grotto before the unlearning week ends. One meaningful deepening occurs when the hush folds inward and the tile delivers its singular, binding whisper; Mira’s agency drives the final choice—the sweeping scatter—whose cost is the irreversible loss of both mandala and artefact.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme emerges from the tension between permanence and vanishing; no direct statement, only the final image of chalk lines already erasing under shoes. Subtext lives in gesture: sweeping a spiral into a straight path is refusal without speech. The whisper “the mess is the only place unfinished enough to welcome you” reweights the premise without moralizing. Resonance lingers in the reader’s own chest cavity.</comment>
+<question>5</question><grade>9.1</question><comment>Thematic question—how impermanence can cradle meaning—remains implicit throughout and is earned by the vanishing tile, the dissolving chalk spirals, and the final reconfiguration: meaning as motion to repeat. No overt statement is made; the motif of disappearance is paid off rather than recycled.</comment>
 
-<question>6</question><grade>9.1</grade><comment>Voice is lyric yet precise: “lilac unease drifted with the mist” compresses color, emotion, and motion. Perceptual signature—Mira notices withheld insect songs and chalk dust on her tongue—remains consistent. Rhythm modulates from long, inhaling sentences to the staccato storm of scattering grains. No head-hopping; interiority stays grounded in sensory detail.</comment>
+<question>6</question><grade>8.5</grade>
+<comment>Lyrical compression is taught early (‘mist forgot its own name’) and sustained; perceptual signature stays consistent (color as emotion, silence weight), rhythmic modulation mirrors the hush tightening; no head-hopping or drift in psychic distance.</comment>
 
-<question>7</question><grade>8.9</grade>
-<comment>Zero loops or scaffold; each sentence layers texture without redundancy. Metaphors (“color she could feel on her skin”) are fresh yet physically coherent. High information density: “porcelain snow that melted on the wet stone” does triple duty—image, sound, erasure. No artifacts in the final third; closure image remains crystalline.</comment>
+<question>7</question><grade>8.7</grade>
+<comment>Prose maintains natural rhythm, high density; only minor scaffold with a slight loop on “meaning felt like chalk dust” which is immediately freshened with “present but unformed.” Otherwise strong verbs, precise sensory cues, and zero mixed metaphors.</comment>
 
-<question>8</question><grade>9.3</grade>
-<comment>Transforms the trope of the ephemeral artist by fusing chalk, memory tile, and emergent hush into a single ritual. The synthesis feels inevitable: only a chalk artist would hear silence as invitation to draw. Specificity—spirals within spirals, lilac unease—creates freshness without quirk. Risky quiet ending lands because the cost is embodied in blank tile and empty pockets.</comment>
+<question>8</question>
+<grade>9.0</grade>
+<comment>Fresh synthesis: the chalk-artist’s medium itself becomes engine of impermanence; emergent hush as a sentient social pressure is novel yet inevitable; every trope (magic tile, vanishing art) is transformed into a non-literal answer to what meaning costs, delivered without gimmickry.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>8.9</grade>
-<question>9 C</question><grade>9.0</grade>
-<question>9 D</question><grade>7.4</grade>
-<question>9 E</question><grade>8.6</grade>
-<question>9 F</question><grade>9.2</grade>
-<question>9 G</question><grade>8.8</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>9 A</question>
+<grade>8.4</grade>
+
+<question>9 B</question>
+<grade>8.7</grade>
+
+<question>9 C</question>
+<grade>7.9</grade>
+
+<question>9 D</question>
+<grade>7.3</grade>
+
+<question>9 E</question>
+<grade>8.0</grade>
+
+<question>9 F</question>
+<grade>8.1</grade>
+
+<question>9 G</question>
+<grade>7.8</grade>
+
+<question>9 H</question>
+<grade>7.7</grade>
+
+<question>9 I</question>
+<grade>8.2</grade>
+
+<question>9 J</question>
+<grade>7.5</grade>

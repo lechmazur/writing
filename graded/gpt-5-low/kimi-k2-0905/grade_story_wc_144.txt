@@ -1,19 +1,19 @@
 grade_story_wc_144.txt
-<question>1</question><grade>8.4</grade><comment>Lira’s motive and skillset are distinct and embodied, with tactile methods and credible micro‑choices under pressure. The infirmary memory reframes the “jitter” as trauma translation, deepening her interiority. Internal contradiction is light—she stays remarkably composed—so the arc reads more as mastery than struggle. The apprentice dynamic adds texture but exerts minimal pressure on her choices.</comment>
-<question>2</question><grade>8.9</grade><comment>Causal chain is clean: damaged wing → deeper vein/battery issue → patch → feedback terror → retraining via water → launch. Orientation is precise from the first lines, and the internal logic of the repair world holds. Closure lands decisively with the drone’s reconfigured behavior and departure under the live clock. The on‑page cost is primarily time/risk rather than a sacrificed option, but it’s felt.</comment>
-<question>3</question><grade>9.0</grade><comment>Setting is vivid and functional: drippers, boiler hush, mist, and the rain barrel all constrain tactics and enable the fix. The depot’s soundscape becomes a metronome, tying environment to action. The harbor clock and breeze charge the final image. World rules feel consistent and learnable through use rather than exposition.</comment>
-<question>4</question><grade>8.5</grade><comment>Stakes are focused (seeds to the village; ship’s imminent departure) and escalate when the “fixed” drone jitters, forcing a new tactic. The retraining sequence converts theme into action under the deadline. Cost is chiefly temporal and cognitive, not a foreclosed path, but pressure tightens credibly. Resolution is earned by her adaptive choice, not luck.</comment>
-<question>5</question><grade>9.0</grade><comment>Themes of translating fear into function and “decoding feedback into direction” are dramatized, not stated. Lira’s blindness and recovery mirror the drone’s relearning, giving the final arc a resonant repricing of terror as torque. Recurring images (light, spectra, water) evolve meaningfully. No moralizing undercuts the effect.</comment>
-<question>6</question><grade>8.8</grade><comment>Voice is precise, tactile, and confident, with a distinct perceptual signature rooted in non‑visual cues. Dialogue is sparse but purposeful, cleanly differentiating Lira’s calm command and Col’s uncertainty. Elevated diction fits the artisan’s mind and never breaks POV modesty. A few lush metaphors press the edge but remain coherent.</comment>
-<question>7</question><grade>8.7</grade><comment>Lines carry multiple jobs—world, pressure, and character—and momentum rarely stalls. Figurative texture is rich yet controlled; no looped paraphrase or scaffolding intrudes. Occasional density (“magnetic calm,” “iron filings”) is earned by motif and does not blur causality. Mechanics and syntax remain clean with purposeful rhythm shifts.</comment>
-<question>8</question><grade>9.1</grade><comment>The refractive repairs and water‑taught retraining for a drone are genuinely fresh. The synthesis of tactile method, acoustic pacing, and trauma translation feels inevitable in hindsight. Stakes (medical seeds, maiden voyage clock) avoid trope bloat and stay intimate yet urgent. Risk‑taking is formal and thematic without obscuring clarity.</comment>
-<question>9 A</question><grade>9.2</grade>
-<question>9 B</question><grade>9.3</grade>
-<question>9 C</question><grade>8.8</grade>
-<question>9 D</question><grade>8.7</grade>
-<question>9 E</question><grade>8.9</grade>
-<question>9 F</question><grade>9.4</grade>
-<question>9 G</question><grade>8.6</grade>
-<question>9 H</question><grade>8.9</grade>
-<question>9 I</question><grade>9.0</grade>
-<question>9 J</question><grade>8.8</grade>
+<question>1</question><grade>8.6</grade><comment>Lira’s motivation and worldview are precise and embodied; her tactile reading of light and trauma-informed approach feel particular and earned. Micro-choices under time pressure (switching from patching to retraining the feedback loop) reveal values. Internal contradiction is subtle—calm under urgency—rather than overt, which slightly limits depth. Col applies light, relevant pressure without diluting focus.</comment>
+<question>2</question><grade>9.0</grade><comment>Causal throughline is clean: diagnosis → deeper damage → partial fix → new problem (feedback panic) → inventive retraining → launch. Orientation is immediate, and the live clock tightens the sequence. Closure lands on-page with the drone’s decisive launch; cost surfaces via time risk and the constraint of blindness shaping tactics. No contrivances or resets.</comment>
+<question>3</question><grade>9.1</grade><comment>Setting is vivid and integral: drippers, boiler, kiln, and rain barrel all constrain or enable actions. The environment is used as instrument (boiler as metronome; water refraction as sensor) and charges the ending image. Specificity is disciplined and filtered through Lira’s sensory schema. World rules hold consistently.</comment>
+<question>4</question><grade>8.7</grade><comment>Dominant stake (catch the Aurora) is clear from early and escalates with the discovery of battery swelling and the failed test pulse. The reversal from mechanical fix to psychological reconditioning is strong and agency-driven. The price is primarily time and risk rather than a deeper sacrifice, keeping the cost slightly soft. Tension operates across beats without redundancy.</comment>
+<question>5</question><grade>9.0</grade><comment>Theme coheres: translating fear into usable signal; feedback into direction. The rain-barrel retraining fuses trauma memory with practice, offering a resonant, non-didactic answer. Recurring images (spectra, magnetic calm) reweight at the close without moralizing. Subtext of care-as-craft under communal stakes lingers.</comment>
+<question>6</question><grade>8.8</grade><comment>The voice is lyrical yet task-focused, with a distinct perceptual signature rooted in touch and sound. Dialogue is minimal but functional and character-distinct. Distance and diction remain consistent under pressure. No head-hopping or register slips.</comment>
+<question>7</question><grade>9.0</grade><comment>Line-level craft is controlled and economical; metaphors cluster around light, magnetism, and water with coherence. Rhythm varies naturally, and sentences carry multiple jobs without sludge. No scaffolding loops or strained figuratives; the final image is crisp. Technical terms are integrated and believable within the world.</comment>
+<question>8</question><grade>9.2</grade><comment>The synthesis—a blind artisan reading light through water to retrain a drone’s “fear”—feels fresh and inevitable in hindsight. Occupational detail and thematic frame mesh without gimmickry. The rain-barrel method as emotional and technical bridge is ingenious. Risks in conceit and diction pay off cleanly.</comment>
+<question>9 A</question><grade>9.3</grade>
+<question>9 B</question><grade>9.6</grade>
+<question>9 C</question><grade>8.9</grade>
+<question>9 D</question><grade>9.4</grade>
+<question>9 E</question><grade>8.7</grade>
+<question>9 F</question><grade>9.7</grade>
+<question>9 G</question><grade>9.0</grade>
+<question>9 H</question><grade>8.8</grade>
+<question>9 I</question><grade>8.9</grade>
+<question>9 J</question><grade>8.7</grade>

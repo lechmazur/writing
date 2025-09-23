@@ -1,29 +1,31 @@
 grade_story_wc_29.txt
-I'll evaluate this story under a Causal drive lens, as the narrative follows clear because/therefore linkages from discovery to action to resolution.
+I'll evaluate this story systematically under the demanding editor standard for immediate publishability.
 
-<question>1</question><grade>6.8</grade><comment>Mara's motivation is clear and consistent, driven by intellectual curiosity evolving to protective responsibility. The internal conflict between fear and duty manifests concretely during the broadcast sequence. However, characterization relies heavily on exposition rather than embodied emotion, and the "cautiously hopeful" attribute appears only as a label without constraining choices.</comment>
+**Drive Lens:** Causal - the story follows clear because/therefore linkages as Lyra discovers the cosmic interference, develops a counter-strategy, and executes it with visible consequences.
 
-<question>2</question><grade>5.4</grade><comment>The story achieves closure through Mara's successful broadcast causing the entities to retreat (Decisive Change), but the cost remains abstract—we're told she's their "permanent enemy" without seeing what this means. The causal chain holds but feels mechanical, with key revelations (Professor Haskins' notes, the entities' weakness) appearing conveniently. The orientation is clear early, preventing lower scores.</comment>
+<question>1</question><grade>7.8</grade><comment>Lyra's motivation is clear and consistent, with concrete embodied reactions ("velvet migraine pressing behind her eyes," "sweat salted her lips"). Her choice to use chaos against chaos shows tactical evolution under pressure. Minor deduction for some diagnostic self-awareness in peak moments that slightly distances the reader from immediate experience.</comment>
 
-<question>3</question><grade>5.2</grade><comment>The radio station setting provides functional constraint for the broadcast solution, and astronomical charts recur as both decoration and plot device. However, sensory detail is sparse, focusing almost entirely on abstract concepts rather than lived-in specificity. The university setting exists mainly as a label.</comment>
+<question>2</question><grade>8.2</grade><comment>Strong causal chain from signal discovery through counter-frequency deployment to temporary resolution. Closure lands as Resonant Reconfiguration with visible cost (town's temporary peace, Lyra's exhaustion). The orientation anchors arrive promptly. Slight deduction for the convenience of the exact timing window aligning perfectly with her preparation.</comment>
 
-<question>4</question><grade>5.8</grade><comment>Stakes escalate from personal discovery to humanity's survival, with armed militias and the lunar eclipse providing temporal pressure. The tricksters' manipulation creates genuine conflict, but Mara's agency feels limited—she executes a predetermined solution rather than making difficult choices. The resolution lacks visible cost despite claims of sacrifice.</comment>
+<question>3</question><grade>7.9</grade><comment>Vivid sensory detail ("sodium lights that painted the quad the color of dried blood," "smelled of burnt solder and decades of vinyl dust") grounds the setting. The radio station functions as both constraint and tool. Environmental details like "generator exhaust braided with moonlight" enhance atmosphere while advancing action.</comment>
 
-<question>5</question><grade>4.6</grade><comment>The theme of trust versus manipulation emerges clearly but remains surface-level, lacking complexity or ambiguity. The story explicitly moralizes about "cosmic con artistry" and "genuine altruism" in the final third. The tricksters function as one-dimensional villains without nuance, and the resolution offers a too-tidy answer about refusing to play their game.</comment>
+<question>4</question><grade>7.6</grade><comment>Clear escalation as the tricksters adapt their frequency, forcing Lyra to abandon certainty and embrace chaos. The stake (preventing violence through interference) drives every beat. Cost is visible in the town's bewildered awakening and Lyra's physical exhaustion, though the resolution feels somewhat neat for the scale of the threat.</comment>
 
-<question>6</question><grade>5.3</grade><comment>The third-person limited POV maintains consistency but lacks a distinct perceptual signature—Mara could be any academic protagonist. The prose defaults to explanatory mode rather than filtering through character-specific observation. No dialogue appears, missing an opportunity for voice distinction and subtext.</comment>
+<question>5</question><grade>7.4</grade><comment>Theme emerges through the concrete metaphor of interference as potential love, avoiding explicit moralizing. The concept of cosmic tricksters feeding on "planetary noise" resonates with real-world manipulation. Minor deduction for the slightly too-tidy final line that edges toward stating the theme directly.</comment>
 
-<question>7</question><grade>4.8</grade><comment>Prose suffers from extensive exposition and summary, with most dramatic beats told rather than shown. Repetitive phrasing appears throughout ("cosmic tricksters," "power plays," "subsonic frequencies"). Information density is low, with multiple paragraphs restating the same concepts. The final paragraph is incomplete, suggesting structural issues.</comment>
+<question>6</question><grade>8.0</grade><comment>Distinctive voice with scientific precision ("37 hertz, the threshold where matter feels rather than hears") and lyrical compression. POV remains stable with Lyra throughout. The perceptual signature is consistent, showing her technical expertise filtered through exhausted determination.</comment>
 
-<question>8</question><grade>5.1</grade><comment>The concept of cosmic parasites manipulating humanity through radio frequencies offers moderate freshness, but execution relies on familiar alien-invasion tropes. The resolution—exposing manipulation to break its power—follows predictable patterns. The specific use of subsonic frequencies and astronomical charts provides some originality within standard framework.</comment>
+<question>7</question><grade>7.7</grade><comment>Strong prose with varied rhythm and high information density. Lines like "adversaries lowered signs, exchanged the bewildered eye-contact of sleepwalkers waking in each other's bedrooms" do multiple jobs efficiently. Minor deductions for occasional overwrought metaphors ("ethereal grit made visible") and some repetitive phrasing around the cosmic elements.</comment>
 
-<question>9 A</question><grade>7.2</grade>
-<question>9 B</question><grade>5.8</grade>
-<question>9 C</question><grade>6.3</grade>
-<question>9 D</question><grade>2.1</grade>
-<question>9 E</question><grade>7.8</grade>
-<question>9 F</question><grade>8.4</grade>
-<question>9 G</question><grade>6.6</grade>
-<question>9 H</question><grade>5.4</grade>
-<question>9 I</question><grade>6.9</grade>
-<question>9 J</question><grade>3.2</grade>
+<question>8</question><grade>7.3</grade><comment>The premise of cosmic tricksters manipulating social division through subsonic frequencies offers a fresh angle on contemporary polarization. The specific technical details and astronomical charts ground the fantastical elements. However, the resolution mechanism feels somewhat convenient and the tricksters remain abstract rather than fully realized.</comment>
+
+<question>9 A</question><grade>8.2</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>7.5</grade>
+<question>9 D</question><grade>6.8</grade>
+<question>9 E</question><grade>8.5</grade>
+<question>9 F</question><grade>8.8</grade>
+<question>9 G</question><grade>7.9</grade>
+<question>9 H</question><grade>7.2</grade>
+<question>9 I</question><grade>8.0</grade>
+<question>9 J</question><grade>8.4</grade>

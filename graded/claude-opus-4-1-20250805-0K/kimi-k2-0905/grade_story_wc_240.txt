@@ -1,27 +1,29 @@
 grade_story_wc_240.txt
-<question>1</question><grade>7.8</grade><comment>Maya's motivation through personal loss (brother Luc) effectively drives her investigation and final choice. The dual Lucs create genuine internal conflict with contradictory impulses acting simultaneously in scene. Minor deduction for the somewhat convenient resolution where merging the brothers solves the emotional dilemma without fuller exploration of which version to choose.</comment>
+I'll evaluate this story as a demanding editor, applying the rubric strictly.
 
-<question>2</question><grade>7.6</grade><comment>Clear Accumulative/Textural lens with topology folds building toward the merger resolution. Closure lands as Resonant Reconfiguration where Maya accepts uncertainty about which Luc is "real," with visible emotional cost. Deduction for the slightly rushed explanation of the farm's true purpose mid-story and the merger mechanics feeling somewhat arbitrary.</comment>
+<question>1</question><grade>7.8</grade><comment>Maya's spatial gift and personal grief over Luc create compelling motivation that drives every choice, particularly the final merger decision. The dual Lucs present genuine internal conflict between reclaiming the "original" and accepting both as valid, though some emotional transitions feel slightly compressed in the final beats.</comment>
 
-<question>3</question><grade>8.2</grade><comment>The cavern's permeable topology functions as active setting that constrains choices and enables the final merger. Bioluminescent details are vivid and purposeful, with spores and light creating atmosphere. The spatial anomalies directly shape Maya's investigation tactics and final solution.</comment>
+<question>2</question><grade>8.2</grade><comment>The story delivers a Resonant Reconfiguration where Maya accepts the impossibility of distinguishing original from copy, with visible cost in releasing her certainty about her brother's identity. The topology fold concept elegantly structures the causal chain from detection to understanding to merger, though the exact mechanics of the final "fusion" could be slightly clearer.</comment>
 
-<question>4</question><grade>7.4</grade><comment>Stakes escalate from investigating a breach to confronting personal grief about Luc. The topology discovery meaningfully tightens options leading to the merger choice. Cost is visible in Maya's uncertainty about which Luc is real, though the resolution feels slightly too neat.</comment>
+<question>3</question><grade>8.4</grade><comment>The bioluminescent cavern functions as more than setting—the permeable barriers and topology folds directly enable the plot's resolution and constrain Maya's choices. The laser pointer's path-tracing through impossible geometries creates vivid spatial choreography that charges the final merger sequence.</comment>
 
-<question>5</question><grade>7.9</grade><comment>Theme of grief and letting go emerges organically through the duplicate/echo concept. The final image of "light dispersing through relinquished grief" resonantly reweights the investigation as emotional journey. Slight deduction for Dr. Voss's explicit thematic statement about "revolutionizing closure."</comment>
+<question>4</question><grade>7.9</grade><comment>Stakes escalate from security breach to personal confrontation to existential choice about identity, with Maya's agency driving the merger decision despite uncertainty. The "no original, no copy—only choice" revelation effectively forecloses her initial goal while opening the harder path of acceptance.</comment>
 
-<question>6</question><grade>8.0</grade><comment>Distinct perceptual signature with Maya's spatial gift shaping how she perceives the cavern as "nested topographies." Clean POV control throughout with appropriate technical register for the intrusion specialist. Dialogue between the Lucs and Dr. Voss carries appropriate subtext about loss and acceptance.</comment>
+<question>5</question><grade>8.6</grade><comment>The theme of grief creating "permeable barriers" between loss and presence emerges organically through the farm's function, culminating in the powerful final image of echo becoming light. The story resists simple resolution, leaving ambiguity about whether the merged Luc is brother or compassionate forgery.</comment>
 
-<question>7</question><grade>7.3</grade><comment>Generally clean prose with vivid imagery like "sapphire-lit caps" and effective rhythm variation. Several instances of mild overwriting ("quiet wildfire racing her pulse" appears twice; "echo finally arriving, not as sound but as light") and occasional register elevation that slightly dulls momentum.</comment>
+<question>6</question><grade>8.3</grade><comment>Maya's spatially-gifted perception creates a distinct focalization that tracks topology and movement with precision, while her emotional register modulates believably from professional detection to personal recognition. The prose maintains consistent scientific-poetic register throughout, though occasional phrases like "quiet wildfire" feel slightly overwrought.</comment>
 
-<question>8</question><grade>8.1</grade><comment>Fresh synthesis of sci-fi detection with grief processing through the topology fold concept. The mushroom farm as a place to duplicate lost loved ones offers genuine novelty. Risk-taking in the ambiguous resolution about which Luc is "real" heightens emotional stakes.</comment>
+<question>7</question><grade>7.6</grade><comment>Generally strong prose with vivid imagery like "sapphire-lit caps" and effective rhythm variation, but some metaphorical density in high-pressure beats ("quiet wildfire racing her pulse") and repetition of "permeable barriers" slightly dulls momentum. The final sentence, while thematically resonant, stretches syntactically.</comment>
 
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>8.2</grade>
-<question>9 C</question><grade>8.4</grade>
-<question>9 D</question><grade>8.6</grade>
-<question>9 E</question><grade>6.2</grade>
-<question>9 F</question><grade>8.8</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>5.8</grade>
-<question>9 I</question><grade>8.3</grade>
-<question>9 J</question><grade>7.2</grade>
+<question>8</question><grade>8.1</grade><comment>The topology fold concept offers a fresh take on dimensional anomalies, and the mushroom farm as grief-resolution technology presents genuine originality. The specific synthesis of bioluminescence, spatial detection, and identity ambiguity creates something memorable, though the "duplicate people for closure" concept edges toward familiar sci-fi territory.</comment>
+
+<question>9 A</question><grade>7.2</grade>
+<question>9 B</question><grade>8.7</grade>
+<question>9 C</question><grade>8.9</grade>
+<question>9 D</question><grade>9.1</grade>
+<question>9 E</question><grade>7.8</grade>
+<question>9 F</question><grade>9.3</grade>
+<question>9 G</question><grade>8.8</grade>
+<question>9 H</question><grade>6.4</grade>
+<question>9 I</question><grade>8.2</grade>
+<question>9 J</question><grade>7.6</grade>

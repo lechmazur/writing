@@ -1,19 +1,19 @@
 grade_story_wc_84.txt
-<question>1</question><grade>7.8</grade><comment>Pilgrim's "perpetually surprised" trait remains a label without embodied contradiction or tradeoffs; Mara's micro-choices (descending stairs, pulling lever) earn closure but lack visible cost escalation in peak beats. Interiority avoids therapy-speak yet pilgrim reads archetypal.</comment>
-<question>2</question><grade>8.6</grade><comment>Closure lands as Charged Poise (stars as waypoints) with conceptual cost of parents' absence reframed as frequency journey. Orientation anchored early but pilgrim's "I know you're there" lacks causal setup, weakening escalation from tracking to confrontation.</comment>
-<question>3</question><grade>8.1</grade><comment>Broken astrolabe directly enables press scene; matrix chip's star-shadows charge the final image. But observatory functions as atmospheric backdrop rather than constraining choice—drone operation would work identically in any ruin.</comment>
-<question>4</question><grade>7.9</grade><comment>Single stake (finding belonging via frequency) deepens meaningfully when chip reveals moving stars, but escalation plateaus after drone reveal. Cost is felt (parents' absence reframed) yet lacks visceral manifestation beyond conceptual realization.</comment>
-<question>5</question><grade>8.7</grade><comment>"Belonging as frequency" emerges through press mechanics without moralizing; final image reweights parents' disappearance as cosmic journey. Avoids thematic echo but "missing pieces" concept remains underdramatized until late.</comment>
-<question>6</question><grade>8.4</grade><comment>Mara's drone-pilot lexicon ("mechanical bird," "cameras focused") creates distinct perceptual signature. Pilgrim's dialogue lacks subtext ("prints belonging" feels archetypal), though rhythmic control under pressure (twilight to starlight transition) remains strong.</comment>
-<question>7</question><grade>8.3</grade><comment>"Perpetually surprised" repeated verbatim; "brilliant dimness" appears twice mechanically. No scaffold cadence but "eyes that held galaxies" edges toward cliché. Final line slightly overwrites with "frequency of belonging" abstraction.</comment>
-<question>8</question><grade>8.5</grade><comment>Frequency-based belonging transforms quest trope through printer mechanics and matrix chip specificity. Emotional truth in grandmother's dying words elevates it, but pilgrim archetype drags freshness down from inevitable synthesis.</comment>
-<question>9 A</question><grade>9.2</grade>
-<question>9 B</question><grade>9.7</grade>
-<question>9 C</question><grade>7.1</grade>
-<question>9 D</question><grade>3.8</grade>
-<question>9 E</question><grade>9.9</grade>
-<question>9 F</question><grade>2.1</grade>
-<question>9 G</question><grade>7.6</grade>
-<question>9 H</question><grade>5.3</grade>
-<question>9 I</question><grade>8.8</grade>
-<question>9 J</question><grade>8.2</grade>
+<question>1</question><grade>7.8</grade><comment>Strong interiority and embodied motivation for Mara, but pilgrim remains underdeveloped; "perpetually surprised" trait lacks integration into choices. Final choice feels slightly unearned without visible struggle against flaw.</comment>
+<question>2</question><grade>8.9</grade><comment>Closure as Charged Poise lands powerfully with conceptual cost (parents' disappearance reweighted as following frequency). Orientation clear by para 1, drive lens (Accumulative/Textural) holds through sensory density buildup to resonant reconfiguration.</comment>
+<question>3</question><grade>9.2</grade><comment>Ancient observatory actively constrains choices (column for drone landing, broken astrolabe as focal point) and charges the final image ("brilliant dimness" twilight becoming waypoints). Sensory details filtered through drone-pilot precision and cosmic wonder.</comment>
+<question>4</question><grade>8.3</grade><comment>Stakes tighten meaningfully when pilgrim reveals parents "followed their frequency," but escalation lacks Mara's active testing of the concept. Cost is legible (redefined understanding of loss) yet agency feels passive during resolution.</comment>
+<question>5</question><grade>8.7</grade><comment>Theme emerges organically through "missing pieces" concept; final image reweights stars as "waypoints" without moralizing. Near-miss on Q5 9+ gate: "frequency of belonging" risks thematic echo but saved by concrete printing mechanics.</comment>
+<question>6</question><grade>8.6</grade><comment>Distinct perceptual signature (drone pilot's mechanical precision vs. cosmic wonder) with rhythmic control. Slight register drift in "galaxies that didn't align with any earthly sky" momentarily breaks POV plausibility.</comment>
+<question>7</question><grade>8.4</question><grade>8.4</grade><comment>Near-zero loops; high density ("star-shadows across ancient stones"). Minor artifact: "trembled perpetually surprised" creates grammatical friction. Final line’s "frequency of belonging" avoids thematic echo through tactile specificity.</comment>
+<question>8</question><grade>8.5</grade><comment>Fresh synthesis of type foundry tech with cosmic belonging avoids tropes. "Printing frequencies" premise transformed through specific mechanics (hand press, matrix chip). Risks poetic abstraction but grounded by drone pilot’s occupational lens.</comment>
+<question>9 A</question><grade>8.7</grade>
+<question>9 B</question><grade>9.1</grade>
+<question>9 C</question><grade>7.4</grade>
+<question>9 D</question><grade>4.2</grade>
+<question>9 E</question><grade>9.5</grade>
+<question>9 F</question><grade>3.1</grade>
+<question>9 G</question><grade>8.9</grade>
+<question>9 H</question><grade>5.8</grade>
+<question>9 I</question><grade>7.9</grade>
+<question>9 J</question><grade>8.3</grade>

@@ -1,31 +1,18 @@
 grade_story_wc_202.txt
-<question>1</question><grade>8.9</grade><comment>Interior contradiction and embodied emotion are vivid; the adult’s decision to surrender the shard to child-self crystallizes a hierarchy of values with visible cost. Motivation—honoring overlooked histories—drives every beat and the final renunciation. Micro-choices (leaning into the painting, singing the lullaby backward) are character-specific and pressurized. The only minor slip is a touch of diagnostic self-awareness in “I understand now that intuition is not a compass but a tide,” but it is brief and does not undercut the earned closure.</comment>
+<question>1</question><grade>6.9</grade><comment>Boy-self and adult-self are distinct but causally linked by the lens; interiority is resonant yet at times drifts into lyric summary without embodied contradiction. The “translator” identity is declared rather than dramatized in decisional beats, reducing pressure. The final transfer reads as earned ritual more than costly choice because earlier self is unaware, muting felt risk.</comment>
 
-<question>2</question><grade>9.2</grade><comment>Closure is a Resonant Reconfiguration: the shard’s return reweights the premise and leaves the narrator anchor-less yet resonant. The Accumulative/Textural lens holds: pattern of light-returning across beats tightens until the final image. Orientation is taught early via the swaying catwalks; no disorientation persists. Cost is legible in the line “its absence weighs more than its presence ever did.”</comment>
+<question>2</question><grade>7.8</grade><comment>Drive lens is Accumulative/Textural—images accrue and reweight meaning through recursion, culminating in an Earned Stasis of renunciation with visible absence (“absence weighs more”). Orientation is legible; time-bridge transition is taught early and closure pays off. Minor causality gap: painter’s heartbeat date is asserted retroactively without prior cue.</comment>
 
-<question>3</question><grade>8.8</grade><comment>Setting is anchored by the rope bridges and rooftop market; the micro-setting of the painting becomes a literal threshold that constrains the protagonist’s choice. Sensory detail is selective—copper-salt air, humming ropes—filtered through the translator’s priorities. The final rooftop sweep of the new scaffolded lighthouse reconfigures the lost tower’s absence. Spatial choreography is clean across catwalk, pigment, and city.</comment>
+<question>3</question><grade>7.9</grade>comment>Atmosphere is tactile—the swaying rope bridges, copper-salt air, “pigment-warm dusk”—all filtered through POV priorities. Lighthouse lens and canvas shards act as micro-settings constraining action. Spatial logic remains coherent despite metaphysical tilt. Market lanterns into spiral satisfy 9+ gate.</comment>
 
-<question>4</question><grade>8.7</grade><comment>Dominant stake—return what was taken before loss calcifies—is signaled early and tightened through the shard’s glow and the painter’s heartbeat. One meaningful deepening occurs when the adult hands the fragment back; the option to keep it is foreclosed with felt cost. Agency is the protagonist’s; coincidence (finding the painting) complicates rather than resolves. Pressure remains coherent under the Accumulative lens.</comment>
+<question>4</question><grade>7.4</comment>Central stake is “keep ghosts from drifting” vs. “return what we owe”; escalation occurs through denser recursion of shared past rather than narrowing options. Moment of transfer crystallizes cost—adult loses literal anchor object. However, stakes are emotional/spiritual only; tangible consequence on present world is opaque.</comment>
 
-<question>5</question><grade>9.0</grade>
-<comment>Theme emerges organically: the ethics of custodianship and release. The final image—“We keep the light by letting it go”—offers a resonant, non-literal answer without moralizing. Subtext operates in the shard’s warmth and the gull’s heartbeat. Recurring light motif reweights meaning at closure; no token symbolism.</comment>
+<question>5</question><strong>7.2</strong><comment>Emergent theme of stewardship through relinquishment is coherent and non-didactic. Subtext operates (“light remembers everyone” vs. “light by letting it go”) without summarizing. Final sentence “We keep the light by letting it go” flirts with thematic echo penalty but remains resonant image, not asserted axiom.</comment>
 
-<question>6</question><grade>8.9</grade>
-<comment>Voice is lyric yet controlled; perceptual signature is the translator’s synesthetic noticing (lens “warm as skin,” pigments “a syllable”). Syntax modulates with emotional intensity—short clauses under vertigo, longer cadences in reflection. No head-hopping; POV remains stable. One line drifts toward editorial certainty but recovers immediately.</comment>
+<question>6</question><strong>8.6</strong><comment>Lush second-person-inflected interiority feels singular, compressed yet legible. Syntax varies naturally; diction tilts toward lyric precision. Few overt filter verbs; sensory anchoring is vivid. No head-hopping; timeline holds despite time-slip.</comment>
 
-<question>7</question><grade>8.8</grade>
-<comment>Prose is dense and propulsive; each sentence advances image or stakes. Metaphors are precise—“market folds into fog, elusively tangible”—and avoid muddle. No loops or scaffold; rhythm breathes with scene needs. Opening and closing lines are sharp and resonant.</comment>
+<question>7</question><strong>8.7</strong><comment>Line-level craft is dense and propulsive; mixed metaphors (“lantern in the wind” vs. “hum with memory”) are minor. Rhythm accelerates during passage through canvas; no discernible loops or scaffold. One typo: “unfasten time” is accepted usage. Clarity under pressure remains high.</comment>
 
-<question>8</question><grade>9.1</grade>
-<comment>The alchemist’s market, time-travel via pigment, and shard-as-bone synthesis feel inevitable yet fresh. Transformation test: story would collapse if any element were generic. Risk-taking (stepping into a painting) is grounded in character need. Specificity—“tide-gnawed ruins,” “scaffolded lighthouse”—anchors universals.</comment>
+<question>8</question><strong>7.8</strong><comment>Premise of roof-top memory-market fused with ghost-ferrying translator is fresh synthesis. Lighthouse shard as joint bone across time reclaims familiar object. Avoids gimmickry; risk heightens stakes without losing coherence. Strong compression and lyric recursion distinguish it from “time travel” clichés.</comment>
 
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.4</grade>
-<question>9 C</question><grade>8.3</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>9.2</grade>
-<question>9 F</question><grade>8.8</grade>
-<question>9 G</question><grade>8.5</grade>
-<question>9 H</question><grade>7.6</grade>
-<question>9 I</question><grade>8.9</grade>
-<question>9 J</question><grade>8.4</grade>
+<question>9 A</question><strong>6.7</strong><question>9 B</question><strong>8.3</strong><question>9 C</question><strong>5.4</strong><question>9 D</question><strong>6.8</strong><question>9 E</question><strong>7.9</strong><question>9 F</question><strong>7.0</strong><question>9 G</question><strong>6.1</strong><question>9 H</question><strong>5.2</strong><question>9 I</question><strong>6.4</strong><question>9 J</question><strong>6.3</strong>

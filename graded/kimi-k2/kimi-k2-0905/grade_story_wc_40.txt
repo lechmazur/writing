@@ -1,33 +1,36 @@
 grade_story_wc_40.txt
-<question>1</question><grade>8.1</grade><comment>Elara’s reticence is embodied in her quiet movements and refusal to grandstand, but her interiority stays largely abstract—“weathered innocence” is asserted rather than dramatized. The decisive micro-choice to testify rather than catalogue is credible, yet the cost (renouncing her life-long stance of detached observation) is stated more than felt on the page.</comment>
+<question>1</question><grade>7.4</grade><comment>Elara’s reticence is shown through marginal action and memory-writing, but interior contradiction stays static; no micro-choice visibly raises cost. The final “small, sad” smile is the first embodied emotion, so the arc feels observed rather than lived. Crystal testimony motivates her, yet the beat where she decides to speak is elided; causality is clean but thin. Meets baseline for single-POV interiority, not quite the felt cost needed for 8+.</comment>
 
-<question>2</question><grade>8.4</grade><comment>The Accumulative/Textural lens holds: each sonic fragment layers memory-density until the final image reframes the library as living archive. Closure lands cleanly—“zygote” reweights the premise with conceptual cost—though the causality between crystal pulses and Elara’s decision to testify could be sharper.</comment>
+<question>2</question><grade>8.6</grade><comment>Closure lands as Charged Poise: crystal left humming, “zygote” reframing silence as seed, cost legible in her renunciation of control. Accumulative lens holds—each sonic fragment layers density until the library exhales. Orientation anchored by word 60; no teleporting props. One causal gap: the leap from hearing sequences to deciding to testify is off-page, but the final reconfiguration still pays off prior pattern.</comment>
 
-<question>3</question><grade>7.8</grade>
-<comment>Shadowed library at dawn is sketched with selective sensory strokes; the crystal functions as micro-setting that constrains her listening stance. Spatial choreography stays coherent; the snowdrop’s return in the fallen book charges the final image effectively.</comment>
+<question>3</question><grade>8.3</grade><comment>Shadowed library at dawn is filtered through Elara’s scholar gaze—brittle spines, slanted light, snowdrop pressed in botanical atlas—each detail doubles as memory and choice trigger. Crystal functions as micro-setting, warming in her palm to constrain how long she can hold it. Spatial track clean: central table, upper gallery, desk. Environment never stalls momentum; instead, every sensory pick-up advances the sonic spiral.</comment>
 
-<question>4</question><grade>7.5</grade>
-<comment>Dominant stake—decoding growth in a post-dictionary silence—is signaled early. Pressure tightens through accumulating sonic fragments, forcing Elara from passive decoding to active testimony; the cost is conceptual (loss of scholarly detachment) rather than viscerally enacted.</comment>
+<question>4</question><grade>7.8</grade><comment>Dominant stake—decode growth in post-dictionary silence—tightens when crystal’s warmth forces her to speak or relinquish it. One meaningful deepening: realization that growth folds inward (snowdrop) reweights her goal from mastery to witness. No external antagonist, but internal pressure suffices under accrual lens. Cost visible in her leaving without the crystal, yet the beat is brief; just shy of 8+ felt price.</comment>
 
-<question>5</question><grade>8.7</grade>
-<comment>Theme of language’s afterlife emerges from concrete particulars: pressed flower, unheard words, final “zygote.” Subtext operates in gesture and silence; no moralizing intrudes. The ending’s reconfiguration invites reflection without tidy resolution.</comment>
+<question>5</question><grade>8.7</grade><comment>Theme emerges via accretion: language ends, yet memory-voices germinate “zygote.” No moral stated; final image re-prices silence as fertile. Subtext resides in crystal’s unanswered hum—testimony without master. Ambiguity lingers: does the library archive or procreate? Complexity earned through concrete particulars, not assertion.</comment>
 
-<question>6</question><grade>8.5</grade>
-<comment>Third-person limited remains stable; perceptual signature is scholarly, attentive to sonic texture. Syntax is controlled, rhythm modulates with hush and pulse. No dialogue appears, so voice is carried by filtered perception and memory.</comment>
+<question>6</question><grade>8.9</grade><comment>Third-person lyric stays close to Elara’s reticent sensorium—“weathered innocence” rendered through hush, dust motes, finger on brittle spines. Syntax lengthens in calm, fragments under sonic bursts, matching pressure. No dialogue, so no voice contamination. Distinct perceptual signature sustained; crystal’s refraction taught early and paid off.</comment>
 
-<question>7</question><grade>8.3</grade>
-<comment>Prose is clean, vivid, and propulsive; figurative language is selective (“sediment,” “new spine”) and never muddles clarity. No loops or scaffold detected. Sentence variety supports the quiet crescendo.</comment>
+<question>7</question><grade>8.5</grade><comment>Prose is lean, rhythmic, image-dense; no loops or scaffold. Metaphors (rings in a tree, sediment) serve accrual pattern without crowding. Opening line anchors voice and stakes; final line recharges “zygote.” One near-purple phrase—“quiet apocalypse of language”—but it launches the concept, forgiven.</comment>
 
-<question>8</question><grade>8.6</grade>
-<comment>Premise—library as living memory after the death of dictionaries—is fresh and executed with conceptual integrity. Tropes of magical objects and post-apocalypse are transformed through scholarly specificity. Final reprise of “zygote” feels inevitable yet non-obvious.</comment>
+<question>8</question><grade>8.4</grade><comment>Premise—last dictionary printed, library becomes oral seedbank—feels fresh yet inevitable. Crystal as sonic memory engine specific to this world. Risk taken in eschewing plot for pattern, but accrual design holds. Not quite a 9 because the inward-turn is foreseeable once snowdrop appears.</comment>
 
-<question>9 A</question><grade>7.4</grade>
-<question>9 B</question><grade>8.9</grade>
+<question>9 A</question><grade>6.8</grade>
+
+<question>9 B</question><grade>8.7</grade>
+
 <question>9 C</question><grade>7.2</grade>
-<question>9 D</question><grade>7.8</grade>
-<question>9 E</question><grade>8.1</grade>
+
+<question>9 D</question><grade>7.9</grade>
+
+<question>9 E</question><grade>7.5</grade>
+
 <question>9 F</question><grade>7.0</grade>
-<question>9 G</question><grade>7.6</grade>
-<question>9 H</question><grade>6.3</grade>
-<question>9 I</question><grade>6.8</grade>
-<question>9 J</question><grade>7.3</grade>
+
+<question>9 G</question><grade>7.8</grade>
+
+<question>9 H</question><grade>6.4</grade>
+
+<question>9 I</question><grade>6.6</grade>
+
+<question>9 J</question><grade>7.7</grade>

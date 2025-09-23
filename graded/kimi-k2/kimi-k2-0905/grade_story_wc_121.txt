@@ -1,62 +1,27 @@
 grade_story_wc_121.txt
-<question>1</question>
-<grade>8.2</grade>
-<comment>Kael's desire to "conquer the labyrinth of self" is clear, but the interior logic is abstract; contradictory selves clash more conceptually than viscerally. The final obliteration of the tablet is an earned renunciation, but the minotaur's identity as "the sequence of choices" feels summarized, not embodied. Flaws remain gestural rather than lived, lowering from exceptional.</comment>
+<question>1</question><grade>8.4</grade><comment>Kael’s contradictory impulses—yearning to unify selves while destroying the map that guides him—are dramatized in the split-second tablet smash; the translucent elder Kael offers a visceral cost for identity foreclosure. Interiority stays concrete, never drifts into label-speak, and the final step into “nothing” externalizes the stakes of self-erasure. Micro-choices (which echo to follow, which arch to walk) keep hierarchy of values legible. Missing a second on-page character limits relationship crucible, but single-POV depth satisfies scope.</comment>
 
-<question>2</question>
-<grade>8.9</grade>
-<comment>Closure lands as deliberate, elegant Charged Poise: the tablet's destruction collapses timelines—time itself becomes the price. Drive is situational‐accumulative; pattern taught early, ruptures widen, then sudden stillness. No causality lapses; spatial/temporal anchors hold.</comment>
+<question>2</question><grade>8.9</grade><comment>Closure lands as Conceptual Repricing: tablet’s destruction collapses timelines and reweights identity from multiplicity to singular unnamed self; cost is the dissolution of every alternate Kael, felt in the “soft sigh” of closing book. Causal chain holds—tablet guides, fracture bites, choice to erase minotaur-of-choices pays off immediately. Orientation taught by lyric disorientation early, waiver applies; no teleporting props or retro patches. One shard, one transition (step through fracture), within word count.</comment>
 
-<question>3</question>
-<grade>7.0</grade>
-<comment>Viaduct is atmospheric and symbolic—glowing algae bones—but remains backdrop instead of active constraint. The open doorway into childhood closes the loop, giving late environment weight, but still more resonance than function.</comment>
+<question>3</question><grade>8.7</grade><comment>Glowing viaduct, neon algae, and sideways-falling rain function as micro-setting that actively slices coat and leaks hours—environment directly pressures body and tactics. Spatial choreography is clean across the forked arches; no floating rooms. Cobalt glow and copper-ozone taste are filtered through Kael’s urgency, not tourist catalog. Final ordinary viaduct re-anchors the reweighted world, satisfying 9+ gate by charging the closing image.</comment>
 
-<question>4</question>
-<grade>9.0</grade>
-<comment>Pressure escalates through timeline fractures until collapse; every intensification is authored by Kael's choices rather than coincidence. Cost is visible—time bleeding from cuts, final vanishing of selves—with a decisive act that forecloses return.</comment>
+<question>4</question><grade>8.5</grade><comment>Dominant stake—erase the labyrinth of selves—signaled in paragraph four and tightens when the labyrinth “grows teeth,” forcing Kael through the fracture. Tablet smash is the decisive, irreversible trade-off that forecloses all alternate paths; price is immediate erasure of elder Kael and every ghost-echo. Pressure escalates under causal lens: because tablet mis-computes, therefore Kael must confront elder; because he shatters it, timelines collapse. No coincidence resolves; agency drives final renunciation.</comment>
 
-<question>5</question>
-<grade>8.5</grade>
-<comment>Theme of self-erasure achieved by choice is underlined, not declared, culminating in a final, quiet doorway. Subtext of father/clock trauma is evocative yet thin; still, ambiguity is earned, not asserted.</comment>
+<question>5</question><grade>8.8</grade><comment>Theme of identity-as-sequence emerges from the concrete act of smashing the sequence-maker; no explicit thesis stated. Subtext operates in image—clay birds seeking birthplace—rather than commentary. Final doorway invites reflection on whether erasure is victory or loss, sustaining ambiguity. No moralizing or echo-language in closing paragraph.</comment>
 
-<question>6</question>
-<grade>9.2</grade>
-<comment>Achieves distinctive rhythmic texture: “waterfall upward into night sky,” “rain sliced his coat,” sonic cohesion across beats. POV remains singular, no leakage; lyric compression taught early and paid back in final image.</comment>
+<question>6</question><grade>9.1</grade><comment>Voice carries distinct texture: inverted syntax (“darkening brightness”), physics-defying metaphors, and rhythmic compression mirror a mind negotiating impossible geometries. Perceptual signature—time measured in heartbeats between drop and ripple—stays consistent and character-specific. No head-hopping; single POV holds. Experimental elision (“gravity defier known only as Kael”) is taught early and paid off at closure.</comment>
 
-<question>7</question>
-<grade>8.7</grade>
-<comment>Sensory density is high; almost every sentence performs double duty. One minor figurative wobble: “wallpaper peeling like sunburned skin” jars slightly under pressure but never obscures closure.</comment>
+<question>7</question><grade>8.9</grade><comment>Sentences vary in length and opening, propelling the ascent toward the tablet smash without scaffold. Figurative language is dense but patterned—rain as frozen seconds, runes as dying stars—teaching its own logic and avoiding mixed metaphors. No paraphrase loops or filter-verb stacks. Final line breathes with monosyllabic cadence that recharges earlier footsteps, showing ear control.</comment>
 
-<question>8</question>
-<grade>9.0</grade>
-<comment>Synthesizes time-fragment narrative with mythical labyrinth in fresh, personal terms. “Periodically eternal” tablet is an original device; turns are inevitable in hindsight without late rule patches.</comment>
+<question>8</question><grade>9.0</grade><comment>Fractured-self labyrinth rendered through sideways rain and periodically eternal tablet feels novel yet inevitable; no stock tropes reused without transformation. Risk of nonlinear recursion is embraced and paid off by the elder-Kael confrontation. Specificity—“seventeen identical arches, each inscribed with a different name for the same sin”—anchors abstraction in memorable detail. Concept commits fully without retreat.</comment>
 
-<question>9 A</question>
-<grade>8.5</grade>
-
-<question>9 B</question>
-<grade>9.2</grade>
-
-<question>9 C</question>
-<grade>8.7</grade>
-
-<question>9 D</question>
-<grade>9.0</grade>
-
-<question>9 E</question>
-<grade>7.9</grade>
-
-<question>9 F</question>
-<grade>7.0</grade>
-
-<question>9 G</question>
-<grade>6.5</grade>
-
-<question>9 H</question>
-<grade>8.0</grade>
-
-<question>9 I</question>
-<grade>8.3</grade>
-
-<question>9 J</question>
-<grade>8.1</grade>
+<question>9 A</question><grade>8.6</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>8.8</grade>
+<question>9 D</question><grade>8.1</grade>
+<question>9 E</question><grade>7.9</grade>
+<question>9 F</question><grade>7.4</grade>
+<question>9 G</question><grade>7.7</grade>
+<question>9 H</question><grade>8.3</grade>
+<question>9 I</question><grade>8.5</grade>
+<question>9 J</question><grade>8.0</grade>

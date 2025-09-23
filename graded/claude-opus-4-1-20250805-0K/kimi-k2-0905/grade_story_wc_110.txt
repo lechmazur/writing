@@ -1,31 +1,27 @@
 grade_story_wc_110.txt
-I'll evaluate this story systematically under the demanding editorial standards provided.
+<question>1</question><grade>7.4</grade><comment>Mira's quiet integrity drives genuine internal conflict between exposing truth and preserving fragile workplace peace, with her final choice to "let both go" earning its cost through prior dramatization. The embodied details ("heart drumming a funeral march for resentment") avoid therapy-speak while Rico and Jun's voices remain distinct if occasionally convergent under emotional pressure.</comment>
 
-**Drive Lens Inference:** Causal - the story follows clear because/therefore linkages from Mira finding the ticket through discovering the truth and choosing forgiveness.
+<question>2</question><grade>7.8</grade><comment>Closure lands cleanly as Resonant Reconfiguration when three colleagues sweep "no longer guarding their silences," with visible cost in Mira's choice to release both evidence and grievance. The causal chain from cryptic ticket through eavesdropping to projection room discovery maintains clear linkage, though the convenience of Rico and Jun's staged confession slightly weakens mid-story causality.</comment>
 
-<question>1</question><grade>7.8</grade><comment>Mira's internal conflict between duty and reconciliation drives genuine choices with visible cost. The shift from "quiet night registrar" to active truth-seeker feels earned through concrete pressures. Minor deduction for Rico and Jun's somewhat convenient emotional openness at the end.</comment>
+<question>3</question><grade>7.2</grade><comment>The "crystal whispering forecourt after rain" establishes distinctive atmosphere that charges the final image when "three colleagues swept the floor side by side." Sensory details like "dust floated like plankton" and "resonant hush that felt like listening to snow fall upward" create specificity, though the projection booth and its missing lens don't fully constrain choices beyond plot mechanics.</comment>
 
-<question>2</question><grade>8.2</grade><comment>Strong causal chain from ticket discovery through lens recovery to collective absolution, with the projector screening serving as resonant reconfiguration. The "freed by honesty" concept lands with visible relational cost. Slight weakness in the convenience of Rico and Jun's presence timing.</comment>
+<question>4</question><grade>7.6</grade><comment>The dominant stake—restoring trust among frozen staff factions—escalates meaningfully when Mira discovers the staged hunt yet chooses transparency over accusation, with visible cost in releasing both truth and grievance. The turn from potential confrontation ("hot on her tongue") to silent withdrawal demonstrates agency under the causal lens, though the antagonists' convenient presence weakens pressure slightly.</comment>
 
-<question>3</question><grade>7.4</grade><comment>The crystal forecourt and projection booth create atmospheric pressure, with the missing lens constraining choices. Setting details like "rain threading the crystal pillars" enhance mood without overwhelming. The projector-as-resolution-tool effectively uses environment to shape the ending.</comment>
+<question>5</question><grade>7.9</grade><comment>Theme emerges organically through the projected "Staff Memories" that "speak the apology no sentence could carry," with the final doodle of an "open lock" resonating against earlier images of "a mouth sewn shut." The story resists moralizing, letting the swept floor and unlocked gates embody how "secrecy had imprisoned them, honesty would free them" without explicit statement.</comment>
 
-<question>4</question><grade>7.6</grade><comment>Stakes escalate from accounting discrepancy to trust restoration through Mira's discovery of the staged hunt. The choice to "let both go" (lens and truth) forecloses accusation with clear relational cost. One meaningful tightening when she discovers the orchestration suffices for this length.</comment>
+<question>6</question><grade>7.3</grade><comment>Distinct perceptual signature emerges in phrases like "the timeframe after words become unnecessary" and "snow fall upward," maintaining Mira's quiet registrar perspective consistently. Dialogue differentiates Rico's directness from Jun's analytical tone, though some elevated diction ("absolution," "foreclosing") occasionally drifts from the established register without clear voice motivation.</comment>
 
-<question>5</question><grade>7.9</grade><comment>Theme emerges organically through the lens metaphor - transparency versus opacity, seeing versus hiding. The projected memories create resonant answer to trust questions without moralizing. "Secrecy had imprisoned them, honesty would free them" lands through action rather than assertion.</comment>
+<question>7</question><grade>7.5</grade><comment>Prose achieves strong momentum with varied syntax and purposeful imagery like "trust was cheaper than security cameras," though occasional register elevation ("gambling that her scruples would do the rest") creates minor friction. Information density remains high with lines doing multiple jobs, and the closing image of trust settling "like a cloak that fit at last" avoids cliché while landing the emotional weight.</comment>
 
-<question>6</question><grade>7.2</grade><comment>Consistent close-third POV with selective perception ("the hush breathe back at her"). Some elevated diction ("crystal whispering forecourt") fits the quiet registrar's contemplative nature. Dialogue feels slightly staged but carries necessary subtext about fear and frozen relationships.</comment>
+<question>8</question><grade>7.1</grade><comment>The cryptic doodles leading to staged revelation offers a fresh angle on workplace mistrust narratives, with specific details like the burned projection reel and "Staff Memories 1998-2018" grounding the concept. While the trust-through-transparency arc follows recognizable patterns, the execution through silent film projection and the final image of colleagues sweeping together transforms familiar material through particularity.</comment>
 
-<question>7</question><grade>7.5</grade><comment>Generally clean prose with purposeful rhythm variations matching emotional beats. Information density is good - most sentences advance multiple story elements. Minor repetition of "resonant hush" and some slight overwriting in atmospheric passages ("plankton in the beam").</comment>
-
-<question>8</question><grade>7.3</grade><comment>The cryptic doodles as breadcrumb trail offers fresh angle on workplace reconciliation. The projection of shared memories as wordless apology shows originality. Somewhat conventional resolution of mistrust-through-honesty theme prevents higher score.</comment>
-
-<question>9 A</question><grade>7.8</grade>
-<question>9 B</question><grade>8.4</grade>
-<question>9 C</question><grade>8.2</grade>
-<question>9 D</question><grade>7.6</grade>
-<question>9 E</question><grade>7.4</grade>
-<question>9 F</question><grade>7.2</grade>
-<question>9 G</question><grade>6.8</grade>
-<question>9 H</question><grade>6.4</grade>
-<question>9 I</question><grade>8.0</grade>
+<question>9 A</question><grade>6.8</grade>
+<question>9 B</question><grade>7.9</grade>
+<question>9 C</question><grade>7.2</grade>
+<question>9 D</question><grade>6.4</grade>
+<question>9 E</question><grade>7.6</grade>
+<question>9 F</question><grade>6.2</grade>
+<question>9 G</question><grade>5.8</grade>
+<question>9 H</question><grade>5.4</grade>
+<question>9 I</question><grade>7.8</grade>
 <question>9 J</question><grade>7.1</grade>

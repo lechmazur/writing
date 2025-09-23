@@ -1,19 +1,19 @@
 grade_story_wc_29.txt
-<question>1</question><grade>6.1</grade><comment>Mara’s motive and through‑line are clear and consistent, but much of her interiority is summarized rather than dramatized. We get a few embodied beats (“fingers trembled”), yet contradictory impulses under peak pressure rarely collide on the page. The final choice reads earned, though the cost stays mostly conceptual.</comment>
-<question>2</question><grade>7.9</grade><comment>Causal drive is solid: discovery → plan → eclipse window → interference → retreat. The climax lands with a decisive change (entities veer away) and some resonant repricing (trust as battleground), though execution leans expository. The truncated final sentence is a polish flaw but does not break closure.</comment>
-<question>3</question><grade>8.2</grade><comment>The university station, headphones, mixing board, and subsonic gear are specific and functionally constrain choice. Astronomical charts recur with evolving meaning and help time the eclipse. Atmosphere balances cosmic strangeness with tactile radio detail.</comment>
-<question>4</question><grade>7.9</grade><comment>Stakes are legible early (trust, autonomy, social fracture), and pressure coheres toward the eclipse. The meaningful tightening is Mara’s timed interference against an active counterpush by the tricksters. The price is stated (becoming their enemy), but on‑page felt cost remains light.</comment>
-<question>5</question><grade>7.3</grade><comment>Themes of belief as resource, false dichotomies, and the politics of trust are integrated and reweighted at the end. However, several lines state thesis outright (“They are coming for your trust,” “third option of simply walking away”), which blunts subtext. The altruism insight at climax lands but could be more earned through action.</comment>
-<question>6</question><grade>7.1</grade><comment>POV is steady and controlled, with a consistent register that suits the premise. Voice tends toward expository clarity over idiosyncrasy; few lines carry distinctive rhythm under stress. Absence of dialogue (beyond the broadcasted warning) limits subtextual play.</comment>
-<question>7</question><grade>6.4</grade><comment>Prose is clean and readable, but relies on declarative summary and repeated sentence shapes. Moments of paraphrase‑like redundancy and didactic phrasing slow momentum. The cut‑off final sentence and occasional slogan‑like lines reduce polish and charge.</comment>
-<question>8</question><grade>7.7</grade><comment>Radio‑engineered subsonics as an anti‑manipulation tactic against belief‑feeding tricksters is a fresh synthesis. The government “power plays vs. trust economy” frame adds bite, though the delivery can feel essayistic. The eclipse‑timed counter‑broadcast is a strong, specific turn that makes the premise feel lived‑in.</comment>
-<question>9 A</question><grade>9.0</grade>
-<question>9 B</question><grade>8.6</grade>
-<question>9 C</question><grade>7.8</grade>
-<question>9 D</question><grade>5.6</grade>
-<question>9 E</question><grade>9.2</grade>
-<question>9 F</question><grade>9.0</grade>
-<question>9 G</question><grade>8.8</grade>
-<question>9 H</question><grade>7.5</grade>
-<question>9 I</question><grade>7.8</grade>
-<question>9 J</question><grade>8.0</grade>
+<question>1</question><grade>8.3</grade><comment>Lyra’s motive and method are clear and consistent, with embodied stakes (SWR needle kissing red, kneecap howl) showing credible pressure. Her readiness to “sacrifice certainty” for chaos creates a small but convincing internal contradiction. Cost is present but modest—strain and only a temporary win rather than a deeper personal loss. The single-POV interiority is specific and avoids stock therapy-speak.</comment>
+<question>2</question><grade>9.0</grade><comment>Clean causal chain: arrival → setup keyed to the moon → probes hit → counter-wave → adversary adapts → tactical pivot → peak → hush. Closure lands as a charged poise/earned stasis: the carrier folds “for this orbit,” harmony only paused, cost acknowledged on-page. Orientation is crisp within the first lines (who/where/when) and the ticking clock (02:17) tightens options. No teleporting props; constraints (generator, tower, SWR window) shape every move.</comment>
+<question>3</question><grade>9.1</grade><comment>Environment and tools actively constrain choice: the antique tower, SWR limits, photocell-moon trigger, and generator define tactics and timing. Sensory detail is purposeful and POV-colored (“vinyl dust,” “sodium lights”). World rules (ionospheric skip, 37 Hz) are shown through action. The final image is charged by place and tools (hand on cooling transmitter; charts tucked), not decorative.</comment>
+<question>4</question><grade>8.6</grade><comment>Dominant stake is legible early and escalates: the town’s division intensifies as the probes arrive. The tricksters’ adaptive frequency hop forces a meaningful, risky pivot to “chaos meeting chaos.” Price is felt (equipment stress, narrow sky window, only a temporary reprieve), though personal sacrifice remains light. Tension is maintained at sentence and scene scale without reset.</comment>
+<question>5</question><grade>8.4</grade><comment>Themes of interference vs. consent, media contagion, and humility under uncertainty emerge from concrete beats, not lecture. The glacier record pivot reframes “interference” as caretaking, culminating in the closing reprisal about listening back. The final assertion (“interference…another word for love”) edges close to a thesis statement but is mostly earned by prior images. Ambiguity remains—victory is provisional, which deepens resonance.</comment>
+<question>6</question><grade>8.8</grade><comment>A confident, lyric-technical voice matches a scientist/DJ’s sensibility, blending astrophysics with tactile grit. Distance control stays steady; no head-hopping or register whiplash. Rhythmic modulation under pressure (shorter, punchier lines at the peak) supports action. A few lush metaphors flirt with excess but remain coherent and voice-true.</comment>
+<question>7</question><grade>8.6</grade><comment>High information density with crisp propulsion; most lines carry multiple jobs (world, pressure, character). Figurative language is frequent but controlled; metaphors align and don’t muddle action. Minimal redundancy and no scaffold loops; syntax varies with scene needs. Technical jargon is accurate enough for plausibility and never clogs clarity.</comment>
+<question>8</question><grade>9.0</grade><comment>The synthesis—cosmic troll subsonics, a university radio hack, glacier pops as counter-chaos—is fresh and inevitable in hindsight. The moon-triggered photocell and 37 Hz threshold give unique specificity beyond trope. The risk of lyrical sci-fi gimmickry is avoided by tight causal integration. The final reweighting (interference as care) feels earned and distinctive.</comment>
+<question>9 A</question><grade>9.2</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>7.9</grade>
+<question>9 D</question><grade>7.2</grade>
+<question>9 E</question><grade>9.5</grade>
+<question>9 F</question><grade>9.6</grade>
+<question>9 G</question><grade>9.3</grade>
+<question>9 H</question><grade>8.8</grade>
+<question>9 I</question><grade>8.6</grade>
+<question>9 J</question><grade>9.2</grade>

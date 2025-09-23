@@ -1,33 +1,35 @@
 grade_story_wc_277.txt
-<question>1</question><grade>8.7</grade><comment>Cordelia’s contradictory impulses—guilt versus agency—are dramatized in the rosewood-splintering moment; her micro-choices (loading the nib, pressing it till it breaks) visibly foreclose the old orbit and carry a felt cost. Interiority is concrete (“smelled of ink and thunder”) and embodied. The final renunciation earns its emotional weight because every beat has shown her testing the orbit’s grip. Minor slip: Dr. Orlan’s function is more facilitator than crucible, so relationship pressure is thin.</comment>
-
-<question>2</question><grade>9.1</grade><comment>Closure lands as Conceptual Repricing: the cracked ellipse rewrites gravity itself, with the broken nib and “Assume tomorrow” on the window as undeniable cost. Causal lens holds—each inscription tightens the contradiction until the orbit shatters. Orientation is swift; stakes are legible by line 4. One transition (dome → funicular) is clean and thematically resonant.</comment>
-
-<question>3</question><grade>8.9</grade>
-<comment>The copper dome, starlight “pooling on the slate floor,” and the clockwork projector are not backdrop; they supply the very medium Cordelia writes on and the resistance she must overcome. The rosewood nib itself becomes micro-setting that constrains the final choice when it splinters. Sensory detail is selective and urgent; no white-room drift.</comment>
-
-<question>4</question><grade>8.8</grade>
-<comment>Dominant stake—can regret be rewritten?—is signaled in paragraph 3 and escalates through each inscription. The tightening is visible: ellipse flares, cracks, becomes starlings. Agency is hers; coincidence never rescues. Cost is the splintered heirloom and the public exposure that follows.</comment>
-
-<question>5</question><grade>9.0</grade>
-<comment>Theme emerges from the collision of journalism, legacy, and mutable truth; no moralizing statement is required. The final image—“the story continues”—reweights every prior headline without preaching. Subtext hums in the scent of dried roses and thunder, in the silent tip of a ghost-orbit.</comment>
-
-<question>6</question><grade>8.6</grade>
-<comment>Voice is lyrical yet precise, with a perceptual signature that notices “starlight dripped” and “gears groaned like old editors.” Compression is purposeful; no head-hopping. Dialogue is sparse but tonally consistent—Orlan’s single line carries subtext. Rhythm modulates with pressure, accelerating during inscription, exhaling at the end.</comment>
-
-<question>7</question><grade>8.9</grade>
-<comment>Prose is dense yet propulsive; each sentence layers image and idea. Metaphors (“solemn playroom for absent gods”) are coherent and earned. No loops or scaffold. Syntax varies; paragraph cuts are purposeful. Occasional elevated diction (“perihelion”) is justified by the astronomical frame.</comment>
-
-<question>8</question><grade>9.3</grade>
-<comment>The conceit of rewriting astronomical regret via proof-by-contradiction is fresh and fully committed; it feels inevitable in hindsight. Familiar tropes—guilt-ridden heiress, broken heirloom—are transformed through the observatory’s literalized metaphor. Risk is high, clarity intact.</comment>
-
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.2</grade>
-<question>9 C</question><grade>9.4</grade>
-<question>9 D</question><grade>7.8</grade>
-<question>9 E</question><grade>9.0</grade>
-<question>9 F</question><grade>9.1</grade>
-<question>9 G</question><grade>8.9</grade>
-<question>9 H</question><grade>6.4</grade>
-<question>9 I</question><grade>8.2</grade>
-<question>9 J</question><grade>8.5</grade>
+<question>1</question><grade>8.1</grade><comment>Cordelia is consistently driven by her need to free herself from inherited shame. Inner contradictions are etched in physical action (broken nib against the sky). The ending shows a credible renunciation—she pockets the splintered pen—and the scene leaves visible cost on her hand. Yet her growth remains slightly stylized, emotions more embodied in the broken nib than in her physiology.</comment>
+<question>2</question><grade>8.8</grade><comment>The Accumulative/Textural lens holds: each inscription tightens the pattern by disproving the orbit’s permanence. Closure lands cleanly—the ellipse cracks and “a single quiet sentence” hovers—conceptual repricing without literal fireworks. Causality is traceable line by line until the final shift. One micro-loan: the mirrored starlings feel a fraction convenient, but their dispersal is tethered to the pattern of the contradiction.</comment>
+<question>3</question><grade>8.5</grade><comment>The copper dome is immediate, tactile, alive with mirrors and gears. The slate floor, the splintered nib, and the dome’s inner shell all constrain Cordelia’s next move. One minor flicker: the exact spatial relation between Cordelia and Orlan is under-determined in mid-move, but never breaks the beat.</comment>
+<question>4</question><grade>8.2</grade><comment>The orbit itself is the antagonistic pressure; escalating with each loop of headlines rather than an external opponent. Stakes—her identity as redeemed truth-teller versus liar’s daughter—clarify with each inscription. The cost appears as the nib breaks and the old orbit detonates. Pressure escalates under the Accumulative lens one level at a time without redundancy.</comment>
+<question>5</question><grade>8.7</grade>
+<comment>Themes of mutable evidence—truth as continuum versus ossified story—arise from the inscriptions and the final reconfiguration in the sky. No overt moralizing; the payoff inheres in the image of shattered headlines dispersing like starlings. A whiff of meta-observation (“proof by contradiction”) borders on echo, but stays within the in-world astronomy framework and avoids Q-point deduction.</comment>
+<question>6</question><grade>8.9</question>
+<comment>Distinct rhythmic signature—inked thunder, rosewood sunset—inhabits Cordelia’s perceptual lens. One transition Orlan has minimal distinct speech, yet his “bow equal parts reverence and suspicion” suffices without blurring distance. Interiority stays anchored; diction never exceeds her lexicon. Elegant compression teaches pattern early (silver distilled from fixer) and sustains propulsion.</comment>
+<question>7</question>
+<grade>8.6</grade>
+<comment>Sentences are information dense yet musical—“starlight dripped...pooled on the slate floor”—without purple overload. Metaphorical logic consistent (orbits, headlines, fixer chemistry) and clarified by action. One stray echo at “regret became merely another planet” flirts with cliché but is pulled back by the larger pattern. High readability throughout.</comment>
+<question>8</question>
+<grade>8.5</grade>
+<comment>The “starlight headlines = regret orbit” conceit feels fresh and internally coherent. Combines investigative journalism and astrophysics in a concrete, non-ornamental way. Risk in blending abstract math with grief is balanced by tangible stakes: the snapping of the nib. Doesn’t tip into gimmickry; final payoff is inevitable yet unobvious in hindsight.</question>
+<question>9 A</question>
+<grade>7.8</grade>
+<question>9 B</question>
+<grade>9.1</question>
+<question>9 C</question>
+<grade>9.4</question>
+<question>9 D</question>
+<grade>6.2</question>
+<question>9 E</question>
+<grade>8.9</question>
+<question>9 F</question>
+<grade>9.3</question>
+<question>9 G</question>
+<grade>7.2</question>
+<question>9 H</question>
+<grade>5.9</question>
+<question>9 I</question>
+<grade>7.7</question>
+<question>9 J</question>
+<grade>7.4</question>

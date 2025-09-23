@@ -1,33 +1,34 @@
 grade_story_wc_130.txt
-<question>1</question><grade>8.7</grade><comment>The conjurer’s interiority is vivid and embodied—reciting primes, feeling weight resolve into warmth—yet the master remains a cipher; the final stance crystallizes with felt cost, but the master’s absence never pressures a live choice, capping at 8.7.</comment>
-
-<question>2</question><grade>9.1</grade><comment>Closure lands as Resonant Reconfiguration: the astrolabe’s beam re-opens the orchard, reweighting ambiguous loss into a limit that can be approached. Causal chain from glass-eye alignment → mosaic opening → astrolabe pointer is clean, with persistent cost—the master still gone, seedlings fragile.</comment>
-
-<question>3</question><grade>8.9</grade>
-<comment>The cavern orchard is no backdrop; its calcite trunks and stalactite drips constrain every move—climbing the fossil tree, wedging eyes, catching drops. Final seedlings sprout from starlight pool, environment charging the image.</comment>
-
-<question>4</question><grade>8.6</grade>
-<comment>Dominant stake—solve the equation of grief—tightens once: the mosaic opens only after precise alignment, narrowing options from endless search to measurable tending of seedlings. Cost is the unchanged absence of the master.</comment>
-
-<question>5</question><grade>9.0</grade>
-<comment>Theme emerges through concrete particulars: grief as unsolved equation, emotion as locus of intersections. Final integral-sign-heart dripping into seedlings offers non-literal, resonant answer without moralizing.</comment>
-
-<question>6</question><grade>9.2</grade>
-<comment>Voice is distinct—measured, arcane, mathematically lyrical (“arithmetic of delight,” “interval between drop and stone”). Perceptual signature stays consistent; no head-hopping; compression and elision taught early and paid off.</comment>
-
-<question>7</question><grade>8.8</grade>
-<comment>Prose is dense yet propulsive; figurative language disciplined to pattern. Minor scaffold in “each drip a note” / “each drop a note” echo, but no loops obscure closure. High information density, clean grammar.</comment>
-
-<question>8</question><grade>9.3</grade>
-<comment>Fusion of taxidermy, astrolabe, and emotional calculus feels inevitable and fresh. Risky lyric structure holds; no derivative echoes. Specificity of “integral sign cradling a heart” crystallizes originality.</comment>
-
-<question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.1</grade>
-<question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>8.4</grade>
-<question>9 E</question><grade>8.6</grade>
-<question>9 F</question><grade>8.8</grade>
-<question>9 G</question><grade>9.0</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>8.5</grade>
-<question>9 J</question><grade>8.3</grade>
+<question>1</question><grade>9.2</grade><comment>The conjurer’s quiet, obsessive rituals—priming primes, rotating the glass eyes—form the causal spine of every key beat; his interior collisions of grief and curiosity drive tactical choices and the ending’s renunciation.</comment>
+<question>2</question><grade>8.7</grade><comment>Closure arrives as an Earned Stasis: the astrolabe gift and seedlings crystallize “missing heartbeat” into measurable motion while leaving the master’s fate ambiguous; the lyric structure obeys a fully coherent lens.</comment>
+<question>3</question><grade>8.5</grade><comment>Calcite trunks, drip-fed silence, and fossilised fruit act as micro-setting: the glass eye beam uses stalactite geometry to project the symbol; environment limits access and modulates urgency.</comment>
+<question>4</question><grade>7.8</grade><comment>The orchard’s muteness is the central stake (ambiguous loss vs motion-in-memory); each step of seedling cropping tightens the sense of irreversible shift, though more tangible cost arrives late.</comment>
+<question>5</question><grade>8.9</grade><comment>Theme surfaces as a non-verbal realization: reconciling stillness and motion into “the mathematics of emotion;” the buried optimism charges the last image without tidy moral tags.</comment>
+<question>6</question><grade>9.1</grade>
+<comment>First-person conjurer voice is densely textured, rippling between incantation (2, 3, 5, 7) and fog-briety; variant sentence cadence handles lyric shifts without unmotivated drift.</comment>
+<question>7</question>
+<grade>8.3</grade>
+<comment>Welcoming opacity controlled by pressure—e.g., “radioactive calm that chimed no longer” opens without scaffolding—keeps momentum and is free of loops or violet bloom.</comment>
+<question>8</question>
+<grade>9.4</grade>
+<comment>Linking grief to astrolabe/seedling synthesis re-weights Sci-fi magic into precision instrument of mourning; uncompromised specificity feels inevitable yet startling.</comment>
+<question>9 A</question>
+<grade>8.6</grade>
+<question>9 B</question>
+<grade>8.2</grade>
+<question>9 C</question>
+<grade>7.0</grade>
+<question>9 D</question>
+<grade>6.5</grade>
+<question>9 E</question>
+<grade>6.7</grade>
+<question>9 F</question>
+<grade>5.8</grade>
+<question>9 G</question>
+<grade>8.7</grade>
+<question>9 H</question>
+<grade>5.2</grade>
+<question>9 I</question>
+<grade>7.4</grade>
+<question>9 J</question>
+<grade>8.8</grade>

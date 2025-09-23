@@ -1,27 +1,29 @@
 grade_story_wc_52.txt
-<question>1</question><grade>8.9</grade><comment>Mara’s contradictory impulses—clinging to memory while forging new form—are embodied in every tactile micro-choice; the carving’s progression externalizes her refusal to blink first, culminating in an earned renunciation that costs her the illusion of containment.</comment>
+<question>1</question><grade>8.4</grade><comment>Mara’s grief is embodied through tactile carving, her calloused thumb and chisel strokes enacting memory; the contradiction between clinging and releasing plays out in wood shavings. The final micro-choice—hanging the rusted latch beside the skylight—earns her Earned Stasis with visible cost: she accepts the cage can open again. Interiority stays concrete, never drifts into label-speak. Only minor cap: no second character on page, so relationship crucible bullet not tested.</comment>
 
-<question>2</question><grade>9.1</grade><comment>Closure lands as Resonant Reconfiguration: the finished carving and hung latch crystallize a before/after shift from cage-as-prison to memory-as-key; causality holds under Accumulative/Textural lens, with each shavings-jar beat tightening the emotional vise.</comment>
+<question>2</question><grade>8.9</grade><comment>Accumulative/Textural lens holds: each shaving adds density until the sleeping lion carving reweights the stake from paralysis to guarded continuance. Closure is Charged Poise—morning will strike the figurine first, transferring pulse to grain—cost is legible in the warming wood under her palm. Orientation anchors (who/where/when) taught by word 40; no penalty. One transition (storm → drip) is legible and serves cadence shift.</comment>
 
-<question>3</question><grade>8.7</grade><comment>Rain-beaded skylight loft and ash blank function as micro-setting that constrains every move; storm-light on wood and steam ghosting the loft charge the final image, while spatial anchors remain precise and purposeful.</comment>
+<question>3</question><grade>8.7</grade><comment>Rain-beaded skylight functions as micro-setting: glass surface mirrors both her face and empty ring, constraining her to confront absence. Ash blank, cold iron latch, and sawdust jar act as portable settings that charge every chisel stroke. Sensory hierarchy favors touch and smell over visual catalog. Weather shift from storm to drip marks temporal transition without exposition.</comment>
 
-<question>4</question><grade>8.8</grade><comment>Dominant stake—containing loss without being devoured—tightens through each chisel stroke; the visible cost is the rust-hued shavings that once soaked blood, foreclosing the option to forget.</comment>
+<question>4</question><grade>8.3</grade><comment>Dominant stake—contain memory without being devoured by it—tightens when each curl of wood forces her to re-inhabit the fatal pause. Escalation is textural: rust-hued shavings accumulate until the sleeping lion eye closes, foreclosing denial. Cost is visible in the blood-colored sawdust she jars. No external antagonist needed; grief is coherent pressure.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme emerges from the tension between cage and key; the final whispered commands reweight the premise without moralizing, letting the lion’s closed eyes and the empty ring below offer ambiguous resonance.</comment>
+<question>5</question><grade>8.8</grade><comment>Theme emerges from the inversion of cage and key: memory can imprison or release, signaled by latch moved from bench to nail. “Here and gone” reweights from lament to method—she will carve the lion awake next, implying continuance rather than closure. No moralizing; final whispered commands hang unresolved. Subtext in steam ghosting loft as animal breath keeps past present.</comment>
 
-<question>6</question><grade>8.9</grade><comment>Voice is lyric yet grounded in Mara’s perceptual signature—calloused thumb, scarlet ribbons, sawdust memory; no head-hopping, and the rhythmic compression under pressure is taught early and paid off at closure.</comment>
+<question>6</question><grade>9.1</grade><comment>Third-person intimate carries Mara’s perceptual signature: sawdust smells of thunder, floorboards warp under absent boots. Rhythm compresses under chisel pressure—“each curl that fell carried rust-hued peace”—then lengthens at closure. No dialogue, so voice remains pure texture. Patterned elision (“here and gone”) taught early and paid off in final line.</comment>
 
-<question>7</question><grade>9.0</grade><comment>Zero loops or scaffold; high density—“rust-hued peace,” “steam ghosting”—each image advances story or atmosphere; figurative language is disciplined, never muddling causality.</comment>
+<question>7</question><grade>8.9</grade>
+<comment>Sentences vary from short percussive cuts to longer rain-on-glass cadences; no template drumbeat. Figurative language is selective—wood grain swirls like mane—never clutters high-pressure beats. Zero paraphrase loops; each shaving adds new emotional hue. Opening and closing lines bookend with skylight reflection, achieving propulsion without scaffold.</comment>
 
-<question>8</question><grade>9.2</grade><comment>Familiar widow-grief trope is transformed through the specific circus lexicon and the inversion of cage-as-memory; the risk of lyric accumulation pays off in a charged final image that feels inevitable yet non-obvious.</comment>
+<question>8</question><grade>8.5</grade>
+<comment>Widow-carves-circus-grief could be familiar, but specificity of tent-stake chisel and “Manes & Mettle” jars transforms trope into singular ritual. Risk taken in lyric accumulative structure pays off with Charged Poise ending. No derivative echoes; Emil’s laughter in storm-light feels fresh. Transformation test fails if names changed—details are inseparable from emotion.</comment>
 
 <question>9 A</question><grade>8.7</grade>
-<question>9 B</question><grade>9.4</grade>
-<question>9 C</question><grade>8.9</grade>
-<question>9 D</question><grade>8.3</grade>
-<question>9 E</question><grade>9.2</grade>
-<question>9 F</question><grade>8.5</grade>
-<question>9 G</question><grade>8.6</grade>
-<question>9 H</question><grade>7.9</grade>
-<question>9 I</question><grade>8.8</grade>
-<question>9 J</question><grade>8.4</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>8.1</grade>
+<question>9 D</question><grade>7.9</grade>
+<question>9 E</question><grade>8.8</grade>
+<question>9 F</question><grade>7.4</grade>
+<question>9 G</question><grade>8.0</grade>
+<question>9 H</question><grade>6.6</grade>
+<question>9 I</question><grade>8.5</grade>
+<question>9 J</question><grade>8.3</grade>

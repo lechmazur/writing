@@ -1,29 +1,29 @@
 grade_story_wc_17.txt
-<question>1</question><grade>8.6</grade><comment>Mira’s interiority is embodied and specific—her throat “rising like a stone” when the name surfaces. The contradiction between her professional detachment and inherited guilt is dramatized in the tunnel walk, where each negative touch forces a micro-choice to keep going. The final renunciation—becoming the corridor—carries a visible cost: her own erasure. Voice and motive remain coherent throughout, though the great-grandmother’s psyche is only sketched.</comment>
+<question>1</question><grade>7.2</grade><comment>Motive crystallizes late (“inheritance… dark archive”) as Mira moves from passive recording to submission; the final becoming-corridor beat shows change but feels abstract—cost is poetic rather than embodied. Interiority stays vivid, yet decisive choices are swallowed by the setting’s dream logic.</comment>
 
-<question>2</question><grade>8.8</grade><comment>The Accumulative/Textural lens is taught early (“map the acoustics of abandonment”) and held to the end. Closure lands as Conceptual Repricing: Mira is turned into the very echo she was hired to trace, a felt cost rendered in the final negative. Causality is lyric rather than linear, but each beat (diary, negative, tunnel) deepens the pattern and narrows her options to none. Orientation is anchored within the first 120 words; the later hatch descent is a taught exception.</comment>
+<question>2</question><grade>8.4</grade><comment>Closure as Charged Poise—Mira’s absorption into the architecture reconfigures the world as a living camera. Lens is Accumulative/Textural; pattern taught by ivy and negatives pays off in the last frame with felt conceptual cost (“empty room that somehow breathed”).</comment>
 
-<question>3</question><grade>8.9</grade><comment>The ivy-veiled passage is not backdrop but active shutter and developing tray; its drip and hum constrain every move. The half-burned diaries and film negatives function as micro-settings that charge the climax when Mira becomes one of them. Sensory detail is selective—silver halide flakes, moth-wing edges—filtered through her cartographer’s ear. Spatial choreography is clean: ladder, tunnel, wires all track.</comment>
+<question>3</question><grade>8.7</grade><comment>ivy-veiled passage negatives constrain movement and meaning: walls narrow, strips touch her face, shutter mechanism revealed; micro-setting as living camera charges final image perfectly. Sensory economy favors moss, dripping, staining glass.</comment>
 
-<question>4</question><grade>8.7</grade><comment>The dominant stake—“legacy’s burden”—is signaled in the diaries and tightened when Mira sees her own inverted silhouette. Each glimpse in the tunnel escalates the cost of knowing until the only remaining option is dissolution into the archive. Agency is renunciation rather than action, but the choice to keep walking deeper is dramatized. The final price—her erasure—lands on the page.</comment>
+<question>4</question><grade>8.3</question><comment>Dominant stake—“mapping legacy’s burden”—escalates from mere curiosity to existential incorporation. Tightening occurs when strips reveal herself as child; this deepens cost but agency remains metaphoric rather than tactical.</comment>
 
-<question>5</question><grade>9.0</grade><comment>Theme emerges from the inversion motif: what preserves also consumes. The negatives’ reversal of light and shadow becomes the moral engine—memory as devouring camera. No explicit moralizing; the empty breathing room reweights the premise without statement. Subtext operates in the flutter of blackened diary edges and the unheard scream.</comment>
+<question>5</question><grade>9.1</question><comment>Novel image of building-as-camera organically expresses theme of inheritance and guilt; refrain of negatives and dreams reweights “legacy’s burden” without sermon. Final heartbeat-echo achieves resonant ambiguity.</comment>
 
-<question>6</question><grade>8.8</grade><comment>Voice is lyric, tactile, and consistent—“stone remember footsteps,” “moth wings when disturbed.” Perceptual signature is that of an acoustic cartographer: every image is filtered through sound and silence. No dialogue, so no register drift. Compression and elision (“walls dream about the shapes they once contained”) are taught early and paid off.</comment>
+<question>6</question><grade>8.9</question><comment>Distinct lyric texture: “blackened edges fluttered like moth wings”, “stone inhaling” gives perceptual signature. Compression and elision taught early by ellipsis and reversal; voice modulates cleanly across shards.</comment>
 
-<question>7</question><grade>8.7</grade>
-<comment>Prose is dense yet propulsive; each sentence layers sensory and conceptual work. Metaphors are coherent—“corridor echo,” “camera of ivy”—and never muddle causality. No loops or scaffold; rhythm modulates with pressure. The final line’s “empty room that somehow breathed” crystallizes without overwriting.</comment>
+<question>7</question><grade>8.8</question>
+<comment>Rich yet controlled: no redundant loops, metaphors serve camera/negative motif. Highest-pressure beats retain clarity—“fresh film negative strip dangling” final image lands clean. Only fractional slip is lyrical density near climax, but momentum preserved.</comment>
 
-<question>8</question><grade>9.2</grade>
-<comment>The premise—a building as living camera that archives its own dreams—is fresh and fully committed. Inheritance-as-inversion transforms the trope of haunted architecture into something conceptually new. Specific details (film negatives as veins, ivy as shutter) ground the conceit. The risk of lyric abstraction is rewarded by an earned, inevitable closure.</comment>
+<question>8</question><grade>8.5</question>
+<comment>Architecture-as-camera concept felt inevitable after early ivy and shutter hints; negatives-as-time-strip fresh and particular. Slight derivative echo of “haunted university” frame keeps from perfect 9.</comment>
 
-<question>9 A</question><grade>8.4</grade>
-<question>9 B</question><grade>9.1</grade>
-<question>9 C</question><grade>8.7</grade>
-<question>9 D</question><grade>7.9</grade>
-<question>9 E</question><grade>8.6</grade>
-<question>9 F</question><grade>8.2</grade>
-<question>9 G</question><grade>9.0</grade>
-<question>9 H</question><grade>6.8</grade>
-<question>9 I</question><grade>8.3</grade>
-<question>9 J</question><grade>8.5</grade>
+<question>9 A</question><grade>7.3</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>8.4</grade>
+<question>9 D</question><grade>6.7</grade>
+<question>9 E</question><grade>8.8</grade>
+<question>9 F</question><grade>7.2</grade>
+<question>9 G</question><grade>8.6</grade>
+<question>9 H</question><grade>5.5</grade>
+<question>9 I</question><grade>7.8</grade>
+<question>9 J</question><grade>7.1</grade>

@@ -1,27 +1,27 @@
 grade_story_wc_302.txt
-<question>1</question><grade>7.8</grade><comment>The veiled dreamer's internal contradictions between cautious pursuit and childhood longing create genuine tension, particularly in moments like unsaying "I am happy" which reveals layered self-deception. Her micro-choices (offering mother's lullaby as payment, seizing the syllable-key despite time snapping) demonstrate values hierarchy under pressure with visible cost.</comment>
+<question>1</question><grade>6.8</grade><comment>The veiled dreamer's motivation crystallizes through her stolen voice and the golden thread sewn mouth—a strong embodied detail that drives her final choice to dissolve into "pure articulation." However, internal conflict reads more as sequential revelation than simultaneous contradiction, and the confidence man remains a label without earned characterization.</comment>
 
-<question>2</question><grade>7.4</grade><comment>The story follows an Accumulative/Textural lens with density increases and pattern breaks that culminate in a Resonant Reconfiguration where the library collapses into the space between letters. Cost is legible in the lost memory of the lullaby and the restoration of the lie, though the final truncated sentence weakens closure impact slightly (-0.4).</comment>
+<question>2</question><grade>7.4</grade><comment>Clear Resonant Reconfiguration: the dreamer becomes the library itself, with visible cost (body dissolving) and the cyclically reversed doors sealing. The Accumulative/Textural lens holds through pattern accumulation of unspoken words, though some causal linkages between the cipher revelations and her navigation feel asserted rather than dramatized.</comment>
 
-<question>3</question><grade>8.2</grade><comment>The library-as-sentence concept where stepping left pronounces vowels and right creates consonants brilliantly constrains movement and choice. Sensory hierarchy reflects the dreamer's priorities (watch's heartbeat, breathing shelves, mercury mirror) while propagation delays create tangible spatial disorientation that shapes her navigation.</comment>
+<question>3</question><grade>7.2</grade><comment>The glowing library's phosphorescent tiles, hungry atmosphere, and shelves that exist in "different temporal phases" effectively constrain navigation and create pressure. The library as living entity that "feeds on words people swallowed" directly shapes the final transformation, though some details (rose-colored silk that bleeds) trend toward ornamental.</comment>
 
-<question>4</question><grade>7.6</grade><comment>Escalation builds through accumulating propagation delays (shadow arriving later, watch stuttering, time snapping elastic) that narrow her options toward the final grab. The cost of trading memory for access and having her lie restored demonstrates clear price, though the truncated ending slightly dulls the final pressure point.</comment>
+<question>4</question><grade>6.9</grade><comment>Stakes escalate from seeking unspoken words to becoming the library itself, with the cyclically reversed cycle creating time pressure. The final transformation carries clear cost (dissolution), but middle beats lack concrete obstacles—she moves through shelves and finds her mother's apology without meaningful resistance or trade-offs.</comment>
 
-<question>5</question><grade>8.4</grade><comment>Theme emerges organically through the paradox of documenting unspoken words by speaking none, with the final incomplete message "The library survives in what you choose not to" offering a resonant non-literal answer. The cyclical cipher that erases and reappears mirrors the larger question of what persists through absence.</comment>
+<question>5</question><grade>7.6</grade><comment>Strong thematic coherence emerges through the paradox of speaking the unspoken, culminating in "Thank you for speaking us. Now we exist." The library-as-mouth imagery and the dreamer's sewn-shut mouth create resonant opposition, though some metaphysical assertions ("THE LIBRARY IS THE WORD") edge toward abstract declaration.</comment>
 
-<question>6</question><grade>8.6</grade><comment>Distinct perceptual signature emerges through synesthetic descriptions ("light like slow rain," "mirror made of mercury") and the dreamer's selective attention to temporal anomalies. Rhythmic control heightens during pressure moments with shorter, more urgent constructions while maintaining the dreamlike register throughout.</comment>
+<question>6</question><grade>6.4</grade><comment>Distinctive voice with lyrical compression ("glowing library in mist," "propagation delays") creates atmosphere, but repetitive phrasing weakens control—"between two fateful letters" appears verbatim three times, "propagation delays" four times. The elevated register fits the dreamy tone but occasionally drifts into abstraction that distances from immediate experience.</comment>
 
-<question>7</question><grade>8.3</grade><comment>High information density with lines performing multiple functions (world-building + emotional state + plot advancement). Minor deduction for occasional elevated diction that slightly exceeds the POV's established register ("phosphorescent algae," "propagate delays") but prose remains propulsive with no loops or scaffolding.</comment>
+<question>7</question><grade>5.8</grade><comment>Template cadence runs plague the prose: "She documented," "The veiled dreamer," "Through propagation delays" create predictable openings. The phrase "glowing library in mist" repeats five times verbatim, and "cyclically reversed" appears four times without variation, creating loop artifacts that dull momentum despite some strong imagery.</comment>
 
-<question>8</question><grade>8.7</grade><comment>The synthesis of magical realism with information theory (propagation delays, cyclically reversed cipher) creates a genuinely fresh angle on the quest-for-forbidden-knowledge trope. Risk-taking in the incomplete final sentence and the library-as-spoken-grammar concept heightens stakes while maintaining clarity (+0.3).</comment>
+<question>8</question><grade>7.8</grade><comment>The concept of a library feeding on unspoken words that requires someone to become it offers genuine freshness. The sewn-mouth prophecy trade and the backward-ticking watch that counts lies show inventive world-building, though the mystical library setting itself follows familiar genre patterns.</comment>
 
-<question>9 A</question><grade>8.1</grade><comment></comment>
-<question>9 B</question><grade>9.2</grade><comment></comment>
-<question>9 C</question><grade>8.4</grade><comment></comment>
-<question>9 D</question><grade>7.8</grade><comment></comment>
-<question>9 E</question><grade>7.2</grade><comment></comment>
-<question>9 F</question><grade>8.6</grade><comment></comment>
-<question>9 G</question><grade>8.8</grade><comment></comment>
-<question>9 H</question><grade>7.4</grade><comment></comment>
-<question>9 I</question><grade>6.3</grade><comment></comment>
-<question>9 J</question><grade>7.6</grade><comment></comment>
+<question>9 A</question><grade>7.8</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>7.4</grade>
+<question>9 D</question><grade>7.6</grade>
+<question>9 E</question><grade>6.8</grade>
+<question>9 F</question><grade>7.2</grade>
+<question>9 G</question><grade>8.4</grade>
+<question>9 H</question><grade>7.0</grade>
+<question>9 I</question><grade>8.6</grade>
+<question>9 J</question><grade>5.4</grade>
