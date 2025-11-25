@@ -435,6 +435,10 @@ Correlation between craft (Q1–Q8) and element fit (9A–9J) is high across gra
 
 ## What’s new in V3
 
+* **All new graders**
+
+## What’s new in V3
+
 * **Required elements pipeline:** moved from fewer, randomly selected elements (no "None" allowed) to a curated, ten‑category catalog with large, diverse pools and an LLM proposer→rater selection process; at most one category may be explicitly set to **None** when that improves coherence.
 * **Rubric expansion:** grew from 7 craft items to an **18‑question rubric** (8 craft + 10 element‑fit), with clearer, more granular definitions; Q7 and Q8 now separate voice/POV from prose quality.
 * **Story length:** increased from 400–500 words to a strict **600–800** window with upfront enforcement and compliance dashboards. Enforcement is applied at prompt level and in pre‑grading extraction, with compliance dashboards and optional cleanup tools; it is not a hard inclusion gate during aggregation unless you apply the cleanup step.
@@ -470,7 +474,7 @@ If you want a deeper look at **style and diversity** (stylometry, cluster maps, 
 
 ## Archive (Previous Version)
 
-For the prior edition’s full leaderboard and the list of “old” grader LLMs, see: [v2/README.md](v2/README.md).
+For the prior editions’ full leaderboards and the list of “old” grader LLMs, see: [v3/README.md](v3/README.md) and [v2/README.md](v2/README.md).
 
 
 ## Other multi-agent benchmarks
@@ -491,7 +495,7 @@ For the prior edition’s full leaderboard and the list of “old” grader LLMs
 
 
 ## Updates 
-- Nov 25, 2025: Major new version of the benchmark: V4. All new graders. GPT-5 Pro, Gemini 3 Pro, GPT-5.1, Claude Opus 4.5, Claude Sonnet 4.5, Grok 4.1, Kimi K2 Thinking, GLM-4.6.
+- Nov 25, 2025: Major new version of the benchmark: V4. All new graders. GPT-5 Pro, Gemini 3 Pro, GPT-5.1, Claude Opus 4.5, Claude Sonnet 4.5, Grok 4.1, Kimi K2 Thinking, GLM-4.6 added.
 - Sep 23, 2025: Grok 4 Fast Reasoning added.
 - Sep 9, 2025: Major new version of the benchmark: V3. See the section "What’s new in V3"
 
