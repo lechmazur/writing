@@ -1,0 +1,19 @@
+grade_story_wc_133.txt
+<question>1</question><grade>2.8</grade><comment>Character motivation is explicitly stated ("to process the trauma," "thresh meaning") rather than dramatized through behavior. The protagonist lacks agency, passively stumbling upon the brooch and the stranger, with emotions labeled ("obsessed," "unease") instead of felt.</comment>
+<question>2</question><grade>2.9</grade><comment>The narrative reads as a synopsis or summary rather than a dramatized story, skipping over the actual investigation ("wild goose chase"). Causality is weak; the "rain trails" revealing codes is a convenient leap of logic, and the stranger's appearance is unearned.</comment>
+<question>3</question><grade>3.3</grade><comment>The setting relies on generic post-apocalyptic clichés ("crumbling buildings," "perpetual gloom") without specific, sensory grounding. The "water wars" concept serves as background wallpaper rather than a pressure affecting current choices.</comment>
+<question>4</question><grade>2.7</grade><comment>There is virtually no conflict; the stranger immediately agrees to the exchange without negotiation or threat. The stakes are abstract ("bartering away a piece of myself") and resolve conveniently, lacking visible cost or tension.</comment>
+<question>5</question><grade>2.5</grade><comment>The theme is delivered through heavy-handed exposition and meta-commentary ("testament to the power," "alive with meaning"). The story explains its own significance to the reader rather than allowing meaning to emerge from subtext.</comment>
+<question>6</question><grade>2.5</grade><comment>The voice is monotonous and marred by a severe syntactic loop; eight sentences begin with "As I..." or "As the...", creating a droning, repetitive rhythm. The tone is overly formal and stiff, failing to convey the character's artistic nature.</comment>
+<question>7</question><grade>2.2</grade><comment>Line-level craft is poor, dominated by the "As I [verb]" template cadence and forced insertion of prompt phrases ("wryly earnest sense of purpose" is incoherent). Clichés abound ("wild goose chase," "fabric of reality," "torn asunder"), and "haggard awe" is repetitively pasted in.</comment>
+<question>8</question><grade>2.8</grade><comment>The story connects standard tropes (post-apocalyptic artist, magical artifact) in a predictable, linear fashion. It lacks a fresh angle or specific, lived-in details that would distinguish it from a generic outline.</comment>
+<question>9 A</question><grade>5.5</grade>
+<question>9 B</question><grade>8.0</grade>
+<question>9 C</question><grade>4.2</grade>
+<question>9 D</question><grade>1.2</grade>
+<question>9 E</question><grade>5.0</grade>
+<question>9 F</question><grade>3.5</grade>
+<question>9 G</question><grade>5.5</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>2.0</grade>
+<question>9 J</question><grade>1.0</grade>

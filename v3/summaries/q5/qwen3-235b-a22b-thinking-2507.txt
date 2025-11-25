@@ -1,0 +1,93 @@
+qwen3-235b-a22b-thinking-2507.txt
+### 1) Executive Insight
+
+Across the dataset, thematic resonance in these 600–800 word stories consistently emerges strongest when implicit, scene-driven, and anchored in concrete particulars—motifs, images, gestures, and character-driven choices—rather than abstract statements or overt thematic summaries. Using the rubric’s Q5 lens, most successful stories deliver theme as an emergent property of conflict and character arc; the best avoid direct statement, instead letting closure offer a non-literal, emotionally charged answer that retroactively reweights earlier events. Track A (Default) predominates in most cases, with a pronounced focus on sensory imagery and pressurized scene work. High-performing stories reliably land closure with real cost—either through irreversible loss, earned reconciliation, or lingering ambiguity—while resisting tidy morals, thereby provoking reflection beyond the page. Thematic coherence, conceptual cost, and organic closure distinguish the exemplary from the merely competent.
+
+---
+
+### 2) Strength Profile
+
+- **Theme arises organically from concrete actions and images:**  
+  “Theme emerges through the contrast between cosmic and microscopic decay without explicit moralizing.”  
+  The strongest stories tether theme to motif recurrence, e.g., dust, rope, echo, or stone, accumulating resonance as these objects shift meaning through character interaction.
+- **Subtext is carried in gesture, silence, and implication:**  
+  “Subtext operates in gesture and silence, image and implication, including in dialogue.”  
+  What’s left unsaid, e.g., a withheld apology or a silent handshake, often bears the true thematic weight.
+- **No direct statement of the theme, even as it sharpens at closure:**  
+  “The final image ... resonates without stating a moral.”  
+  Earned wisdom and resonance consistently arise from prior struggle, not platitude.
+- **Resonant, non-literal answers at closure that reweight prior material:**  
+  “The final image of ... offers a resonant, non-literal answer to the central question.”  
+  This frequently arrives via motif reversal or implicit transformation (“the broken lens becoming whole through its fracture”).
+- **Complexity and ambiguity are preserved:**  
+  “Theme resists tidy morals, embracing complexity ...”  
+  Meaningful counter-readings remain possible: the garden is both healing and archive, light rescues while demanding sacrifice, silence may be trauma or balm.
+- **Emotional aftereffect is scene-earned, not declared:**  
+  “The piece elicits a concrete emotional aftereffect through scene and image, not assertion; emotional honesty avoids sentimentality.”
+
+---
+
+### 3) Weakness Profile
+
+- **Direct, thesis-like statements in narration or dialogue (thematic echo):**  
+  E.g., “Purpose in the pauses” repeated overtly, “We are never truly gone,” “integrity thrived not in isolation but in the courage to act unseen.”  
+  These lines state the story’s message, flattening subtext and triggering rubric penalties.
+- **Final-paragraph moralizing that replaces scene pressure with assertion:**  
+  “Explicit theme statement in the final paragraph that replaces scene pressure triggers deduction”—especially damaging when the preceding image had already developed resonance.
+- **Overuse of theme-label phrases or prompt-like language:**  
+  “Cycles of compassion,” “ordinary magic,” “aberrant mercy,” “creative destruction”—if not tightly integrated into character-driven action or image, these risk becoming abstract jargon, checking boxes rather than accumulating cost.
+- **Resolution into simplistic binaries or sentimentality:**  
+  Where endings arrive at reconciliation or redemption without clear cost, the theme feels unearned.  
+  "Resonance lingers, but with a touch of over-articulation in the final statement" marks missed opportunity for lingering ambiguity.
+- **Meta-commentary about meaning (telling instead of showing):**  
+  Epiphanies/breakthroughs arrive as conclusions articulated by protagonist or narrative voice rather than dramatized shifts.
+- **Convenient or late-breaking motif-reversals (symbolic convenience):**  
+  When a key image is introduced or undergoes transformation only at conclusion to ‘harvest’ thematic payoff, the move feels inorganic.
+- **Rare: Thematic drift or drive-lens confusion in mid-to-late story:**  
+  Most commonly in multi-POV or mosaic attempts that fail to teach section or shard boundaries, leading to climax/closure that reads disconnected from opening thematic question.
+
+---
+
+### 4) Performance Boundaries
+
+This writing excels when theme is treated as an emergent byproduct of scene, image, and conflict—never imposed or summarized. High performance occurs when motif systems are seeded early, evolve through character-driven struggle, and achieve resonance through non-literal, scene-anchored closure. The stories break or falter when paraphrased morals or over-explicit thematic statements substitute for earned ambiguity, or when final paragraphs pull back from image-driven resonance to deliver a tidy “lesson.” Over-reliance on abstraction, overt labeling, or tidy binary closure flips outcomes from durable emotional aftereffect to fleeting sentimentality. When motif recurrence is decorative rather than pressure-accumulating, or when the ending tells what the preceding action has shown, thematic power is lost.
+
+---
+
+### 5) Signature Moves and Blind Spots
+
+**Signature Moves**  
+- Close-up motif transformation: recasting a recurring object in the final scene (e.g., seed, feather, or piece of music) to retroactively charge the entire arc.
+- Dialogue infused with subtext—characters rarely say what they mean, letting silence or small gestures do thematic work.
+- Use of physical/sensory images (“the dust as a compass,” “warmth wrote symphonies”) as containers for intangible struggles (grief, hope, memory).
+- High comfort with ambiguity—endings that resist total closure or explicit judgment.
+
+**Blind Spots**  
+- Slippage into thesis-speak at moments of summary resolution (“The labyrinth isn’t out there... It’s the path you walk now”).
+- Moments where motif or theme is explained directly rather than being allowed to stand as image (especially in final paragraph).
+- Occasional drift toward tidy binary endings, simplifying complex webs into moral lessons.
+- Overuse of “concept-label” phrasing that echoes prompt/requested language.
+
+---
+
+### 6) High-Band Signals (≈8.8+)
+
+- **Thematic closure delivers a resonant, non-literal answer that reweights prior motifs and accumulates conceptual cost:**  
+  E.g., “The butterfly dust transforms from ‘relic of loss’ to ‘compass pointing toward patience’—a non-literal answer to the central question.”
+- **Emotional aftereffect is unforced and lingers; resonance is scene-anchored, not declared:**  
+  Subtext remains at work in dialogue, action, and closure image.
+- **Complexity and ambiguity remain productively unresolved at closure; plausible counter-readings exist, and theme never collapses into a single, expounded thesis or moral.**
+
+---
+
+### 7) Revision Levers and Keepers
+
+**Keep:**
+- Early seeding of motif or image that evolves in relevance through the arc.
+- Scene-driven (not declarative) subtext—tenderness in gesture, silence, or interruption.
+- Closure-image or action that reweights core particulars without direct statement or summary.
+
+**Change:**
+- Cut or rewrite any line (especially in late paragraphs) that explicitly states the thematic “lesson” or provides a paraphrased answer to the central question (e.g., “integrity thrived not in isolation but...” in narration/dialogue).
+- Press on ambiguity: if the image/gesture at closure already carries meaning, let it stand. Trim summarizing “takeaway” or thesis restatement.
+- Replace prompt-derived conceptual phrasings (“sacred distance,” “cycle of compassion”) with specificity—re-ground concept in a pressure-tested image, gesture, or sensory anchor. Ensure motif recurrence is not just decorative but accumulates or shifts through choices made under narrative pressure.

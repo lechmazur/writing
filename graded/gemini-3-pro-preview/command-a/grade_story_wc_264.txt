@@ -1,0 +1,19 @@
+grade_story_wc_264.txt
+<question>1</question><grade>4.2</grade><comment>Motivation is stated via exposition ("Her motivation was clear") rather than embodied in difficult choices. The protagonist faces no internal conflict or character-specific limits, simply executing a successful repair sequence without hesitation or error.</comment>
+<question>2</question><grade>3.5</grade><comment>The resolution relies on a "soft reset" where the clock instantly fixes the dying archive without explanation or cost. Causality is weak; Mara "realizes" the solution through convenient intuition rather than trial and error, depriving the climax of earned weight.</comment>
+<question>3</question><grade>4.1</grade><comment>Setting details lean on generic adjectives ("otherworldly," "luminescent," "intricately carved") rather than specific, sensory grounding. The environment acts as a passive facilitator ("sand shifted... guiding her path") rather than a source of friction or constraint.</comment>
+<question>4</question><grade>2.8</grade><comment>Conflict is negligible; the protagonist encounters no active opposition, physical barriers, or time pressure that forces a trade-off. The immediate success of every tool removes tension, leaving the declared stakes feeling abstract and untested.</comment>
+<question>5</question><grade>3.9</grade><comment>Themes of hope and memory are articulated literally ("fragments of hope," "surge of hope") rather than emerging from narrative action. The final realization about "protecting their divergence" reads as an imposed thesis statement rather than an organic conclusion.</comment>
+<question>6</question><grade>4.8</grade><comment>Heavy use of filter verbs ("Mara felt," "Mara knew," "Mara's eyes scanned") creates unnecessary psychic distance. The narrative explains the emotional significance of objects ("felt its weight as a reminder") instead of allowing the reader to infer it from interaction.</comment>
+<question>7</question><grade>4.9</grade><comment>The prose is readable but relies on scaffolding and clichés ("eternal pause," "thin air," "pulsing with life"). Information density is low, with many sentences devoted to explaining backstory or mechanics that could be shown through action.</comment>
+<question>8</question><grade>3.5</grade><comment>The story reads as a linear execution of prompt requirements without synthesizing them into a fresh narrative logic. The "magical object repairs the world" trope is played straight, lacking a subversive or specific angle to elevate the premise.</comment>
+<question>9 A</question><grade>3.5</grade>
+<question>9 B</question><grade>6.2</grade>
+<question>9 C</question><grade>6.0</grade>
+<question>9 D</question><grade>1.2</grade>
+<question>9 E</question><grade>5.0</grade>
+<question>9 F</question><grade>2.0</grade>
+<question>9 G</question><grade>5.5</grade>
+<question>9 H</question><grade>4.5</grade>
+<question>9 I</question><grade>3.0</grade>
+<question>9 J</question><grade>3.5</grade>

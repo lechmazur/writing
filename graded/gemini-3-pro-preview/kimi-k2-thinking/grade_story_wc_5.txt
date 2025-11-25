@@ -1,0 +1,19 @@
+grade_story_wc_5.txt
+<question>1</question><grade>4.2</grade><comment>The protagonist lacks internal conflict or contradictory impulses; her journey is a linear procedural without hesitation or error. The reunion is unearned by personal transformation or sacrifice, as the child is found safe in a warm cabin, rendering the initial "grief" and "loss" abstract labels rather than embodied stakes. The character functions as a flawless archetype rather than a person under pressure.</comment>
+<question>2</question><grade>4.5</grade><comment>The narrative follows a straight line (ritual -> map -> destination) with no complications, setbacks, or causal turns that alter options. The ending relies on a convenient discovery (a cabin with a fire already lit) that resolves the tension without cost, creating a "symmetric satisfaction" that feels structurally flat. Closure is achieved, but it lacks the required "felt or conceptual cost."</comment>
+<question>3</question><grade>6.4</grade><comment>The subarctic crater and withered orchard are established with vivid sensory details ("crunch of brittle leaves," "liquid mercury"). However, the sudden appearance of a warm, lit cabin at the end contradicts the established "withered" and "dead" atmosphere without sufficient grounding, feeling like a set-piece dropped in for a happy ending.</comment>
+<question>4</question><grade>3.8</grade><comment>Stakes are declared ("lost child") but never tested; the protagonist faces no active opposition, time pressure, or resource scarcity that forces a difficult trade-off. The resolution (child safe by a fire) retroactively lowers the stakes, as the child was never in immediate danger, and the protagonist pays no price to achieve the goal.</comment>
+<question>5</question><grade>4.0</grade><comment>The theme is delivered through explicit "thematic echo" and explanation ("she realized that the act of sealing starlight was also a sealing of sorrow") rather than emerging from action. The story relies on sentimental assertion of meaning—"transformation of loss into geometry"—instead of dramatizing that transformation through struggle.</comment>
+<question>6</question><grade>5.8</grade><comment>The narrative voice is consistent in its mythic, lyrical register, but maintains a somewhat distant, filtered quality ("She felt," "She sensed"). The tone is cohesive, though it leans heavily on a few repeated descriptors that limit the texture of the POV.</comment>
+<question>7</question><grade>4.5</grade><comment>The prose suffers from significant repetitive artifacts: the phrase "moving stillness" appears four times, and "safekept" three times, creating a jarring echo in a short piece. The writing often slips into "telling" mode to explain the significance of actions ("a physical demonstration of patience") rather than letting the image speak.</comment>
+<question>8</question><grade>5.5</grade><comment>The concept of "flash-paper alchemy" and mapping heartbeats is imaginative and offers a fresh visual. However, the execution falls into a standard "magic ritual solves the problem" template without subverting expectations or adding a layer of human complexity to the fantasy logic.</comment>
+<question>9 A</question><grade>9.2</grade>
+<question>9 B</question><grade>8.0</grade>
+<question>9 C</question><grade>8.5</grade>
+<question>9 D</question><grade>3.5</grade>
+<question>9 E</question><grade>7.0</grade>
+<question>9 F</question><grade>6.8</grade>
+<question>9 G</question><grade>8.8</grade>
+<question>9 H</question><grade>7.8</grade>
+<question>9 I</question><grade>8.5</grade>
+<question>9 J</question><grade>5.5</grade>

@@ -1,0 +1,19 @@
+grade_story_wc_201.txt
+<question>1</question><grade>4.2</grade><comment>The protagonist serves as a vessel for abstract concepts rather than functioning as a grounded human agent; her motivation is a thematic thesis statement ("mathematics of mercy") rather than a psychological drive. Interiority relies on mixed metaphors ("lattice of bruised memories") instead of specific, embodied cognition.</comment>
+<question>2</question><grade>4.0</grade><comment>The narrative operates on dream logic where an internal epiphany ("the equation") acts as a magical switch to resolve the external threat, bypassing genuine causal resistance. The ending feels unearned, as the forest simply surrenders its nature to a whispered sentence.</comment>
+<question>3</question><grade>5.3</grade><comment>While the ultraviolet imagery is consistent, the setting functions more as a symbolic stage than a physical place with tangible constraints. Descriptors like "impossible shades" and "strange light" tell rather than show, and the environment lacks a specific texture beyond the visual.</comment>
+<question>4</question><grade>3.7</grade><comment>Stakes are purely conceptual ("to discover the mathematics"), lacking visceral or interpersonal urgency. The conflict is static; the protagonist endures pain until she decides to solve the puzzle, meeting no active opposition or dilemma that forces a difficult trade-off.</comment>
+<question>5</question><grade>3.0</grade><comment>The story violates the prohibition on explicit moralizing by reciting the theme as a literal equation ("mercy equals the sum..."). This didactic summing-up in the climax flattens subtext and reduces the narrative to a sermon.</comment>
+<question>6</question><grade>4.4</grade><comment>The voice is elevated but overwrought, relying on "purple prose" ("ultraviolet fire," "pewter mask strap") that creates distance. The insertion of clinical terms like "proprioceptively enhanced" clashes sharply with the mythic, poetic register.</comment>
+<question>7</question><grade>3.9</grade><comment>Repetitive phrasing ("bruised senses," "bruised memories") and a reliance on abstract nouns create a dense, opaque texture. The integration of required terms is mechanical ("proprioceptively enhanced"), and mixed metaphors ("lattice... that flickered") obscure clarity.</comment>
+<question>8</question><grade>4.1</grade><comment>The synthesis of elements feels forced, resulting in a "prompt-soup" narrative where the logic serves the checklist (finding a literal formula in a forest) rather than organic storytelling. The concept of "mathematics of mercy" is taken too literally, damaging plausibility.</comment>
+<question>9 A</question><grade>4.5</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>6.0</grade>
+<question>9 D</question><grade>2.2</grade>
+<question>9 E</question><grade>5.5</grade>
+<question>9 F</question><grade>3.8</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>4.5</grade>
+<question>9 I</question><grade>3.2</grade>
+<question>9 J</question><grade>2.0</grade>

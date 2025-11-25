@@ -1,0 +1,19 @@
+grade_story_wc_47.txt
+<question>1</question><grade>3.4</grade><comment>Characterization relies entirely on abstract labels ("watchful dreamer," "quietly proactive") rather than dramatized traits or choices. Lira experiences no internal contradiction or struggle, moving through the scene with perfect emotional calibration. Her feelings are described via repeated therapy-speak phrases ("protected vulnerability") rather than embodied sensation.</comment>
+<question>2</question><grade>3.6</grade><comment>The plot is a frictionless linear progression where the protagonist faces no resistance; the environment and technology yield instantly to her desires. The resolution relies on unexplained "magic" (using a pendant to rewrite server code) and offers unearned "symmetric satisfaction" where the entire ecosystem is healed without cost.</comment>
+<question>3</question><grade>5.0</grade><comment>The "data center turned moss garden" is visually established with some vivid descriptors ("cathedral of rusted racks"), but it functions as a passive backdrop rather than a source of constraints. The interaction between nature and tech is aesthetic rather than physical or causal, lacking tactile grounding.</comment>
+<question>4</question><grade>2.5</grade><comment>Conflict is virtually nonexistent; Lira encounters no obstacles, antagonists, or internal doubts. The "viral confession" provides backstory but exerts no active pressure on the scene's choices. The narrative lacks a tightening of stakes or a moment where a meaningful trade-off is required.</comment>
+<question>5</question><grade>3.2</grade><comment>The theme is hammered home through the relentless repetition of the prompt phrase "honeyed hush" (used 5+ times) and explicit statements about "grafting new meaning." Subtext is absent, replaced by overt moralizing that resolves complex grief with a simple magical fix.</comment>
+<question>6</question><grade>3.8</grade><comment>The narrative voice is consistent but leans heavily into "purple" abstraction ("emerald silence," "soft current") and sentimental diction. It lacks a distinct, character-specific perceptual signature, reading instead like a generic "healing" template where tone overrides clarity.</comment>
+<question>7</question><grade>2.8</grade><comment>The prose suffers significantly from text artifacts and loop penalties, specifically the excessive repetition of "honeyed hush" (5+ times) and "protected vulnerability" (3 times). The word "proffer" is used frequently and somewhat awkwardly to satisfy the prompt, disrupting the natural rhythm of the sentences.</comment>
+<question>8</question><grade>3.1</grade><comment>The story assembles the required elements into a derivative "nature reclaims tech" vignette without adding specific human complexity or a fresh angle. The reliance on magical healing of digital systems feels formulaic and lacks the "ingenuity" or "risk" required for a higher score.</comment>
+<question>9 A</question><grade>2.0</grade>
+<question>9 B</question><grade>7.0</grade>
+<question>9 C</question><grade>1.2</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>3.0</grade>
+<question>9 F</question><grade>5.0</grade>
+<question>9 G</question><grade>6.0</grade>
+<question>9 H</question><grade>4.0</grade>
+<question>9 I</question><grade>4.5</grade>
+<question>9 J</question><grade>1.0</grade>

@@ -1,0 +1,19 @@
+grade_story_wc_112.txt
+<question>1</question><grade>4.2</grade><comment>The protagonist is a standard archetype defined by prompt labels rather than psychology. The trait "obliging" appears as a narrator descriptor but is contradicted by her reckless, self-serving actions to risk the station for her theory. Her internal state is described through oxymorons ("icy warmth") that feel performed rather than embodied.</comment>
+<question>2</question><grade>3.5</grade><comment>The narrative follows a generic "break it, fix it" arc with a "soft reset" ending that erases consequences. The resolution relies on a convenient memory of a mentor's platitude rather than a costly choice, and the station reboots perfectly, failing the requirement for a decisive change with visible cost.</comment>
+<question>3</question><grade>4.5</grade><comment>The setting is functional but relies on generic sci-fi tropes like "gleaming surfaces" and "holographic displays." While the "hush of beating wings" attempts atmosphere, the environment acts largely as wallpaper rather than a source of constraints or resources that shape the protagonist's tactics.</comment>
+<question>4</question><grade>3.8</grade><comment>Stakes are declared (station destruction) but never felt because the solution is immediate and costless. The conflict is purely external and resolved by a simple lever pull, lacking the meaningful tightening or trade-offs required for literary tension. The ending asks "at what cost?" without actually showing one.</comment>
+<question>5</question><grade>3.6</grade><comment>The theme is explicitly stated via the prompt phrase ("time moves sideways") rather than emerging from the narrative. The mentor's advice about "balance" is a vague platitude that resolves the plot magically, preventing any genuine thematic resonance or subtextual depth.</comment>
+<question>6</question><grade>4.1</grade><comment>The POV is functional but suffers from heavy "telling" of internal states (e.g., "mind racing," "heart pounded"). The narrative voice lacks a distinct perceptual signature, relying on standard thriller cadences and inserted prompt phrases that disrupt the flow.</comment>
+<question>7</question><grade>3.9</grade><comment>The prose is laden with clichés ("loomed like a metallic scar," "practiced precision," "knuckles whitening") and vague techno-babble ("dance of light and logic"). Prompt phrases like "mechanically warm" and "icy warmth" are repeated to the point of distraction, acting as scaffolds rather than organic descriptions.</comment>
+<question>8</question><grade>3.2</grade><comment>The story executes a formulaic "scientist risks all and succeeds" plot with no subversion or fresh insight. The core concept of time moving sideways is treated as a simple mechanical switch, and the narrative lacks any distinct stylistic or structural risk.</comment>
+<question>9 A</question><grade>2.5</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>1.5</grade>
+<question>9 D</question><grade>3.0</grade>
+<question>9 E</question><grade>5.5</grade>
+<question>9 F</question><grade>2.5</grade>
+<question>9 G</question><grade>6.0</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>7.0</grade>
+<question>9 J</question><grade>3.5</grade>

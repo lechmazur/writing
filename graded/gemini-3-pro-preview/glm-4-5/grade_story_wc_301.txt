@@ -1,0 +1,19 @@
+grade_story_wc_301.txt
+<question>1</question><grade>4.1</grade><comment>Characterization relies heavily on inserted labels ("truth-seeking river chronicler," "daringly methodical") rather than demonstrated traits. Internal conflict is stated via abstract summaries ("clarity returning... was both a gift and a curse") rather than embodied in specific, contradictory actions or thoughts. The emotional arc feels performative, resolving through a convenient realization rather than earned struggle.</comment>
+<question>2</question><grade>4.4</grade><comment>The plot relies on significant coincidence; finding precise hydrographic data regarding a lost river in random bathroom graffiti strains credibility. The narrative progression is linear and lacks resistance—Elena enters, finds the exact clues needed immediately, and proceeds to the resolution. Closure is present (playing the accordion) but feels unearned due to the convenient setup.</comment>
+<question>3</question><grade>4.8</grade><comment>The setting is established with standard "abandoned place" tropes (ivy clawing, dust motes dancing) that lack fresh sensory specificity. While the station provides a backdrop, the transition to the "service tunnels" and the underground river feels spatially vague and convenient. The atmosphere leans into melodrama rather than grounded reality.</comment>
+<question>4</question><grade>3.9</grade><comment>Tension is minimal as there are no significant obstacles; Elena faces no external opposition and solves the "puzzle" of the station instantly. The stakes are internal but abstract ("self-forgiveness"), and the lack of concrete pressure or cost on the page makes the resolution feel inevitable rather than fought for.</comment>
+<question>5</question><grade>3.6</grade><comment>The theme is delivered through heavy-handed exposition and explicit moralizing ("The train lines... had been a diversion"). The story explains its metaphors to the reader ("replacing something more natural, more true") instead of allowing subtext to emerge from the action. The result is didactic rather than resonant.</comment>
+<question>6</question><grade>4.2</grade><comment>The narrative voice is overwrought and inconsistent, toggling between pseudo-scientific jargon ("archaeological strata") and melodramatic sentiment. The integration of prompt phrases is clumsy, disrupting the narrative flow. Narrative distance is poorly controlled, shifting from observation to diagnostic summary without earning the intimacy.</comment>
+<question>7</question><grade>3.8</grade><comment>Prose is marred by "purple" descriptions ("warehouse of memories," "clawed... like desperate fingers") and repetitive phrasing of prompt elements. Artifacts are frequent: "daringly methodical" and "truth-seeking river chronicler" are repeated verbatim as labels. The density is low, with many sentences dedicated to abstracting emotion rather than showing action.</comment>
+<question>8</question><grade>4.1</grade><comment>The synthesis of elements feels mechanical, stitching together disparate prompt requirements (accordion, graffiti, river) without a unifying organic logic. The core concept of finding deep wisdom in bathroom graffiti is a weak trope executed without irony or innovation. The "river vs. rail" metaphor is standard and adds little freshness.</comment>
+<question>9 A</question><grade>3.2</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>5.8</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>1.2</grade>
+<question>9 F</question><grade>5.5</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>4.5</grade>
+<question>9 I</question><grade>5.0</grade>
+<question>9 J</question><grade>2.0</grade>

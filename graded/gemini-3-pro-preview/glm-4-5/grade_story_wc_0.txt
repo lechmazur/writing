@@ -1,0 +1,19 @@
+grade_story_wc_0.txt
+<question>1</question><grade>2.8</grade><comment>The protagonist's internal state is summarized rather than dramatized through choice or action. Motivation ("to strip needless drama") is explicitly stated rather than revealed through conflict or pressure. There is no active struggle; the character simply drifts from one realization to another in an iterative summary.</comment>
+<question>2</question><grade>2.4</grade><comment>The story fails the Orientation Test; it relies on iterative time ("Each day," "weeks ago") rather than grounding the reader in a single, specific scene with immediate stakes. Closure is an assertive summary of a realization, lacking a dramatized turning point or visible cost. The narrative structure is a synopsis, not a story.</comment>
+<question>3</question><grade>3.2</grade><comment>The setting is described with generic sensory details ("damp earth," "broken glass") that do not constrain the character's choices or generate specific obstacles. The greenhouse serves as a static backdrop for reflection rather than an active environment that pressures the protagonist.</comment>
+<question>4</question><grade>2.2</grade><comment>There is no immediate conflict or escalation; the "shift" in perspective happens smoothly without opposition or trade-offs. The stakes are abstract and intellectual ("understanding the universe") rather than visceral or immediate. The narrative lacks a meaningful tightening of options.</comment>
+<question>5</question><grade>2.0</grade><comment>The theme is delivered through explicit moralizing in the final paragraph ("witness and honor the small, humble miracles"), violating the show-don't-tell rule. The narrative relies on stating the lesson ("destruction often precedes creation") rather than allowing it to emerge from subtext.</comment>
+<question>6</question><grade>3.2</grade><comment>The voice is distant and explanatory, functioning more as an essayist than a storyteller. It filters the experience through summarization ("Elena realized," "Elena felt") rather than immediate perception, creating a barrier between the reader and the character's experience.</comment>
+<question>7</question><grade>2.8</grade><comment>The prose suffers from significant repetition of key phrases ("accumulated dust patterns," "kindled humility," "needless drama") within a short space. The reliance on filter verbs and abstract nouns creates a flat, rhythmic monotony that lacks propulsion.</comment>
+<question>8</question><grade>2.5</grade><comment>The premise of a scientist finding spirituality or meaning in nature/decay is a common trope, and this execution adds no specific, fresh twist. The macro/micro contrast (neutron stars vs. butterfly dust) is handled conventionally without subverting expectations.</comment>
+<question>9 A</question><grade>2.5</grade>
+<question>9 B</question><grade>6.5</grade>
+<question>9 C</question><grade>4.0</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>5.5</grade>
+<question>9 F</question><grade>4.5</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>4.0</grade>
+<question>9 I</question><grade>2.5</grade>
+<question>9 J</question><grade>2.0</grade>

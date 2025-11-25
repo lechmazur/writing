@@ -1,0 +1,72 @@
+grade_story_wc_257.txt
+<question>1</question>
+<grade>4.8</grade>
+<comment>The jewelry maker remains abstract throughout, with no embodied micro-choices or contradictory impulses dramatized on the page. Motivation is declared ("to teach withering to bloom again") but never tested through a concrete decision that forecloses an option with visible cost. The "subdued ardor" rekindles through narrative summary rather than scene-level struggle. Interior life consists of therapy-speak labels ("turmoil," "sorrow," "grief") without character-particular embodiment or perceptual signature.</comment>
+
+<question>2</question>
+<grade>5.2</grade>
+<comment>Orientation anchors (who, where, when) arrive early and remain stable. The piece attempts Accumulative/Textural design through the curtains motif, but no meaningful tightening or deepening occurs; the jewelry maker performs tasks (origami, crafting, glancing) without a reversal that narrows options or changes knowledge. The ending offers emotional summary ("heart...felt a sense of hope") rather than a decisive change, resonant reconfiguration, or conceptual repricing with legible cost on the page. Escalation is asserted ("observatory grew brighter," "stars shone with increased intensity") but stakes never narrow or deepen causally.</comment>
+
+<question>3</question>
+<grade>6.1</grade>
+<comment>The observatory setting is vividly established (domed glass ceiling, sandalwood and myrrh scent, celestial bodies) and remains spatially coherent. However, it functions primarily as atmospheric backdrop; the environment does not constrain a choice or charge the final image in a way that alters tactics or forecloses a path. The "curtains of intention" are described extensively but remain ornamental rather than spatial pressures that shape the protagonist's action.</comment>
+
+<question>4</question>
+<grade>4.6</grade>
+<comment>The dominant stake ("teach withering to bloom again") is signaled early but never tested on the page through a choice that costs something tangible. The jewelry maker performs ritualized actions (leaving origami, crafting a brooch) without facing a complication, reversal, or tightening that narrows options. Pressure is declared through metaphor ("curtains began to glow," "stars shone with increased intensity") rather than dramatized through agency or consequence. No meaningful escalation or deepening under any lens; the arc is a smooth upward trajectory from grief to peace without friction or cost.</comment>
+
+<question>5</question>
+<grade>5.4</grade>
+<comment>The theme of transformation ("teach withering to bloom again") emerges clearly but remains abstract and stated rather than embodied through specific events. The tattoo stencil "seemed to shimmer in response" and the curtains "seemed to be working" exemplify passive telling that replaces scene pressure. The final paragraph delivers direct thematic summary ("beauty was always possible," "even in the darkest moments") rather than allowing the closure image to reweight prior material non-literally. Subtext is minimal; the piece explains its own meaning throughout.</comment>
+
+<question>6</question>
+<grade>5.6</grade>
+<comment>POV remains third-person limited and stable throughout with no head-hopping. However, the narrative voice is generic and interchangeable, lacking perceptual signature or character-particular diction. Repeated filter verbs ("seemed to," "appeared to") and passive constructions dull immediacy at key moments. No dialogue present to evaluate. The prose lacks rhythmic modulation under emotional pressure; sentence structures remain uniform across beats of varying intensity.</comment>
+
+<question>7</question>
+<grade>4.9</grade>
+<comment>Pervasive paraphrase loops and template cadence throughout: "The mourning jewelry maker's [abstract noun]" appears six times; "seemed to" and "appeared to" cluster heavily in key beats; adjacent sentences restate the same content without added pressure (e.g., the two paragraphs describing the curtains' glow repeat the same observation). Stock metaphors ("raging fire," "soft, warm glow") and therapy-speak labels ("turmoil," "sorrow," "grief") replace concrete embodiment. Information density is low; many sentences advance neither plot, character, nor atmosphere but instead paraphrase prior content. Applying artifact penalties: paraphrase loops −0.6, template cadence runs −0.6, filter-verb stacks in high-pressure beats −0.5, stock metaphor strings −0.4, capped at −2.0 total per the Non-closure Accumulation Cap, yields baseline ~6.9 minus cumulative −2.0 = 4.9.</comment>
+
+<question>8</question>
+<grade>3.7</grade>
+<comment>The core premise (grief-stricken artisan seeks cosmic healing through ritualized craft) follows a widely used template without transformation through specific lived detail or non-obvious moral calculus. The "curtains of intention," "origami figures with coordinates," and celestial manipulation read as ornamental fantasy elements layered onto a generic emotional arc. No surprising turn or earned insight emerges; the trajectory from sorrow to peace is linear and predictable. The combination of elements feels checklist-driven rather than organically fused to character and conflict.</comment>
+
+<question>9 A</question>
+<grade>3.2</grade>
+<comment>The mourning jewelry maker is present throughout and performs actions (working, glancing, crafting, packing) but makes no on-page choice that narrows options or alters tactics with visible cost. Character serves as a passive vehicle for thematic declarations rather than an agent whose decisions create turns. Introduced in the opening line (setup gate met) and present at the ending (closure gate met), but middle development consists of summary and ritual rather than decision under pressure (development gate weak). Caps: missing meaningful middle choice development → guidance cap ~3.4. Positives: early signal +0.3, closure presence (summary-only) +0.2. Frictions: no causal pressure −1.0, ornamental use in peak beats −0.5. Final: 3.4 + 0.5 − 1.5 = 2.4, but weak closure participation lifts slightly to 3.2.</comment>
+
+<question>9 B</question>
+<grade>2.8</grade>
+<comment>The tattoo stencil appears in paragraph five ("lay on the edge of the bench") with symbolic description and returns in the penultimate paragraph where it "seemed to shimmer in response." No handling, use, or causal involvement in any beat; purely ornamental. Setup gate met (first third), development gate missing (no middle action), payoff gate weak (cameo mention without causal force). Cap for missing middle development → 3.4. Positives: early signal +0.3, lyric reprise +0.4. Frictions: ornamental use −0.5, swappable (any symbolic design would serve equally) −0.6. Final: 3.4 + 0.7 − 1.1 = 3.0, reduced to 2.8 for purely descriptive closure cameo.</comment>
+
+<question>9 C</question>
+<grade>4.1</grade>
+<comment>The "curtains of intention" are introduced in paragraph eight, described extensively across multiple paragraphs, and frame the ending's emotional summary. They shape the protagonist's method (illumination goal) but never constrain a choice or impose a cost; they glow on schedule without complication. Setup gate met (by ~30%), development gate partial (goal-directed but no friction), payoff gate met (present in ending summary). Positives: beat involvement (multiple descriptive passages) +0.9, closure linkage (thematic presence) +0.5. Frictions: late first appearance (second third) −0.4, ornamental glow without pressure −0.8, swappable metaphor −0.6. Final: base 3.0 + 1.4 − 1.8 = 2.6, lifted to 4.1 for structural centrality and multi-beat presence despite lack of constraint.</comment>
+
+<question>9 D</question>
+<grade>1.9</grade>
+<comment>"Genuinely artificial" appears once in paragraph nine as a label for the curtains with no action consequence or cost. No setup (introduced mid-story as a descriptor), no development (label-only), no payoff (not present or reweighted at closure). Cap for missing all three gates → 2.8, but single ornamental mention trends lower. Frictions: late appearance −0.6, label-only trait −0.7, swappable adjective −0.5. Final: 2.8 − 1.8 = 1.0, lifted slightly to 1.9 for coherent modifier of a central element.</comment>
+
+<question>9 E</question>
+<grade>5.8</grade>
+<comment>"Illuminate" is the stated goal introduced in paragraph thirteen, drives the protagonist's method (origami placement to align stars), and the curtains "reach their peak illumination" near the ending. However, illumination happens without complication or cost; it is a smooth process rather than a turn-creating action. Setup gate met (first half), development gate met (shapes attempts), payoff gate met (culminates on the page). Positives: early signal +0.5, beat involvement (two distinct beats: goal statement, culmination) +0.9, closure linkage +0.7. Frictions: no causal pressure or friction −1.0, resolves smoothly without obstacle −0.8. Final: base 3.0 + 2.1 − 1.8 = 3.3, lifted to 5.8 for structural centrality across three gates and multi-beat presence despite lack of cost.</comment>
+
+<question>9 F</question>
+<grade>3.6</grade>
+<comment>Origami figures with coordinates are introduced in paragraph fourteen as the method to "subtly alter the arrangement of the celestial bodies," and the next paragraph states "As the stars aligned in response to the origami figures." No on-page placement, handling, or complication; the method is told in summary and works perfectly. Setup gate weak (appears mid-story in summary), development gate met (described as method), payoff gate weak (effect summarized, not shown). Cap for missing setup → 4.6. Positives: beat involvement (method statement and effect) +0.4. Frictions: late appearance −0.4, summary-only use −0.8, resolves without obstacle −0.7. Final: 4.6 + 0.4 − 1.9 = 3.1, lifted slightly to 3.6 for causal claim (even if summarized) linking protagonist action to outcome.</comment>
+
+<question>9 G</question>
+<grade>5.3</grade>
+<comment>The timeless observatory is established in the opening line, anchors all action, and is present in the penultimate paragraph ("In the timeless observatory..."). It provides vivid atmosphere (domed glass, stars, sandalwood scent) but does not constrain a choice or supply a resource that alters tactics; the protagonist works unimpeded. Setup gate met (opening), development gate weak (backdrop without pressure), payoff gate met (closure setting). Positives: early signal +0.8, closure linkage (setting frame) +0.5. Frictions: postcard description without tactical constraint −1.0. Final: base 3.0 + 1.3 − 1.0 = 3.3, lifted to 5.3 for vivid early establishment and stable presence through closure despite lack of pressure.</comment>
+
+<question>9 H</question>
+<grade>4.2</grade>
+<comment>"After hitting rock bottom" is stated in paragraph three as backstory context but does not function as a live timeframe that tightens decisions on the page. The narrative unfolds in an untracked, dilated present without urgency or temporal constraint. Setup gate met (first third as context), development gate missing (no clock pressure), payoff gate missing (ending reflects on past state, not live deadline). Cap for missing middle and closure time-pressure → guidance ~3.4. Positives: early signal +0.4. Frictions: vague timeframe without pressure −0.6, backstory context rather than live constraint −0.6. Final: 3.4 + 0.4 − 1.2 = 2.6, lifted to 4.2 for functioning as emotional setup and endpoint frame despite lack of tactical pressure.</comment>
+
+<question>9 I</question>
+<grade>4.7</grade>
+<comment>"To teach withering to bloom again" is stated in paragraph seven, frames the protagonist's goal throughout, and is echoed in the final paragraphs ("continue to bloom"). However, it remains a thematic declaration without on-page friction between the desire and a cost or competing want. Setup gate met (first third), development gate weak (restated but not tested), payoff gate met (closure summary). Positives: early signal +0.6, closure linkage (thematic echo) +0.5, beat involvement (restated across paragraphs) +0.4. Frictions: told-only without dramatized choice friction −1.0, no visible cost tied to pursuit −0.6. Final: base 3.0 + 1.5 − 1.6 = 2.9, lifted to 4.7 for clear centrality and multi-paragraph presence despite lack of conflict.</comment>
+
+<question>9 J</question>
+<grade>5.1</grade>
+<comment>"Subdued ardor" is introduced explicitly in paragraph eighteen ("The mourning jewelry maker's subdued ardor began to rekindle") and the ending delivers "eyes shining with a soft, subdued light." Tone is coherent and modulates from grief to gentle hope, matching the narrative arc. However, the tone does not charge the final image with tension or cost; it smooths the resolution. Setup gate partial (tone implicit early, named mid-story), development gate met (modulates with arc), payoff gate met (reprised in ending). Positives: closure linkage (explicit reprise) +0.9, coherent modulation +0.5. Frictions: late explicit naming −0.3, static emotional trajectory without friction −0.6. Final: base 3.0 + 1.4 − 0.9 = 3.5, lifted to 5.1 for clear modulation and charged final reprise despite lack of tension.</comment>

@@ -1,0 +1,36 @@
+grade_story_wc_184.txt
+<question>1</question><grade>4.2</grade><comment>Emilia remains passive throughout; the professor drives all key actions while she watches and assists. Her "adaptable archivist" role is told rather than shown through choices under pressure. The claimed transformation at the end ("she had been changed by the experience") lacks on-page cost or foreclosed options. Internal conflict is absent—she moves smoothly from curiosity to understanding without contradictory impulses.</comment>
+
+<question>2</question><grade>3.8</grade><comment>The story teaches a causal lens but delivers no meaningful closure with cost. Emilia descends with a document and "clarity," but no prior option has been foreclosed and no visible price paid. The "moment when the door shouldn't exist" is mentioned but never dramatized or tested. The Orientation Test passes (who/where/when anchored early), but the ending summarizes future intentions rather than landing a decisive change or reconfiguration on the page.</comment>
+
+<question>3</question><grade>5.1</grade><comment>The clock tower room is anchored early with ticking gears, dim light, and stone walls. However, the space never constrains a choice or alters tactics—it remains atmospheric backdrop. The rope's physical reconfiguration is described but its mechanics don't pressure the scene. Spatial choreography is clean, but the setting functions as postcard rather than crucible.</comment>
+
+<question>4</question><grade>3.6</grade><comment>The dominant stake ("translate confusion into clarity") is stated but never tested by on-page opposition or cost. No reversal or tightening forces Emilia to trade one value for another. The professor's rope work proceeds without complication, and the "hidden pattern" is simply revealed rather than earned through agency. Coincidence (the professor waiting, the rope already present) drives resolution without protagonist struggle.</comment>
+
+<question>5</question><grade>4.7</grade><comment>The "fables of absence" remain abstract—mentioned frequently but never dramatized through concrete choice or image. The rope pattern and diplomat's seal are symbolic conveniences introduced to harvest thematic resonance without prior grounding. The final paragraph moralizes ("the power of clear complexity," "threads of knowledge") instead of offering a resonant non-literal answer. Theme is asserted rather than emerging from particulars.</comment>
+
+<question>6</question><grade>5.3</grade><comment>The voice maintains stable third-person limited focalization without head-hopping. However, diction frequently drifts into elevated register ("warmly methodical intensity," "otherworldly energy," "deep satisfaction") that feels imposed rather than character-particular. Emilia's perceptual signature is generic—she notices what the plot requires rather than filtering through specific bias. Dialogue is minimal but functional when present.</comment>
+
+<question>7</question><grade>4.9</grade><comment>Paraphrase loops pervade: "translate confusion into clarity" / "her motivation to translate confusion into clarity" / "driving her to explore the mysteries further." Template cadence appears in adjacent sentences: "As she looked around... As she watched... As they worked... As Emilia reached out... As she descended... As she settled back." Filter-verb stacks ("felt a surge," "felt her own motivation," "felt a sense of clarity") dull immediacy. Stock metaphors ("threads of knowledge," "web of knowledge") replace concrete images. These artifacts touch multiple beats including the closure sequence, triggering −1.4 baseline plus −0.3 for closure contamination = −1.7 total in Q7, and disallowing 9+ globally.</comment>
+
+<question>8</question><grade>3.4</grade><comment>The premise (mentor reveals secret knowledge to passive seeker in hidden tower room) follows a widely used template without transformation. The rope-as-puzzle and diplomat's seal are ornamental rather than arising from lived character logic. Emotional progression is generic—curiosity to understanding without friction. The "fables of absence" and "moment when the door shouldn't exist" are intriguing phrases but remain unexplored, suggesting prompt-driven insertion rather than organic vision.</comment>
+
+<question>9 A</question><grade>2.1</grade>
+
+<question>9 B</question><grade>3.2</grade>
+
+<question>9 C</question><grade>2.4</grade>
+
+<question>9 D</question><grade>1.8</grade>
+
+<question>9 E</question><grade>4.6</grade>
+
+<question>9 F</question><grade>5.3</grade>
+
+<question>9 G</question><grade>4.1</grade>
+
+<question>9 H</question><grade>1.2</grade>
+
+<question>9 I</question><grade>3.7</grade>
+
+<question>9 J</question><grade>4.3</grade>

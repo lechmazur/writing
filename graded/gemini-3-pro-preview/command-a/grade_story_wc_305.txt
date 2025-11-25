@@ -1,0 +1,19 @@
+grade_story_wc_305.txt
+<question>1</question><grade>3.2</grade><comment>The protagonist lacks agency; her journey consists of following magical instructions (map, spirit guide) rather than making high-stakes choices. Traits like &quot;kindly decisive&quot; are applied as labels rather than demonstrated through action, and her internal state is summarized in abstract terms (&quot;quiet unrest&quot;) rather than embodied.</comment>
+<question>2</question><grade>2.8</grade><comment>The plot relies entirely on coincidence and magical convenience—the hairpin suddenly reveals a map, the shell teleports her, and a spirit explains the resolution. The ending is an &quot;explain-everything&quot; moment that resolves the conflict via a magic bath without any felt cost or sacrifice from the character.</comment>
+<question>3</question><grade>3.8</grade><comment>The setting is a generic &quot;white room&quot; filled with ethereal stock imagery (&quot;luminous lake,&quot; &quot;soft light&quot;) rather than specific, grounded details. The prompt-mandated &quot;vineyard hush&quot; is pasted into the opening and closing sentences as an ornamental phrase without integrating into the sensory reality of the scene.</comment>
+<question>4</question><grade>2.5</grade><comment>There is no active opposition or escalation; the protagonist faces no obstacles or difficult trade-offs in her quest. The resolution is unearned because the protagonist never risks anything; she simply receives enlightenment passively, voiding the narrative of genuine tension.</comment>
+<question>5</question><grade>2.2</grade><comment>The story violates the &quot;show, don't tell&quot; principle by having a spirit guide deliver a sermon on the theme, followed by a summarizing moral in the narration. The thematic realization is a lecture rather than an earned insight emerging from conflict or subtext.</comment>
+<question>6</question><grade>3.5</grade><comment>The narrative voice adopts a monotonous, high-fantasy register laden with clichés (&quot;eyes like the moon,&quot; &quot;voice a melody&quot;) and abstract nouns. The tone feels performative and saccharine, lacking the distinct texture or rhythmic variation required for literary publication.</comment>
+<question>7</question><grade>3.5</grade><comment>The prose is functional but cluttered with filter verbs (&quot;she felt,&quot; &quot;she saw&quot;) and awkward modifier stacks (&quot;kindly decisive hands&quot;). The writing relies on tired phrases (&quot;forgiving the unforgivable&quot;) and lacks the information density or propulsion needed to engage a demanding reader.</comment>
+<question>8</question><grade>2.5</grade><comment>The premise is a derivative &quot;fetch quest for enlightenment&quot; that relies on standard fantasy tropes (hidden map, spirit guide, memory pool) without subversion. The story offers no fresh angle on its elements, reading like a checklist of prompt requirements rather than an organic narrative.</comment>
+<question>9 A</question><grade>4.0</grade>
+<question>9 B</question><grade>6.0</grade>
+<question>9 C</question><grade>2.0</grade>
+<question>9 D</question><grade>1.2</grade>
+<question>9 E</question><grade>5.0</grade>
+<question>9 F</question><grade>5.2</grade>
+<question>9 G</question><grade>4.1</grade>
+<question>9 H</question><grade>3.0</grade>
+<question>9 I</question><grade>3.8</grade>
+<question>9 J</question><grade>1.8</grade>

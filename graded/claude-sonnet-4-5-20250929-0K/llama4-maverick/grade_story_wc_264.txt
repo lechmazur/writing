@@ -1,0 +1,72 @@
+grade_story_wc_264.txt
+<question>1</question>
+<grade>3.8</grade>
+<comment>Asa remains a label without interior contradiction or embodied struggle; "dreamless freight guard" is asserted but never dramatizes what dreamlessness costs or how it shapes perception under pressure. Her motivation to "cultivate the sparks" is declared but not tested by conflicting wants or visible trade-offs. The merging with the dune reads as abstract transformation without specific sensory degradation, micro-choices, or a hierarchy of values that would earn the shift. The final re-solidification lacks visible cost or foreclosed options.</comment>
+
+<question>2</question>
+<grade>4.2</grade>
+<comment>Orientation anchors arrive late (who Asa is and what the archive does remain vague past the opening third), triggering a −0.4 penalty and capping Q3 at 7.0. The inferred lens is Accumulative/Textural, but no clear escalation or deepening occurs; Asa's "merging" is described rather than dramatized through constrained choices. The ending offers a return to solidity but no legible cost or reconfigured stance—she simply "brushes sand" and walks away. No decisive change, resonant reconfiguration with felt price, or conceptual repricing is visible on the page.</comment>
+
+<question>3</question>
+<grade>5.1</grade>
+<comment>The glowing dune is vividly rendered with sensory specificity (warm sand, shimmer, swirling patterns), and the chess clock's tactile reactivation provides a concrete moment. However, the environment does not constrain Asa's choices or supply friction; she moves freely without spatial or resource pressure. The "after the last forest burns" timeframe remains decorative background rather than a lived constraint that alters tactics. Micro-setting potential (clock, sand) is present but underutilized for causal pressure.</comment>
+
+<question>4</question>
+<grade>3.6</grade>
+<comment>The dominant stake—"cultivating the sparks"—is declared but never tested by opposition, scarcity, or trade-off; Asa faces no failure, resistance, or cost on the page. The archive "pulsing in harmony" and the dune "responding" provide atmosphere but no reversal or tightening that narrows options. The reactivation of the clock and the bloom intensifying are sequential description, not escalation driven by protagonist agency. No visible price paid or path foreclosed; the ending resets to her walking away with the archive "safe."</comment>
+
+<question>5</question>
+<grade>4.7</grade>
+<comment>Theme emerges around rebirth and dormant potential, signaled by "sparks," "bloom," and "world's rebirth," but these remain abstract assertions rather than earned from specific conflict. The chess clock as symbol of "disrupted rhythm" is stated directly rather than discovered through implication. The final image of the clock's "rhythmic ticking a fading echo" gestures toward resonance but does not reweigh prior material with new cost or meaning—it repeats the setup without transformation. No thematic question is posed or answered through Asa's choices, only illustrated through ornamental description.</comment>
+
+<question>6</question>
+<grade>5.3</grade>
+<comment>Voice maintains a consistent lyric register with controlled distance and purposeful compression ("occasionally everywhere," "fractured lullaby"), and the perceptual signature leans toward abstract poeticism. However, under peak moments (the merging, the reactivation), the prose does not degrade or tighten—it remains uniformly elevated, which flattens urgency. Filter verbs ("felt," "began to") appear frequently but read voice-motivated rather than dulling. No dialogue is present to assess. Psychic distance remains stable; no head-hopping or unmotivated shifts.</comment>
+
+<question>7</question>
+<grade>4.9</grade>
+<comment>Rhythm varies and paragraph structure modulates, but paraphrase loops appear: "The archive, a large, ornate box, was occasionally everywhere" is restated as "its presence felt throughout," and "her essence merging with the dune" echoes "Asa's form began to blur" without added pressure (−0.4). Template cadence clusters in the middle third: "As she walked… As the night deepened… As the first light" (−0.5). Stock metaphor "kaleidoscope of color and sound" and "testament to" (twice) reduce specificity. The opening and closing lines function, but the closure beat is dulled by scaffold ("ready to continue her journey"), pushing total deductions to −0.9 and disallowing 9+ globally.</comment>
+
+<question>8</question>
+<grade>3.2</grade>
+<comment>The core premise—mystical archive, glowing desert, merging consciousness—follows familiar post-apocalyptic spiritual-journey templates without a non-obvious angle. The chess clock and "divergent archive" are genre-standard mysterious objects; their combination does not transform expectation. Asa's arc (guardian walks, merges, re-solidifies, continues) lacks the specificity of lived detail or moral calculus that would make removal of any exact element break the story. The "fractured lullaby" tone and "wave functions" method gesture toward science-fantasy fusion but remain ornamental labels. No risk-taking that heightens stakes; the ending returns to the status quo without cost.</comment>
+
+<question>9 A</question>
+<grade>2.4</grade>
+<comment>Asa is present throughout but makes no on-page decision that alters tactics or creates a turn. Her role as "dreamless freight guard" is mentioned once and does not constrain or enable action. She observes, walks, kneels, brushes sand, and reactivates the clock—none of these acts involve choice under pressure or visible cost. The merging is passive (happens to her) and the re-solidification is automatic. Late first third signal, ornamental trait, no causal pressure, no closure linkage beyond physical presence: baseline 3.0 − 0.6 (swappability and ornamental use).</comment>
+
+<question>9 B</question>
+<grade>4.8</grade>
+<comment>The chess clock appears in beat one (description), beat two (half-buried at the ridge), and beat three (reactivation and pulsing). The reactivation moment involves tactile handling and causes the archive to pulse and the bloom to intensify—this is functional involvement across two beats. However, the clock does not narrow options or impose cost; removing it would not break the story's logic if another symbolic object replaced it. Present in the closure paragraph as "fading echo" but not causally active there. Setup + middle + cameo closure: eligible to ~6.0, but swappability and lack of specific cost cap at 4.8.</comment>
+
+<question>9 C</question>
+<grade>3.1</grade>
+<comment>The "divergent archive" is mentioned frequently but remains an abstract MacGuffin—its "essence of forgotten knowledge" and "power" are asserted without mechanics or on-page demonstration. It does not shape Asa's tactics, create obstacles, or impose trade-offs. The archive "pulsing in harmony" with the clock is atmospheric, not causal. Present early, but ornamental across all beats; swappable with any mystical container. No cost tied to it, no closure participation beyond static presence: 3.0 baseline − 0.2 (late functional use, as it never truly functions).</comment>
+
+<question>9 D</question>
+<grade>2.2</grade>
+<comment>"Occasionally everywhere" describes the archive's presence in one sentence and is never dramatized or used to constrain action. Asa does not struggle with the archive appearing/disappearing or leverage this trait. Label-only mention, no causal pressure, no cost, no closure participation. Introduced early but purely ornamental: 3.0 − 0.8 (ornamental + swappability).</comment>
+
+<question>9 E</question>
+<grade>2.9</grade>
+<comment>"Charm" appears once in "To charm the secrets hidden within the archive" and is never shown as an action with steps, cost, or outcome. The wave functions method is mentioned in the same line but not tied to "charm" as distinct from general intention. The element is asserted but not dramatized in any beat. Swappable with "unlock" or "reveal" without structural change. Present in setup only: 3.0 − 0.1 (summary-only use).</comment>
+
+<question>9 F</question>
+<grade>2.6</grade>
+<comment>"Wave functions" is mentioned once in the same sentence as "charm" and again in "Through the wave functions, she channeled the archive's energy." No mechanics, no demonstration of how this method differs from general mental focus, no cost or constraint. The method does not shape her attempts or alter tactics. Swappable with "concentration" or "meditation." Setup mention + summary reprise, no middle development or causal pressure: 3.0 − 0.4 (swappability).</comment>
+
+<question>9 G</question>
+<grade>5.7</grade>
+<comment>The "glowing dune" is present throughout, visually vivid, and the bloom "intensifies" in response to the clock's reactivation—this is middle-beat involvement. The dune "watched" in the final line, charging the closure image with a sense of witnessing. However, the dune does not constrain Asa's movement, impose scarcity, or force tactical choices; she walks freely. Early setup + middle involvement + closure presence, but lacks causal pressure or visible cost tied specifically to the dune's properties: eligible to ~6.3 for strong lyric reprise, reduced to 5.7 for lack of constraining function.</comment>
+
+<question>9 H</question>
+<grade>3.4</grade>
+<comment>"After the last forest burns" is mentioned in the opening and closing lines, framing the setting, but does not create urgency, tighten decisions, or alter Asa's tactics on the page. Time is not tracked; no clock or deadline pressures her choices. The timeframe is thematic backdrop without causal force. Setup + closure reprise without middle development or cost: ~3.0 for ornamental use, +0.4 for coherent framing.</comment>
+
+<question>9 I</question>
+<grade>4.1</grade>
+<comment>Asa's motivation "to cultivate the sparks in the unlit corners" is stated clearly in the first third and guides her general direction (walking, focusing, channeling energy). However, this desire is never tested by friction, competing wants, or visible trade-off. The "sparks" remain abstract; no specific corner is lit with on-page consequence or cost. Setup present, middle involvement is summary-only, closure mentions "sparks nurtured" but as assertion. Functional but swappable with any nurturing/restoration goal: 5.0 − 0.9 (lack of conflict and cost).</comment>
+
+<question>9 J</question>
+<grade>4.3</grade>
+<comment>"Fractured lullaby" is named once explicitly and echoed in the prose's lyric rhythm and paradoxical imagery ("soothing and unsettling," "dreamless," "kaleidoscope"). The tone remains consistent across beats and modulates slightly with the intensification of the bloom. However, the tone does not charge the final image with new weight—the ending maintains the same register without deepening pressure or cost. Setup mention + coherent tonal execution + closure presence, but lacks the final reweighting or cost connection that would elevate: 5.0 − 0.7 (ornamental label use and lack of closure charge beyond consistency).</comment>

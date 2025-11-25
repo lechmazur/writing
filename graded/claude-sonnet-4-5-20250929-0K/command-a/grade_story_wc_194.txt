@@ -1,0 +1,72 @@
+grade_story_wc_194.txt
+<question>1</question>
+<grade>5.2</grade>
+<comment>Eleanor's motivation to uncover family truth is stated early but never tested by a genuine on-page choice with visible cost. Her interiority leans heavily on abstract labels ("eloquently silent," "bridge of intuition") rather than embodied contradiction or micro-decisions under pressure. The journal revelation arrives via a shadowfigure hand-off with no prior dramatized struggle, flattening what should be a pivotal moment. The "dynasty ender" label is ornamental; no action demonstrates what ending the dynasty costs her or forecloses.</comment>
+
+<question>2</question>
+<grade>4.8</grade>
+<comment>The piece opens in a reading room, shifts to a bridge via gramophone-induced vision, then returns—this is effectively two locations within a fantasy frame, not two shards with legible transitions. The shadowfigure sequence delivers the journal as pure convenience: Eleanor does nothing to earn the reveal; it is handed to her, violating causal linkage. Closure claims she "understands her role" and will "let the truth set her family free," but no on-page action or renunciation demonstrates cost or forecloses a path. The inferred lens is causal (because-therefore), yet the key turn (journal acquisition) is not motivated by Eleanor's prior choices. Cost proof test fails: no sentence in the final paragraph shows what Eleanor gives up or what concrete option is now closed.</comment>
+
+<question>3</question>
+<grade>6.1</grade>
+<comment>The sepia reading room is anchored early with sensory detail (aged paper scent, golden shadows, brass gramophone) and recurs at closure, charging the final image with coherent atmosphere. The gramophone itself functions as a micro-setting object: Eleanor physically engages it (places handle, turns crank), and it triggers the vision-bridge, constraining her path toward revelation. However, the bridge setting arrives suddenly without spatial grounding (worn planks, amber sky) and dissolves without consequence, reading more as lyric decoration than a space that alters tactics. The evening timeframe modulates light but does not tighten decisions.</comment>
+
+<question>4</question>
+<grade>4.6</grade>
+<comment>The dominant stake—uncovering the family truth—is signaled early but never escalates through Eleanor's agency. She turns the gramophone crank and is passively transported; the shadowfigure hands her the answer with no test of commitment or trade-off. No reversal or tightening choice narrows her options; the melody "guides her intuition" without friction. The final paragraph asserts she is "no longer just the dynasty ender" but offers no on-page action or visible price that demonstrates what path is now foreclosed or what she sacrificed to reach this stance.</comment>
+
+<question>5</question>
+<grade>5.8</grade>
+<comment>The theme of inherited truth and the burden of ending a dynasty emerges from the setup and recurs in the final image (Eleanor as "keeper of a hidden truth"). The gramophone and journal function as concrete vessels for this theme, avoiding overt statement until the last line's "bridge of intuition" callback. However, the climactic revelation—internal betrayal cursed the lineage—is told in summary within the journal rather than dramatized, and the final paragraph edges toward thematic echo ("honor it, let the truth set her family free"). The piece resists a simplistic moral but does not fully earn the leap from discovery to resolution through scene pressure.</comment>
+
+<question>6</question>
+<grade>6.4</grade>
+<comment>Third-person limited POV remains stable; Eleanor's perceptual signature (tracing carvings, feeling weight as promise, eyes snapping open) is consistent and anchored in her grandfather's legacy. Narrative distance is controlled, and psychic access stays within her knowledge. However, diction occasionally drifts into elevated register that reads imposed rather than Eleanor-specific: "eloquently silent," "standing waves of sound her grandfather had once described" feels more thematic shorthand than her lived idiom under pressure. The shadowfigure's dialogue ("You've come") is functional but generic. No other character speaks, so voice distinction is not tested.</comment>
+
+<question>7</question>
+<grade>5.9</grade>
+<comment>Rhythm varies and paragraphs create visual breathing room, but several beats rely on paraphrase loops and thematic labels rather than propulsion. "Eloquently silent" appears twice as a phrase-stamp without new information; "bridge of intuition" recurs three times, twice as ornamental metaphor. The gramophone sequence is concrete and advances action, but the bridge vision summarizes flashes and whispers ("She saw… She heard…") instead of dramatizing them with image density. The final paragraph stacks abstract claims ("keeper of a hidden truth, a bridge of intuition") that dilute the closing image's specificity. Stock metaphor "bridge of intuition" and therapy-adjacent phrasing "let the truth set her family free" in peak beats trigger template-cadence and register-drift penalties of approximately −0.6 in Q7. Filter-verb reliance ("she felt," "she knew," "she saw") clusters in the vision beat without offsetting immediacy, adding minor line debt.</comment>
+
+<question>8</question>
+<grade>4.9</grade>
+<comment>The gramophone-as-portal and dynasty-ender premise echo familiar gothic-mystery templates (haunted heirloom, spectral guide, buried family secret) without a transformative angle. The shadowfigure hands Eleanor the journal in a vision-quest sequence that reads derivative; the "internal betrayal cursed the lineage" revelation is stock gothic. "Eloquently silent" and "bridge of intuition" are poetic phrasings but conceptually generic, lacking the lived specificity or non-obvious synthesis that would mark fresh vision. The piece commits to its premise but does not risk unconventional structure or subvert expectations; the transformation test suggests plot and arc would work unchanged with different names and a different cursed object.</comment>
+
+<question>9 A</question>
+<grade>3.2</grade>
+<comment>Eleanor (dynasty ender) is present throughout and her desire to uncover truth frames the story, satisfying setup and closure presence. However, she makes no key decision that alters tactics or forecloses an option; she turns the crank and is passively guided to the journal by the shadowfigure. The "dynasty ender" label is referenced in the opening and closing paragraphs but does not constrain or enable any on-page action with visible cost. Swappable with "last heir" or "family historian" without structural change. Late penalty minimal (present early), but ornamental use and lack of causal pressure cap the score.</comment>
+
+<question>9 B</question>
+<grade>6.8</grade>
+<comment>The gramophone crank handle is introduced in the first paragraph (Eleanor traces its carvings, feels its weight as promise), used in a second beat (she places it and turns it, triggering the vision), and returns in the final image (resting on the table beside her). This satisfies setup, development, and payoff gates. The handle's physical engagement enables the story's central revelation, providing causal pressure. However, the handle itself is not irreplaceable—any heirloom key or artifact could serve the same function with minor edits. The closure reprise is static (handle resting on table) rather than charged with reweighted meaning. Strong beat involvement and closure linkage lift the score into mid-6s, but swappability and lack of unique properties prevent higher bands.</comment>
+
+<question>9 C</question>
+<grade>2.4</grade>
+<comment>The "bridge of intuition" appears as a metaphor in the opening (Eleanor hopes the handle is "a bridge of intuition"), is named as a physical location her grandfather spoke of (the wooden-plank bridge in the vision), and returns in the final line ("a bridge of intuition that connected her to the past"). Setup and payoff are present, but the concept does not shape tactics or alter options in any dramatized beat. It functions as thematic decoration and place-name rather than a stake-defining constraint. Easily replaceable with "portal of memory" or "gateway to truth" without altering plot logic. Ornamental use and late-final reprise without middle development cap the score below 3.0.</comment>
+
+<question>9 D</question>
+<grade>2.1</grade>
+<comment>"Eloquently silent" is applied to Eleanor twice as a phrase-stamp (opening: "Eleanor was eloquently silent"; closing: "The room remained eloquently silent") but does not constrain or enable any on-page action with visible cost. No moment shows Eleanor choosing silence over speech when speech would matter, or suffering a consequence because she withholds words. The trait is label-only and ornamental. Present in setup and payoff but absent from any middle choice, and swappable with "contemplative" or "introspective." Cap at 2.8 for missing development gate; label-only use and no causal work lower further.</comment>
+
+<question>9 E</question>
+<grade>3.8</grade>
+<comment>"Muse" appears once in the second paragraph: "The room itself seemed to muse alongside her." This is passive personification of the setting, not an action Eleanor or another character takes. If interpreted generously as Eleanor musing (thinking/reflecting), that activity occurs throughout but is not a discrete action that drives a turn. No major reversal or tightening traces to an act of musing; the key turn is the gramophone triggering the vision, which Eleanor initiates by cranking, not by musing. The action is present but peripheral and easily swappable with "reflect" or "contemplate." Missing clear setup signal and weak development; closure does not hinge on it. Functional but replaceable, trending low in the 3–4 band.</comment>
+
+<question>9 F</question>
+<grade>2.9</grade>
+<comment>"Standing waves" are introduced in paragraph two (Eleanor's thoughts "as still as the standing waves of sound her grandfather had once described"), mentioned again in paragraph three (answer lies "in the standing waves her grandfather had studied"), and invoked during the gramophone beat ("she felt the standing waves…vibrations that seemed to resonate"). Setup is present, and the concept appears in the middle revelation beat, satisfying two gates. However, the mechanics of standing waves do not shape Eleanor's attempts or tactics; they function as thematic metaphor (sound carrying truth across time) rather than a constraint or method with legible on-page logic. Swappable with "resonance," "echoes," or "frequencies" without altering plot structure. Functional presence but ornamental integration cap the score just under 3.0.</comment>
+
+<question>9 G</question>
+<grade>5.7</grade>
+<comment>The "sepia reading room" is anchored in the opening paragraph with vivid sensory detail (golden shadows, aged paper scent, book-lined walls) and returns in the final paragraph as the frame for Eleanor's transformed stance, satisfying setup and payoff. The gramophone in the corner functions as a spatial resource that Eleanor approaches and uses, enabling the vision—this is middle development tied to setting. The room does not pressure choices (Eleanor could muse and crank anywhere), but it supplies the artifact and atmosphere that charge the closure image. The specificity (sepia, golden shadows, brass gleam) is consistent and purposeful, avoiding postcard generality. All three gates met; causal role is modest (enables rather than constrains), preventing higher bands. Closure linkage and consistent texture support mid-5s.</comment>
+
+<question>9 H</question>
+<grade>2.6</grade>
+<comment>"In the first yawn of evening" appears in the opening sentence, and the final paragraph notes "evening turned to night" with "golden shadows deepened." Setup and payoff are present, but the timeframe does not tighten decisions or alter tactics anywhere in the middle. No clock pressure; Eleanor's actions (turning the crank, receiving the journal, returning to the room) occur in indeterminate sequence without time constraint affecting her choices. The phrase "first yawn of evening" is evocative but ornamental. Swappable with "dusk" or "twilight" without plot impact. Missing development gate caps at 3.4; weak causal role lowers further into the 2–3 band.</comment>
+
+<question>9 I</question>
+<grade>5.3</grade>
+<comment>Eleanor's motivation "to uncover the truth behind her family's downfall" is stated explicitly in paragraph three and frames the entire story, satisfying setup. The journal revelation in the vision beat directly answers this want, providing development and payoff. However, the desire is told rather than dramatized through conflicted choices: Eleanor does not face friction between uncovering truth and another competing want or cost. No moment shows her hesitating, sacrificing, or choosing truth over safety. The motivation is present and causal (it drives her to use the gramophone) but lacks on-page tension or trade-off that would elevate it. Functional across beats, but depth of dramatization and cost connection are weak. Mid-5s for presence and structural role; lack of visible friction prevents higher bands.</comment>
+
+<question>9 J</question>
+<grade>6.2</grade>
+<comment>"Golden shadows" appears in the opening line, recurs in the gramophone-vision beat ("gleamed softly in the dim light"), and returns in the final line ("golden shadows deepened as evening turned to night"). The tone is consistent—elegiac, sepia-toned, suffused with fading light—and modulates subtly from contemplative opening to charged vision to quiet closure. The amber-and-violet bridge sky and the final deepening shadows extend the palette without breaking coherence. The tone charges the final image by linking light-state to Eleanor's transformation. However, the tone is somewhat static (consistently wistful) rather than dynamically responsive to peak pressure; the vision beat does not darken or sharpen tonally despite the revelation's weight. All three gates met; coherence and closure linkage support low-6s, but lack of modulation under stress and modest irreplaceability (swappable with "amber light" or "dusky glow") prevent higher bands.</comment>

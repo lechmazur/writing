@@ -1,0 +1,72 @@
+grade_story_wc_186.txt
+<question>1</question>
+<grade>4.2</grade>
+<comment>The custodian remains functionally abstract throughout—no contradictory impulses, no embodied emotion beyond generic "shiver" and "heart lift," no micro-choices that reveal hierarchy of values. The motivation to "prove coincidences have meaning" is declared but never dramatized through a difficult choice with visible cost. Interiority relies on stock phrasing ("surge of determination," "sense of wonder") and the final "success" arrives without prior struggle or trade-off. The piece reads as a guided tour of a concept rather than a character under pressure.</comment>
+
+<question>2</question>
+<grade>5.8</grade>
+<comment>Drive lens: Accumulative/Textural attempting a lyric cadence through the pavilion walk. Orientation anchors appear early (pavilion, custodian, post-collapse), satisfying the test. The closure attempts Resonant Reconfiguration via the orrery lighting and "thistle-blown hope" blooming, but no visible cost appears—the custodian simply succeeds, the light "fades," and purpose is declared without foreclosing a path or paying a price. Under the Accumulative lens one meaningful deepening is required; the story offers accumulation of images but no tightening or cost that reweights prior material. The Cost proof test fails: no sentence at closure shows a legible price paid.</comment>
+
+<question>3</question>
+<grade>6.4</grade>
+<comment>The glass humming pavilion is vividly rendered with sensory detail (vibrations, light refracting through crystal, sweet thistle scent) and recurs across beats. The star charts etched into walls guide the custodian's path, demonstrating spatial constraint. However, the environment does not force a difficult choice or alter tactics under pressure—it serves as atmospheric backdrop. The orrery appears at closure and sparks light, but the pavilion itself remains static decoration rather than a pressure vessel that shapes the final image or decision.</comment>
+
+<question>4</question>
+<grade>4.8</grade>
+<comment>The dominant stake—rekindling lost knowledge—is signaled early but never tested. No reversal, tightening, or deepening occurs: the custodian walks, touches objects, and succeeds without opposition, trade-off, or narrowed options. The shard "retrocognitively blessed" grants understanding without cost; the orrery lights on touch without friction. Coincidence (finding the shard, the orrery responding) resolves rather than complicates. No on-page escalation under the Accumulative lens; pressure remains flat from opening to close.</comment>
+
+<question>5</question>
+<grade>5.1</grade>
+<comment>Theme of meaning-in-coincidence and hope-after-collapse is present but operates at the level of assertion rather than earned resonance. The "thistle-blown optimism" and final "promise of a brighter future" are declared in summary rather than dramatized through specific cost or choice. The orrery lighting and pavilion "singing a new tune" gesture toward conceptual repricing but lack the particularity to reweight prior material—no insight emerges from struggle, only from successful retrieval. The final paragraph moralizes ("hope and possibility in a world reborn") instead of letting the image speak, triggering the explicit theme-statement penalty.</comment>
+
+<question>6</question>
+<grade>5.9</grade>
+<comment>Single third-person limited POV remains stable with no head-hopping. Diction is elevated and consistent ("testament to ingenuity," "mesmerizing dance," "velvet expanse") but lacks character-specific perceptual signature—the custodian notices in generic lyric register rather than through a particular professional or emotional lens. The prose occasionally drifts into purple territory ("shard of hush...sliver of silence that seemed to hold the very essence of stillness") without voice-motivation. No dialogue to evaluate. Psychic distance stays controlled but the narrator reads more as atmospheric guide than as a distinct consciousness under pressure.</comment>
+
+<question>7</question>
+<grade>5.3</grade>
+<comment>Paraphrase loops and synonym churn are pervasive: "seeking/searching," "glinting/twinkling," "stillness/silence/hush," and repetitive "seemed to" constructions (five instances). Template cadence runs through opening stems: "The custodian felt... They had always... Now, as they... With the shard..." across consecutive paragraphs. Stock metaphors abound ("diamonds scattered across velvet," "burst into bloom"). Filter-verb stacks ("seemed to," "felt a") dull immediacy in peak beats. Information density is low—many sentences restate mood or concept without advancing situation. Applying patterned-artifact penalty pack baseline −1.0 for loops, template cadence, and stock metaphor strings; artifacts do not touch closure directly but pervade the middle third, capping high-band eligibility per the global rule.</comment>
+
+<question>8</question>
+<grade>4.6</grade>
+<comment>The post-apocalyptic scholar rekindling ancient knowledge is a well-worn template; no transformation through specific lived detail or non-obvious moral calculus. The "shard of hush" and "retrocognitively blessed" prism offer surface novelty but function as convenient magic rather than constraints with cost. Emotional arc (determination → success → wonder) is generic and could transfer unchanged to any treasure-hunt plot. The pavilion's glass-and-crystal aesthetic and star-path tracking are vivid but decorative rather than irreplaceable to the stakes. No bold risk or fresh synthesis; the story executes a familiar quest without complication or fresh angle.</comment>
+
+<question>9 A</question>
+<grade>3.8</grade>
+<comment>The beacon-tower custodian is present throughout and performs the key actions (touching prism, holding shard, reaching for orrery), but these are passive interactions with objects rather than decisions that alter tactics or foreclose options. Setup clear, middle involvement present (walking with shard, guided by charts), closure participation (touches orrery). However, no choice with cost—the custodian's actions succeed without trade-off or narrowed path. Swappable with "seeker" or "scholar" with minor edits. Present in all three gates but lacks causal pressure or irreplaceability.</comment>
+
+<question>9 B</question>
+<grade>4.9</grade>
+<comment>The broken crystal prism appears early (first third), is handled once (custodian reaches out, paragraph 3), and its "facets glinting" recurs as atmospheric detail in paragraph 9. Setup present, middle reprise as light-reflecting image, but no closure participation—the orrery, not the prism, sparks the ending. The prism yields the shard but does not itself constrain later action or reweight at closure. Two touches across beats, but functional involvement is thin and the object could be replaced by any mystical artifact.</comment>
+
+<question>9 C</question>
+<grade>3.2</grade>
+<comment>"Shard of hush" appears in paragraph 4 as the object held, then carried through middle beats, and clutched again at the orrery (paragraphs 11, 16). Setup present, middle presence confirmed, closure participation (held when touching orrery). However, the concept of "hush" as silence/stillness does not shape stakes or tactics—it grants understanding passively without cost or tactical constraint. The shard functions as a key item rather than a concept that alters options. Present across gates but ornamental in execution; swappable with "shard of knowledge."</comment>
+
+<question>9 D</question>
+<grade>2.4</grade>
+<comment>"Retrocognitively blessed" is mentioned once (paragraph 5) as a trait of the shard, described as "imbued with a deep understanding of the events." Label-only; no on-page action is constrained or enabled by this attribute, no trade-off shown. The custodian's insight does not cost stamina, time, or clarity—it simply grants knowledge. Setup gate barely met (late in first third), no middle development, no closure participation. No visible tradeoff or tactical impact; could be omitted without changing the plot.</comment>
+
+<question>9 E</question>
+<grade>5.7</grade>
+<comment>"Rekindle" is the custodian's stated goal (paragraph 7: "rekindle the lost knowledge"), pursued by walking through the pavilion, and achieved when the orrery "spark of light flared to life" and "rekindling the lost knowledge" is declared (paragraph 17). Setup, middle pursuit, closure payoff all present. However, the action is abstract—no specific mechanics or cost shown, and the orrery simply responds to touch. The verb "rekindle" could swap for "restore" or "revive" without structural change. Three gates met but causal pressure and irreplaceability are weak.</comment>
+
+<question>9 F</question>
+<grade>4.1</grade>
+<comment>"Tracking star paths" is mentioned in paragraph 8 ("spent countless hours...searching for a hidden code") and paragraph 11 ("path guided by the star charts etched into the walls"). Setup and middle presence confirmed, but the method does not shape the ending—the orrery responds to touch, not to star-path knowledge. The charts guide the walk spatially but do not constrain or enable the final action. Mechanics remain vague (what code? how tracked?). Two gates (setup, middle) but no closure participation; functional but replaceable with "following maps."</comment>
+
+<question>9 G</question>
+<grade>6.2</grade>
+<comment>The glass humming pavilion frames the entire story (title element, paragraphs 1, 9, 15, 20) and its vibrations, light, and orrery are central to the atmosphere and closure. Setup immediate, middle presence (vibrations attune to footsteps, charts on walls guide path), closure participation (orrery at heart of pavilion sparks light). However, the setting does not pressure a choice—it provides resources (charts, orrery) that work on first attempt without friction. Strong setup and closure linkage, but lacks the constraint or tactical alteration for higher bands. All three gates met; causal pressure moderate.</comment>
+
+<question>9 H</question>
+<grade>3.6</grade>
+<comment>"After the collapse of civilization" is established in paragraph 2 and reinforced by "shattered world" (paragraph 13) and "world reborn" (paragraph 20). Setup present, thematic accent throughout, but the timeframe does not tighten decisions or alter tactics—no clock, no urgency, no cost tied to acting now versus later. The custodian's quest proceeds at leisure with no temporal pressure. Setup and thematic presence but no middle development or closure constraint; the collapse is backdrop, not a tactical shaper. Functional but replaceable with any post-disaster setting.</comment>
+
+<question>9 I</question>
+<grade>3.4</grade>
+<comment>"To prove that coincidences have meaning" is stated in paragraph 6 as the custodian's driving desire and echoed in paragraph 14 ("conviction that coincidences...held the key"). Setup present, thematic middle reference, closure implied (the successful rekindling "proves" the thesis). However, the motivation is told, not dramatized—no choice where proving this thesis conflicts with another value, no cost shown. The custodian simply succeeds without friction between want and obstacle. Setup and thematic thread but no on-page conflict or trade-off; label-only desire.</comment>
+
+<question>9 J</question>
+<grade>5.4</grade>
+<comment>"Thistle-blown" appears in paragraph 10 ("thistle-blown optimism") and paragraph 18 ("thistle-blown hope...burst into bloom"), bracketing the walk and lighting the closure. The tone of fragile, wind-scattered hope is coherent and modulates from faint (paragraph 10: "heart lift") to blooming (paragraph 18: "warm, golden light"). Setup, middle modulation, closure charge all present. However, the tone does not pressure a choice or cost—it decorates rather than complicates. The final mood is unambiguously triumphant ("hope and possibility") without tonal tension. Purposeful reprise but lacks friction or cost linkage for higher bands.</comment>

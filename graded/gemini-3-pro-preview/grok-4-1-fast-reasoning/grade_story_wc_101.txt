@@ -1,0 +1,19 @@
+grade_story_wc_101.txt
+<question>1</question><grade>4.2</grade><comment>Characters function as archetypes within a fable-like summary rather than individuals navigating a specific crisis. Mira’s motivation is explicitly stated in narration and dialogue ("ensure the exiles' spirit endured") rather than revealed through a high-pressure choice with visible cost. There is no dramatized internal conflict; resistance is overcome in broad strokes ("Mira persisted"), leaving the protagonist's agency largely abstract.</comment>
+<question>2</question><grade>3.7</grade><comment>The story violates the short-form scope by summarizing months and years ("Weeks passed," "Years later") instead of dramatizing a single decisive scene. There is no specific inciting incident or climax on the page; the central turn (the declaration) is a low-stakes ceremony where everyone agrees immediately. Causality is replaced by montage, preventing the formation of a legible closure unit with felt cost.</comment>
+<question>3</question><grade>4.8</grade><comment>The setting is established with functional descriptors ("parched earth," "olive groves"), but remains a static backdrop rather than a pressure cooker constraining choice. The repeated phrase "amplified quiet" acts as a mechanical tag rather than an atmospheric tool. Spatial choreography is vague, as the narrative zooms out to cover broad spans of time.</comment>
+<question>4</question><grade>4.0</grade><comment>Stakes are high in concept (starvation) but low in execution because obstacles are resolved through summary ("Resistance flickered... but Mira persisted"). The antagonist force (sanctions/enforcers) appears only in brief, generalized anecdotes or successfully evaded moments, lacking the immediate pressure required to force a hard trade-off on the page.</comment>
+<question>5</question><grade>4.2</grade><comment>The theme is delivered through on-the-nose dialogue and narration that explains the moral ("giving anonymously teaches our children resilience"). Subtext is virtually absent; characters articulate the story's thesis in complete sentences. The result is an instructional fable that lacks the ambiguity or earned resonance of a literary narrative.</comment>
+<question>6</question><grade>4.5</grade><comment>The narrative voice adopts a distant, myth-making tone that prevents immersion in any single moment. Point of view drifts between Mira, generic community perspectives, and historical summary. The voice lacks a distinct perceptual signature, relying instead on repetitive, prompt-derived phrasing to stitch the narrative together.</comment>
+<question>7</question><grade>3.9</grade><comment>Severe artifacting creates a mechanical rhythm; the prompt phrases "gently persistent" (5 uses) and "amplified quiet" (4 uses) are repeated verbatim, flattening the prose texture. Dialogue feels artificial ("Why invite wolves to our door?"), serving as expository scaffolding. The reliance on summary creates a "told" rather than "shown" experience.</comment>
+<question>8</question><grade>3.8</grade><comment>The concept of a secret gift economy is sound, but the execution follows a standard "inspirational fable" template without subversion or specific human grit. The conflict resolves too neatly into a lesson on legacy, lacking the friction or risk that characterizes fresh literary work.</comment>
+<question>9 A</question><grade>8.2</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>8.5</grade>
+<question>9 D</question><grade>3.5</grade>
+<question>9 E</question><grade>6.0</grade>
+<question>9 F</question><grade>8.0</grade>
+<question>9 G</question><grade>7.0</grade>
+<question>9 H</question><grade>6.5</grade>
+<question>9 I</question><grade>4.0</grade>
+<question>9 J</question><grade>2.5</grade>

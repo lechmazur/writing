@@ -1,0 +1,19 @@
+grade_story_wc_383.txt
+<question>1</question><grade>3.1</grade><comment>Lira is defined by labels ("charmed skeptic") that contradict her on-page behavior; she exhibits neither charm nor skepticism, offering zero resistance to the magical ritual. She lacks internal conflict or distinct agency, serving merely as a passive vessel for the story's abstract assertions. No meaningful choice is made under pressure.</comment>
+<question>2</question><grade>3.4</grade><comment>The narrative is a static vignette rather than a causal plot; events proceed in a linear, friction-free sequence ("drifted," "recorded," "felt"). Closure is a "soft reset" where the protagonist achieves her goal via magical assertion without facing obstacles or paying a visible cost. The drive lens is nominally accumulative but lacks reconfiguration of the stakes.</comment>
+<question>3</question><grade>3.7</grade><comment>The setting relies on generic, high-diction fantasy descriptors ("violet velvet," "pale hands") that fail to constrain the character’s choices. The environment functions as a pathetic fallacy, mirroring Lira's mood perfectly rather than providing the resistance or tactile grounding required for high-band specificity.</comment>
+<question>4</question><grade>2.5</grade><comment>Conflict is virtually nonexistent; the garden "softens her doubts" and "breathes with her," removing all external opposition. There is no antagonist, no internal barrier to the ritual, and no moment where failure is a possibility. The "struggle" is abstract and summarized, lacking dramatized pressure.</comment>
+<question>5</question><grade>2.8</grade><comment>The theme ("translating isolation into independence") is stated explicitly as a thesis statement multiple times, leaving no room for subtext or reader interpretation. This overt moralizing flattens the narrative, violating the "show, don't tell" principle and triggering the Thematic Echo penalty.</comment>
+<question>6</question><grade>3.6</grade><comment>The narrative voice is overly elevated and cloying, relying on "purple" adjectives and adverbs rather than strong verbs. While consistent, the voice is damaged by the mechanical insertion of prompt phrases, which breaks the immersive quality and creates a stilted, artificial rhythm.</comment>
+<question>7</question><grade>2.2</grade><comment>The prose suffers severely from repetitive loops and "scaffold" artifacts, repeating complex phrases like "ghostly resolve," "tragically radiant," and "resonance structures" 3–5 times each in a short space. These verbatim repetitions of prompt elements clutter the text and destroy narrative momentum, triggering maximum artifact penalties.</comment>
+<question>8</question><grade>3.0</grade><comment>The story presents a generic healing narrative wrapped in abstract metaphors without specific, lived details to ground it. The concept of archiving memories is potential-rich but is executed through vague technobabble ("resonance structures") and familiar tropes, lacking a fresh or risky synthesis.</comment>
+<question>9 A</question><grade>1.5</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>4.5</grade>
+<question>9 D</question><grade>1.2</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>2.5</grade>
+<question>9 G</question><grade>5.0</grade>
+<question>9 H</question><grade>6.0</grade>
+<question>9 I</question><grade>4.0</grade>
+<question>9 J</question><grade>1.2</grade>

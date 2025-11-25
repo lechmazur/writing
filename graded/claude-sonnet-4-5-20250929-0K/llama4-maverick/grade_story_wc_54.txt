@@ -1,0 +1,72 @@
+grade_story_wc_54.txt
+<question>1</question>
+<grade>4.8</grade>
+<comment>Maya remains a generic curious intern throughout; her "functionally creative streak" is asserted but never shown through contradictory impulses or on-page micro-choices under pressure. The work proceeds via convenient epiphanies ("Maya realized she could restore...") without dramatized struggle, visible tradeoffs, or embodied emotion. The sextant "guides" her passively; no internal conflict complicates her restoration project. Therapy-speak in peak beats ("equations for hope," "stoic wonder") replaces embodied discovery.</comment>
+
+<question>2</question>
+<grade>5.2</grade>
+<comment>Orientation arrives cleanly (who/where/when by paragraph 2). The closure unit—terminal restored, Maya departs with hope—qualifies as Decisive Change under a Causal lens, but cost is asserted rather than shown on the page: no visible forfeiture, no path foreclosed, no tactical alteration tied to a specific trade-off. "Equations for hope" and the sextant's glow are conceptual summaries, not dramatized pressure. The final paragraphs loop thematic declarations instead of landing a charged image.</comment>
+
+<question>3</question>
+<grade>5.6</grade>
+<comment>The abandoned spaceport is established early with concrete details (crookedly hung signs, rusting pipes, dusty surfaces). However, the environment functions as postcard backdrop rather than tactical constraint: Maya encounters no locked valves, missing parts, or spatial obstacles that force choices or alter her restoration sequence. The "maze of intentions" etched on walls/ceilings is described but never used to block or enable an action. The sextant piece sits inert in her pocket until a late, ornamental mention.</comment>
+
+<question>4</question>
+<grade>4.4</grade>
+<comment>The dominant stake—restore the terminal—is signaled early but unfolds without reversal, cost, or meaningful tightening. Maya's work proceeds via convenient epiphany ("By rerouting the pipes, Maya realized...") with no failed attempt, resource scarcity, or tradeoff dramatized on the page. No opposition (physical, social, or internal) complicates her goal. The "hours passed" summary skips all escalation; the ending declares success without showing a price paid or path foreclosed.</comment>
+
+<question>5</question>
+<grade>4.2</grade>
+<comment>Theme is over-articulated in prompt language: "equations for hope," "maze of intentions," "even in abandonment, there was beauty." The final paragraphs summarize theme mechanically ("a testament to the power of creativity," "always a way forward") instead of letting the terminal's transformation speak through image. The sextant's "soft, inner light" in the penultimate paragraph is symbolic convenience, not earned resonance. No counter-reading or moral complexity; the piece resolves into tidy uplift without ambiguity.</comment>
+
+<question>6</question>
+<grade>5.4</grade>
+<comment>Third-person limited POV remains stable with no head-hopping. Perceptual signature is weak: Maya notices pipes and patterns but her engineer's lens never filters detail in character-specific ways (no technical jargon, no professional priorities shaping what she ignores). Diction drifts into abstraction at emotional peaks ("stoic wonder," "ethereal light," "soft luminescence"). Recycled sentence stems dominate: "Maya's X [verb]..." appears in nine consecutive paragraphs. No dialogue on the page to assess.</comment>
+
+<question>7</question>
+<grade>4.6</grade>
+<comment>Heavy template cadence: "Maya's [noun] [verb]..." opens nine paragraphs; "The [noun] [verb]..." adds six more. Paraphrase loops cluster throughout: paragraphs 9–10 restate terminal transformation three times without new detail. Stock metaphors ("living thing," "beacon of possibility," "soft, inner light") dull specificity. Filter-verb stacks in high-pressure beats ("seemed to be guiding," "began to envision," "felt a sense of wonder") flatten immediacy. Artifacts touch the closure beat (final three paragraphs loop "hope" and "brighter" without propulsion), triggering the −1.7 Q7 penalty and disallowing 9+ globally.</comment>
+
+<question>8</question>
+<grade>3.8</grade>
+<comment>Core premise—lone engineer restores abandoned infrastructure and finds renewed purpose—follows a template arc without fresh inflection. The "maze of intentions" and sextant are ornamental rather than causally integrated; swap them for any symbolic object and the plot remains unchanged. No risk-taking in structure, voice, or moral calculus; the ending delivers median uplift without surprise or earned complexity. Derivative Premise Guardrail applies: −1.0 within Q8 for unmodified template.</comment>
+
+<question>9 A</question>
+<grade>3.2</grade>
+<comment>Maya is present throughout but makes no key turn via decision; observation and convenient realization drive all beats. Her curiosity is told, not shown through conflicted choice.</comment>
+
+<question>9 B</question>
+<grade>2.4</grade>
+<comment>The sextant appears in paragraph 4 (pocket), paragraph 15 (guiding presence), and final third (glowing symbol). No handling, no mechanical use, no reweighted meaning at closure—purely ornamental. Missing middle development and closure participation caps at 2.8; swappability and ornamental use lower to 2.4.</comment>
+
+<question>9 C</question>
+<grade>2.1</grade>
+<comment>The "maze of intentions" is described (paragraph 6) but never constrains Maya's choices or alters her tactics; it functions as scenery. No setup in first third, no middle beat involvement, no closure linkage. Missing all three gates; ornamental use applies −1.0.</comment>
+
+<question>9 D</question>
+<grade>1.8</grade>
+<comment>"Functionally creative" is a label (paragraph 3) without on-page demonstration; no visible tradeoff or enabling choice tied to the trait. Missing middle development and closure participation; label-only mention applies −0.3.</comment>
+
+<question>9 E</question>
+<grade>5.8</grade>
+<comment>"Resurrect" frames Maya's goal (paragraph 10) and closure declares success (paragraph 22+). However, the action is summarized ("hours passed," "terminal began to transform") rather than dramatized in distinct beats. Two-gate presence (setup, payoff) allows ~6.0 ceiling; summary-only use and swappability lower to 5.8.</comment>
+
+<question>9 F</question>
+<grade>4.2</grade>
+<comment>"Redirected flows" appears once (paragraph 13: "By rerouting the pipes...") as method but is summarized, not shown with mechanics or constraint. Late signal (second third), single mention, no cost tied to the method. Missing middle development caps at 3.4; single beat involvement raises to 4.2.</comment>
+
+<question>9 G</question>
+<grade>4.8</grade>
+<comment>The spaceport is signaled early (paragraph 1) and closure takes place there (paragraphs 22+). However, it functions as backdrop: no locked access, missing tool, or spatial obstacle alters Maya's choices. Two-gate presence (setup, payoff) allows ~6.0; ornamental use and no middle constraint lower to 4.8.</comment>
+
+<question>9 H</question>
+<grade>2.6</grade>
+<comment>"After the carnival leaves town" anchors the opening but exerts no time pressure on Maya's work; the "hours passed" summary erases urgency. No ticking clock, no deadline shaping tactics. Missing middle development and closure participation; decorative setup only.</comment>
+
+<question>9 I</question>
+<grade>3.4</grade>
+<comment>"Equations for hope" is told (paragraphs 9, 19, 26+) but never dramatized through conflicted choice or visible cost. The motivation is present at setup and payoff but remains abstract; no friction between want and obstacle on the page. Two-gate presence allows ~6.0 ceiling; summary-only use and swappability lower to 3.4.</comment>
+
+<question>9 J</question>
+<grade>4.1</grade>
+<comment>"Stoic wonder" is declared (paragraph 12) and restated at closure ("sense of wonder," paragraph 23), but the tone does not modulate with pressure or charge the final image—it remains static. Two-gate presence (setup, payoff) allows ~6.0; label-only mentions and no middle modulation lower to 4.1.</comment>

@@ -1,0 +1,19 @@
+grade_story_wc_10.txt
+<question>1</question><grade>4.2</grade><comment>The protagonist is defined by a label ("The capsize survivor") rather than specific, contradictory internal traits. Her emotional arc is linear and devoid of difficult micro-choices; she moves from determination to success without genuine on-page struggle. The internal state is summarized via abstract nouns ("grief," "wonder") rather than dramatized through conflicted action.</comment>
+<question>2</question><grade>4.1</grade><comment>The narrative follows a low-stakes linear path: attempt $\rightarrow$ immediate success $\rightarrow$ resolution. There is no legible cost or trade-off; the ending ("given it a new song") is a "Symmetric Satisfaction" that resolves the problem without sacrifice. The causality is soft, relying on a convenient technological breakthrough that works perfectly on the first detailed attempt.</comment>
+<question>3</question><grade>5.5</grade><comment>The "winterglass conservatory" is vividly described but functions primarily as a static backdrop rather than a pressure cooker. While the sensory details of the frost and blooms are clear, the setting does not constrain the protagonist's choices or force a tactical shift. It remains a safe sanctuary throughout.</comment>
+<question>4</question><grade>3.8</grade><comment>Escalation is virtually absent; the protagonist faces no active opposition or risk of failure during the experiment. The dominant stake ("tyranny of nothingness") is abstract and is resolved by a montage of "working for hours" rather than a specific, high-stakes crisis. The victory feels inevitable rather than earned.</comment>
+<question>5</question><grade>4.0</grade><comment>The theme is delivered through explicit moralizing statements ("If you can feel warmth, you can feel song") rather than emergent subtext. The ending summarizes the lesson ("And in the end, that was all that mattered") instead of allowing the final image to resonate on its own. This didactic approach flattens the emotional complexity.</comment>
+<question>6</question><grade>4.8</grade><comment>The voice is consistent but overly ornate, relying on "purple" descriptors ("phantom symphony of chaos," "frost-kissed"). Filter verbs ("she felt a shift," "she remembered") distance the reader from the immediate experience. The narrative distance is stable, but the tone lacks the grit required to ground the high-concept premise.</comment>
+<question>7</question><grade>3.8</grade><comment>Severe repetition of epithets creates a robotic rhythm; the protagonist is referred to as "The capsize survivor" six times, and "unshaken marvels" appears four times as a fixed label. These artifacts distract significantly from the narrative flow. Clichés like "tear traced her cheek" and "clung to like a life raft" further dilute the prose quality.</comment>
+<question>8</question><grade>4.5</grade><comment>While the heat-mapping concept is novel, the story structure is a generic "healing from trauma" template with a tidy resolution. The execution relies on familiar sentimental tropes (the healing power of nature/art) without introducing a fresh complication or subverting expectations. The lack of risk-taking results in a predictable outcome.</comment>
+<question>9 A</question><grade>6.5</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>2.2</grade>
+<question>9 D</question><grade>3.0</grade>
+<question>9 E</question><grade>3.5</grade>
+<question>9 F</question><grade>6.8</grade>
+<question>9 G</question><grade>6.0</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>6.5</grade>
+<question>9 J</question><grade>N/A</grade>

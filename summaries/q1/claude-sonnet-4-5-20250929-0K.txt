@@ -1,0 +1,2 @@
+claude-sonnet-4-5-20250929-0K.txt
+Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}

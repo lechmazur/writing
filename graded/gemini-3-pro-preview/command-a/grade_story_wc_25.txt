@@ -1,0 +1,19 @@
+grade_story_wc_25.txt
+<question>1</question><grade>3.2</grade><comment>Character motivation is abstract and pasted onto the narrative rather than arising from organic desire; Eli adopts a profound life philosophy ("whispers travel farther") instantly from a stranger's mutterings without earning it. Interiority consists of summary labels ("curiosity tugged," "motivation crystallized") rather than embodied emotion or struggle. There is no sense of maintenance-worker competence or specific worldview, only generic reactions to plot tokens.</comment>
+<question>2</question><grade>3.2</grade><comment>The plot relies on video-game logic: find map, find key, meet NPC with lock, open door. The "resistance" of the labyrinth is flavor text that never forces a deviation or hard choice. Closure is unearned; the protagonist simply unlocks a door and walks into light, offering a "Decisive Change" in location but zero felt cost or sacrifice. The ending relies on a "summary explanation" that asserts meaning rather than dramatizing it.</comment>
+<question>3</question><grade>4.3</grade><comment>The setting of a shipping container labyrinth is visually distinct but treated as a generic fantasy dungeon; containers "groaning as if alive" and a map that "unfolds itself" break the grounded industrial tone established in the opening. Sensory details are functional ("salt and rust") but do not constrain action; the storm is merely atmospheric background noise rather than a tactical pressure.</comment>
+<question>4</question><grade>3.0</grade><comment>Stakes are purely abstract ("curiosity," "prove a point"), lacking any visceral danger or consequence for failure. The conflict is resolved through coincidence (Mira happens to have the matching lock) rather than protagonist ingenuity or sacrifice. There is no escalation of pressure; the key simply works, and the "challenge" dissolves without a price paid.</comment>
+<question>5</question><grade>2.5</grade><comment>The theme is explicitly stated in dialogue and then restated in the narration, violating the "show, don't tell" principle and triggering the Thematic Echo penalty. The final paragraph explains the moral ("sometimes, the quietest voices...") directly to the reader, reducing the story to a fable with a tidy, unearned lesson. Subtext is nonexistent.</comment>
+<question>6</question><grade>4.2</grade><comment>The narrative voice is competent but generic, lacking a distinct perceptual signature for Eli. The POV drifts into omniscient summary ("Eli’s motivation crystallized") rather than staying grounded in immediate experience. The phrase "calculated spontaneity" is shoehorned in awkwardly, disrupting the established register.</comment>
+<question>7</question><grade>4.5</grade><comment>Prose is readable but relies on clichés ("heart of a sprawling city," "sharp tongue," "eyes daring them"). The insertion of prompt phrases results in logical artifacts (turning a key with "calculated spontaneity" is a contradiction in terms). The final paragraph devolves into a list-summary of items ("The zodiac coin, the folded map, the key") to force relevance.</comment>
+<question>8</question><grade>2.8</grade><comment>The story assembles standard fantasy tropes (magic map, destined key, mysterious center) without a fresh angle or specific human insight. The elements feel like a checklist compliance exercise rather than an organic narrative synthesis. The resolution is the "chosen one" archetype played straight, lacking ingenuity.</comment>
+<question>9 A</question><grade>4.5</grade>
+<question>9 B</question><grade>0.8</grade>
+<question>9 C</question><grade>6.0</grade>
+<question>9 D</question><grade>3.2</grade>
+<question>9 E</question><grade>2.0</grade>
+<question>9 F</question><grade>5.0</grade>
+<question>9 G</question><grade>6.8</grade>
+<question>9 H</question><grade>4.2</grade>
+<question>9 I</question><grade>2.2</grade>
+<question>9 J</question><grade>1.2</grade>

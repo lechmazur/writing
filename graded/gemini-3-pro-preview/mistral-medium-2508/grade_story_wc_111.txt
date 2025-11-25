@@ -1,0 +1,19 @@
+grade_story_wc_111.txt
+<question>1</question><grade>4.2</grade><comment>The protagonist is a static archetype of the "wise elder" without internal conflict or flaws. The antagonists (the elders) undergo an implausible, instant psychological reversal ("fuller hearts") based on a single visual cue, which violates the "Blind spots and limits" and "Relationships as crucible" standards.</comment>
+<question>2</question><grade>3.5</grade><comment>The ending relies on a "soft reset" where the central conflict evaporates immediately upon the elders seeing the vines; this is the "symmetric satisfaction" anti-pattern. There is no cost paid for the resolution, and the sudden acceptance by the elders lacks causal grounding in the established pressure.</comment>
+<question>3</question><grade>6.2</grade><comment>Sensory details are vivid ("cracked marbles," "roots cradled them"), effectively grounding the immediate scene. However, the setting operates more as a generic fable backdrop than a specific, lived-in geography that constrains choice beyond the immediate metaphor.</comment>
+<question>4</question><grade>3.0</grade><comment>The dominant stake (art vs. measurement) is declared but never tested; the "confrontation" lacks pressure as the opposition capitulates instantly without the protagonist having to make a difficult trade-off. The escalation is missing, as the elders' arrival leads directly to a convenient resolution rather than a tightening of options.</comment>
+<question>5</question><grade>3.8</grade><comment>The story relies on explicit moralizing in the finale ("Some things aren't meant to be measured"), which violates the "Show, don't sermonize" standard. The theme is delivered as a lecture rather than emerging organically from the cost of the character's choices.</comment>
+<question>6</question><grade>5.8</grade><comment>The narrative voice is consistent and distinct, fitting the fable-like tone. However, the reliance on overt similes ("like stolen luck," "like old apologies") occasionally creates a distancing effect, and the dialogue leans toward expository declarations rather than natural speech.</comment>
+<question>7</question><grade>6.0</grade><comment>Prose is polished and readable, but suffers from "simile density," with nearly every description relying on a "like" comparison. The rhythm is somewhat repetitive (short paragraph stacks), creating a template cadence that reduces momentum.</comment>
+<question>8</question><grade>4.0</grade><comment>The narrative adheres to a standard "magic defeats bureaucracy" fable structure without a fresh subversion or specific emotional reality. The Kintsugi-style marble metaphor is nice but familiar, and the execution lacks a unique twist on the genre conventions.</comment>
+<question>9 A</question><grade>7.0</grade>
+<question>9 B</question><grade>8.5</grade>
+<question>9 C</question><grade>2.0</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>7.5</grade>
+<question>9 F</question><grade>3.0</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>6.0</grade>
+<question>9 J</question><grade>5.0</grade>

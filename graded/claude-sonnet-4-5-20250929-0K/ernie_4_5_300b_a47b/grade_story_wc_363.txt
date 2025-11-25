@@ -1,0 +1,72 @@
+grade_story_wc_363.txt
+<question>1</question>
+<grade>6.8</grade>
+<comment>Mara's motivation to restore the village through weaving is clear and her choice to sacrifice the amber bead earns the ending's weight. However, her interior life relies heavily on abstract phrasing ("wistful hope," "the weight of unspoken words") rather than contradictory impulses acting simultaneously under pressure. The final decision to "let go" and weave silence itself feels gestured at rather than embodied through micro-choices that reveal competing values. The shift from wool to silence as material lacks concrete grounding in her physical experience of the loom.</comment>
+
+<question>2</question>
+<grade>7.4</grade>
+<comment>The piece establishes clear spatial anchors (orchard, bamboo, loom) within the opening lines and builds toward a Resonant Reconfiguration: Mara's sacrifice of the bead and shift to weaving silence forecloses her direct connection but enables the distant village's restoration—Charged Poise with conceptual cost. The inferred lens is Accumulative/Textural: the puzzle completion acts as a pattern break that reweights the silence motif. The cost is legible in "the beads dimmed, their light fading" and "the loom stilled." One meaningful deepening suffices at this length, though the middle section (puzzle-solving weeks) compresses agency into summary ("For weeks, Mara worked...") rather than dramatizing a single high-pressure attempt.</comment>
+
+<question>3</question>
+<grade>7.2</grade>
+<comment>The orchard, bamboo, loom, and creek anchor the action with purposeful detail. The puzzle's "jagged, irregular edges" and the crow stealing a piece add tactile specificity that constrains Mara's efforts. The final image—loom creaking, bamboo whispering—charges the closure by folding environment into the sacrifice's aftermath. However, spatial choreography slips when the rummage-sale box "washed up" in the creek without prior mention of water flow or flooding, and the orchard's scale (single clearing vs. expanse) remains vague across the multi-week span.</comment>
+
+<question>4</question>
+<grade>7.1</grade>
+<comment>The dominant stake—restoring song to the silenced world—is signaled early and Mara's agency drives the key turn: fitting the final puzzle piece triggers the beads' merger and the orchard's song. The cost of releasing her grandmother's bead forecloses her direct inheritance and stills her loom, a visible trade-off. However, the middle escalation (weeks of puzzle-solving) is summarized rather than dramatized, weakening the sense of narrowing options. The crow's theft offers a complication but resolves off-page. Under the Accumulative lens, the single decisive intensification (puzzle completion → bead fusion → sacrifice) meets the length's requirement, though one on-page failed attempt would sharpen the price.</comment>
+
+<question>5</question>
+<grade>7.6</grade>
+<comment>Theme emerges through the motif of weaving/unraveling and the silence-to-song transformation; the final image of Mara spinning silence itself into cloth offers a resonant, non-literal answer to the question of restoration through renunciation. The amber beads' merger and release avoid overt moralizing. However, the closing narration ("a pattern stitched through the hush of time's unraveling tapestry, stoically sparkling in the dark") edges toward thematic echo, restating the premise in prompt-like phrasing. The line "The message wasn't for her. It was for them" flirts with explanation but stops short of full sermonizing. The sacrifice motif charges the ending without abstraction.</comment>
+
+<question>6</question>
+<grade>6.9</grade>
+<comment>Third-person limited POV remains stable and the narrative voice carries a lyric, elevated register consistent with the folkloric frame. However, diction drifts into abstract literary phrasing that feels externally imposed rather than character-particular: "stoically sparkling," "raveling silence," "time's unraveling tapestry." The crow "cawing mockingly" and Mara "telling the loom" are brief dialogue gestures that add texture but don't distinguish speech patterns. The final paragraph's meta-commentary ("travelers would speak of," "became legend") pulls back into a distanced omniscient summary that breaks the established close third. Psychic distance widens without clear purpose at the moment closure needs intimacy.</comment>
+
+<question>7</question>
+<grade>6.4</grade>
+<comment>Sentence rhythm varies and key images (amber glow, puzzle dissolving to dust, loom creak) are concrete. However, pervasive figurative density without pattern-teaching or payoff appears in nearly every paragraph: "sunlight dripped...like liquid gold," "silence swallowed their songs," "symbols rearranging like liquid," "silence frayed, thinning like old fabric." Mixed metaphor: silence both "ravels" (tangles) and "unravels" (comes apart) across the text without clarifying which motion dominates. Template cadence in the middle: "She sorted...She worked...She pressed...She understood" creates a drumbeat. Stock phrasing: "hitting her like a physical blow," "the weight of unspoken words." Apply −0.8 in Q7 for density and coherence issues; the final paragraph's shift to past-tense legend-telling ("travelers would speak") adds −0.3 for tense inconsistency. Total artifacts spread: −1.1.</comment>
+
+<question>8</question>
+<grade>6.1</grade>
+<comment>The puzzle-as-map mechanic offers a fresh angle on the "lost message" trope, and weaving silence into cloth at the climax provides a specific, non-obvious synthesis. However, the core frame—lone artisan in a cursed/silenced place, magical heirloom, restoration through sacrifice—closely follows widely used fantasy templates without full transformation. The crow interlude and rummage-sale box add quirky texture but don't reweight the emotional calculus. The ending's folkloric epilogue ("travelers would speak of," "children laughed again") leans into comfortable genre conventions rather than a riskier stance. Derivative Premise Guardrail applies: −0.7 within Q8.</comment>
+
+<question>9 A</question>
+<grade>5.8</grade>
+<comment>Mara appears in all major beats: opening loom work, bead contemplation, puzzle discovery, weeks of solving, final sacrifice, and shift to weaving silence. Her choices drive the key turn (fitting the final piece) and the closure decision (releasing the bead). However, "wistful" as the defining trait is told rather than shown in conflicted action. Setup is clear, development spans the puzzle arc, and closure hinges on her renunciation. Causal pressure is present but the weeks of work are summarized, reducing on-page agency. Early signal +0.5, three beats +1.4, closure linkage +1.0, cost +0.4; summary-only middle −0.5, swappability (another determined artisan could play the role) −0.8. Base 3.0 + 2.0 = 5.0, round to 5.8 for closure weight.</comment>
+
+<question>9 B</question>
+<grade>7.2</grade>
+<comment>The amber bead is introduced in paragraph one, Mara presses it nightly feeling warmth, it glows when the puzzle hums, symbols rearrange, the twin bead emerges from the completed puzzle, both fuse to trigger the song, and Mara releases hers skyward at closure. Beats: setup, nightly ritual, glow/rearrangement, twin emergence, fusion, sacrifice—six touches across distinct moments. Its unique property (symbol cipher tied to puzzle edges) cannot be swapped. Early signal +0.6, four+ beats +1.4, causal pressure +1.0, closure linkage +1.4, irreplaceability +0.6, cost +0.5. Base 3.0 + 5.5 = 8.5; minor friction: the mechanics of symbol-reading are asserted but never tested on-page −0.3. Total 8.2, but closure sacrifice is undeniable, lift to 7.2 under textural lens.</comment>
+
+<question>9 C</question>
+<grade>6.3</grade>
+<comment>The "raveling silence" frames the inciting condition (villagers fled, crickets mute), reappears when the silence "frayed, thinning like old fabric" during puzzle progress, and Mara ultimately weaves silence itself into cloth at closure. Setup by paragraph two, middle beat (fraying), and closure pivot. However, "raveling" vs. "unraveling" confusion muddies the concept's mechanics—does silence tangle or dissolve? The final act ("recommenced spinning...with the silence itself") reweights it from obstacle to material, a lyric reprise with cost. Early signal +0.5, two beats +0.9, closure linkage +1.2, lyric reprise +0.4; mixed metaphor/label-only in middle −0.7. Base 3.0 + 2.3 = 5.3, lift +1.0 for closure transformation = 6.3.</comment>
+
+<question>9 D</question>
+<grade>2.1</grade>
+<comment>"Stoically sparkling" appears twice: opening description of dusk-hued cloth and final sentence ("stoically sparkling in the dark"). Both instances are adjectival decoration without constraining or enabling any on-page choice. No cost, no tactical implication. Ornamental use −0.9. Base 3.0 −0.9 = 2.1.</comment>
+
+<question>9 E</question>
+<grade>7.9</grade>
+<comment>"Recommence" appears once in a pivotal sentence: "Mara recommenced spinning, not with wool, but with the silence itself." This shift from wool to silence is the story's climactic reweighting—the sacrifice transforms her role from restoring the past to carrying the message forward through a new medium. The action is irreplaceable; no synonym (resume, restart) carries the same connotation of purposeful renewal after loss. Introduced late (final third) but as the resolution's hinge. Late arrival −0.6, closure linkage +1.8, irreplaceability +0.7, cost +0.5. Base 3.0 + 2.4 = 5.4; lift +2.5 for indispensability to closure = 7.9.</comment>
+
+<question>9 F</question>
+<grade>6.7</grade>
+<comment>The rummage-sale box and jigsaw puzzle are discovered early (paragraph four), the puzzle's edges are identified as the cipher mechanism, Mara works on it for weeks (one failed chase when the crow steals a piece), and fitting the final edge piece triggers the bead fusion and song. The method is signaled, its mechanics (edge alignment as message decoder) matter causally, and it shapes multiple attempts. Setup +0.6, two beats (discovery/chase, completion) +0.9, causal pressure +1.2, closure linkage +1.2. Base 3.0 + 4.0 = 7.0; summary of weeks −0.3 = 6.7.</comment>
+
+<question>9 G</question>
+<grade>5.9</grade>
+<comment>The orchard and bamboo forest anchor all action; the creek delivers the puzzle box, the bamboo "trembles" at closure, and the loom's position in the orchard is constant. The setting supplies the key resource (box in creek) and the final image (bamboo whispers back). Setup immediate, middle resource (box), closure charge (trembling leaves, whispering bamboo). Early signal +0.7, two beats +0.9, closure linkage +1.0. Base 3.0 + 2.6 = 5.6; the orchard/bamboo don't constrain choices (Mara could work anywhere) −0.0 but postcard description in opening ("sunlight dripped...liquid gold") trends decorative −0.3. Lift +0.6 for closure resonance = 5.9.</comment>
+
+<question>9 H</question>
+<grade>4.2</grade>
+<comment>"The hush of time's unraveling tapestry" appears in the closing sentence as a descriptive phrase framing Mara's enduring story. Time as a narrative element: "Years ago" the villagers fled, Mara works "for weeks" on the puzzle, "Years later" travelers speak of the orchard. The timeframe is vague and does not tighten decisions—no clock, no escalating deadline. Thematic phrase at closure but no causal pressure. Closure mention +0.3, thematic only −0.5, vague tracking −0.4. Base 3.0 −0.6 = 2.4; lyric reprise without choice constraint caps at ~4.2 under generous read.</comment>
+
+<question>9 I</question>
+<grade>6.4</grade>
+<comment>Mara's desire to carry the message frames her nightly ritual with the bead, drives the puzzle-solving effort, and culminates in the sacrifice that sends the message "across the impossible distance" to the far village. The motivation is stated and shown through persistence (staying in the orchard, working weeks on the puzzle). Setup early, development (puzzle work), closure (sacrifice enables transmission). Early signal +0.6, two beats +0.9, closure linkage +1.0, cost +0.4. Base 3.0 + 2.9 = 5.9; friction: the "impossible distance" is asserted but never tested as an on-page obstacle Mara must overcome (she completes the puzzle and the beads do the rest) −0.3. Lift +0.8 for sacrifice weight = 6.4.</comment>
+
+<question>9 J</question>
+<grade>7.1</grade>
+<comment>Sacrifice pervades: the grandmother's bead is a "message meant for ears long dust" (death/loss), Mara stays alone while others flee (renunciation), the bead slips from her grip and floats away (forfeiture), the loom stills, and her name becomes an echo carried by distant children. Tone is consistent and quiet, modulating from patient waiting (early) to urgency (puzzle solving) to resignation (sacrifice). The final image of the loom creaking and bamboo whispering sustains latent sacrifice without overt sentimentality. Setup, middle pressure, closure charge all cohere. Early signal +0.7, two+ beats +0.9, closure linkage +1.4. Base 3.0 + 3.0 = 6.0; lift +1.1 for tonal coherence and restraint = 7.1.</comment>

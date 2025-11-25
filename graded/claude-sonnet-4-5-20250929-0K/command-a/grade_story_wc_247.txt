@@ -1,0 +1,72 @@
+grade_story_wc_247.txt
+<question>1</question>
+<grade>4.2</grade>
+<comment>Elara remains an abstract cipher throughout—her "whispering advisor" role is told rather than embodied through concrete micro-choices, and her charisma is declared ("drew people in without them realizing it") but never dramatized on the page. Interiority relies heavily on summary ("she thought of all the moments she'd lived") without contradictory impulses acting simultaneously under pressure. The final "triumph" lacks visible cost or meaningful foreclosure; she simply "found her voice" through assertions rather than earned causality, and no relationship crucible exists to test her motivations since she stands alone throughout.</comment>
+
+<question>2</question>
+<grade>5.1</grade>
+<comment>The piece establishes who/where/when by the opening paragraph (Elara at harbor docks by moonlight), satisfying orientation. However, the drive lens remains ambiguous—gestures that "seemed to vibrate" and a camera that "clicked, though it had no film" suggest magical realism, yet no coherent rule-set emerges to govern what Elara can accomplish or what resists her. The ending asserts transformation ("The silence was no longer empty") without demonstrating a decisive change in her options or a visible cost; her "triumph" and "found her voice" are declared victories unsupported by prior causality. No meaningful tightening occurs; the sequence moves through repetitive gesture-description beats without escalating pressure or narrowing choices.</comment>
+
+<question>3</question>
+<grade>5.8</grade>
+<comment>The luminous harbor by moonlight is anchored early with vivid sensory detail (moonlight, brass gleaming, prisms on water) and the setting contributes atmospheric charge. The camera as micro-setting object appears in multiple beats and its glow at the ending attempts to serve closure, though the mechanics remain vague. Spatial choreography is minimal but coherent (Elara at dock's edge, water below), and the moonlight modulates from silver wash to prism refraction, reflecting emotional progression.</comment>
+
+<question>4</question>
+<grade>4.6</grade>
+<comment>The dominant stake—"to translate silence into music, to give voice to the voiceless"—is signaled early but remains abstract throughout; no concrete on-page test materializes to challenge this goal. Pressure is asserted ("the air around her seemed to vibrate") rather than dramatized through resistance or cost, and the camera's unexplained click resolves nothing because no problem was causally established. The protagonist's agency is passive observation and gesture without opposition; coincidence (the camera clicks on its own) substitutes for earned escalation, and the ending's "triumph" carries no visible price or foreclosed path.</comment>
+
+<question>5</question>
+<grade>5.4</grade>
+<comment>Theme—silence as language, legacy through unseen acts—emerges from imagery (sign language, filmless camera, moonlight prisms) rather than overt moralizing, which is a strength. However, the final paragraph edges toward thematic summary ("The silence was no longer empty; it was alive with meaning"), and the story never dramatizes the tension between Elara's desire for recognition and her invisibility with sufficient on-page friction. The sign-language gestures function more as decorative motif than as a constraint that forces thematic complexity, and the ending's resonance is asserted ("her spirit alight") rather than earned through concrete particulars that reweight prior material.</comment>
+
+<question>6</question>
+<grade>5.9</grade>
+<comment>Single third-person limited POV remains stable with no head-hopping, and the narrative distance is consistent—close enough for interiority ("She thought of the people she'd advised") yet maintaining slight elevation for lyric cadence. Register occasionally drifts into elevated diction ("luminous," "bittersweet expression," "tapestry of emotion") that feels more authorial than character-specific, though it reads as intentional voice choice for accumulative/textural mode. Perceptual signature is weak; Elara's way of noticing (moonlight, camera gleam, water prisms) lacks character-particular bias and could belong to any observer in this setting.</comment>
+
+<question>7</question>
+<grade>5.3</grade>
+<comment>Paraphrase loops and synonym churn appear throughout: "Her hands moved fluidly, tracing patterns" / "Elara's fingers danced again" / "Her hands began to move once more" / "As her hands moved" recycles the same gesture-description without advancing pressure (−0.6). Template cadence with repetitive stems: "She thought of..." appears twice in close succession, and "The camera..." / "She..." sentence openers dominate (−0.4). Stock metaphors appear in peak beats: "shadow woven from starlight," "thread in a tapestry of emotion," "symphony no one else could perceive" blur rather than sharpen sense (−0.5). Clarity remains adequate but information density is low; many lines restate atmosphere without propelling causality.</comment>
+
+<question>8</question>
+<grade>4.8</grade>
+<comment>The core premise—a forgotten advisor using sign language and a filmless camera to "map silence"—assembles multiple prompt elements but fails to synthesize them into a non-obvious, inevitable design; the camera's magical properties (clicking with no mechanism, glowing lens) introduce convenience without coherent rules. The transformation test fails: swap Elara for any artist seeking recognition, replace sign language with painting or dance, and the emotional arc remains unchanged—generic "found her voice" resolution. The story hedges toward safety by asserting triumph without dramatizing failure or cost, and the luminous harbor reads as postcard description rather than an environment shaped by Elara's particular history or stakes.</comment>
+
+<question>9 A</question>
+<grade>3.2</grade>
+<comment>Elara (whispering advisor) is present throughout but makes no key choices that alter tactics or narrow options; her gestures are repetitive observations without decision points, and the ending's "triumph" is asserted rather than earned through agency. Setup gate met (paragraph 3), development absent (no middle choice constrained by this trait), closure participation weak (she "turned to leave" but the camera and harbor do the thematic work).</comment>
+
+<question>9 B</question>
+<grade>5.6</grade>
+<comment>The vintage camera with no film appears in setup (paragraph 5), recurs in beat 11 (hums in response), and returns at closure (clicks and glows), satisfying setup + development + payoff gates. However, its use remains decorative—it "seemed to hum" and "suddenly clicked" without mechanistic explanation or cost, making it swappable for any symbolic artifact. Specificity is low (brass body gleaming is static description) and its click does not narrow Elara's options or impose a visible price.</comment>
+
+<question>9 C</question>
+<grade>4.8</grade>
+<comment>Sign language is established in setup (paragraph 4, "silent language only she understood"), reappears in development (paragraphs 11, 14, 17, 22—"signing a melody," gestures as notes), and shapes the ending ("Her hands began to move once more"). It frames the central metaphor (silence as language) but never constrains a choice or creates friction; Elara's gestures meet no resistance and their mechanics remain vague, reducing the concept to thematic echo rather than dramatized stake.</comment>
+
+<question>9 D</question>
+<grade>2.1</grade>
+<comment>Quietly charismatic is mentioned in setup (paragraph 9, "Her charisma was quiet, a force that drew people in without them realizing it, yet now she stood alone") but remains label-only; no on-page action demonstrates this trait enabling or constraining a choice. The attribute does not recur or shape tactics, and the story immediately undercuts it ("yet now she stood alone"), making it ornamental.</comment>
+
+<question>9 E</question>
+<grade>3.6</grade>
+<comment>Disrupt is declared as goal in paragraph 15 ("Her goal was to disrupt—not with noise, but with meaning") but never dramatized through action that alters the harbor, affects another character, or tests resistance. The ending asserts disruption's success ("something had changed") without showing what was disrupted or what price was paid. Setup gate met, development and payoff absent; easily swappable for "transform" or "create" with no structural impact.</comment>
+
+<question>9 F</question>
+<grade>4.2</grade>
+<comment>Mapping silence is introduced in paragraph 13 ("began to map the silence"), recurs in paragraph 23 ("no longer just mapping silence; she was shaping it"), and appears at closure by implication. The method's mechanics are never clarified—what does mapping silence entail beyond hand gestures?—making it thematic flavor rather than a causal lever. It shapes no middle attempts or costs, trending toward swappable metaphor.</comment>
+
+<question>9 G</question>
+<grade>4.9</grade>
+<comment>Luminous harbor by moonlight is anchored in the opening line and recurs throughout (silver light, water prisms, stones listening). Setup and development gates met; it provides atmospheric backdrop and the water catches refracted light in paragraph 21, charging the visual. However, the harbor does not constrain Elara's choices or supply resources that alter outcome; it remains a stage rather than an active pressure, and the ending's "harbor returned to its stillness" is postcard closure rather than causal participation.</comment>
+
+<question>9 H</question>
+<grade>4.4</grade>
+<comment>When no one remembers you is signaled in paragraph 8 ("the world had forgotten her, and she knew it") and recurs in paragraph 17 ("they'd all moved on without her") and paragraph 18 ("she was remembered—if only by herself"). Setup and thematic development gates met, but the timeframe does not tighten decisions or impose urgency; Elara's gestures proceed at a leisurely pace with no live clock or escalating cost tied to her obscurity. The element functions as static backstory rather than a pressure that alters tactics.</comment>
+
+<question>9 I</question>
+<grade>5.1</grade>
+<comment>To translate silence into music is stated in paragraph 7 and dramatized through repeated gesture-as-melody beats (paragraphs 11, 14, 24), satisfying setup and development. However, the desire faces no on-page friction or competing cost; Elara pursues the goal without obstacle, and the ending's "Perhaps this was the music she'd been searching for" is self-confirmation rather than a choice between wants and sacrifice. Closure participation is present but the motivation remains frictionless, capping integration.</comment>
+
+<question>9 J</question>
+<grade>5.7</grade>
+<comment>Joyful sorrow is introduced in paragraph 21 ("a bittersweet expression that carried both joy and sorrow") and recurs at closure (paragraph 25, "letting the joy and sorrow wash over her"). The tone is coherent and modulates from melancholy opening to the ending's charged ambivalence, supporting the final image. However, the emotional blend is told rather than embodied in contradictory action, and the tone does not shift under pressure since no escalation occurs. Setup + payoff gates met; development (tonal shift driven by a middle choice) absent.</comment>

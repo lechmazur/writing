@@ -1,56 +1,53 @@
 command-a.txt
 1) Executive profile
 
-Cohere Command A’s default mode is Track A: single-POV, one-scene (or two-shard) builds that teach their drive-lens early and rarely waver. Its durable strengths are clarity of motivation, bias-filtered noticing, and reliable closure that coheres with the taught lens. Pressure typically accumulates texturally or causally to a final image that reweights meaning; orientation is almost always established by ~120 words. Setting often functions as a live crucible rather than décor, and prose rhythms can modulate convincingly from lush to clipped under rising stakes.
+Across Q1–Q8, Cohere Command A presents as a competent, often elegant Track A storyteller: single-POV, one primary arc, with clear motivation, legible stakes, and on-page closure that usually lands cleanly. The core reader experience is one of clarity and gentle momentum; you almost always know what the protagonist wants, where you are, and how events connect. Pressure tends to accumulate texturally—through motifs, atmosphere, or small tactical constraints—rather than via sharp reversals. Endings generally resolve the central problem or reweight it, but they frequently do so with conceptual rather than fully dramatized cost.
 
-The limiting pattern is cost rendered as concept rather than consequence. Contradictory impulses tend to be asserted sequentially rather than embodied simultaneously under pressure; climaxes tilt toward epiphany, abstraction, or “therapy-speak” labels instead of dramatized trade-offs. Plot turns can run frictionless or lean on conveniences, and theme frequently collapses into final-paragraph moralizing. In voice, register occasionally drifts generic at peak moments, with filter-verb stacks and paraphrase loops damping immediacy. While closure usually lands cleanly, the felt price—what is lost or foreclosed—too often remains gestural, keeping outcomes mid-band when they could be high.
+The model’s strongest through-lines are concrete embodiment (tactile, sensory micro-choices), coherent drive lenses, and integrated setting logic. Micro-setting and motif often fuse with character desire to create resonant final images. Voice is typically stable and bias-filtered, with rhythm that modulates to signal shifts in intensity. Where the work consistently underperforms is at the very top band: emotional pressure is often softened by label-speak or thematic explanation; conflict escalates atmospherically rather than through hard trade-offs; cost is asserted more than enacted. The endings feel complete and legible, but they too often grant insight or peace without visibly closing a door or inflicting a loss. High-band outcomes emerge only when the model lets contradictory impulses collide in-scene, allows environment or method to genuinely constrain options, and resists the urge to explain its own themes in the final paragraph.
 
 2) Portfolio map
 
-Q1 Character — Mixed · Clear wants; simultaneous contradictions under-embodied at climax
-Q2 Plot/Causality — Mixed · Closure lands; cost often conceptual or convenient
-Q3 Setting — Strong · Environment/tools constrain choices and charge closure
-Q4 Conflict/Stakes — Mixed · Dominant stake clear; escalation plateaus, cost faint
-Q5 Theme/Subtext — Mixed · Motifs accrue; endings drift to moralizing summary
-Q6 Voice/POV — Strong · Stable single-POV; bias-driven noticing with rhythmic control
-Q7 Prose/Line-level — Mixed · Sensory density; loops/abstractions at final turn
-Q8 Originality/Ingenuity — Mixed · Bold syntheses; templates persist without transformation
+Q1 Character — Mixed · Clear wants, but conflict and cost often summarized  
+Q2 Plot/Causality — Mixed · Closure lands; escalation and cost frequently conceptual  
+Q3 Setting — Strong · Environments and tools actively constrain and charge closure  
+Q4 Conflict/Stakes — Mixed · Dominant stake clear; pressure often atmospheric, low-visceral cost  
+Q5 Theme/Subtext — Mixed · Motifs strong; endings prone to moralizing or thematic echo  
+Q6 Voice/POV — Strong · Stable, bias-driven focalization with adaptive rhythm  
+Q7 Prose/Line-level — Mixed · Sensory, rhythmic prose undercut by loops and abstraction  
+Q8 Originality/Ingenuity — Mixed · Bold conceptual blends; execution sometimes generic or “safe”
 
 3) Signature moves
 
-- Sensory-grounded micro-choices that externalize interiority and motive under pressure (“her fingers tracing the icy designs”).
-- Early, consistent lens-teaching; accumulative patterns tighten until a single cadence break crystallizes meaning.
-- Micro-setting as crucible: objects/tools and environment actively constrain tactics and charge the final image.
-- Bias-filtered noticing that personalizes world and theme (“dust was a quiet architect”).
-- Motif-seeded closures that reweight prior beats via concrete image rather than thesis (“petals unfurling like secrets”).
-- Clean on-page orientation and causal alignment; actions prepare and earn the closing turn.
+- Anchoring protagonists in concrete, particularized desires or wounds, then tracking those through coherent, causal arcs.
+- Using micro-setting as crucible: tools, objects, or spatial constraints (“beaded valve wheel,” “rope’s coils”) actively limit tactics and charge the final image.
+- Embodied interiority via tactile gestures: “her fingers tracing the icy designs,” “boot sinking into soft earth,” “clutching the compass until her knuckles whitened.”
+- Establishing and maintaining a clear drive lens early—accumulative or causal—and honoring it through to closure.
+- Motif-driven thematic emergence: recurring images (gaps, echoes, butterflies, silence) that subtly evolve and reweight meaning at the end.
+- Bias-anchored perception and metaphor (“dust was a quiet architect,” “damp earth and jagged glass”) that tether lyricism to character and setting.
 
 4) Failure modes
 
-- Closure without visible cost: epiphany lines or conceptual repricing replace a dramatized trade-off; no path is foreclosed on the page.
-- Escalation plateaus: atmospheric accumulation with minimal resistance, setback, or narrowing; pressure remains gentle and procedural.
-- Convenience beats at the crux: sudden discoveries, magic-fit solutions, or guiding structures resolving conflict without protagonist adaptation.
-- Reflection-led drift at climax: filter-verb stacks and label-speak (“she realized… purpose crystallized”) displace embodied choice.
-- Thematic echo/moralizing in final paragraph: an explicit takeaway compresses earned ambiguity.
-- Register drift and paraphrase loops: peak beats glossed in elevated abstractions; adjacent sentences restate without adding pressure.
-- Track-test slips (infrequent): untaught segmentation in mosaics, lens ambiguity past midpoint that closure doesn’t fully reconcile.
+- Emotional peaks resolved via label-speak and summary (“she realized,” “her purpose crystallized,” “luminous doubt”) instead of messy, embodied struggle; contradictory impulses are alternated or asserted rather than dramatized together.
+- Closure that reconfigures things conceptually but not viscerally: the protagonist gains insight or peace without an on-page trade-off, sacrificed resource, or foreclosed path—“closure lacks visible on-page cost.”
+- Escalation that plateaus: atmospheric tension and rich imagery without genuine narrowing of options, setbacks, or antagonistic force; quests that proceed “without a setback or narrowing that exacts a price.”
+- Thematic over-explanation and final-paragraph moralizing: endings that state the lesson (“she had discovered herself”) or echo prompt-like theses, collapsing earned ambiguity.
+- Line-level excess and repetition under pressure: paraphrase loops (“she realized… she understood…”), dense, ornamental metaphors, and therapy-speak abstractions that blur causality and dampen momentum.
+- Occasional track-test slips in more ambitious structures: mosaic or multi-POV attempts where segmentation or lens shifts are under-taught, contributing to mild orientation or lens ambiguity around the midpoint.
 
 5) When it shines / when it breaks
 
-It shines when the environment and a recurring object or method form the story’s hinge, forcing a single, pressured choice that the protagonist must make through their specific lens. In these cases, motif repetition tightens to a pattern-break; syntax compresses under stress; and closure arrives as an image whose consequence is legible on the page. Single-POV bias stays crisp, and the final beat is bought with a tangible sacrifice, risk, or renunciation.
+This model shines when it is given a tight, character-centered premise in a concrete environment where specific tools, objects, or spatial conditions naturally constrain action. In those circumstances, it leans into micro-setting as a live pressure system, filters detail through a distinctive bias, and lets patterns (motifs, sensory cues) accumulate until a final, image-driven reweighting of meaning. Quiet, accumulative stories with one dominant stake and a single decisive cadence shift tend to fare best; they harness the model’s strengths in coherence, atmosphere, and on-page closure without demanding complex multi-thread escalation.
 
-It breaks when the same skills are routed into safety: lush atmosphere without constraint, realizations instead of trade-offs, or closures that tell the lesson. Convenience at the crux, headwinds that never stiffen, and label-driven interiority flatten stakes. If contradictory impulses aren’t made to collide in-scene, or if prose pulls back to abstractions, the ending lands clear but light—resonant in idea, not in cost.
+It breaks when the material asks for raw contradiction, hard sacrifice, or structurally surprising turns. Whenever pressure should force mutually exclusive choices, the model tends to reach instead for conceptual understanding, mystical hints, or therapeutic realization. Stakes remain clear but soft; opposition is diffuse or off-page; cost is gestured at rather than dramatized via lost options or damaged relationships. Similarly, ambitious imagery and original premises can flatten into generic arcs if the story leans on plot templates or symbolic décor rather than letting world-logic and character flaw dictate non-obvious, costly turns. The final third is where abstraction, moralizing, and paraphrase loops most reliably erode otherwise strong setups.
 
 6) Keep vs. adjust
 
-• Keep:
-- Embodied, tactile micro-choices that align action to motive and escalate pressure.
-- Bias-driven POV and rhythmic modulation that narrows noticing under stress.
-- Motif-anchored, image-led closures that reweight meaning without explanatory thesis.
+• Keep  
+- Embodied micro-choices and tactile detail that root emotion in concrete action and perception.  
+- Micro-setting and object logic that constrain choices and fuse environment with climax.  
+- Stable, bias-driven POV with adaptive rhythm, allowing motif and theme to arise from lived particulars.
 
-• Adjust:
-- Stage simultaneous contradictions at the crux and force a costly micro-choice; show what is foreclosed.
-- Replace abstraction and filter-verb clusters at peaks with concrete sensation, action, or messy thought; cut paraphrase loops.
-- Scrub convenience: introduce resistance or resource loss so the final turn emerges from earned constraint, not discovery.
-
-In sum, Cohere Command A offers disciplined lens coherence, crisp orientation, and evocative, environment-charged scenes. To convert strong clarity into high-band resonance, it must let pressure bite: tighten escalation with resistance, dramatize cost in the body and world, and trust the final image over the final explanation.
+• Adjust  
+- At the point of maximum pressure, replace epiphany-summary with a specific, costly choice: show what is lost, broken, or irrevocably left behind.  
+- Strip final-paragraph moralizing and abstract diction; let closure ride on a charged image or gesture that reweights motifs without stating the lesson.  
+- Tighten escalation by introducing at least one genuine obstacle or trade-off that cannot be bypassed by coincidence or reflection, ensuring that pattern-breaking beats are driven by protagonist agency, not convenience.

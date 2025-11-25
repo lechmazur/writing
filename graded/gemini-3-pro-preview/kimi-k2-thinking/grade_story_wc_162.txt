@@ -1,0 +1,19 @@
+grade_story_wc_162.txt
+<question>1</question><grade>3.4</grade><comment>The protagonist lacks genuine agency, functioning as a passive vessel who overcomes abstract obstacles via immediate "intuition" rather than struggle or choice. Emotional states are stated as labels ("heart aches") rather than dramatized through behavior, and the attribute "featherly determined" appears only as a descriptor without influencing action.</comment>
+<question>2</question><grade>3.5</grade><comment>The narrative structure is linear and lacks causal tension; obstacles dissolve immediately upon approach, creating a "walkthrough" feel rather than a plot. Closure is weak, relying on a summarizing tell about the character becoming a legend rather than a decisive on-page change with a felt cost.</comment>
+<question>3</question><grade>4.1</grade><comment>The "drifting prism terrace" is an evocative image, but the sudden appearance of "wooden furniture" to satisfy the prompt clashes logically with the established glass aesthetic. Atmospheric descriptors are repetitive ("fractured hush") and the setting lacks concrete sensory grounding beyond visual abstraction.</comment>
+<question>4</question><grade>2.7</grade><comment>There is no tangible opposition or escalation; the protagonist succeeds at every step without failure, delay, or adaptation. The stakes are purely internal and stated ("to discover") rather than tested by the environment, resulting in a flat narrative line with no tension.</comment>
+<question>5</question><grade>3.1</grade><comment>The theme is delivered through explicit moralizing ("I understand that...", "He taught me that...") rather than emerging organically from the subtext. The ending relies on a grand summary ("the story... becomes a legend") that feels unearned by the preceding low-stakes vignette.</comment>
+<question>6</question><grade>4.0</grade><comment>The voice is consistent but monotonous, relying heavily on a repetitive "I [verb]" sentence structure that creates a plodding rhythm. The tone leans into "purple prose," using high-flown abstraction to mask a lack of specific, grounded detail.</comment>
+<question>7</question><grade>2.8</grade><comment>The prose is severely marred by the mechanical repetition of full prompt phrases ("pilot logbook weather code" appears six times in a short space). This creates a "fill-in-the-blanks" artifact effect that destroys immersion and flow, and the density of abstract nouns weakens the imagery.</comment>
+<question>8</question><grade>3.6</grade><comment>The story feels like a checklist of required elements rather than a cohesive narrative synthesis. The disparate elements (corn maze, prism terrace, pilot logbook) are connected by forced proximity rather than a unified story logic.</comment>
+<question>9 A</question><grade>5.2</grade>
+<question>9 B</question><grade>3.5</grade>
+<question>9 C</question><grade>4.5</grade>
+<question>9 D</question><grade>2.0</grade>
+<question>9 E</question><grade>3.2</grade>
+<question>9 F</question><grade>1.5</grade>
+<question>9 G</question><grade>6.0</grade>
+<question>9 H</question><grade>2.3</grade>
+<question>9 I</question><grade>6.5</grade>
+<question>9 J</question><grade>2.9</grade>

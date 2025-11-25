@@ -1,0 +1,72 @@
+grade_story_wc_97.txt
+<question>1</question>
+<grade>6.8</grade>
+<comment>Clara's interiority shows some concrete anchors (fingers on keys, breath fogging the lens), but the core motivation remains abstract—"escape the weight of ground-level crowds" and "surprise fate" lack embodied contradiction or visible cost. The final choice to play in the hidden room feels ornamental rather than forced by competing impulses; she simply descends and plays without meaningful forfeiture. The phrase "strategically creative" is mentioned as a label but never dramatized through a specific on-page trade-off. Minor filter-verb stacks ("she'd meant to fix it," "she could feel it") dull immediacy without adding character-specific texture.</comment>
+
+<question>2</question>
+<grade>6.4</grade>
+<comment>Drive lens reads as Accumulative/Textural: the arbor's tides, compasses, and broken clock accumulate atmospheric pressure, and the descent into the hidden room offers a spatial shift. However, the closure lacks felt cost—Clara plays, leaves the piano open, and declares she'll "surprise fate back" without a visible path foreclosed or a meaningful renunciation. The film-reel discovery functions as a convenient reveal rather than a turn earned by prior causality. Orientation anchors (tidal arbor, station piano, Clara at the window) arrive cleanly by ~120 words, waiving the Orientation Test penalty. The ending image (strings vibrating, compasses spinning) attempts Charged Poise but the stakes and options remain vague, preventing a legible reconfiguration.</comment>
+
+<question>3</question>
+<grade>7.1</grade>
+<comment>The tidal arbor's glass ribs, flickering compasses, and the hidden room supply vivid spatial detail that constrains Clara's search and charges the final beat. The film projector and descending staircase offer tactile, goal-directed discovery. Sensory selection is strong—smudged glass, fogged lens, vibrating strings—and the arbor's constant hum threads through the piece. The setting's "tidal pulse" syncing with Clara's heartbeat risks overt symbolism but remains anchored in present perception. The micro-setting (piano bench latch, false bottom, narrow staircase) qualifies under the allowance and shapes the middle turn, elevating the score into the 7-band.</comment>
+
+<question>4</question>
+<grade>6.2</grade>
+<comment>The dominant stake—Clara seeking refuge from "the chaos of choice"—is signaled early but remains abstract. The middle discovery (film reel, hidden room) provides a spatial tightening, but no live option is foreclosed; Clara simply gains access to a better piano. The ending declares she'll "surprise fate back," yet no prior pressure forced this stance; she plays without visible trade-off or consequence. Coincidence (finding the film reel, the latch) drives discovery rather than protagonist agency. Under the Accumulative lens, one meaningful deepening is present (descent into the hidden room), but the lack of felt cost at closure caps the score below 7.0.</comment>
+
+<question>5</question>
+<grade>6.9</grade>
+<comment>The theme—strategic planning dissolving, refuge from fate's chaos—emerges through the broken clock, flickering compasses, and Clara's descent. The final image (open piano, vibrating strings, spinning compasses) attempts a non-literal answer but stops short of reweighting prior material with cost; Clara's stance shift is declared ("she'd surprise it back") rather than earned through prior friction. The "strategically creative" phrase and the clock stuck at 11:59 risk overt symbolism but stay anchored in Clara's present perception. The piece resists easy moralizing, yet the thematic question—can refuge escape fate?—receives only a gestural answer without visible consequence, preventing entry into the 7+ band.</comment>
+
+<question>6</question>
+<grade>6.6</grade>
+<comment>POV is stable third-limited, and the narrative voice carries a distinct lyric texture ("skeletal hand above the clouds," "sugar in rain"). Perceptual signature is present—Clara notices compasses, clock, piano strings—but some diction drifts into elevated register ("fate's way of laughing," "horizon invited night") that risks detachment from character stress. No dialogue is present, waiving those bullets. Filter verbs ("she'd come here," "she'd meant to fix it," "she could feel it") cluster in expository passages, dulling immediacy. The film-reel discovery is cleanly focalized, and psychic distance remains consistent. Minor template cadence in the opening ("She'd come... She'd meant... She'd set them down") suggests light scaffold but does not obscure the voice.</comment>
+
+<question>7</question>
+<grade>6.3</grade>
+<comment>Rhythm varies and some images land sharply ("glass ribs shimmering," "keys that stuck like half-forgotten memories"). However, paraphrase loops appear: "the trance felt less like solace and more like a cage" immediately follows "to let the arbor's constant, rhythmic sway... lull her into a trance," restating the emotional shift without added pressure. The phrase "fate's way of laughing at her, of reminding her" is synonym churn. Stock metaphors ("sugar in rain," "old lace") and elevated diction in peak beats ("dervishes," "pulsing beneath the piano's keys like a heartbeat") drift from the established POV lexicon. Template cadence in the opening block ("She'd come... She'd meant... She'd set them down") adds mild scaffold. Information density is moderate; some sentences do double duty, but the film-reel sequence could be tightened. No loops touch the closure beat, capping total artifact deduction at −0.8 under the Non-closure Accumulation Cap.</comment>
+
+<question>8</question>
+<grade>5.8</grade>
+<comment>The tidal arbor above the clouds and the hidden room behind a piano bench offer a fresh spatial premise. However, the emotional arc—escaping crowds, seeking refuge, discovering a secret space—follows a familiar template: protagonist retreats, finds hidden sanctuary, declares triumph without dramatized cost. The broken clock stuck at 11:59 and flickering compasses risk stock symbolism (time running out, directionless fate). The film-reel discovery as a convenient plot key trends mid-range. Specific details (glass ribs, black-and-white reel, sheet music) add texture, but the core turn (descent, play, declare surprise) could be transplanted to other settings with minor edits. No bold structural risk or transformation of the premise elevates the piece into the high 7+ band.</comment>
+
+<question>9 A</question>
+<grade>5.4</grade>
+<comment>Clara (the wistful station pianist) is present throughout and makes two key choices: playing the piano in the opening beat and descending the staircase after discovering the film. However, these choices feel exploratory rather than forced by competing pressures—she observes, discovers, and plays without visible trade-off. The final act (playing in the hidden room, leaving the piano open) declares a stance shift but does not narrow prior options with cost. Early signal is strong (~10% in), and the character appears in three beats (opening, film discovery, descent/play), but causal pressure remains mild. The "wistful" trait is told more than shown; no on-page moment dramatizes longing with contradictory impulse.</comment>
+
+<question>9 B</question>
+<grade>4.2</grade>
+<comment>The broken anniversary clock appears in two beats: sitting on the piano lid (first third) and mentioned again when Clara recalls she "meant to fix it." However, its function is purely atmospheric—it symbolizes frozen time but does not constrain a choice or alter tactics. The discovery of the unbroken clock in the hidden room offers a contrast, but the broken clock itself is not causally active in the descent or closure. No cost is tied to the clock; Clara never handles it, and it does not shape her decision to play. Setup gate is met (~20% in), but development and payoff gates are missing. Static description without action pressure trends mid-low.</comment>
+
+<question>9 C</question>
+<grade>3.8</grade>
+<comment>Flickering compasses are mentioned in three beats: embedded in the arbor's walls (first third), spinning "like dervishes" near the end, and ignored by Clara as she plays. However, they function as mood indicators and thematic symbols (directionless fate) rather than shaping on-page stakes or tactics. Clara explicitly ignores them in the final beat, signaling their ornamental role. No choice hinges on their presence; they neither enable nor constrain action. Setup gate is met, but development and closure participation are absent—the compasses do not reweight meaning or alter the final image. Swappable with other symbolic objects (flickering lights, spinning wheels) with minor edits.</comment>
+
+<question>9 D</question>
+<grade>2.1</grade>
+<comment>"Strategically creative" appears once as a label ("echoing the phrase her old piano teacher had used") and is immediately reframed as "a curse." However, no on-page action dramatizes this trait—Clara does not strategize during the descent or employ creativity to solve a problem. The trait is told, not shown, and does not constrain or enable a choice with cost. It surfaces only in exposition and never reappears. Missing all three gates (setup is weak, development and payoff absent). Label-only mention without dramatized pressure trends low.</comment>
+
+<question>9 E</question>
+<grade>6.8</grade>
+<comment>"Refuge" is the stated motivation and drives the descent into the hidden room, shaping the middle turn and final image. Clara explicitly seeks "a place where the rules bent, where fate couldn't reach her," and the hidden room delivers this. However, the refuge is conveniently provided (the film reel, the latch) rather than earned through difficult choice. The ending declares she has found refuge, but no visible cost accompanies it—she gains sanctuary without forfeiture. Setup is strong (~25% in), development is present (the descent), and the final beat takes place in the refuge. Causal pressure is moderate; the action is not easily swappable, but it does not redefine options with felt consequence.</comment>
+
+<question>9 F</question>
+<grade>5.9</grade>
+<comment>The black-and-white film reel is signaled early (tucked inside the piano bench), used in the middle beat (Clara projects it, sees the hidden room), and its revelation enables the descent. The method is mechanically clear and shapes one key turn. However, the reel functions as a convenient plot key—Clara happens to find it, happens to project it, and it conveniently reveals the exact solution she needs. No friction or cost is tied to using the reel; it simply unlocks the next beat. Setup and development gates are met; closure participation is indirect (the method enabled the refuge, but the film itself is absent from the final image). Functional but mid-band due to convenience plotting.</comment>
+
+<question>9 G</question>
+<grade>6.4</grade>
+<comment>The tidal arbor above the clouds is present throughout, supplies vivid spatial detail (glass ribs, constant sway, flickering compasses), and its hidden sections enable the middle turn. The setting constrains Clara's initial state (above the clouds, seeking refuge) and provides the hidden room that charges the closure. However, the arbor's "tidal pulse" risks overt symbolism without clear mechanical pressure—it does not limit Clara's choices or impose a deadline. Setup is strong (~5% in), development is present (the arbor contains the film and hidden room), and the final beat takes place within the setting. The arbor is causally active but trends mid-7s due to symbolic overreach without tactical cost.</comment>
+
+<question>9 H</question>
+<grade>4.6</grade>
+<comment>"Until the horizon invites night" appears as a timeframe in the opening and closing paragraphs, bracketing the piece. However, time does not tighten decisions—Clara has no deadline, and the approach of night does not alter her tactics or impose cost. The phrase "when she finished" suggests the performance ends on her terms, not under temporal pressure. The timeframe is poetic but ornamental; it could be removed without changing the sequence of choices. Setup and payoff gates are met (first and last paragraphs), but development is absent—no middle beat references the clock or uses time as a constraint. Vague, untracked time trends mid-low.</comment>
+
+<question>9 I</question>
+<grade>5.1</grade>
+<comment>"To surprise fate with an unplanned encore" is stated explicitly in the final paragraph ("Fate could surprise her tomorrow. Tonight, she'd surprise it back") and echoes the opening tension with fate's "chaos of choice." However, the motivation is declared rather than dramatized—Clara's final action (playing, leaving the piano open) does not involve visible trade-off or friction between wants and costs. The "encore" is unplanned, but nothing on the page shows Clara wrestling with planning versus spontaneity during the descent or performance. Setup is present (~30% in via the "strategically creative" curse), but development is weak (no on-page choice tests the desire), and payoff is told rather than enacted. Told-only trends low; mid-5s for thematic presence without embodied conflict.</comment>
+
+<question>9 J</question>
+<grade>6.1</grade>
+<comment>"Steely longing" is coherent across the piece—Clara's refusal to give up on the clock, her determination to descend, her focus during the final performance—and modulates with pressure (resignation in the opening, resolve in the descent, triumph in the ending). However, the tone risks becoming static in the final third, where the "longing" softens into satisfaction without a charged counter-pressure. The prose maintains a lyric, wistful register that supports the tone, and the final image ("vibrating with the ghost of her encore") carries both steel and longing. Setup is strong, development is present (tone tightens during the descent), and the final image reflects the tone. Coherent modulation without a sharp turn or cost-driven shift trends mid-6s.</comment>

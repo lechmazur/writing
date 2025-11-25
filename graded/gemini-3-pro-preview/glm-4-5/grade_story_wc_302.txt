@@ -1,0 +1,19 @@
+grade_story_wc_302.txt
+<question>1</question><grade>3.5</grade><comment>The protagonist is an archetype ("dreamer") defined by a label rather than specific, embodied traits or internal contradiction. Motivation is stated ("haunted their dreams") but not felt through cost or difficult choices. The character functions solely as a vessel to execute the prompt's instructions without distinct agency.</comment>
+<question>2</question><grade>3.9</grade><comment>The narrative is a linear fetch quest ("and-then" sequencing) lacking a causal gap or decisive turn. The inciting incident (the letter) and the climax (entering the library) are connected by compliance, not struggle. Closure is soft; the protagonist leaves simply because a deadline is mentioned, not due to a meaningful reconfiguration of stakes.</comment>
+<question>3</question><grade>4.2</grade><comment>While the atmosphere is coherent, it relies heavily on generic fantasy abstraction ("spectral garments," "ethereal glow," "impenetrable density") rather than grounding specificity. The setting functions as a backdrop rather than a pressure cooker; the "mist" and "library" offer no physical resistance to the character's progress.</comment>
+<question>4</question><grade>3.2</grade><comment>Conflict is negligible; the protagonist faces no antagonist or internal barrier, and the "puzzle" of the watch solves itself automatically. The vibrating watch introduces a late, artificial ticking clock, but the deadline is met without sacrifice or tactical shift. There is no visible cost paid for the knowledge gained.</comment>
+<question>5</question><grade>3.0</grade><comment>The theme is delivered through explicit summary and moralizing ("teaching that some words gain power only in the absence...") rather than dramatization. The final paragraph explains the transformation ("transformed the seeker themselves") instead of showing it through behavior, violating the "show, don't tell" principle.</comment>
+<question>6</question><grade>4.0</grade><comment>The narrative voice is consistent but adopts a distancing, fable-like register that keeps the reader at arm's length. The tone hovers in a "mystical awe" default without modulating for tension or intimacy. Internal monologue is replaced by narrated emotional states.</comment>
+<question>7</question><grade>3.8</grade><comment>The prose is weighed down by excessive adjective-noun pairings ("fateful letter," "cryptic message," "cautious exuberance," "ill-gotten gains"). This reliance on modifiers and clichés ("ripple like water") dilutes the imagery and slows momentum. The writing tells the reader what to feel rather than evoking the sensation.</comment>
+<question>8</question><grade>3.5</grade><comment>The concept of a "Library of Unspoken Words" is a familiar fantasy trope, and the execution follows a standard path without subversion. The inclusion of "propagation delays" is the only novel element, but it is treated as a throwaway explanation for the cipher rather than a structural or thematic mechanic.</comment>
+<question>9 A</question><grade>7.8</grade>
+<question>9 B</question><grade>7.2</grade>
+<question>9 C</question><grade>6.0</grade>
+<question>9 D</question><grade>5.5</grade>
+<question>9 E</question><grade>6.0</grade>
+<question>9 F</question><grade>2.8</grade>
+<question>9 G</question><grade>8.2</grade>
+<question>9 H</question><grade>6.2</grade>
+<question>9 I</question><grade>7.0</grade>
+<question>9 J</question><grade>1.5</grade>

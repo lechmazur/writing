@@ -1,0 +1,19 @@
+grade_story_wc_68.txt
+<question>1</question><grade>3.5</grade><comment>Characterization relies heavily on repetitive labels ("rationally rebellious," "philosopher") rather than dramatized behavior. The interiority is abstract and summarized, and a catastrophic text artifact (a sentence switching to Chinese) destroys the coherence of the protagonist's voice and experience.</comment>
+<question>2</question><grade>3.0</grade><comment>The narrative reads as a synopsis spanning years rather than a dramatized scene, violating the scope default for this length. Causality is weak; the climax is driven by a coincidental earthquake rather than the protagonist's choices or the pressure of the digging.</comment>
+<question>3</question><grade>5.0</grade><comment>The setting of the sunken city contains some functional details like "saltwater fauna" and "sedimentary layers." However, much of the description is generalized summary ("labyrinth," "acrid air") that fails to exert immediate pressure on the character until the very end.</comment>
+<question>4</question><grade>3.2</grade><comment>The conflict is primarily abstract (Sebastian vs. Narratives) and lacks immediate, on-page opposition. The stakes are intellectual until the sudden, coincidental tremors force a physical reaction, bypassing earned narrative escalation.</comment>
+<question>5</question><grade>3.5</grade><comment>The theme is delivered through heavy-handed thesis statements in dialogue ("Truth is the first casualty of authority") and narration. The story lectures the reader on its meaning rather than allowing it to emerge organically from the action.</comment>
+<question>6</question><grade>1.5</grade><comment>Voice control fails completely with the intrusion of an untranslated foreign language sentence in the middle of the English text. Additionally, the narration leans on repetitive tags ("rationally rebellious," "abrasive calm") that flatten the specific texture of the POV.</comment>
+<question>7</question><grade>2.0</grade><comment>A severe text artifact renders a central sentence illegible to the target audience. The prose is also marred by the verbatim repetition of descriptive phrases ("rationally rebellious" appears three times; "abrasive calm" twice) and a reliance on summary over scene.</comment>
+<question>8</question><grade>3.5</grade><comment>The premise of a lone archivist preserving truth in a ruined world is a familiar trope. The execution fails to elevate it, relying on generic "oppressive government" backstory and summary rather than a fresh, specific synthesis of character and situation.</comment>
+<question>9 A</question><grade>5.2</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>5.0</grade>
+<question>9 D</question><grade>1.2</grade>
+<question>9 E</question><grade>3.0</grade>
+<question>9 F</question><grade>6.2</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>4.0</grade>
+<question>9 I</question><grade>5.5</grade>
+<question>9 J</question><grade>1.2</grade>

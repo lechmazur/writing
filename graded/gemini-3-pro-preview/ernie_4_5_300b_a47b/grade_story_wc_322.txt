@@ -1,0 +1,19 @@
+grade_story_wc_322.txt
+<question>1</question><grade>4.2</grade><comment>Characterization relies heavily on abstract labels ("fever dream architect") rather than specific, embodied traits. The motivation is philosophical and stated outright ("to prove that logic and magic could coexist") rather than demonstrated through a difficult, high-stakes choice. Emotional reactions are generic ("breath quickened," "heart pounding") and do not deepen the interiority beyond the surface.</comment>
+<question>2</question><grade>4.6</grade><comment>The narrative follows a dream-logic structure where events happen "without warning" (the thread erupting, the door materializing) rather than through causal progression. Closure is achieved through a deus ex machina realization rather than an earned price or consequence. The ending is tidy and lacks a felt cost, resolving the tension with a simple shift in perspective.</comment>
+<question>3</question><grade>5.2</grade><comment>The setting is vivid but leans on familiar "illusion" tropes (mirrors, fractals, shifting floors) without specific, grounding details that make it feel lived-in. The environment functions more as a metaphorical backdrop than a tangible place with distinct rules or constraints. The "void" sequence is spatially vague.</comment>
+<question>4</question><grade>4.0</grade><comment>Stakes are theoretical ("unraveling her own sanity") and do not manifest in concrete danger or difficult trade-offs on the page. The conflict is resolved by the environment reacting benevolently to the protagonist's action, removing the need for a hard decision. There is no visible cost paid for the transformation.</comment>
+<question>5</question><grade>3.8</grade><comment>The theme is explicitly stated in dialogue and narration ("texture of connection," "logic and magic") rather than emerging from subtext. The ending falls into the "Thematic Echo" anti-pattern, summarizing the moral ("connection was not a destination, but a journey") instead of letting the imagery resonate on its own.</comment>
+<question>6</question><grade>4.9</grade><comment>The voice is consistent but adopts a high-register, oracular tone that distances the reader. Dialogue is functional and expository, with characters speaking in abstract aphorisms ("What was real becomes imaginary") that feel artificial. The "fever dream" style sometimes obscures the immediate physical reality of the scene.</comment>
+<question>7</question><grade>5.1</grade><comment>The prose is competent but suffers from "thesaurus-itis" and stock metaphors ("eyes like fractured prisms," "liquid fractals," "spider’s silk"). Abstract nouns clutter the sentences ("chaos of perception," "rational enchantment"), reducing narrative drive. There are no major mechanical errors, but the density of flowery descriptors slows the pacing.</comment>
+<question>8</question><grade>4.3</grade><comment>The story follows a predictable prompt-response trajectory: enter strange place, perform task, learn lesson, leave changed. The core concepts are presented as stated terms rather than reimagined through a fresh, specific lens. The execution feels like a standard "magical lesson" narrative without a unique twist or subversion.</comment>
+<question>9 A</question><grade>3.5</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>4.2</grade>
+<question>9 D</question><grade>3.0</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>7.0</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>2.5</grade>
+<question>9 I</question><grade>4.0</grade>
+<question>9 J</question><grade>3.5</grade>

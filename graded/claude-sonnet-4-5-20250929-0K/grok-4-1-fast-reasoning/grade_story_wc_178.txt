@@ -1,0 +1,72 @@
+grade_story_wc_178.txt
+<question>1</question>
+<grade>4.2</grade>
+<comment>Ezar's frugality is asserted repeatedly but never creates a meaningful choice with cost—he never foregoes anything that matters to the outcome. His motivation (covenant-seeking) remains abstract; no on-page moment shows him weighing competing goods or paying a relational or emotional price. Interiority relies on stock phrases ("heart quickened") and label-only devotion rather than embodied contradiction. The final "thrifty act" of extinguishing the lamp is ornamental, not a renunciation that forecloses a path.</comment>
+
+<question>2</question>
+<grade>5.1</grade>
+<comment>Orientation is functional but late (who/where/when gel only after ~150 words). The piece moves through discovery beats (tile → charts → cipher → rift → vow) in and-then sequence without meaningful narrowing of options; Ezar encounters no impediment, so each step feels like unpacking rather than escalation. Closure reads as Resonant Reconfiguration (visions granted, covenant sealed), but the cost is asserted ("devotion encrypted no longer") rather than shown—no on-page forfeiture or tactical shift proves the price paid. Under a hybrid lens (causal setup, accumulative imagery), the ending reconfigures Ezar's role, but without visible sacrifice the effect is declarative.</comment>
+
+<question>3</question>
+<grade>5.8</grade>
+<comment>The reimagined Babylonian setting (bioluminescent vines, crystal lattice dome) is vivid and consistent but mostly atmospheric. The mosaic floor and tile are handled concretely, and the observatory dome returns at closure with vines weaving celestial maps—micro-setting charges the final image. However, spatial choreography is vague (Ezar moves "through corridors" and "under the dome" without clear geography), and the setting does not constrain a choice or tactic. The Q3 9+ gate (environment constrains choice or charges final image) is half-met: the charged final image lifts the score, but no mid-scene constraint limits Ezar's options.</comment>
+
+<question>4</question>
+<grade>4.8</grade>
+<comment>The dominant stake (seal the covenant) is signaled early but never pressured by impediment or trade-off. Each beat (tile discovery → overlay → cipher → rift → vow) unfolds without reversal; no live option is foreclosed. The piece gestures at external pressure (rebel scouts, regime collapse) but this never intersects Ezar's actions or forces a sacrifice. Agency at closure is a recitation that succeeds immediately, with no visible cost or tactical shift. Under the inferred lens (hybrid causal-accumulative), one meaningful tightening is required; here the beats accumulate density but do not narrow options or raise price.</comment>
+
+<question>5</question>
+<grade>5.4</grade>
+<comment>Theme (empirical rigor conjuring the mystical, devotion amid chaos) emerges through concrete images (tile, rift, extinguished lamp) and is not stated as a moral. However, "empirically ironic" and "encrypted devotion" are repeated as labels rather than enacted through Ezar's choices—he never wrestles with paradox or pays a cost for his devotion. The final image (lamp extinguished, tile pulsing) offers lyric resonance but the thematic question (what must be given to bridge empirical and mystical?) lacks an on-page answer with felt weight. The piece invites reflection but delivers abstraction over earned insight.</comment>
+
+<question>6</question>
+<grade>4.6</grade>
+<comment>POV remains third-limited throughout with no head-hopping. However, diction oscillates between elevated register ("abyssal entity," "helical nebulae") and simpler beats without clear voice motivation, and perceptual signature is generic—Ezar notices star alignments and vines but his manner of noticing does not feel character-specific. Repeated template openings ("Ezar's heart quickened," "Ezar rose," "Ezar smiled") flatten rhythm. Under pressure (rift opening), syntax does not compress or sharpen. No dialogue appears, so those bullets are waived.</comment>
+
+<question>7</question>
+<grade>4.1</grade>
+<comment>Paraphrase loops and synonym churn pervade: "encrypted devotion" recurs six times; "empirically ironic" four times; "frugal/frugality/thrifty" eight times, often restating the same idea across adjacent lines without adding pressure. Template cadence: "Ezar [verb]" opens five sentences in close succession. Stock metaphors ("heart quickened," "smiled faintly") and elevated diction ("abyssal entity," "dusky harmony") blur into purple prose at peak beats (rift opening). Information density is low—many lines restate atmosphere or theme rather than advance situation. Applying the Patterned-artifact penalty pack: paraphrase loops (−0.6), template cadence (−0.5), stock metaphor strings (−0.3) → baseline −1.4 in Q7; artifacts touch the closure beat (final paragraph repeats "encrypted," "frugal," "harmonious"), so escalate to −1.7. The disallow-9+ flag is raised globally.</comment>
+
+<question>8</question>
+<grade>4.9</grade>
+<comment>The mashup of Babylonian astronomy and bioluminescent sci-fi offers surface novelty, but the core plot (scholar decodes artifact to unlock mystical gateway) is a familiar template without transformation through lived detail or non-obvious moral calculus. The magic square, schematics, and covenant beats follow predictable discovery steps. "Frugal astronomer" and "encrypted devotion" remain labels rather than specific contradictions that drive choice. No emotional arc or risky structural choice distinguishes the execution. Applying the Derivative Premise Guardrail (template discovery arc, −0.8 within Q8).</comment>
+
+<question>9 A</question>
+<grade>3.2</grade>
+<comment>Ezar is present throughout and initiates each discovery beat, but his choices do not create reversals—he proceeds unopposed from tile to charts to cipher to vow. His frugality is mentioned repeatedly but never constrains an action (he never forgoes a resource that matters). Setup gate met (present early), development gate weak (no middle choice with cost), payoff gate weak (he recites a vow that succeeds immediately). Functional but replaceable; swappable with "determined scholar" with minor edits. Band guidance and caps: missing strong development and payoff → cap ~3.4, but early presence and beat involvement (three beats) push slightly above. Adjusted 3.2.</comment>
+
+<question>9 B</question>
+<grade>5.8</grade>
+<comment>The tile is handled in three beats: discovered/pried free, overlaid with charts, reset in floor at closure. Setup gate met (early), development gate met (overlay enables cipher work), payoff gate met (returns in final image). However, the tile's removal and resetting carry no cost or risk—it could be left in place or handled differently without altering outcome. Swappability moderate (any inscribed artifact would serve). Band guidance: two-to-three gates, beat involvement (+0.9), closure presence (+0.7) → neighborhood ~5.5–6.0. No specific cost tied to the tile's properties beyond being a cipher key. Adjusted 5.8.</comment>
+
+<question>9 C</question>
+<grade>4.1</grade>
+<comment>Encrypted devotion is named repeatedly but not dramatized through conflicted choice. The cipher reveals a vow, and Ezar recites it; the concept is present thematically but does not constrain options or create friction (no competing loyalty, no risk of discovery). Setup gate met (mentioned early), development gate weak (decoding is unopposed), payoff gate met (vow is recited). Label-only use (−0.3), summary-only integration (cipher result is told, not tested, −0.3). Functional but thin. Adjusted 4.1.</comment>
+
+<question>9 D</question>
+<grade>2.8</grade>
+<comment>"Empirically ironic" is asserted four times but never enables or constrains an action. Ezar's empirical methods align perfectly with mystical outcomes; no trade-off or cost appears on the page. Label-only trait (−0.3), ornamental use (−0.5). Setup gate met, development and payoff gates missing (the trait does not shape a choice or alter the final image causally). Cap for missing development/payoff ~3.4; further reduced for no visible cost. Adjusted 2.8.</comment>
+
+<question>9 E</question>
+<grade>6.4</grade>
+<comment>"Uncloak" drives the cipher-solving sequence and rift revelation; it is signaled early ("began to uncloak its secrets") and recurs in two key beats (cipher, rift). Setup gate met, development gate met (mid-story cipher work), payoff gate met (rift uncloaked at climax). The action is specific enough that swapping it ("decode," "reveal") would require moderate edits. Beat involvement (two beats, +0.9), closure linkage (rift opening, +0.7) → neighborhood ~6.0–6.5. Adjusted 6.4.</comment>
+
+<question>9 F</question>
+<grade>5.1</grade>
+<comment>Schematics are introduced early ("schematic representations") and used in two beats: overlaying star charts, mapping helical nebulae. Setup gate met, development gate met (enables cipher and rift coordinates), payoff gate met (holographic schematics project at climax). However, the method's mechanics are vague—what makes a schematic different from simply "comparing" is unclear. Swappability moderate ("diagrams" would fit with minor edits). Beat involvement (two beats, +0.9), closure linkage (+0.7), but vague mechanics (−0.3). Adjusted 5.1.</comment>
+
+<question>9 G</question>
+<grade>4.7</grade>
+<comment>The palace is vividly described (ziggurat, vines, mosaic floor, observatory dome) and returns in the final paragraph. Setup gate met (present early), development gate weak (setting does not constrain a choice; Ezar moves freely), payoff gate met (vines weave maps, palace "sighed"). The setting supplies atmosphere and a charged final image but does not pressure tactics. Lyric reprise (vines early and late) reaches ~5.5–6.0 when the return reweights the stake; here the reweighting is thematic (palace as conduit) but without tactical cost. Adjusted 4.7.</comment>
+
+<question>9 H</question>
+<grade>3.6</grade>
+<comment>"Between regimes" is mentioned three times but never tightens decisions. No clock or deadline appears; rebel scouts are noted but never arrive or force a choice. Setup gate met (framed early), development gate missing (time does not constrain mid-story action), payoff gate weak (regime transition is backdrop at closure, not a pressure). The timeframe is atmospheric rather than tactical. Cap for missing development ~3.4; early mention and thematic presence at closure lift slightly. Adjusted 3.6.</comment>
+
+<question>9 I</question>
+<grade>4.8</grade>
+<comment>The covenant motivation is stated early ("to seal a covenant with the unknown") and drives Ezar's actions throughout. Setup gate met, development gate met (every beat serves this goal), payoff gate met (vow recited, covenant sealed). However, the motivation is told rather than dramatized through friction—Ezar faces no competing want, doubt, or sacrifice. No visible cost tied to sealing the covenant on the page. Causal pressure present (+0.8), closure linkage strong (+1.0), but told-only with no conflicted choice (−0.6). Adjusted 4.8.</comment>
+
+<question>9 J</question>
+<grade>3.9</grade>
+<comment>"Dusky harmony" (or "dusky") appears eight times, creating a consistent atmospheric wash but no modulation with pressure. Tone remains uniformly reverent and lyric from inciting incident to closure; no tonal shift marks escalation or cost. Setup gate met (dusky imagery in paragraph one), development gate weak (tone does not tighten under pressure), payoff gate met (final image echoes "dusky"). Single static mood throughout trends mid-low; the final image uses "harmonious" but does not earn new charge through contrast. Adjusted 3.9.</comment>

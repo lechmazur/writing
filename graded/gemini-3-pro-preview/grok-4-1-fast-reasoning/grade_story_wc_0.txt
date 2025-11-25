@@ -1,0 +1,27 @@
+grade_story_wc_0.txt
+<question>1</question><grade>3.8</grade><comment>Character motivation is handled through static labels rather than dramatized desire. The protagonist's actions—tearing wings off dozens of living butterflies—create a jarring disconnect with the intended tone of "kindled humility," painting her as unintentionally cruel rather than observant. There is no internal struggle; she simply enacts the prompt's instructions without human friction or doubt.</comment>
+
+<question>2</question><grade>3.5</grade><comment>Causality collapses under the weight of metaphorical logic applied literally. The mechanism where butterfly dust applied to a paper printout physically removes "solar wind drama" from digital data is scientifically incoherent for a researcher protagonist. The narrative relies on a "magic feather" solution that resolves the central conflict instantly without logical groundwork.</comment>
+
+<question>3</question><grade>6.7</grade><comment>The atmospheric details of the "skeletal maze" and "sodden earth" are vivid and effectively ground the opening. The setting mirrors the theme of decay well, though the specific mechanics of the experiment obscure the physical reality of the space later in the story.</comment>
+
+<question>4</question><grade>4.0</grade><comment>Escalation is absent; the protagonist faces no resistance, as the dust works perfectly on leaves, mirrors, and data on the first try. The lack of failure or cost makes the resolution feel inevitable and unearned. The stakes are declared but never threatened by a genuine possibility of failure.</comment>
+
+<question>5</question><grade>3.5</grade><comment>The theme is delivered through heavy-handed repetition of keywords ("needless drama," "truth emerges") rather than subtext. The story moralizes explicitly, leaving no room for reader interpretation. The prompt phrases are pasted in as thesis statements rather than emerging organically from the action.</comment>
+
+<question>6</question><grade>4.5</grade><comment>The narrative voice attempts a poetic register but is repeatedly disrupted by the mechanical insertion of prompt phrases. The awkward phrasing ("Reflections sharpened, preprocesses reality by...") breaks the POV's internal rhythm. The tone shifts from scientific observation to fable-like whimsy without earning the transition.</comment>
+
+<question>7</question><grade>4.2</grade><comment>Syntax is repeatedly broken to accommodate required phrases, resulting in comma splices and nonsensical grammar (e.g., "watching as the patterns spread gradually, preprocesses reality by..."). These text artifacts disrupt the reading flow and clarity. The prose relies on purple descriptors ("bloated with supernova drama") that muddy the sense.</comment>
+
+<question>8</question><grade>4.8</grade><comment>The premise of biological decay clarifying astrophysical data is imaginative but executed with a lack of rigor that pushes it into incoherent fantasy. The synthesis of elements feels forced to meet a checklist rather than to explore a genuine speculative idea.</comment>
+
+<question>9 A</question><grade>8.8</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>7.5</grade>
+<question>9 D</question><grade>1.8</grade>
+<question>9 E</question><grade>8.0</grade>
+<question>9 F</question><grade>3.0</grade>
+<question>9 G</question><grade>8.2</grade>
+<question>9 H</question><grade>6.5</grade>
+<question>9 I</question><grade>5.0</grade>
+<question>9 J</question><grade>2.5</grade>

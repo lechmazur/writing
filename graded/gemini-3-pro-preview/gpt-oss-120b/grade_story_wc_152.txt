@@ -1,0 +1,19 @@
+grade_story_wc_152.txt
+<question>1</question><grade>4.2</grade><comment>The protagonist functions as a cipher for the prompt’s role rather than a living character; she lacks internal contradiction, doubt, or distinct voice. The trait "disguises wisdom as foolishness" is asserted in exposition but never dramatized in interaction or choice. Her competence is absolute and unchallenged by any personal flaw or specific fear.</comment>
+<question>2</question><grade>3.9</grade><comment>The narrative relies on a "magic object solves the plot" structure where the candle dictates the truth without protagonist deduction or risk. The ending lacks a decisive change with felt cost; the courier simply takes the solution away, resulting in a symmetric satisfaction ending where the problem dissolves without struggle.</comment>
+<question>3</question><grade>5.6</grade><comment>The setting is visually distinct ("cobalt observatory," "brass domes") but remains static and ornamental, failing to constrain the protagonist's actions. The descriptions lean toward purple prose ("bruised with dying stars") rather than sensory details that impact the immediate scene.</comment>
+<question>4</question><grade>3.8</grade><comment>Stakes are abstract and external; the coup exists as a distant context rather than an immediate pressure in the room. The protagonist faces no opposition or time-critical trade-offs on the page, resulting in a lack of escalation or tension.</comment>
+<question>5</question><grade>4.5</grade><comment>Themes are delivered through heavy-handed authorial statements ("She believed that truth lingered...") rather than emerging from subtext or conflict. The motif of "wisdom disguised as foolishness" is disconnected from the actual events, appearing only as a label.</comment>
+<question>6</question><grade>5.0</grade><comment>The narrative voice is consistent but overly elevated and distanced, relying on "was known as" and "motive was simple" summaries. There is a lack of immediacy, with the narrator explaining the meaning of symbols rather than allowing the reader to experience them.</comment>
+<question>7</question><grade>4.6</grade><comment>The prose suffers from significant repetitive artifacts; the phrases "echoed silence" and "adjacent possibilities" are looped three times each in short succession. Metaphors are often mixed or strain for effect ("echoed silence that pressed on ears"), and filter verbs ("She interpreted," "She imagined") distance the reader.</comment>
+<question>8</question><grade>4.2</grade><comment>The story follows a standard "magical craftsman solves political problem from a distance" template without subverting expectations. The execution is linear and relies on convenient magic rather than a fresh synthesis of character and constraint.</comment>
+<question>9 A</question><grade>6.2</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>6.0</grade>
+<question>9 D</question><grade>2.1</grade>
+<question>9 E</question><grade>5.0</grade>
+<question>9 F</question><grade>3.5</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>5.8</grade>
+<question>9 I</question><grade>5.2</grade>
+<question>9 J</question><grade>3.0</grade>

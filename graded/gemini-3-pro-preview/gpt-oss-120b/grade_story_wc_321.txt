@@ -1,0 +1,19 @@
+grade_story_wc_321.txt
+<question>1</question><grade>3.2</grade><comment>The protagonist is defined entirely by the repeated label "resiliently positive" rather than embodied traits or choices. There is no internal conflict, doubt, or psychological cost; he performs a magical task with perfect competence and ease.</comment>
+<question>2</question><grade>3.8</grade><comment>The narrative follows a linear path of wish-fulfillment with no obstacles or complications. The closure—the ferry's return—is achieved without any visible or felt cost, failing the rubric's requirement for a decisive change involving sacrifice or price.</comment>
+<question>3</question><grade>4.2</grade><comment>The setting is atmospheric but functions as a static backdrop rather than a source of pressure. The repetition of the exact phrase "spectral grotto under starlight" three times diminishes the immersive quality, reducing the setting to a recurring tag.</comment>
+<question>4</question><grade>2.9</grade><comment>There is no escalation or opposition; Lio intends to save the ferry, and his first attempt succeeds immediately. The stakes are stated but never tested, as the ritual works perfectly without requiring adaptation or endurance.</comment>
+<question>5</question><grade>3.2</grade><comment>The theme is delivered via explicit moralizing in the final paragraph ("intention can align the cosmos") rather than emerging from the narrative. The "resiliently positive" motif feels forced and didactic.</comment>
+<question>6</question><grade>4.0</grade><comment>The voice is consistent but overly reliant on dense, flowery metaphor ("lattice of sound," "phosphorescent threads"). The mechanical repetition of prompt phrases damages the illusion of a natural narrative consciousness.</comment>
+<question>7</question><grade>3.1</grade><comment>Significant penalties for text loops and scaffolding artifacts. The phrases "spectral grotto under starlight" and "resiliently positive" are repeated verbatim multiple times, and the prose relies on "and then" sequencing disguised by adjectives.</comment>
+<question>8</question><grade>3.5</grade><comment>The story feels like a checklist of prompt requirements stitched together without a fresh conceptual angle. The "magic radio saves the day" resolution is a standard trope executed without distinctiveness or risk.</comment>
+<question>9 A</question><grade>5.5</grade>
+<question>9 B</question><grade>7.0</grade>
+<question>9 C</question><grade>6.5</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>6.0</grade>
+<question>9 F</question><grade>3.5</grade>
+<question>9 G</question><grade>4.0</grade>
+<question>9 H</question><grade>3.0</grade>
+<question>9 I</question><grade>5.0</grade>
+<question>9 J</question><grade>2.0</grade>

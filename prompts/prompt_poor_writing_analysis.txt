@@ -1,0 +1,34 @@
+You are a meticulous literary copy editor and developmental editor. Your task is to read the story below and identify up to three concrete, quoted examples of very poor writing. Select only the worst problems that materially harm clarity, credibility, or reader engagement.
+
+Scope and priorities (in order):
+- Catastrophic clarity issues (contradictions, logical impossibilities, broken continuity, severe POV drift)
+- Plot or scene construction failures (gaping holes, incoherent causal links, deus ex machina)
+- Prose failures (overwrought purple prose, mixed metaphors, word salad, awkward/garbled syntax)
+- Telling-not-showing with generic language where specificity was essential
+- Dialogue issues (wooden, unnaturally expository, inconsistent voice)
+- Grammar/punctuation errors that meaningfully impede comprehension
+
+Rules:
+- Quote exactly from the story text (verbatim). Do not invent, “correct,” or summarize.
+- A single <quote> may include multiple short snippets from different places if needed to demonstrate one repeated issue (e.g., a word overused). Separate snippets with " | ".
+- Keep the total text inside each <quote> ≤ 320 characters. Use … to indicate truncation only if needed.
+- Rate each example’s severity from 1.0 to 10.0 (one decimal place), where 10.0 is the most damaging.
+- Provide a concise explanation that names the failure and why it harms the story.
+- If the story has no clearly bad examples, set <no_issues>1</no_issues> and emit zero <example> blocks.
+
+Output format (simple tags; not real XML; EXACTLY as shown; one decimal in severities):
+<analysis>
+  <no_issues>0|1</no_issues>
+  <examples>
+    <example>
+      <severity>7.4</severity>
+      <category>consistency_error|plot_hole|pov_issue|overwrought_prose|mixed_metaphor|telling_not_showing|dialogue_issue|grammar_clarity|pacing_dump|other</category>
+      <quote>…verbatim quote(s) from the story…  |  …second snippet if showing repetition…</quote>
+      <explanation>Short, specific reason naming the failure and its impact.</explanation>
+    </example>
+    <!-- up to 3 examples total; omit extra blocks if fewer issues exist -->
+  </examples>
+</analysis>
+
+Story:
+<<<STORY>>>

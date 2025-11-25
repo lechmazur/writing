@@ -1,0 +1,627 @@
+Story:
+{story}
+
+---
+Rate the story above on a scale 0.0 to 10.0 for each category below, precise to one decimal place (e.g., 5.7, 8.3, 6.6). Use increments of 0.1 to allow for a more nuanced and fine-grained assessment.
+
+Assume the role of a demanding editor at a prestigious literary publication. This story aims for the highest echelon of literary quality, intended for publication where only flawless work succeeds.
+Your standard is immediate publishability in a competitive market.
+
+For each question 1 to 8, evaluate the category’s overall success holistically. Use the detailed bullet points as a diagnostic guide to identify specific strengths and weaknesses that justify your score, rather than as a checklist where each item is weighted equally. Prioritize the impact of flaws on pivotal moments (inciting incident, climax) over their mere frequency.
+
+For each question 1 to 8, output only the question number (in tags <question></question>), numeric rating (in tags <grade></grade>), and a comment (in tags <comment></comment>).
+The comment should concisely describe what stood out (significant weaknesses or strengths only) when assigning the grade for this question. You can point to a specific on-page moment or line that most influenced the score.
+
+For question 9 (A–J), you will be given a list of candidate elements. For a 600–800 word story, score all required elements. If an element is indicated as "None," mark it N/A. Output one line per element with the question number (in tags <question></question>) and numeric rating or N/A (in tags <grade></grade>) only.
+
+Definitions
+- Beat: one continuous unit of pressure that advances goal, opposition, or knowledge.
+- Micro turn: a local reversal that sets up closure. Allowed. Do not count as a second decisive change.
+- Closure (required):
+  - Definition: Require on-page Closure: a Decisive Change (DC), a Resonant Reconfiguration (RR), or a Conceptual Repricing (CR) that makes a before/after legible with a felt or conceptual cost. Charged Poise and Earned Stasis are valid RR forms.
+  - Valid forms include: Earned Stasis (a refusal or endurance that forecloses a path with visible cost on the page), Charged Poise (a crystallized final moment where options and stakes are made legible and reconfigured; the cost is felt even if not yet paid on the page), and Conceptual Repricing (CR) (a final image or realization that reweights the premise or rule-set with undeniable conceptual or social cost even if the emotional price is oblique).
+  - Application: Judge closure under the Global Drive Lens at the ending. For 600–800 words, one meaningful tightening, deepening, or cadence shift is sufficient.
+
+Global Scope Defaults & Alternate Tracks (600–800 words)
+- Track A — Defaults: single POV; one continuous scene or two shards with one transition; 1–2 on-page characters; one dominant stake; one meaningful tightening/deepening; one visible or felt cost.
+- Track B — Mosaic/Multi-Shard: up to 4 short shards if the pattern is taught by ~25% of the text, transitions are legible, the drive lens holds at closure, and a coherent closure unit (DC/RR/CR) lands. No caps for >2 shards when these tests are met.
+- Track C — Multi-POV (short-form): multiple focalizers are allowed if switches occur at clear section breaks, there is no mid-paragraph head-hopping, each segment’s focalization is clean, and the ending reads under one dominant lens (or a stable Hybrid). Do not cap solely for multi-POV when these tests are met.
+- Cast Size Exception: >2 on-page characters is allowed if spatial choreography remains clear and pressure coheres. Penalize headcount only when it harms clarity or pressure.
+
+Global Drive Lens Rule (infer once and hold)  
+Choose one: Causal, Accumulative/Textural, Situational, or Hybrid. Hold the lens across categories and judge the ending under that lens.  
+Core tests by lens:  
+- Causal: because/therefore linkage or motivated ellipsis changes options or knowledge.  
+- Accumulative/Textural: density increase, pattern break, or cadence shift reweights the dominant stake with cost.  
+- Situational: coherent pressure forces stance crystallization; coincidence may complicate, not resolve.
+- Lens guardrails for Q4 (evaluate escalation by lens):  
+  • Causal: Escalation reads as because/therefore linkages that narrow options or raise cost. One meaningful tightening is sufficient.  
+  • Accumulative/Textural: Escalation reads as density increase, pattern break, or cadence shift that reweights the dominant stake. A single decisive intensification is sufficient.  
+  • Situational: Escalation reads as coherent pressure that forces stance crystallization; coincidence may complicate but does not resolve.  
+  • Hybrid: Judge closure under the lens dominant at the end; earlier beats may borrow methods without penalty.
+
+Global Backstory/Reflection Policy (BRR)  
+Default allowance at 600–800 words: one substantial reflective block ≤20% of the story or two brief fragments total. Each use must anchor in the present with a concrete cue and tilt the present stance via at least one on-page micro-choice.  
+Reflection-led mode (expanded): ~30% is the default ceiling. Exception: exceed 30% with no cap when reflection is (i) concretely anchored to present stimuli, (ii) interleaved with on-page micro-choices that alter present options, and (iii) closure lands cleanly under the inferred lens.  
+Penalty routing: route to Q7 (momentum loss) only if reflection flattens pressure; if the present frame becomes unclear, apply the Orientation Test once in Q2 (−0.2 to −0.5 range per that test) and, only when the penalty is applied, cap Q1 and Q5 at 8.3.
+
+Global Experimental/Nonlinear Allowances  
+Purposeful compression, patterned elision, mosaic or lyric designs are allowed if the pattern is taught early and the closure remains legible under the selected lens. Non-standard grammar or punctuation is acceptable when consistent, voice-motivated, and legible. Apply artifact penalties only in Q7 unless causality breaks.
+
+Scoring Calibration Note  
+- Bands (tightened): ~4.0 functional but limited; ~7.2–7.9 strong with minor slips; 8.5–8.9 very strong with no slips touching closure; 9.0–9.4 exceptional with hairline slips; 9.5–10.0 rare, fully integrated, closure untouched by any flaw.  
+- High-band entry gate (tightened): 8.8+ eligibility requires Q2 ≥ 8.8, Q4 ≥ 8.2, Q7 ≥ 8.2, and an evaluator-inferred drive lens by midpoint held through closure; otherwise cap that category at 8.7.  
+- Apply Non-closure Accumulation Cap per category: **−0.8 for one distinct issue, −1.5 for two distinct issues, −2.0 for three or more; apply only when closure remains intact.**  
+- Do not re-penalize the same root flaw across categories; route to where it most harms closure or escalation.
+
+- Global 9+ gate (excellence tied to on-page closure): No category may be ≥9.0 unless Q2 is ≥9.0 and that category’s own 9+ quick test is satisfied; otherwise cap that category at 8.8. In addition, 9+ requires the two-feature standard in Cross-category 9+ Standard.
+
+Global Dialogue Policy  
+Dialogue is optional. Evaluate dialogue only when it appears, for naturalism, subtext, goal pursuit, and advancement of plot. Q1 and Q6 apply dialogue bullets only if dialogue is on the page.
+
+Quick Apply (for evaluators)
+- Infer a drive lens once: Causal, Accumulative/Textural, Situational, or Hybrid (evaluator-inferred; if ambiguous, select Hybrid and judge under the dominant lens at closure). Apply that lens in Q2 and Q4 and calibrate all other categories to it.
+- Identify the closure unit (DC, RR, or CR).
+- Identify the dominant stake; secondary optional.
+- Length/scope fit for 600–800 words: Defaults = single POV, 1–2 characters, one scene or two shards, ≤1 transition, one meaningful tightening/deepening, one visible or felt cost. If the piece follows Track B (Mosaic) or Track C (Multi-POV), apply those tests instead of default caps.
+- No motif checklist: Do not reward token symbolic objects or forced recurrence. Credit recurring images or objects only when they constrain choice or charge the closure.
+
+Penalty routing (score once):  
+Score each root flaw once where it most harms execution: Q2 for causality/motivation/orientation, Q4 for pressure/escalation/cost legibility with causality intact, Q7 for line-level opacity, loops, or momentum drag. Do not re-penalize elsewhere. Apply the Non-closure Accumulation Cap within that one category only.
+
+Caps: Apply these accumulation caps only to issues that do not touch the closure unit.
+
+1. Characterization & Motivation
+Scope: Defaults favor 1–2 on-page characters. If more appear but choreography and pressure remain clear, do not penalize headcount itself. Apply "relationships as crucible," "status dynamics," and "secondary pressure" only if those characters are on the page.  
+Single-POV default: Evaluate interiority, embodied emotion, and micro-choices under pressure. Only if a second character is on the page, apply the relationship/status bullets; otherwise ignore them.
+Single-POV baseline: evaluate interior contradiction, embodied emotion, and micro-choices under pressure. Apply relationship or status bullets only if another character is on the page.
+Precedence note: If a closure choice feels unmotivated, score the causality break in Q2. In Q1, you may note this diagnostically without deduction.
+- Motivation is clear, rooted in consistent traits, and intensifies to compel higher-stakes choices as pressure rises
+- Interiority is concrete and character-particular; no stock phrasing or unearned epiphanies
+- Internal conflict shows contradictory impulses acting simultaneously in scene, not alternating summaries
+- Emotions are embodied and contradictory, not performed; avoid therapy-speak or diagnostic self-awareness that no one has mid-crisis
+- Actions align with motives; reactions to key objects and ideas reveal character under pressure
+- A meaningful change or credible endurance/renunciation is earned by prior causality, foreclosing a path with felt cost scaled to this length
+- Relationships as crucible: relationships under pressure force choices that alter their state by the end (only if on the page)
+- Secondary characters, if present, apply immediate pressure relevant to the central conflict
+- Backstory/Reflection: see BRR
+- Blind spots and limits drive inevitable mistakes that compound before resolution; competence is balanced with genuine struggle
+- External behavior differs from internal experience in consistent, character-specific ways
+- Thought and perception degrade appropriately under stress
+- Knowledge stays strictly character-bound; misbeliefs persist until dramatized events correct them and distinct knowledge states create earned irony and conflict
+- Characters remain genuinely flawed without safety-hedging; moral ambiguity is not artificially balanced
+- Flaws complicate choices; the resolution may confront them or accept their cost (Earned Stasis)
+- Characters read as individuals rather than stereotypes; traits are shown through speech, choice, and worldview rather than token cues
+- Status dynamics are legible in dialogue and staging; power shifts under pressure (only if a second character is present)
+- Micro-choices in difficult moments reveal a hierarchy of values with visible cost on the page
+- Emotional progression is realistic, with strong feelings layering and contradicting via credible irrationality (e.g., hypocrisy or self-deception) rooted in flaws, avoiding tidy resolutions
+- Voice distinction: if two characters speak on the page, their speech and perception carry distinct idiom. Brief convergence at closure is acceptable if internal voice remains coherent and the effect reads intentional. Applies only when two characters are on the page; single-POV pieces are evaluated for internal voice coherence and specificity.
+- Scope note: apply status dynamics and professional or occupational detail only when germane to the central conflict; do not require occupation-level exposition at this length
+
+9+ quick test (Q1): contradictory impulses act in scene and the final choice or renunciation is earned by prior causality with visible cost.
+
+Common Failures (anti-patterns)
+- Label-only feelings or bodily clichés without specific embodiment
+- Over-tidy, purely rational decision paths with no ambiguity
+- Name, role, or pronoun drift; inconsistencies in biographical or capability details
+- Recycled sentence stems for interiority and beats; voice convergence under emotional pressure
+- Stock or one-note personalities used for convenience
+- Knowledge leaps not earned by the scene or convenient amnesia of established facts
+- Over-articulated, diagnostic label-speak in interiority
+- Emotional summary that abstracts state with labels instead of embodied perception and action
+- Gestural poverty repeated across the cast
+- Traits that exist only as labels without altering speech, choices, or worldview
+- Perfect emotional calibration where everyone reacts with textbook appropriateness
+- Emotional arithmetic that resolves complex states into neat stages
+- **Diagnostic label-speak in peak beats** triggers −0.4 to −0.6 in Q1 unless dramatized with embodied cost within 2–3 lines.
+
+2. Plot, Structure & Causality
+Closure Gate: Apply the Closure (required) definition above. Q2 owns closure validity and cost under the selected lens.  
+Orientation Test (single scene window): Anchor who, where, and when by ~120 words unless deliberate disorientation is taught early and later pays off at closure. If anchors remain unclear past ~120 words and do not serve closure, apply **−0.3 to −0.5** once here. If applied, also cap Q3 at 7.0.  
+600–800 word scope: Defaults = single POV; one continuous scene or two shards with one transition; one meaningful tightening or deepening is sufficient. Mosaic exception (Track B): up to 4 shards if the pattern is taught by ~25%, transitions are legible, the lens holds, and closure lands. Multi-POV exception (Track C): multiple focalizers allowed with section-break switches and a coherent ending lens; do not cap solely for multi-POV when these tests are met.
+
+Mode adherence: Apply the Drive Lens Rule. Experimental add-on allowed if the piece teaches its pattern; judge coherence of taught pattern and closure with cost rather than linear traceability.
+
+Lens application: judge linkage and closure strictly under the inferred lens; do not require causal turns for Accumulative or Situational designs if RR/CR lands with cost.
+
+Orientation Test (single scene window)  
+Anchor who, where, and when by ~120 words unless deliberate disorientation is taught early and later used to charge the closure image. If anchors remain unclear past ~120 words *and* the effect does not serve closure, apply **−0.3 to −0.5** in Q2 once. If applied, also cap Q3 at 7.0. Do not award bonuses. If the disorientation proves functional at closure, waive the penalty.  
+**Waiver consequence:** When the Orientation Test is waived (pattern pays off or is taught), do **not** apply the Q3=7.0 cap or any cross-category caps tied to orientation debt.
+
+Lens clarity check (tight usage rule)  
+**If the lens is ambiguous past the midpoint and not taught by closure, apply −0.3 to −0.5 in Q2 even if closure later lands;** if ambiguity persists at closure, apply the Lens ambiguity cap listed in the global cross-caps.
+
+9+ note
+- Q2: Eligible for ≥9.0 when the closure effect (Decisive Change, Resonant Reconfiguration — Charged Poise/Earned Stasis qualify — or Conceptual Repricing) occurs on the page with visible, felt, or conceptual cost and the inferred drive lens holds. Bonus if a persistent constraint or price shapes tactics or the final image. A decisive physical act is not required if the final image reconfigures options or meaning.
+- **Cost proof test:** If you cannot point to an exact on-page sentence or image where cost is legible at the ending beat, apply a −0.4 to −0.8 deduction in Q2.
+
+9+ quick test (Q2): Closure lands on the page with cost, the inferred lens holds without contradiction, and at least one persistent constraint or price shapes tactics or the final image.
+
+Common Failures (anti-patterns)
+- Teleporting props or information; unkept set-ups
+- Outline-like and-then sequencing without pressure
+- Plot amnesia and retroactive patches that break causality
+- Redundant moves disguised by small variations
+- False cliffhangers that deflate immediately
+- Declared stakes that never face a concrete on-page test
+- Convenient amnesia of abilities or knowledge when it would solve problems
+- Soft resets that clear problems or emotions within the beat without cost
+- The explain-everything ending that ties up every thread mechanically
+- Symmetric satisfaction that gives equal payoff regardless of narrative importance
+
+3. Setting, Atmosphere & Specificity
+- Anchor who, where, and when early enough for comprehension. (Orientation penalties and waiver live in Q2.)
+- For 9+, gate: environment, body/attention, tool, or a recurring object must constrain a choice or charge the final image to reach the 9-band. If not, cap Q3 at 8.8 even if description is vivid.
+- Micro-setting option: In short work, the body, a tool, or a recurring small object may function as “setting” when it constrains choice or charges the final image.
+- Micro-setting and object-as-setting qualify when they constrain a choice or charge the final image in this single scene or two-shard window.
+- Economy bias: Reward selective, purpose-driven detail over breadth. Do not require occupational systems unless the scene’s choice depends on them.
+- Sensory detail is vivid, selective, and purposeful, balanced across senses where it helps the moment
+- Sensory selection reflects urgency; crisis narrows perception to immediacies while calmer moments admit subtler detail
+- Sensory hierarchy by POV: professional and personal priorities shape what is noticed and ignored
+- Details are filtered through POV bias; familiarity guides selective attention rather than a tourist catalog
+- Setting subtly guides choice through access, proximity, or social context
+- Tone supports or intentionally tensions the concept in service of theme
+- World rules stay consistent and are learned through action and observation, not exposition dumps
+- Setting details are integrated into action and thought, reflecting the character’s priorities; discovery often occurs through goal-directed action
+- Environmental details subtly mirror or contrast internal states through action and perception, avoiding overt symbolism
+- Modern-world realism and any occupational detail must read plausible. Require accuracy only if it affects a choice, constraint, or closure; otherwise do not penalize missing depth at this length.
+- Idiom and usage match locale and era; dialect and regionalisms are consistent within geography and class without caricature
+- Proper-noun economy: name only places, institutions, and tools that matter and reuse anchors
+- If time or location changes, the setting evolves consistently with plot and character
+- Spatial choreography is coherent; bodies, objects, and distances track cleanly across moves with no impossible positions
+- Weather and environment affect action and choice when relevant
+- Scale of description matches narrative significance; key objects or places receive proportionate focus
+- Characters use and navigate their environment in tactile, lived-in ways
+- Environmental details evolve causally with events; no static repetition that ignores prior changes
+- Scope note: apply professional or occupational detail only when germane to the central conflict; do not require occupation-level exposition at this length
+
+9+ quick test (Q3): environment, body, tool, or recurring object constrains a choice or charges the final image.
+
+Common Failures (anti-patterns)
+- Generic placeholder setting; season and weather clichés
+- White-room syndrome without spatial grounding
+- Vague or shifting geography; floating rooms and missing anchors
+- Setting description that stalls momentum instead of being woven through action
+- Overreliance on the visual when other senses would sharpen the moment
+- Anachronisms or factual errors that break credibility
+- Inconsistent world rules introduced or changed for convenience
+- Brand or fact lists offered as faux verisimilitude without POV coloring
+- Museum-tour landmarks without pressure or POV filter
+- Sensory checklist that mechanically cycles through all five senses
+- World detail that exceeds the scene’s needs and slows the beat or contradicts earlier facts
+
+4. Conflict & Stakes
+Prioritize one dominant stake signaled early, or a tightly braided pair that converge at closure. Agency may be decision, renunciation, endurance, or attention that forecloses a path with on-page cost. Under the selected lens, pressure coheres and tightens once through a meaningful turn or deepening that narrows options or changes knowledge. Coincidence may complicate, not resolve.  
+Do not require multiple reversals. Closure form is judged in Q2; here evaluate escalation and cost clarity only.
+
+- Dominant stake signaled early; one meaningful tightening, deepening, or cadence shift is sufficient at this length.
+- **Band guardrails (guidance):** Entering 8.0+ typically requires that the tightening forecloses a live option or forces a trade-off; entering 8.8+ typically requires a visible or felt price that charges the final image under the chosen lens.
+- Agency may be decision, renunciation, endurance, or attention that forecloses a path with on-page cost; closure form is judged in Q2.
+- No requirement for explicit antagonist or multiple reversals; coincidence may complicate but not resolve.
+- Pressure remains coherent and grows under the selected Drive Lens until the final act/image reweights options or cost.
+- At least one on-page reversal or tightening choice that narrows options or a deepening that changes options or knowledge, consistent with the inferred lens (one meaningful pressure point or choice is sufficient at this length)
+- Do not require multiple reversals.
+- Resolution is earned by the protagonist’s alteration, renunciation, or stance crystallization; if open, consequences still land
+- Internal and external conflicts interweave and inform each other (optional at this length)
+- Tension operates at sentence, beat, and story scales
+- Wants conflict with needs; want versus fear creates authentic tension
+- Earned reversals test commitment to goals; apparent solutions generate new complications
+- Major turns result from the protagonist’s decisions at closure with visible cost. Luck may complicate but does not solve.
+- Prioritize one dominant stake with an optional secondary accent; depth over spread fits this length
+- Optional: show one credible loss or omission (time, stamina, money, tool, social credit) that alters tactics when relevant
+- Moral or ethical calculus sharpens the peak choice, often between competing goods or unavoidable harms
+- Visible prices paid after each turn alter later tactics
+
+9+ examples (not a gate)
+- Q4: Eligible for high scores when escalation or deepening is driven by protagonist agency under the inferred lens and the cost is legible on the page. Persistent constraints that shape tactics or the final image can elevate but are not required. Closure form and validity are judged in Q2.
+
+9+ quick test (Q4): Escalation or deepening is driven by protagonist agency under the chosen lens and the cost is unmistakable on the page.
+
+Common Failures (anti-patterns)
+- Declared stakes that never materialize in scene
+- Coincidental or off-stage resolutions that undercut earned causality
+- Empty intensifiers without causal triggers
+- Static conflict without escalation or transformation
+- Stakes that remain abstract rather than viscerally felt
+- Conflicts resolved without lasting, dramatized consequence
+- Conflicts relying on easily solved misunderstandings
+- Underdeveloped antagonistic pressures with no adaptation
+- Repetitive conflict loops without meaningful progression
+- Telescopic stakes: world-ending stakes are declared, but on-page conflict centers on minor inconveniences unrelated to the declared scale
+
+5. Theme & Subtext
+- A coherent theme emerges from events, images, and motifs, not direct statement or prompt labels
+- Theme develops through a small set of particulars. A returning image that shifts meaning at the end is one valid path, not preferred.
+- Subtext operates in gesture, silence, image, and implication, including in dialogue
+- The core concept integrates with theme through specific events rather than meta commentary
+- The piece invites reflection beyond the immediate plot through purposeful ambiguity and character complexity without confusion
+- Epiphanies and insights are earned through specific experience and struggle on the page
+- The piece elicits a concrete emotional aftereffect through scene and image, not assertion; emotional honesty avoids sentimentality
+- Theme resists tidy morals, embracing complexity with plausible counter-readings and meaningful ambiguity that lingers without confusion
+- Theme embraces complexity without false equivalence; not every position deserves equal sympathy; some characters can be wrong without redemption
+- Dramatic irony, when used, creates meaning through gaps between character and reader knowledge
+- Thematic resonance arises from particulars rather than generic abstractions
+- No motif checklist: Recurrence earns credit only if it constrains choice, accumulates pressure, or charges the closure; token mentions do not earn credit
+- Earned wisdom arises from specific experience rather than platitudes. Insights arise from concrete particulars; banality or pseudo-profundity lowers the score
+- The protagonist’s internal arc is inextricable from the thematic question and its resolution
+- The story’s final image or action offers a resonant, non-literal answer to the central question without stating a moral (includes CR for concept-driven pieces when the conceptual cost is legible).
+- Theme as an emergent property of character goal and central conflict rather than an imposed thesis
+- Organic emergence: theme arises implicitly from concrete actions and conflicts, without authorial intrusion or abstract philosophizing
+- Quiet endings are not penalized when resonance is built from particulars. Closure form is governed by Q2; score thematic resonance here.
+- Backstory/Reflection: see BRR
+- Avoid symbolic convenience: do not introduce a motif late to harvest points; resonance should arise from prior particulars.
+
+9+ quick test (Q5): The ending offers a resonant, non-literal answer to the central question that reweights prior material without a stated moral.
+
+Common Failures (anti-patterns)
+- Redundant thematic statements or final-paragraph moralizing
+- Mixed or dead metaphors; symbolism that shouts rather than resonates
+- Abstract theme statements or jargon disconnected from scene work
+- Overt allegory with transparent stand-ins that lack narrative life
+- Themes that resolve into simplistic binaries
+- Superficial integration without thematic relevance
+- Sermonizing endings or theme summaries in place of earned resonance
+- Thematic drift where the story abandons its initial question without coherent development
+- Meta-commentary about meaning replacing scene pressure
+- **Thematic Echo** (a character articulates the story’s thesis in prompt-like language): −0.4 baseline; **−0.6 to −0.8** if it occurs in the final paragraph.
+- **Penalty guidance:** Explicit moralizing or theme statements in the final paragraph that replace scene pressure trigger −0.5 to −0.8 in Q5.
+- Balanced toggles that mechanically present both sides without stance
+
+6. Voice & Point of View
+- Dialogue: see Global Dialogue Policy
+- Purposeful compression and patterned elision are allowed when taught early and legible at closure under the chosen lens. See Global Experimental.
+- POV type and distance are stable and apt for the story’s aims; no unmotivated head-hopping. Experimental tolerance (Q6): purposeful POV slippage or patterned elision is acceptable when taught early and when the closure effect remains legible under the inferred lens.
+- **Multi-POV allowance (Track C):** When single-POV was not specified, evaluate multi-POV under Track C. Require clear section-break switches and a coherent lens at closure. Do not down-score solely for multiple focalizers; score distance control within segments and coherence across them.
+- **First-person plural (“we”):** Treat as single-POV if interior access remains stable (one collective stance) and there is no head-hopping into individuated interiorities.
+- POV modesty and confidence calibration: narrative certainty matches what the focalizer can plausibly know. Inference reads as inference
+- Do not withhold facts the POV already knows solely to manufacture suspense. Purposeful elision is allowed when it imposes cost or creates later friction that the scene then pays off on the page; brief opening elision is allowed if the reveal changes tactics or cost and is paid off on the page
+- Focalization is controlled in time and space; what the narrator can know stays consistent.
+- Narrative stance is consistent and effective; voice modulates with emotional intensity for purpose
+- The prose has a distinct texture in word choice, syntax, and rhythm; vocabulary is controlled and purposeful
+- Purposeful uncertainty, compression, and patterned diction in lyric mode are acceptable when the piece teaches the pattern and pays it off at closure
+- Non-standard grammar, punctuation, or orthography are acceptable when consistent, voice-motivated, pattern-taught, and legible. Do not penalize purposeful deviation whose pattern the piece teaches the reader.
+- Perceptual signature: the narrator’s way of noticing is selective and biased in character-specific ways
+- Dialogue feels natural and goal-driven, carries subtext, and advances plot; rhythm and lexicon distinguish characters and reflect age, education, class, and region (judge dialogue only if present)
+- Dialogue indirection: crucial conversations carry meaning in implication more than declaration
+- Dialogue functions as action; lines pursue goals, evade, wound, persuade, or conceal
+- Free indirect style, if used, is clean; filter verbs are acceptable when voice-motivated and legible; internal thought formatting and tense are consistent
+- Psychic distance shifts are intentional and serve emotional beats
+- Narrator reliability or unreliability accrues through subtle, consistent cues; if unreliable, inconsistencies are revealed through dramatized events, not retroactive explanations
+- Diction remains within the POV’s plausible lexicon; avoid unmotivated shifts into corporate or academic register
+- Tense and stance remain stable within moves unless a justified structural shift occurs
+- Prose as character: syntax and rhythm reflect the mind and state of the focalizer
+- Quote mechanics are clean and conventional unless deviation serves a clear effect
+- Dialogue mechanics are clean and conventional unless deviation serves effect; tag choices fit voice and clarity; beats carry action and subtext
+- Under peak stress, short-term compression of diction is acceptable if the narrator’s internal texture stays consistent and the effect supports pressure.
+
+9+ quick test (Q6): Distinct perceptual signature and rhythmic control under pressure with any elision taught and paid off, no head-hopping.
+
+Common Failures (anti-patterns)
+- Register mismatch between narration and dialogue
+- Dialogue that sounds like written prose rather than spoken language
+- Overuse of filter verbs that dull immediacy when not voice-motivated
+- Non-idiomatic phrasing, artificial constructions, repetitive syntactic patterns, or mechanical template cadence
+- Uniform tics across characters that flatten voice; convergence at emotional peaks
+- Interchangeable or generic narrative voice
+- Inconsistent narrative distance without purpose; POV leakage
+- Expository interiority that explains what has just been shown
+- Choreography clutter that narrates insignificant micro-movements
+- Every character speaking in equally articulate, perfectly grammatical sentences regardless of stress or background
+- Sudden vocabulary or syntax shifts that disrupt the established voice
+- Syntactic monotony that creates a drumbeat rhythm
+- Emotional ventriloquism that asserts non-POV interiority with unwarranted certainty
+- Committee voice that reads like averaged consensus rather than a singular perspective
+- Unreliable narration that confuses rather than enriches
+- Helpful narrator syndrome: over-explaining to assist reader comprehension rather than trusting the dramatization
+
+7. Prose & Line-Level Craft
+- Read-aloud ear test: rhythm varies naturally without algorithmic patterns; sentence openings vary; paragraph lengths create visual rhythm
+- Clarity and concision with momentum: every sentence advances story, character, or atmosphere; remove scaffolding, hedges, redundancies, and near-duplicates
+- Information density: lines often do more than one job without padding
+- Sentence-level propulsion: syntax and rhythm accelerate or breathe in step with scene needs without becoming sluggish
+- Overwriting Checks (tightened penalties):  
+  • Density: if figurative language appears in most sentences of a high-pressure beat without pattern-teaching or payoff, apply −0.3 to −0.7 in Q7.  
+  • Coherence: mixed or contradictory metaphors, or vehicles that violate established physical logic, trigger −0.3 to −0.8.  
+  • Register drift: elevated diction that clashes with the POV’s lexicon in peak beats triggers −0.3 to −0.6.  
+  Escalate beyond these ranges only if clarity at closure is harmed, per the Text-Artifact rule below.
+- Loop/Scaffold Screen: identify and cut boilerplate, synonym churn, repetitive stems, and looped phrasing; if a prose artifact measurably obscures cause/effect or dulls the closure image, penalize here only unless it creates a separate causality break
+  • Paraphrase-loop check: If two adjacent sentences restate the same content without added pressure or detail, apply −0.2 once in Q7.  
+  • Template-cadence check: Runs of identical stems (e.g., “He [verb], then he [verb]...”) across three or more sentences trigger **−0.4 to −0.6** in Q7 unless pattern is taught and pays off.
+- Patterned-artifact penalty pack (tightened; Q7 only, apply once per root type):  
+  • Paraphrase or synonym loops across adjacent lines, template cadence runs, or filter-verb stacks that dull immediacy.  
+  • Stock metaphor strings or therapy-speak labels in peak beats.  
+  • Register drift into corporate or academic diction outside the POV’s lexicon.  
+  Deductions and automatic caps: baseline −0.6 to −1.4 in Q7 depending on spread; −1.7 if artifacts touch the closure beat. If any artifact appears in the final third, disallow 9+ in all categories and cap high-band entries at 8.8. **Filter-verb stacks clustered in a high-pressure beat (≥3 lines) add −0.5 in Q7 and disallow 9+ globally.** If artifacts pervade dialogue, apply −0.2 in Q6 once for voice contamination **only when** they materially reduce character distinctness or distance control (do not duplicate core penalties elsewhere).
+- Show through concrete action and image; tell only when efficient and strategic; do not summarize pivotal beats that warrant scene
+- Strategic telling that compresses transit or background is a positive when it increases density and momentum.
+- Grammar, usage, and punctuation are clean; pronoun references unambiguous; tense and aspect are consistent; action order is clear
+- Paragraph structure varies purposefully; paragraph cut test: if removing a paragraph does not change knowledge, intention, situation, or emotional charge, revise or cut
+- Syntactic variety supports rhythm and emphasis; avoid runs of identical sentence structures unless the effect is deliberate
+- Prefer clear subjects and strong verbs; use passive deliberately; replace weak nominalizations where possible without harming voice
+- Word choice favors specific nouns and strong verbs over weak modifiers; avoid thesaurus-itis
+- Technical or specialized terminology is accurate and used in service of character or world
+- Proofreading and copy consistency catch homophones, typos, and inconsistencies in names, places, and style choices
+- Sequence clarity: when actions are sequential, avoid simultaneity constructions that imply overlap
+- Logical connectors are used precisely to establish true causal or temporal relations
+- Opening line anchors voice and stakes; final line resolves by image or action that recharges earlier motifs
+- Textural specificity replaces generic high-level descriptors with concrete, idiosyncratic detail
+- High-priority loop check: no paraphrase loops, synonym cycles, or conceptual redundancy across adjacent lines or paragraphs, including repetitive openings
+
+Apply artifact and loop penalties here only unless they create a separate causality break; do not duplicate in Q2 or Q4.
+
+9+ quick test (Q7): Zero loops or scaffold, high information density with clear propulsion, and no figurative muddle in peak beats.
+
+Text Artifact Screen (apply once in Q7 only)
+- Allow pattern-taught repetition, sentence fragments, and non-standard punctuation when legible and purpose-driven; do not infer “artifact” from repetition or parallelism alone.  
+- Text-artifact guard: Minor scaffold/loop issues → −0.2 max total. Apply −0.3 to −2.0 only if a prose artifact measurably obscures cause/effect or dulls the closure image; do not also penalize in Q2/Q4 for the same root effect.
+- Generation artifacts: Ignore bracketed per-sentence word counts or similar scaffolding tokens inserted by the generator. Treat them as non-textual unless they obscure causality or closure; do not deduct for their mere presence.
+
+Common Failures (anti-patterns)
+- Repetitive phrasing, scaffold sentences, synonym churn, or text loops
+- Generic adjectives and adverbs in place of specific nouns and verbs
+- Purple prose or stacked modifiers that blur sense
+- List-like transitions and boilerplate stock openers where not voice-motivated
+- Unmotivated precise numbers or brand lists that distract
+- Metaphors that are strained or self-contradictory and reduce clarity
+- Simultaneity errors from participle openers when actions are sequential
+- Inconsistent tense or aspect; time-line confusion
+- False expertise or suspicious vagueness in technical detail
+- Buried leads: crucial information hidden mid-paragraph
+- Puppet-master micro-movement narration that externalizes joints without purpose
+- Every character speaking in equally articulate, perfectly grammatical sentences regardless of stress or background
+- Syntactic monotony that creates a drumbeat rhythm
+- Lexical illusion: low-frequency vocabulary used correctly but tonally jarring for the established voice, POV, or context
+
+8. Originality & Ingenuity
+- All core elements serve character and conflict; combinations feel organic, not a checklist
+- Tropes are transformed through specific, grounded choices in character, world, and theme
+- Details are particular to this voice and setting; perspective feels memorable
+- Turns or reweightings feel earned in hindsight; key beats arise from established pattern or character choice rather than late rule changes
+- Core premise or frame offers a fresh, non-obvious angle on familiar material
+- Emotional truth and human complexity matter more than surface novelty; emotional specificity avoids generic templates
+- Specific, verifiable detail creates freshness without quirky ornament for its own sake
+- Originality often synthesizes existing ideas made specific through character, setting, and stakes
+- Transformation test: if plot and emotional arc work unchanged with different names and places, freshness is likely insufficient
+- Proximity check: no close echoes of famous lines, images, or scenes without clear transformation
+- Engagement with genre conventions is thoughtful, either executed at a high level or subverted in meaningful ways
+- Authenticity of vision: voice, subject, and style cohere as a singular artistic stance, not a stitched response to a prompt
+- At least one fresh inflection: a turn, intensification, or final reconfiguration that grows from prior particulars
+- Conceptual integrity: the story commits fully to its premise and follows its implications without retreat
+- Resists abstraction and generic everywhere or nowhere settings; specificity anchors universals
+- Avoids the safety middle that chooses median options to evade risk
+- Bold risk-taking: unconventional structural or perspectival choices heighten stakes and meaning without gimmickry
+- Within-band adjustment (Q8 only), Bonus Consideration: Risk distinction (+0.2 to +0.5) when unconventional choices heighten stakes and coherence and the closure effect remains legible without causing gate failures
+- Derivative Premise Guardrail: If the core premise closely matches widely used writing templates and the story does not transform it through specific lived detail, world logic, or a non-obvious moral calculus, apply a −0.5 to −1.5 adjustment within Q8. Transformation can restore full range.
+
+9+ quick test (Q8): A specific, non-obvious synthesis feels inevitable in hindsight and risk-taking heightens stakes without obscuring clarity (+0.2 to +0.5 within band).
+
+Common Failures (anti-patterns)
+- Template plots and stock metaphors without a fresh angle
+- Near-echoes of famous lines or scenes without transformation
+- One-size-fits-all generalities that could apply to any story
+- A clever twist that lacks groundwork in characterization and causality
+- Reliance on fads or trends in place of durable insight
+- Middle-ground hedging that avoids bold, specific choices
+- Wikipedia-voice intrusions that read like encyclopedia exposition
+- Overreliance on familiar archetypes without personalization
+
+9. The story was supposed to use certain elements. Rate each of them on a 0.0–10.0 scale of how tightly it fits into the story's logic, tone, and momentum. Consider how each element shapes the narrative arc, enriches the setting, deepens character motives, and supports the theme. Score high only when removing that exact element would fundamentally break the story’s logic, stakes, or closure; “present” or merely “logically consistent” use trends low. All elements should flow and fit together very well
+For 600–800 words, score all required elements A–J; if the required element is “None,” mark N/A.
+
+Q9 scoring independence: Score each element’s integration on a 0.0–10.0 scale independently of Q1–Q8 grades. If an element’s poor integration causes plot breaks, orientation loss, escalation failures, voice leakage, or line-level artifacts, note and score those specific failures in the relevant Q1–Q8 category. Do not alter Q1–Q8 merely because an element exists or is absent. For 600–800 words, judge each element on integration with the dominant stake or closure participation; early signal remains favored. **No bleed-through:** do not lower Q1–Q8 solely because an element was forced or awkward; deduct in a category only when that element demonstrably causes that category’s harm. **No checklist credit:** the mere presence of all elements does not lift Q1–Q8.
+
+For each question 9 A to 9 J, score all required elements for a 600–800 word story. If the required element is "None", score N/A
+9 A. Character: {character} Rate whether this character’s choices create key turns; observation without decision trends low; decisions that alter tactics trend high.  
+9 B. Object: {object} The object should be handled or used in ≥2 beats or return with reweighted meaning; static description trends low; evolving use or charged reprise trends high.  
+9 C. Core Concept: {core_concept} The concept should shape stakes and tactics on the page; if only echoed as theme, score low; if it changes options, score higher.  
+9 D. Attribute: {attribute} The trait should constrain or enable at least one on-page action with a cost; label-only mentions trend low; visible tradeoffs trend high.  
+9 E. Action: {action} Major turns should trace to this action; if easily swappable with minor edits, mid-band at best; if it redefines options, score higher.  
+9 F. Method: {method} The means should be signaled and its mechanics should matter; if it merely appears at the end, trend low; if it shapes attempts, score higher.  
+9 G. Setting: {setting} Setting should pressure choices or supply resources that affect outcome; postcard description trends low; micro-setting that alters tactics trends high.  
+9 H. Timeframe: {timeframe} Time should tighten decisions and tactics; vague or untracked time trends low; a live clock that alters moves trends high.  
+9 I. Motivation: {motivation} Desire should be dramatized and conflicted in choices; told-only trends low; friction between wants and costs trends high.  
+9 J. Tone: {tone} Tone should be coherent through turns and modulate with pressure; a single static mood trends mid-low; tone that charges the final image trends high.
+
+Rating scale — smooth bands, no hard caps
+- N/A if the required element is "None"
+- 0.0 if the element is absent
+- 0.1–2.9 Present but ornamental or forced. Mentioned or described without affecting choices or momentum.
+- 3.0–4.9 Functional but replaceable. Logically present yet swappable with a similar element without structural impact.
+- 5.0–6.9 Shapes one key turn or choice. Causal role in one major beat, or a purposeful early–final reprise that reweights meaning.
+- 7.0–8.4 Essential across beats and ending. Drives at least two beats and contributes to the ending’s charge or consequence.
+- 8.5–10.0 Indispensable. Story logic or final image would fail without this exact element.
+
+Gate model (flexible, two-of-three)
+Use three integration gates: Setup (present by end of first third), Development (constrains or enables a middle choice), Payoff (present in or directly shaping the ending).
+- With any two gates, the element is eligible up to ~6.0; a strong lyric reprise (first paragraph → last line) that clearly reweights the stake can reach ~6.3.  
+- With all three gates, the element is eligible for ≥6.1 and can reach higher bands based on strength of causal pressure, specificity, and cost.
+- This is a guidance system, not a hard stop; use the band guidance and adjustments below to place the final score smoothly.
+
+Positive integration signals (additive guidance)
+- Early signal (setup): frames expectation +0.3 to +0.8  
+- Beat involvement:  
+  • one distinct beat +0.4  
+  • two distinct beats +0.9  
+  • three or more +1.4  
+- Causal pressure: narrows options or enables tactics under stress +0.5 to +1.6  
+- Closure linkage: appears in or decisively shapes the final image/action +0.7 to +1.8  
+- Specificity/irreplaceability: unique properties matter +0.3 to +0.8  
+- Cost connection: visible or conceptual price tied to the element +0.3 to +0.6
+
+Integration frictions (subtractive guidance)
+- Late first appearance: second third −0.2 to −0.5; final third −0.6 to −1.0  
+- Ornamental use: description without action pressure −0.5 to −1.0  
+- Swappability: near-synonym could replace it with minor edits −0.4 to −0.8  
+- Summary-only: key involvement recounted, not dramatized −0.4 to −0.8  
+- Resolves a problem it did not help create: −0.7 to −1.3  
+- AI-pattern artifacts on this element’s beats: template cadence, label-only traits, synonym churn −0.3 each, up to −0.9
+
+Lyric-resonance allowance
+A purposeful early seed → final reprise without mid-scene use can still score in 5.5–6.3 when the return reweights the dominant stake and carries cost in the ending image.
+
+Dominant limiter rule
+If multiple frictions apply, use the single strongest limiter to set the score’s upper neighborhood and apply other frictions as small nudges only. Avoid double-penalizing the same root weakness.
+
+Default posture
+Assume minimal integration (≤3.0) unless the element demonstrates necessity through causal pressure, repetition across beats, closure linkage, or charged specificity.
+
+Band guidance (interpretive, not caps)
+- ≥7.0 usually shows two or more positives among causal pressure, closure linkage, and beat involvement.  
+- ≥8.5 typically shows strong causal pressure and closure linkage and high irreplaceability, with a felt cost.  
+- Late arrivals can still score solidly if they transform prior material and articulate cost; apply smaller late penalties when transformation is undeniable.
+
+Rounding
+Always round down to the nearest 0.1.
+
+
+If any gate is missing, apply the cap below and do not exceed it:
+- Missing setup → cap 4.6
+- Missing middle development → cap 3.4
+- Missing closure participation → cap 2.8
+
+Additional caps and adjustments (lowest cap wins)
+- Introduced after the 40% mark → cap 4.6
+- Late element that resolves a problem it did not help create → cap 3.0
+- Element that could be swapped for a near-synonym or generic equivalent with minor edits → cap 3.8
+- Scores ≥7.0 require a specific cost tied to the element on the page; generic scene cost does not qualify
+- No piggyback closure credit: cameos in the final image do not count as closure participation; the element must be causally active or visibly reweighted there
+- Count integrity: repeated mentions within one contiguous beat count as a single touch; spaced, functionally different beats are required
+- Text-pattern deductions within band (cumulative to −1.0 max per element): decorative mention −0.3; label-only trait or theme claim −0.3; summary-only use −0.3; synonym churn or templated phrasing on this element’s beats −0.3
+- Default anchor: start at 3.0; raise only for demonstrated causal work
+- Rounding: always round down to the nearest 0.1
+
+Deduction policy (applies to all categories)
+- Prioritize closure-scene harm over frequency
+- Repeated slips of the same type count once unless they escalate stakes or distort causality
+- When a single root flaw spans categories, penalize it where closure clarity or escalation is most affected (usually Plot for causality, Conflict for escalation)
+- When elements compete, prefer those present in or shaping the closure unit. Do not reward ornamental mentions.
+- For 600–800 words, apply the Non-closure Accumulation Cap per category as defined above.
+- When overlap exists, deduct where closure clarity or escalation is most affected and do not re-penalize elsewhere.
+
+Noted global anti-patterns 
+- Abrupt topic switches or contradictions in facts, time, or spatial layout
+- Key climaxes summarized rather than dramatized
+- Seam and stitch artifacts: template cadence, synonym loops, sudden register or tense flips without cause
+- As-you-know exposition in dialogue
+- Retroactive omniscience: narration claims knowledge not available at the time of the narrated moment
+- Physics or biology amnesia: impossible stamina, injury recovery, or object behavior used for convenience
+- Time dilation or compression errors that make actions impossible
+- Credibility standard: Penalize only when the text contradicts its own established rules or violates baseline physical constraints without signaling an altered reality. If a deviation is intentional, the story must cue the rule change through action and perception before relying on it at a closure beat
+- Protagonist passivity with convenience plotting
+- Emotional or logical non-sequitur reactions or scene turns
+- Syntactic uniformity that overuses a single sentence pattern
+- Experimentation or cleverness that obscures clarity without purposeful effect
+- Scene breaks without clear temporal or spatial anchors
+- Expository thought that paraphrases on-page action instead of advancing it
+- Inconsistent spelling or diacritics for names and places
+- Emotional flatlining after extreme events without recovery or consequence on the page
+- The explain-everything ending that mechanically resolves all ambiguity
+- False complexity that adds complications without actual cost
+- Symmetric satisfaction that grants equal resolution regardless of narrative importance
+- Frozen-time monologue during high-tempo action where the clock would not allow it
+- Late-breaking rule change that introduces a new ability or world rule near the end to solve a problem it did not help create
+- Thesaurus churn that inflates texture without advancing sense
+- Perfect recall under stress for precise phrases or complex details
+- Simultaneous processing of multiple complex thoughts during demanding physical tasks
+- Consensus reality where all characters interpret ambiguity identically
+- Cognitive smoothness that omits misunderstanding, mishearing, or misremembering
+
+Cross-category continuity check
+- Names, pronouns, ages, diacritics, timeline, geography, and prop states remain stable; emotional, physical, and knowledge states persist unless causally changed on the page
+- After any shift in time or place, promptly anchor who, where, and when before advancing conflict
+- Pronoun and anchor clarity after subject shifts, especially when multiple same-gender characters are present in a scene
+- Evidence of carry-through: established injuries, rules, or object states constrain later action or are explicitly worked around
+- Real-world facts, procedures, and ordinary behaviors read as accurate for the field and locale
+- Narrative clock awareness: interior reflection during high-tempo scenes must fit plausible elapsed time
+- Emotional states carry forward with realistic inertia; no resets that ignore prior cost
+- Presence embodied: recurring objects and tools are handled on the page and their changing states alter later choices
+- Do not penalize the same root flaw in multiple categories unless it manifests differently. When overlap exists, deduct where closure clarity or escalation is most affected (usually Plot for causality, Conflict for escalation)
+- Orientation debt rule: see Q2 Orientation Test for the sole penalty and waiver conditions.
+
+Global Gates (apply to Q1–Q8)
+1) Drive lens inferred by evaluator and held across all categories: Causal, Accumulative/Textural, Situational, or Hybrid (judge under the dominant lens at closure).  
+2) On-page closure required: either Decisive Change, a Resonant Reconfiguration (Earned Stasis and Charged Poise qualify), or Conceptual Repricing (CR). Felt cost may be emotional, relational, or opportunity; conceptual or social cost qualifies when the final image makes it undeniable. Quiet, lyric, collage, or open endings qualify when the final image reweights prior material with undeniable pressure. Closure form and validity are owned by Q2.  
+3) Length & scope defaults for 600–800 words: single POV; one continuous scene or two shards within one contiguous window; max one transition; one dominant stake; 1–2 on-page characters. **Alternate Tracks:** Mosaic (≤4 shards; pattern taught by ~25%; legible transitions; coherent lens) and Multi-POV (section-break switches; no mid-paragraph head-hopping; coherent ending lens) are allowed without caps when their tests are met.  
+4) Penalty routing, accumulation caps, rounding, and the experimental add-on remain as written.
+
+Cross-caps that prevent drift into high bands
+- **No default-violation caps:** Do not apply global caps for violating defaults (single-POV, two-shard, ≤2 characters, BRR %) when Track B/C or the BRR exception tests are met. Cap only when the violation causes orientation, escalation, or line-level harm.  
+- Orientation debt present (Q2 penalty applied): cap all categories at 8.3; Q3 remains capped at 7.0 per the Orientation Test; additionally cap Q6 at 7.8.  
+- Lens ambiguity at closure (evaluator cannot name Causal, Accumulative/Textural, Situational, or Hybrid dominant at the end): apply −0.4 in Q2, cap Q2 at 7.2, and cap all other categories at 8.0.  
+- No meaningful escalation under the chosen lens (Q4 ≤6.9 for pressure): cap Q5 at 7.2 since theme cannot outrun pressure.  
+- Heavy line-level debt (Q7 ≤7.0 from artifacts): cap Q6 at 7.6 and disallow 9+ in all categories.
+
+Cross-category 9+ Standard
+- Closure lands on the page with felt or conceptual cost, and the inferred drive lens holds without contradiction.  
+- Category-specific execution is exemplary under pressure.  
+- Plus at least two elevating features:  
+  (a) environment or constraint meaningfully shapes tactics or the final image,  
+  (b) final image or recurring object recharges prior material,  
+  (c) diction/rhythm control heightens pressure without obscuring clarity.  
+- Ladder: 9.0–9.4 exceptional with minor hairline slips; 9.5–10.0 rare, fully integrated, no slips that touch closure.
+
+Scoring Guidance for Categories 1–8 (single-story consistency)
+
+- **Rater posture:** Start each category in the mid-6s only when the quick test is clearly satisfied on the page; otherwise assume the 5s and move up strictly on evidence tied to closure or escalation.
+- **Distribution anchor:** For typical submissions, expect medians per category ~5.6–6.2, top decile ~7.4–8.0, ≤3% ≥8.8. Treat 8.8+ as publish-now caliber under this rubric.
+
+Purpose
+- Anchor scores to immediate publishability in elite venues
+- Enforce tough, repeatable standards per category when evaluating one story at a time
+
+Expectation Parity (Prompt-Alignment)
+- When the generation prompt does not specify a format constraint (e.g., single POV, one scene/two shards, ≤2 on-page characters, strict reflection %), treat those constraints as defaults, not gates.  
+- If a piece violates a default but maintains clarity, pressure, and a legible closure effect under an inferred lens, do not apply automatic caps. Score execution quality; route real problems to the category they harm (orientation → Q2, escalation → Q4, line debt → Q7).  
+- Calibration guardrail: Expectation Parity does not waive high-band gates (e.g., closure quality in Q2, pressure in Q4, line-level control in Q7).
+
+Length and scope (600–800 words)
+- Choose one:  
+  (a) Single continuous scene in one location, or  
+  (b) Two-shard sequence (accumulative designs) within one contiguous window that resolves to a single closure unit, or  
+  (c) Mosaic Track (≤4 shards) taught by ~25% with legible transitions and a coherent lens to closure, or  
+  (d) Multi-POV Track with clear section-break switches, no mid-paragraph head-hopping, and a coherent ending lens.  
+- One dominant stake. One brief micro turn allowed.  
+- Minimal backstory; include only if it changes a present choice or primes closure.
+
+- Require an on-page closure effect: Decisive Change, a Resonant Reconfiguration (Earned Stasis and Charged Poise qualify), or a Conceptual Repricing with visible, felt, or conceptual cost. Cost may be implied if the final image makes it undeniable.
+- Backstory/Reflection Policy: see BRR
+- One primary stake; an optional secondary accent is allowed but not required
+- One credible on-page cost (action, forfeiture, or realization) that alters later options or forecloses a path or a Charged Poise/Conceptual Repricing moment where the cost is felt and pressure is undeniable
+
+Category priority check (applies to Q1–Q8)
+- Evaluate closure beats first. If the closure unit is clean for this category, cap minor non-closure deductions at −0.4.
+- Non-closure Adjustment: Modify the base by up to ±0.4 based on supporting moves. Exceptional support can lift; pervasive minor issues can lower.
+- Score anchors (tightened): ~4.0 functional but limited; ~7.2–7.9 strong; 8.5–8.9 very strong with no slips touching closure; 9.0–9.4 exceptional with hairline slips; 9.5–10.0 rare, fully integrated.  
+- 9.0+ may be awarded in any category when mastery is evident under the inferred drive lens; do not require causal turns for accumulative/lyric or situational designs.
+
+Alternate structures (mosaic, lyric, elliptical)
+- Non-linear, mosaic, accumulative/lyric, situational, circular, or quiet endings are valid if pressure accumulates toward an on-page decisive change or a resonant reconfiguration or conceptual repricing that reconfigures meaning
+- The reader can trace a before or after change in stakes or stance without exposition
+- Earned Stasis qualifies when refusal or endurance forecloses a path with visible cost on the page
+- Charged Poise qualifies when the final moment crystallizes options and reconfigures meaning with undeniable pressure even if the cost is not yet paid
+- Conceptual Repricing (CR) qualifies when the final image or realization reweights the premise or rule-set with undeniable conceptual or social cost
+- No requirement for a set-piece confrontation; closure may be a renunciation, internal shift, a pattern of charged callbacks, or a quiet image with visible or felt cost
+
+---
+Sample output format, you must follow this format and use tags <question></question><grade></grade>:
+
+<question>1</question><grade>4.3</grade><comment>..</comment>
+<question>2</question><grade>7.6</grade><comment>..</comment>
+<question>3</question><grade>0.2</grade><comment>..</comment>
+<question>4</question><grade>10.0</grade><comment>..</comment>
+<question>5</question><grade>9.8</grade><comment>..</comment>
+<question>6</question><grade>4.8</grade><comment>..</comment>
+<question>7</question><grade>4.8</grade><comment>..</comment>
+<question>8</question><grade>4.8</grade><comment>..</comment>
+<question>9 A</question><grade>2.1</grade>
+<question>9 B</question><grade>8.3</grade>
+<question>9 C</question><grade>1.5</grade>
+<question>9 D</question><grade>N/A</grade>
+<question>9 E</question><grade>10.0</grade>
+<question>9 F</question><grade>0.1</grade>
+<question>9 G</question><grade>0.6</grade>
+<question>9 H</question><grade>5.4</grade>
+<question>9 I</question><grade>7.3</grade>
+<question>9 J</question><grade>2.8</grade>
+
+Comments must be ≤4 sentences per question to preserve density and avoid scaffold.

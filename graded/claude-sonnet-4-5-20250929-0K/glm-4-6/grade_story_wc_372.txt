@@ -1,0 +1,72 @@
+grade_story_wc_372.txt
+<question>1</question>
+<grade>5.8</grade>
+<comment>Elara's "gently meticulous nature" is asserted repeatedly but never forces a trade-off or creates contradiction. Her work proceeds without obstacle, internal conflict, or cost—she simply measures vows and succeeds. The final "gently meticulous hand" reprise reads as label recycling rather than earned character revelation. No embodied emotion or micro-choice under genuine pressure appears on the page.</comment>
+
+<question>2</question>
+<grade>5.2</grade>
+<comment>Orientation is clear early. The piece reads as Accumulative/Textural: Elara measures vows while the Great Forgetting approaches. However, no decisive change or felt cost lands on the page—she completes her task without complication, and the final paragraph declares success via summary rather than dramatizing a reweighted image or foreclosed path. The closure unit is missing; the ending reports completion rather than reconfiguring options or meaning with visible cost.</comment>
+
+<question>3</question>
+<grade>6.4</grade>
+<comment>The frozen library, crystalline air, and cloud-piercing windows are vividly rendered and consistent. The frequency sampler and magic lantern slide anchor action. However, setting remains largely decorative; the environment does not constrain Elara's choices or alter tactics under pressure. The final image does not charge setting details with new meaning.</comment>
+
+<question>4</question>
+<grade>4.9</grade>
+<comment>The dominant stake—capturing vow frequencies before the Great Forgetting—is signaled early. Yet Elara faces no reversal, complication, or meaningful tightening; each vow is measured successfully in sequence. The urgency is declared ("more urgent," "window narrowing") but never dramatized through a failed attempt, forced trade-off, or cost that alters tactics. No on-page price is paid.</comment>
+
+<question>5</question>
+<grade>6.1</grade>
+<comment>A coherent theme—preservation against oblivion, meaning conjured from impermanence—emerges through particulars (luminous vows, frequency sampling, the Great Forgetting). The final image offers a conceptual answer without overt moralizing. However, the theme is somewhat abstracted and the ending declares rather than dramatizes the resonance; the vows' survival as data feels asserted more than felt.</comment>
+
+<question>6</question>
+<grade>6.3</grade>
+<comment>Single-POV focalization is stable; distance and tense are consistent. The voice has a distinct lyric-textured register ("quartz hush," "ephemeral crystals") that suits the setting. However, diction occasionally drifts into elevated abstraction ("liminal space," "database of impermanence") that feels imposed rather than character-specific. The single line of dialogue reads as functional recording rather than revealing psychological pressure.</comment>
+
+<question>7</question>
+<grade>5.4</grade>
+<comment>Clarity is generally strong, but multiple paraphrase loops and synonym cycles appear: "gently meticulous nature" (three times), "luminous vows" (eight times without functional variation), "quartz hush" (twice in identical phrasing). Figurative density is high without clear pattern-teaching or payoff—"crystalline," "ephemeral," "liminal," "quartz" cluster heavily in the opening third and dilute rather than charge key beats. Template-cadence runs ("The vows had been…The vows represented…") and stock phrasing ("her work completed the cycle") reduce momentum. Apply −0.8 cumulative for loops/scaffold and figurative muddle in Q7.</comment>
+
+<question>8</question>
+<grade>5.6</grade>
+<comment>The premise—a records chief preserving metaphysical vows in a frozen sky-library—synthesizes speculative and lyric elements with some freshness. However, the emotional arc and conflict structure are generic: a meticulous character completes a task without complication. The "Great Forgetting" and "luminous vows" read as abstract genre furniture rather than lived, specific particulars. No bold risk heightens stakes; the piece stays safely within its established register.</comment>
+
+<question>9 A</question>
+<grade>4.2</grade>
+<comment>Elara is present throughout and performs the central action (measuring), meeting setup and development gates. However, her choices do not create turns—she proceeds without obstacle or decision point. The ending reports her success rather than dramatizing a choice that alters outcome. Cap at 4.6 for no closure causal work; lower to 4.2 for replaceable agency (any meticulous technician could perform the same task).</comment>
+
+<question>9 B</question>
+<grade>6.8</grade>
+<comment>The magic lantern slide appears early, is used repeatedly (Elara measures vows trapped within it across multiple beats), and is placed in the preservation chamber at the end, meeting all three gates. It enables the central action and its preservation frames closure. However, it does not constrain choices or shift meaning between early and final mentions—it remains functionally static. Score 6.8 for solid beat involvement and closure presence without causal pressure or reweighted reprise.</comment>
+
+<question>9 C</question>
+<grade>5.9</grade>
+<comment>Luminous vows appear early, shape the task (measuring their frequencies), and are mentioned in the final paragraph, meeting all gates. They define what Elara measures and why (impending fade). However, they function largely as abstract objects rather than forcing tactical choices or creating felt cost. The concept is present and functional but does not narrow options under pressure. Score 5.9 for beat participation without strong causal constraint.</comment>
+
+<question>9 D</question>
+<grade>3.6</grade>
+<comment>"Gently meticulous" is introduced early and repeated three times as a label. It describes Elara's manner ("movements economical and precise," "careful observations") but never constrains or enables a choice with visible cost—no trade-off between meticulousness and speed, no error from over-caution. Setup and development are label-only; no closure work. Cap at 4.6 for missing closure gate; lower to 3.6 for ornamental, swappable use.</comment>
+
+<question>9 E</question>
+<grade>6.4</grade>
+<comment>Measuring is the dominant action, introduced early and performed across multiple beats (each vow's frequency is recorded). It shapes the narrative arc and enables closure (data recorded, slide preserved). However, the act of measuring does not create reversals or force tactical shifts—Elara measures successfully each time without complication. Score 6.4 for essential beat work without causal pressure or cost.</comment>
+
+<question>9 F</question>
+<grade>5.7</grade>
+<comment>Frequency sampling is introduced early ("activated the frequency sampler") and its mechanics (terahertz measurements, luminosity tracking) are shown on the page across beats. The method matters to the task and is present at closure ("meanings...carefully measured"). However, the sampling does not constrain attempts—no frequencies resist capture, no calibration problem arises. Score 5.7 for functional presence without tactical friction.</comment>
+
+<question>9 G</question>
+<grade>5.3</grade>
+<comment>The frozen library above clouds is vividly established early, sustained throughout, and mentioned in the final line. Setting provides atmosphere and anchors action (the workstation, preservation chamber). However, it does not pressure choices or supply resources that alter outcome—Elara's work would proceed identically in any archive. Score 5.3 for strong descriptive presence without causal or tactical constraint.</comment>
+
+<question>9 H</question>
+<grade>4.8</grade>
+<comment>The timeframe "while illusions fade to memory" and the approaching Great Forgetting are introduced early and mentioned at closure. Urgency is declared ("window narrowing," "more urgent") but not dramatized—no vow escapes measurement, no clock forces a choice between speed and accuracy. The timeframe is present but does not tighten decisions. Cap at 4.6 for missing tactical pressure; slight lift to 4.8 for closure mention.</comment>
+
+<question>9 I</question>
+<grade>5.1</grade>
+<comment>The motivation "to conjure meaning from the edge of oblivion" is stated early ("her motivation burned clear and bright") and referenced at closure ("her purpose"). However, it is told rather than dramatized through conflicted choices—Elara's desire never faces friction, cost, or contradiction. The want is present but not tested. Score 5.1 for setup and closure mention without on-page conflict or trade-off.</comment>
+
+<question>9 J</question>
+<grade>6.7</grade>
+<comment>"Quartz hush" is introduced in the opening line, repeated midway ("quartz hush of the frozen library"), and returns in the final line ("enveloping quartz hush"). The tone is consistent—still, cold, crystalline—and modulates subtly as urgency increases ("dimmed," "threatened to settle"). It coheres through turns and charges the final image. Score 6.7 for strong setup-to-closure arc and coherent modulation without deep causal pressure.</comment>

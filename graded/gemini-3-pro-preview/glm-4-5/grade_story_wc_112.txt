@@ -1,0 +1,19 @@
+grade_story_wc_112.txt
+<question>1</question><grade>4.1</grade><comment>Aris is a functional vessel for the plot with no internal contradiction or distinct voice. Her motivation is stated rather than dramatized through struggle, and she pays no emotional or physical cost for her success, resulting in a flat character arc.</comment>
+<question>2</question><grade>4.4</grade><comment>The narrative follows a linear, low-tension procedural structure where the experiment succeeds without obstacle. The closure is an unearned victory lap that lacks the required Decisive Change with visible cost; the outcome is inevitable from the start.</comment>
+<question>3</question><grade>4.6</grade><comment>The setting relies on abstract technobabble ("temporal ripples," "holographic matrix") rather than grounded sensory specifics. While "violet skies" hints at a wider world, the environment largely feels like a generic white-room laboratory.</comment>
+<question>4</question><grade>3.2</grade><comment>There is virtually no conflict; the protagonist faces no external resistance, internal doubt, or risk of failure. The escalation is mechanical (pulling a sequence of levers) rather than dramatic, devoid of stakes or trade-offs.</comment>
+<question>5</question><grade>3.8</grade><comment>Themes are delivered through on-the-nose exposition ("proof... that consciousness wasn't linear") rather than subtext. The ending relies on a triumphant summary of meaning that feels unearned given the lack of narrative pressure.</comment>
+<question>6</question><grade>3.5</grade><comment>The narrative voice is severely compromised by the robotic repetition of full phrases ("mechanically warm," "magnetic nexus at twilight"). This checklist-style insertion destroys immersion and creates a stilted, artificial cadence.</comment>
+<question>7</question><grade>2.8</grade><comment>Severe text artifacts are present; specific prompt phrases (e.g., "mechanically warm," "subdued awakenings") are repeated verbatim multiple times (3-4x each), causing significant drag. This repetition flags a failure to integrate language organically.</comment>
+<question>8</question><grade>3.9</grade><comment>The story relies on a standard "scientist makes discovery" trope without subverting conventions or adding fresh emotional specificity. The concept of "sideways time" is intriguing but remains treated as jargon rather than a novel lived experience.</comment>
+<question>9 A</question><grade>5.2</grade>
+<question>9 B</question><grade>4.8</grade>
+<question>9 C</question><grade>3.5</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>3.0</grade>
+<question>9 G</question><grade>4.2</grade>
+<question>9 H</question><grade>3.2</grade>
+<question>9 I</question><grade>6.8</grade>
+<question>9 J</question><grade>2.5</grade>

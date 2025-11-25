@@ -1,0 +1,19 @@
+grade_story_wc_145.txt
+<question>1</question><grade>4.2</grade><comment>Characterization relies heavily on abstract labels ("subtly confident," "knowing") rather than dramatized traits. Clara’s motivation is stated philosophically but lacks visceral grounding; her internal struggle is minimal, as she overcomes the central obstacle with ease and a magical phrasebook.</comment>
+<question>2</question><grade>4.5</grade><comment>Causality is undermined by the phrasebook, which functions as a convenient oracle (flipping automatically to relevant diagrams) without established rules. The "Years later" epilogue dissipates the immediate tension of the discovery, creating a summary ending rather than a dramatized closure unit.</comment>
+<question>3</question><grade>5.6</grade><comment>The frozen landscape is established with some sensory competence ("smelled of pine resin"), but the setting often dissolves into abstraction ("skeletal relic"). The magical properties of the convergence and the phrasebook are not grounded in the established reality, making the world feel inconsistent.</comment>
+<question>4</question><grade>4.0</grade><comment>Stakes are declared ("You'll die out there") but never felt; Clara faces no genuine opposition from the environment or Jorn. The resolution comes too easily via the phrasebook's guidance, lacking a sense of earned cost or difficult trade-off.</comment>
+<question>5</question><grade>3.8</grade><comment>The theme is delivered through explicit moralizing dialogue ("Maps are lies. They erase the truth") rather than subtext or action. The story relies on "Thematic Echo" where characters state the thesis, flattening the potential for genuine resonance.</comment>
+<question>6</question><grade>4.8</grade><comment>The narrative voice leans into melodrama ("It was a knowing") and portentous abstraction. While the POV is stable, the tone creates a distance that prevents emotional engagement, and the dialogue often reads like aphorisms rather than natural speech.</comment>
+<question>7</question><grade>4.5</grade><comment>Prose suffers from awkward phrasing to accommodate prompt elements ("subtly confident finger") and abstract telling ("It was a knowing"). The reliance on adjectives and philosophical summary slows momentum and reduces clarity.</comment>
+<question>8</question><grade>4.2</grade><comment>The premise of a mapmaker finding a metaphysical truth is a familiar trope, and the execution follows a standard path without subversive twists. The magical realism elements feel like convenient plot devices rather than an organic part of the world's logic.</comment>
+<question>9 A</question><grade>8.5</grade>
+<question>9 B</question><grade>6.2</grade>
+<question>9 C</question><grade>7.5</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>2.8</grade>
+<question>9 F</question><grade>5.5</grade>
+<question>9 G</question><grade>8.0</grade>
+<question>9 H</question><grade>6.0</grade>
+<question>9 I</question><grade>7.0</grade>
+<question>9 J</question><grade>5.0</grade>

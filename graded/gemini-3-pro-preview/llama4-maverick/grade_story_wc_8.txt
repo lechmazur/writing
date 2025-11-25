@@ -1,0 +1,19 @@
+grade_story_wc_8.txt
+<question>1</question><grade>3.2</grade><comment>Characterization relies entirely on exposition and labels ("emotionally rational") rather than demonstrated traits. There is no internal conflict or contradictory impulse; Emilia functions as a passive vehicle for the plot with no embodied emotion or felt cost.</comment>
+<question>2</question><grade>3.5</grade><comment>The narrative follows a linear, low-resistance path where obstacles are overcome via summary ("task was not an easy one"). Closure is technically a victory but lacks the required felt or conceptual cost, reading as an unearned "happy ending" driven by weak causality.</comment>
+<question>3</question><grade>4.1</grade><comment>The setting relies on Gothic clichés ("skeletal fingers," "morbid perfume") that serve as atmospheric wallpaper rather than constraints on action. The personification of the ivy is ornamental and does not pressure the character's choices.</comment>
+<question>4</question><grade>2.2</grade><comment>Conflict is virtually non-existent on the page; the struggle against "noble lies" is abstract and resolved through a montage-like summary of effort. There is no antagonist, no time pressure, and no escalation of stakes.</comment>
+<question>5</question><grade>2.8</grade><comment>The theme is delivered through explicit moralizing ("rescue truth from the pit of lies") rather than subtext or narrative action. The concept of "noble lies" is handled as a binary good/evil dynamic without the promised complexity.</comment>
+<question>6</question><grade>3.8</grade><comment>The narrative voice is distant and reliant on filter verbs ("she saw," "she realized") that distance the reader. The melodramatic tone ("tangled web," "forsaken place") clashes with the protagonist's described "emotionally rational" attribute.</comment>
+<question>7</question><grade>2.8</grade><comment>Prose suffers from high cliché density ("skeletal fingers," "ghostly figure") and syntactic monotony, with many sentences following a repetitive Subject-Verb structure. Pivotal moments of discovery and analysis are summarized rather than dramatized.</comment>
+<question>8</question><grade>2.9</grade><comment>The story follows a generic "scholar finds truth" template with no subversion or fresh specificity. The "last petal" element suggests a fairytale subversion that is never developed, feeling like a misplaced checklist item.</comment>
+<question>9 A</question><grade>5.5</grade>
+<question>9 B</question><grade>6.0</grade>
+<question>9 C</question><grade>4.5</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>5.5</grade>
+<question>9 F</question><grade>2.5</grade>
+<question>9 G</question><grade>6.0</grade>
+<question>9 H</question><grade>2.0</grade>
+<question>9 I</question><grade>5.0</grade>
+<question>9 J</question><grade>N/A</grade>

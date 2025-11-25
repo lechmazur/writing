@@ -1,0 +1,19 @@
+grade_story_wc_381.txt
+<question>1</question><grade>3.8</grade><comment>The protagonist is a functional archetype performing a rote procedure without distinct personality or internal conflict. She experiences no doubt or contradictory impulses, merely executing the ritual steps with perfect competence. The emotional landscape is described through abstract labels ("purpose," "tranquil blaze") rather than embodied reaction or genuine struggle.</comment>
+<question>2</question><grade>4.0</grade><comment>The narrative is a linear sequence of successful actions (ritual setup, chant, success) lacking a true turning point or complication. Causality is mechanical; the spell works exactly as intended without unforeseen obstacles or consequences. The ending is an example of symmetric satisfaction, where the problem is solved neatly with no structural cost.</comment>
+<question>3</question><grade>5.1</grade><comment>The setting is vivid but relies on generic fantasy tropes ("ancient runes," "silver parchment," "molten glass"). While the sensory details are present, the environment serves as a passive backdrop rather than a source of constraint or pressure on the character's choices.</comment>
+<question>4</question><grade>3.5</grade><comment>Stakes are declared ("celestial rupture") but remain abstract and never manifest as immediate pressure in the scene. The conflict is resolved without sacrifice; the protagonist leaves "warmed without scorching," indicating a lack of felt cost or difficult trade-offs.</comment>
+<question>5</question><grade>4.2</grade><comment>Themes of silence and peace are present but heavy-handed, relying on repeated insertion of prompt phrases ("smoothed hush," "code") rather than emergent subtext. The resolution feels like a tidy, moralizing summary rather than an earned resonance derived from specific particulars.</comment>
+<question>6</question><grade>4.6</grade><comment>The voice is consistent but leans heavily into "purple" description ("luminous arcs," "incandescent glow") that distances the reader. The tone is uniformly reverent, lacking the modulation of intensity that accompanies genuine risk or escalation.</comment>
+<question>7</question><grade>4.1</grade><comment>The prose suffers from high adjective density and cliché ("gentle flame," "whispered secrets"). Prompt phrases like "terrestrially cosmic" are shoehorned in awkwardly ("terrestrially cosmic conduit," "terrestrially cosmic thread"), creating jarring text artifacts that disrupt the rhythm.</comment>
+<question>8</question><grade>4.0</grade><comment>The story presents a standard magical fix-it ritual without a fresh angle or subversion. The concept of "mapping silence" is interesting but executed through familiar genre tropes, resulting in a predictable narrative arc.</comment>
+<question>9 A</question><grade>5.8</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>3.2</grade>
+<question>9 D</question><grade>2.1</grade>
+<question>9 E</question><grade>5.2</grade>
+<question>9 F</question><grade>5.5</grade>
+<question>9 G</question><grade>6.2</grade>
+<question>9 H</question><grade>3.5</grade>
+<question>9 I</question><grade>7.0</grade>
+<question>9 J</question><grade>3.8</grade>

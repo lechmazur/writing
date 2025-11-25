@@ -1,0 +1,55 @@
+gpt-5-pro.txt
+1) Executive profile  
+
+Across Q1–Q8, there is effectively no usable story content—only repeated technical failures that the input “exceeds the context window of this model.” That means we cannot directly assess GPT-5 Pro’s behavior on character, plot, setting, conflict, or any other on-page craft dimension for this portfolio; none of the syntheses contain narrative description, critique, or examples. What we *can* see is a consistent pattern of overrun: every attempt in this set hits the same hard limit before a story-level critique can even be formed.
+
+From a reader-impact perspective, this manifests not as weak clarity or soft closure, but as an absence of text to evaluate. Momentum, cost, resonance, and lens coherence cannot be judged because the stories that were supposed to underlie these syntheses are inaccessible. The only stable “track choice” visible here is meta-structural: GPT-5 Pro tends toward outputs (or source texts) large enough to breach the context window in this environment. That suggests a systemic tendency to run long or handle too much material per unit, which in turn prevents any reliable closure from landing on the page in this sample. Any claims about drive-lens consistency, reflection balance, or shard management would be speculative, so this profile must remain narrowly focused on the one observable behavior: recurrent context-length overrun that blocks story-level assessment.
+
+2) Portfolio map  
+
+Q1 Character — Fragile · No narrative content available; character work cannot be assessed  
+Q2 Plot/Causality — Fragile · Context overrun prevents any view of causal chains or structure  
+Q3 Setting — Fragile · Zero descriptive evidence; worldbuilding and grounding remain unknown  
+Q4 Conflict/Stakes — Fragile · No conflicts or stakes visible; escalation and cost untestable  
+Q5 Theme/Subtext — Fragile · Absent story data makes thematic or subtextual reading impossible  
+Q6 Voice/POV — Fragile · No on-page voice or POV choices present in these summaries  
+Q7 Prose/Line-level — Fragile · Line-level execution entirely opaque due to context error  
+Q8 Originality/Ingenuity — Fragile · No inventive moves or patterns can be inferred from errors  
+
+3) Signature moves  
+
+Given the constraints of the evidence, the “signature moves” here are not artistic techniques on the page but systemic tendencies observable in the meta-data:
+
+- Recurrent breaching of limits: every summary repeats “Your input exceeds the context window of this model,” suggesting a pattern of working at or beyond viable scale.  
+- Consistent failure mode across tasks: Q1–Q8 all reduce to the same error structure, which implies GPT-5 Pro tends to push length/complexity similarly regardless of craft focus (character, plot, theme, etc.).  
+- Aggressive inclusion of source material: the fact that *per-question syntheses* already exceed context hints that GPT-5 Pro (or the workflow around it) may favor exhaustive inclusion of text rather than distilled critique.  
+- Stability of error messaging: the identical structure—“invalid_request_error… context_length_exceeded”—repeats cleanly, indicating at least a predictable response pattern when limits are crossed.  
+- Implicit ambition in scope: while we cannot see the stories themselves, the need for such large inputs suggests a tendency toward expansive narratives or voluminous analysis rather than minimalist, tight-focus scenes.  
+
+4) Failure modes  
+
+Again, the only reliable evidence is the repeated error condition itself, which surfaces several important failure modes at the portfolio level:
+
+- Systematic overlength: every summary reports “context_length_exceeded,” implying GPT-5 Pro’s outputs or the inputs it requires are consistently larger than the environment can accommodate. This blocks any downstream critique or editorial pass.  
+- Blocked track testing: because no narrative shards or POV segments are visible, we cannot validate Track A/B/C behavior at all. This is a *track-test* failure in a practical sense: segmentation, shard transitions, and POV boundaries cannot even be inspected.  
+- Editorial opacity: with no on-page prose, it is impossible to assess orientation, lens coherence, escalation, or closure. For an editor, this creates total opacity—there is no way to guide revision because no draft is available at a workable scale.  
+- Breakdown in feedback loop: story-level critiques are the substrate for these per-question syntheses; the fact that *those* already exceed context suggests GPT-5 Pro’s process may be generating critiques or narratives too long to be meaningfully reviewed. That breaks the craft-improvement loop.  
+- Inflexibility around constraints: the repetition of the exact same overrun across eight distinct prompts indicates that GPT-5 Pro (as configured here) is not adapting output length or content density to fit known context constraints.  
+
+5) When it shines / when it breaks  
+
+In this portfolio, GPT-5 Pro never reaches a point where its fiction “shines” on the page, because the stories and critiques are not visible. The only way to infer conditions for success is negative: to shine, it would need to operate within the context window so that story-level craft can even be observed. That likely means shorter scenes, fewer digressions, and more aggressively distilled critique and narrative units. Under such constraints, an editor could begin to test its handling of single-POV Track A stories, or tightly bounded mosaic and multi-POV structures, but that remains hypothetical until length is under control.
+
+It breaks, demonstrably, whenever the working unit—story plus critique and synthesis—crosses the context threshold. At that point, none of the rubric’s core concerns (clarity, momentum, felt cost, resonance, closure) can be applied, because there is no accessible text. In practice, this means GPT-5 Pro’s current tendencies toward scale and inclusion directly undermine its evaluability and, by extension, its path to publication-grade refinement. The model’s limiting factor here is not any specific weakness in character or prose, but an upstream failure to produce work at an editable, reviewable size.
+
+6) Keep vs. adjust  
+
+• Keep  
+- The apparent ambition to engage with large, possibly complex narratives or critiques; expansive thinking can be an asset once controlled.  
+- The consistent and predictable signaling of failure (“context_length_exceeded”), which at least provides a clear diagnostic for when outputs become unusable.  
+- The underlying assumption that rich context matters—suggested by the oversized inputs—which, if better managed, could support nuanced character and thematic work.
+
+• Adjust  
+- Constrain unit size aggressively: generate and critique in smaller, self-contained scenes or shards that reliably fit within the context window, enabling actual story-level evaluation.  
+- Prioritize distillation over exhaustiveness in any analytic or reflective passages so that per-question syntheses remain concise enough to be handled, especially in Reflection-led modes.  
+- Implement adaptive awareness of constraints: track running length and complexity as the piece unfolds, and proactively trim, summarize, or segment before “input exceeds the context window of this model” can occur.

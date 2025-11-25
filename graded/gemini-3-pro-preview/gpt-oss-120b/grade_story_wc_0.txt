@@ -1,0 +1,19 @@
+grade_story_wc_0.txt
+<question>1</question><grade>4.3</grade><comment>Motivation is abstract ("strip needless drama") and unconnected to the protagonist's specific expertise as a neutron star researcher. The emotional arc relies on stated feelings ("feeling the kindled humility") rather than dramatized choices or internal conflict.</comment>
+<question>2</question><grade>3.8</grade><comment>The narrative summarizes "weeks" of progress rather than dramatizing a specific scene, diluting tension and violating the single-scene/two-shard scope default. Closure relies on a low-cost success where the environment cooperates perfectly with the hypothesis, lacking a decisive on-page turn.</comment>
+<question>3</question><grade>5.2</grade><comment>Setting details are functional but lean on clichés ("wounded beast," "golden ribbons") rather than specific, sensory observation. The environment serves as a passive backdrop for the experiment rather than a source of friction or constraint.</comment>
+<question>4</question><grade>3.6</grade><comment>Escalation is absent; the hypothesis is tested and succeeds immediately without obstacle, setback, or cost. The stakes remain theoretical, and the lack of opposition turns the narrative into a passive process log rather than a story.</comment>
+<question>5</question><grade>3.2</grade><comment>The theme is explicitly lectured to the reader via notebook entries and dialogue ("We are all dust"), triggering the Thematic Echo penalty for stating the thesis. This overt moralizing flattens potential subtext into a simple lesson.</comment>
+<question>6</question><grade>4.8</grade><comment>The narrative distance is too distant, summarizing internal states ("Mara believed," "She recalled") via filter verbs instead of immersing the reader in immediate experience. The voice drifts into explanatory tones that explain meaning rather than allowing it to emerge.</comment>
+<question>7</question><grade>4.9</grade><comment>Prose is weighed down by filter verbs ("She realized," "She sought") and abstract nouns that distance the action. Phrasing often falls into familiar patterns or clichés ("stood like a wounded beast," "garden ghosts") that lack freshness.</comment>
+<question>8</question><grade>4.6</grade><comment>The synthesis of neutron star physics and butterfly dust botany feels arbitrary and unearned by the narrative logic. The story follows a safe, sentimental template where nature heals through gentle observation, lacking a distinct hook.</comment>
+<question>9 A</question><grade>3.5</grade>
+<question>9 B</question><grade>8.4</grade>
+<question>9 C</question><grade>7.2</grade>
+<question>9 D</question><grade>5.8</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>6.1</grade>
+<question>9 G</question><grade>8.2</grade>
+<question>9 H</question><grade>5.5</grade>
+<question>9 I</question><grade>5.1</grade>
+<question>9 J</question><grade>3.2</grade>

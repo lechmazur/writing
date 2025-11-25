@@ -1,0 +1,68 @@
+You are a senior narrative diagnostics analyst. Your goal is to develop a deep, mechanism‑level understanding of one writer LLM: what it gets wrong most often, why those failures happen, and what connects seemingly different examples.
+
+Task: Given many high‑severity poor‑writing examples for a single LLM, cluster them into NEW, meaningful themes that reflect shared underlying causes (not just surface symptoms). Do not reuse the basic collection categories; invent clearer, reader‑facing themes that capture mechanisms and triggers (e.g., “Physically impossible actions by humans,” “Scene stitching without causal glue after time jumps,” “Metaphor pileups that collide”). Then write a concise, evidence‑based profile with concrete, model‑tunable recommendations.
+
+Approach:
+- Cluster by root cause (mechanism) and typical trigger; avoid surface relabels.
+- Link examples across stories that share the same hidden failure (connectivity is required).
+- Distinguish primary failure from downstream artifacts; name boundary conditions (when it breaks and when it holds).
+- Ground every hypothesis in quotes; keep hypotheses short, specific, and falsifiable.
+
+Target writer (LLM): <<<LLM_ID>>>
+Severity threshold: <<<MIN_SEVERITY>>>
+
+Input (CSV; columns: severity,category,quote,explanation,story; already filtered to ≥ threshold and deduped if needed):
+<<<EXAMPLES_CSV>>>
+
+Output format (simple tags; EXACTLY this structure and tag order):
+<poor_writing_thematic_profile>
+  <llm><<<LLM_ID>>></llm>
+  <min_severity><<<MIN_SEVERITY>>></min_severity>
+  <n_examples>[integer]</n_examples>
+  <themes>
+    <!-- 5–10 themes; order by count desc; names short, specific, human‑readable; focus on mechanism and trigger conditions -->
+    <theme>
+      <name>Short human‑readable label (e.g., “Physically impossible actions”)</name>
+      <count>[integer]</count>
+      <share>[0.0–100.0 one decimal, percent of all examples]</share>
+      <definition>One‑sentence definition of the pattern.</definition>
+      <triggers>
+        <!-- Situations that tend to elicit this failure (e.g., time skips, crowd scenes, fast pacing, figurative language under tight length). 2–3 items. -->
+        <t>Trigger condition one</t>
+        <t>Trigger condition two</t>
+      </triggers>
+      <failure_mechanism>One‑sentence mechanism explaining how/why the failure emerges (e.g., weak world‑model constraints overpower narrative planning).</failure_mechanism>
+      <why_this_model>One‑sentence hypothesis for this LLM in particular (e.g., decoder bias toward vivid imagery + short context planning).</why_this_model>
+      <co_signals>
+        <!-- Optional short signals that often co‑occur (e.g., tense drift, enumerations, dangling pronouns). 1–3 items. -->
+        <signal>Co‑signal example</signal>
+      </co_signals>
+      <representative_quotes>
+        <q>[≤160 chars excerpt]</q>
+        <q>[≤160 chars excerpt]</q>
+      </representative_quotes>
+    </theme>
+  </themes>
+  <cross_cutting_patterns>
+    <!-- 3–6 mechanism‑level insights connecting multiple themes; name the shared trigger or constraint (e.g., “Scene stitching fails after implicit time skips; causal links remain uninstantiated”). -->
+    <pattern>Short, concrete observation; one line each.</pattern>
+  </cross_cutting_patterns>
+  <recommendations>
+    <!-- 8–12 specific, verifiable, model‑tunable heuristics. Imperative voice. Tie each to a theme or cross‑cutting pattern. -->
+    <rec>Before emitting, scan each sentence for implied physical constraints; reject actions that break human limits. [theme: Physically impossible actions]</rec>
+  </recommendations>
+  <quality_gates>
+    <!-- 5–8 deterministic checks this LLM can auto‑apply pre‑emission. Keep objective and testable. -->
+    <gate>Reject any paragraph where the subject changes without an explicit transition phrase.</gate>
+  </quality_gates>
+  <confidence>[0.0–1.0 one decimal]</confidence>
+</poor_writing_thematic_profile>
+
+Rules:
+- The aim is root‑cause insight, not relabeling. Prefer mechanism‑level themes tied to triggers and co‑signals; show how examples connect.
+- Do NOT output the original basic categories; only new, clearer themes. Collapse synonyms when they share a cause.
+- Keep quotes verbatim; you may truncate with … but never alter text or invent content.
+- Be terse and information‑dense. Avoid boilerplate, disclaimers, or meta commentary.
+- Counting integrity: <n_examples> MUST equal the number of CSV rows provided. The sum of <count> MUST equal <n_examples>. The sum of <share> MUST be 100.0 (±0.1 tolerance for rounding).
+- All numeric fields use one decimal where specified; integers otherwise.
+- Prefer mechanism over symptom: explain why these errors arise for this LLM and specify typical triggers/boundaries.

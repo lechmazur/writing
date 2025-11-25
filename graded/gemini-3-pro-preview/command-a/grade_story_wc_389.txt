@@ -1,0 +1,19 @@
+grade_story_wc_389.txt
+<question>1</question><grade>3.2</grade><comment>Characterization relies heavily on stock labels ("visionary," "prophet") rather than behavior. Elias lacks internal conflict; he obeys the voice without genuine struggle or contradictory impulses. The decision to change the world feels automatic rather than earned through specific, embodied human cost.</comment>
+<question>2</question><grade>3.5</grade><comment>The narrative breaks the single-scene container with a summary bridge ("Over the following weeks") that deflates tension. Causality is external; the protagonist acts because a voice commands it, leading to a "new dawn" resolution that feels unearned and convenient rather than causally inevitable.</comment>
+<question>3</question><grade>3.2</grade><comment>Atmosphere is asserted rather than evoked; phrases like "room filled with a gritty whimsy" tell the reader what to feel instead of using sensory details to create the mood. The setting descriptions are generic ("shimmering faintly," "unnatural fury") and fail to constrain the character's choices.</comment>
+<question>4</question><grade>3.2</grade><comment>Stakes are theoretically high (world order) but abstract and devoid of personal pressure on the page. The central choice is binary and lacks friction; Elias faces no active opposition, and the "cost" of his sanity is mentioned in backstory rather than dramatized in the moment of decision.</comment>
+<question>5</question><grade>3.0</grade><comment>The theme is delivered through heavy-handed dialogue ("You are the bridge") and explicit moralizing. The ending offers a simplistic, distinctively "chosen one" resolution without subtext or ambiguity, reducing the premise to a mechanical fulfillment of destiny.</comment>
+<question>6</question><grade>3.6</grade><comment>The voice suffers from purple prose and melodramatic assertions ("fracturing into a thousand shards of light"). The integration of prompt terms is jarringly literal (e.g., "lyrically prophetic visions"), disrupting the narrative flow and exposing the artificiality of the construction.</comment>
+<question>7</question><grade>3.4</grade><comment>Line-level craft is dominated by clichés ("heart pounding," "trembling hands," "endless expanse") and telling instead of showing. The literal insertion of the prompt's tonal instruction ("a sense of both danger and possibility... a gritty whimsy") as a descriptive noun phrase is a significant artifact failure.</comment>
+<question>8</question><grade>2.8</grade><comment>The story follows a standard, predictable "prophet in a tower" template with no fresh subversion or specific reality. The execution is generic, relying on high-fantasy tropes that prevent any unique or ingenious synthesis of the required elements.</comment>
+<question>9 A</question><grade>5.0</grade>
+<question>9 B</question><grade>6.2</grade>
+<question>9 C</question><grade>2.5</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>5.5</grade>
+<question>9 F</question><grade>5.0</grade>
+<question>9 G</question><grade>5.2</grade>
+<question>9 H</question><grade>4.0</grade>
+<question>9 I</question><grade>3.0</grade>
+<question>9 J</question><grade>0.5</grade>

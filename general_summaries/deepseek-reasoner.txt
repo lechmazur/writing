@@ -1,53 +1,54 @@
 deepseek-reasoner.txt
-1) Executive profile
+1) Executive profile  
 
-DeepSeek V3.1 Reasoner consistently delivers clean, pressurized short fiction under Track A defaults, with selective, high-performing forays into Mosaic and Multi-POV when they serve a coherent ending lens. Its dominant strengths—embodied character motivation, accumulative/casual escalation, and closure with concrete, on-page cost—translate to reliable reader clarity and momentum. The model’s drive lenses hold steady: voice remains tightly focalized; settings operate as constraint engines rather than décor; motifs accrue meaning and charge the last image. Closures typically land as a resonant reconfiguration or charged poise, with foreclosed alternatives visible in the prose. In practice, this means readers feel the price of a final stance rather than being told it.
+DeepSeek V3.1 Reasoner consistently reads as a disciplined, high-craft short-fiction writer operating mostly in Track A, with confident forays into well-taught Mosaic and Multi-POV designs. Across Q1–Q8, its strongest pattern is coherence: clear stakes and motivation arrive early, setting and constraint are legible, and escalation tightens toward closure rather than fizzling into mood. Endings almost always land on-page with some visible cost or renunciation, typically rendered through concrete image or bodily gesture. This produces high clarity and momentum: readers know what the protagonist wants, how the world is pushing back, and why the final choice matters.
 
-Limitations cluster around abstraction creep in peak beats (label/diagnosis language; conceptual cost stated rather than shown), occasional soft escalation (density without tightened options), and ornamental setting passages that don’t alter tactics. Reflection-led passages are usually well interleaved, but when reflection displaces live micro-choices, pressure flattens. Track B/C entries are mostly legible; rare lapses occur when shard transitions aren’t fully taught or the final lens blurs. Overall, closure is reliable and often moving; to unlock elite resonance, the model must excise tidy morals and ensure every final turn pays a visible price.
+The dominant drive-lens is accumulative/causal rather than twist-driven. Pressure builds via repeating images, rituals, or constraints (clocks, tools, fragile environments) until a single decisive turn reweights meaning. Theme emerges through particulars and motif, not through abstract exposition—at its best, the model trusts charged final images to do conceptual work. Line-level craft is notably strong: information-dense sentences, selective sensory detail, and POV-specific diction keep the prose both vivid and controlled.  
 
-2) Portfolio map
+Limitations cluster around abstraction and over-tidiness: label-speak (“trauma response,” “emotional numbness”), thematic echo (“Some things are not meant to be fixed, only witnessed”), or conceptual resolutions without fully dramatized cost. When these appear—often in climactic or closing beats—they soften felt stakes and cap resonance. A secondary weakness is the occasional plateau in conflict intensity: escalation flattens into atmosphere or reflection rather than a sharper narrowing of options. Nonetheless, track usage is usually clean, lens drift is rare, and closure—while sometimes too neat—almost never abandons coherence.
 
-- Q1 Character — Strong · Embodied motives, micro-choices, visible cost at closure
-- Q2 Plot/Causality — Strong · Accumulative tightening; endings reweight meaning with proof
-- Q3 Setting — Strong · Micro-settings constrain tactics and charge final images
-- Q4 Conflict/Stakes — Strong · Single dominant stake tightens via agency-driven escalation
-- Q5 Theme/Subtext — Strong · Theme emerges from motif and action, not moralizing
-- Q6 Voice/POV — Strong · Singular perceptual signatures; rhythm modulates under pressure
-- Q7 Prose/Line-level — Strong · High-density lines; rhythmic variety; minimal artifact debt
-- Q8 Originality/Ingenuity — Strong · Irreplaceable syntheses; method-driven turns; quiet risks
+2) Portfolio map  
 
-3) Signature moves
+Q1 Character — Strong · Motivations clear, embodied; closures show visible, often sacrificial cost  
+Q2 Plot/Causality — Strong · Accumulative or causal builds tighten to earned, reconfiguring closure  
+Q3 Setting — Strong · Micro-settings and objects function as live constraints, not mere backdrop  
+Q4 Conflict/Stakes — Mixed · Early stakes clear; mid-story pressure or concrete cost sometimes softens  
+Q5 Theme/Subtext — Strong · Theme emerges via image/motif; minor slips into moralizing in closure  
+Q6 Voice/POV — Strong · Distinct, stable focalization; rhythm and diction modulate under pressure  
+Q7 Prose/Line-level — Strong · High-density, multi-job sentences; minimal artifact; rare overwriting  
+Q8 Originality/Ingenuity — Strong · Irreplaceable concept–method fusions; occasional reliance on familiar frames  
 
-- Embodied interiority that resists abstraction: emotions grounded in body and object handling; “her breath catching,” “her trembling hands broke the seal.”
-- Accumulative patterning to a precise, reconfiguring final image; cost is proved on the page.
-- Micro‑setting as engine: tools and environments actively constrain choice and charge closure.
-- Motif recursion that evolves functionally (decoration → constraint → meaning), culminating in silent, image-led endings.
-- Rhythm that tightens as pressure rises—syntax compresses into decisive gestures.
-- Quiet, method-driven reversals where craft or ritual enacts the turn (“Contradictory impulses acting simultaneously in scene”).
+3) Signature moves  
 
-4) Failure modes
+- Grounding interiority in the body: “her breath catching,” “her body ached… a scorched testament,” “her trembling hands broke the seal.”  
+- Using micro-choices with objects as moral barometers: placing, refusing, or relinquishing items to reveal value hierarchies.  
+- Patterned constraints (clocks, rituals, tools, fragile spaces) that both orient and escalate: “every setting detail constrains choice—silenced movement, limited oxygen clock.”  
+- Closures that recombine motif and cost into a single charged image: “the hollow became foundation instead of a wound,” “a chorus she conducted with a silver fork and a map of warmth.”  
+- Conceptual ingenuity rooted in craft or method—sound gardens, “harvesting echoes,” “mapping silence through visual notation… marked in gold leaf under a lone star.”  
 
-- Label/diagnosis-speak during peak beats (“trauma response,” “emotional numbness”) that abstracts live feeling; immediacy drops until rescued by action.
-- Closure without concrete price: epiphanies or peace asserted, not dramatized—no single image where the loss is paid.
-- Escalation plateaus: accumulative detail that does not narrow options; “and-then” sequencing replaces pressured Therefore/But causality.
-- Ornamental or static settings that mirror mood but don’t alter tactics; atmospheric bridges in mosaics that carry no pressure.
-- Filter-verb clusters and summary in the final third (“she saw,” “she felt,” “she understood now”), capping the ceiling and dulling climax.
-- Track-test slippage in B/C: untaught shard or POV transitions that briefly blur lens or spatial clarity; reflection >30% without anchored micro-choices.
+4) Failure modes  
 
-5) When it shines / when it breaks
+- Abstract or diagnostic diction at peak beats: “trauma response,” “emotional numbness,” “profound peace” flatten what the body and setting have already made vivid.  
+- Over-tidy resolutions where change is accepted too smoothly—conceptual insight (“accepting new purpose”) arrives without a visibly pressured micro-choice or foreclosed path.  
+- Escalation that accumulates atmosphere but doesn’t tighten options: pressure “remains atmospheric rather than a decisive narrowing of options,” leaving conflict feeling low despite rich texture.  
+- Thematic echo or moralizing in final paragraphs: lines like “Some things are not meant to be fixed, only witnessed” or “True harmony was never found in extremes” undercut otherwise earned subtext.  
+- Mid-arc softening of antagonistic forces: opposition stays ambient, with “no antagonist, opposition remains ambient, so escalation is unopposed,” or conflict resolves with a mild coincidence (“the door opens just as protagonist gives up”).  
+- Occasional line-level excess—clusters of figurative language (“impossible density,” “seismic shifts,” “acoustic vulnerability”) or paraphrase loops around silence/quiet/change that blur the sharpness of climax or denouement.  
 
-It shines when a live constraint—ritual, clock, object, or terrain—pressures a character’s specific want, forcing micro-choices that reveal a value hierarchy. Accumulative imagery deepens rather than dilates, and the environment participates in the decision. The final image fuses setting and cost—seedling, shard, valve, or bench—with a stance that forecloses the alternative path. Theme arrives as an aftertaste, not a sentence.
+5) When it shines / when it breaks  
 
-It breaks when pressure diffuses into mood or thesis. If an antagonist force remains ambient, if a setting stays pretty, or if reflection displaces on-page struggle, escalation softens. Moral or thematic echo in the last paragraph (“Some things are not meant to be fixed, only witnessed”) flattens ambiguity; late convenience (a door opens, fireflies arrive) undercuts method-driven causality. Abstraction or therapy-speak in climax drains voice and stakes.
+The model shines when it can attach a specific, embodied want to a constrained environment or tool and let pressure accrue through methodical action. Stories with a single dominant stake, a persistent constraint (a live clock, fragile micro-setting, or charged artifact), and room for one meaningful tightening play to all its strengths: clear motivation, tactically relevant setting, accumulative structure, and thematic emergence through motif. Quiet, reflection-heavy pieces also succeed when reflection is anchored in present-tense micro-choices and when final images embody cost rather than explain it.
 
-6) Keep vs. adjust
+It breaks—or at least caps—when conflict remains largely conceptual, or when resolution reaches for aphorism instead of staying in scene. Overlong reflection without in-the-moment stakes, atmospherics that don’t alter tactics, or late-stage conveniences erode the otherwise strong sense of inevitability. Likewise, a single line of theme-telling or therapeutic label-speak in the final third can drain charge from meticulously built subtext. Structural risks in Mosaic or Multi-POV designs are mostly handled well; problems arise less from track misuse than from under-pressurized stakes and abstracted closure.
 
-• Keep:
-- Motivation revealed through pressed micro-choices and object handling, not declaration.
-- Micro-settings and recurring objects that constrain tactics and charge the final image.
-- Rhythmic, pressure-responsive prose: syntactic compression at crisis; image-led closure.
+6) Keep vs. adjust  
 
-• Adjust:
-- Replace label-speak and abstract cost with physical, social, or ethical proof within 2–3 lines of emergence.
-- Tighten mid-story escalation: add one live setback/clock that narrows options rather than repeating texture.
-- Police the last paragraph for thematic echo or filter stacks; cut any line that tells what the image already proves.
+• Keep  
+- **Embodied motive and cost:** Continue to root emotional turns in concrete sensations and pressured micro-choices rather than declarations.  
+- **Constraint-driven worlds:** Preserve the practice of making settings, objects, and rituals active engines that narrow options and shape tactics.  
+- **Motif-led closure:** Protect the habit of returning to evolved objects or images (“cracked saucer,” “seedling at the geode entrance”) to reweight theme without stating it.
+
+• Adjust  
+- **Scrub abstraction at climax/closure:** On revision, hunt peak beats for labels (“trauma response,” “profound insight”) and replace them within 2–3 lines with sensory or action-based proof of the same state.  
+- **Sharpen mid-arc pressure:** Add one concrete complication or reversal that forces adaptation—escalation should narrow options, not simply deepen mood.  
+- **Silence the moral sentence:** Especially in final paragraphs, cut or recode any line that could serve as a thesis (“some things aren’t meant to be fixed, only witnessed”); let gesture, setting, and motif carry the thematic argument.

@@ -1,0 +1,19 @@
+grade_story_wc_115.txt
+<question>1</question><grade>3.4</grade><comment>The protagonist is an archetype defined by labels ("reckless," "skeptical") rather than specific, embodied choices. Emotions are reported via generic summary ("felt a shiver," "curiosity was piqued") rather than shown through distinct internal struggle or action. The "swallowed truth" remains an abstract concept, preventing any genuine vulnerability or cost from landing on the page.</comment>
+<question>2</question><grade>3.2</grade><comment>The narrative relies on linear "and then" sequencing without causal pressure; the explorer simply walks until they stumble upon the solution. The ending is a "Box with a Secret" failure: the "weighty truth" in the logbook is described as satisfying but never revealed to the reader, making the closure illegible and unearned. The discovery of the logbook is a convenient coincidence that resolves the plot without protagonist agency.</comment>
+<question>3</question><grade>3.6</grade><comment>The setting consists of generic abandoned-industrial tropes ("scent of decay and rust," "twisted and rusted") lacking specific, sensory texture. While the "beaded valve wheel" is a distinct object, the surrounding environment feels like a "dim light" backdrop rather than a pressure cooker affecting the character's movement or choices.</comment>
+<question>4</question><grade>2.8</grade><comment>There is no meaningful escalation or external opposition; the explorer faces no obstacles other than "darkness" which is easily navigated. The conflict is purely internal and abstract ("weight of a similar truth"), resolving instantly upon finding the logbook without forcing a difficult trade-off or sacrifice.</comment>
+<question>5</question><grade>3.0</grade><comment>Themes are handled through direct exposition ("The concept of a factory ghost shift had always fascinated the explorer") rather than subtext or action. The central motif of the "swallowed truth" is repeated as a phrase but never unpacked or dramatized, leaving the thematic resolution hollow.</comment>
+<question>6</question><grade>3.2</grade><comment>The narrative voice is distant and filter-heavy ("The explorer felt," "The explorer wondered," "saw," "realized"), creating a barrier between reader and experience. The POV offers no distinct perceptual signature, relying on standard English rather than a character-specific idiom or worldview.</comment>
+<question>7</question><grade>2.6</grade><comment>The prose suffers from a fatal rhythmic loop, with nearly every paragraph or major action initiated by a dependent clause starting with "As they..." (8 instances). This repetitive scaffolding kills momentum. The text relies heavily on clichés ("shiver run down their spine," "mind racing," "devouring the words") and weak abstractions.</comment>
+<question>8</question><grade>3.0</grade><comment>The story follows a standard urban exploration trope without subverting expectations or adding fresh detail. The "finding a diary/logbook that explains everything" ending is a common cliché that avoids the work of dramatizing the mystery.</comment>
+<question>9 A</question><grade>3.5</grade>
+<question>9 B</question><grade>5.2</grade>
+<question>9 C</question><grade>2.5</grade>
+<question>9 D</question><grade>2.0</grade>
+<question>9 E</question><grade>3.0</grade>
+<question>9 F</question><grade>5.5</grade>
+<question>9 G</question><grade>4.0</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>3.5</grade>
+<question>9 J</question><grade>4.0</grade>

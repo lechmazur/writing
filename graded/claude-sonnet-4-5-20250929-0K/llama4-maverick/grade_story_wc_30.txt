@@ -1,0 +1,36 @@
+grade_story_wc_30.txt
+<question>1</question><grade>4.2</grade><comment>The librarian remains entirely abstract—no embodied emotion, no micro-choices under pressure, no internal contradiction acting in scene. The piece offers only summary ("their motivation became clear") and label-only traits ("deep shade," "titan-gear enhanced limbs") without dramatized stakes or a credible arc. Motivations are declared rather than tested. No visible cost forecloses a path; the ending simply restates the premise.</comment>
+
+<question>2</question><grade>3.8</grade><comment>No causal linkage or meaningful escalation. The text drifts through declarations ("the librarian found a strange sort of peace") without on-page pressure or a decisive change. Orientation anchors who and where by the opening, but what the librarian does remains vague throughout. The ending offers summary philosophy rather than a closure unit with felt cost. Lens is ambiguous—neither causal progression nor accumulative density increases; no stakes tighten.</comment>
+
+<question>3</question><grade>5.1</grade><comment>The tidal atrium receives vivid sensory detail (saltwater scent, lapping waves, wintersun serenity) and the bamboo creel is visually specific. However, the environment never constrains a choice or alters tactics—it functions as backdrop. Spatial choreography is coherent but static. The setting supports atmosphere without shaping the story's outcome or the final image.</comment>
+
+<question>4</question><grade>3.5</grade><comment>No on-page conflict or escalation. The dominant stake ("to preserve wonder in routine") is declared but never tested by a complication or choice with visible cost. The librarian moves among shelves without opposition, reversal, or trade-off. No agency is demonstrated—no decision, renunciation, or endurance that forecloses a path. The piece flatlines at meditation without pressure.</comment>
+
+<question>5</question><grade>4.6</grade><comment>Theme ("migrating identities," "preserve wonder in routine") is asserted repeatedly rather than emerging from dramatized events. The final paragraph moralizes directly: "wonder had become the only constant." No specific experience earns the insight; the creel and moon references remain ornamental symbols that do not constrain choice or accumulate meaning. The ending states rather than reweights.</comment>
+
+<question>6</question><grade>5.3</grade><comment>POV distance is stable third-limited, and the prose maintains a consistent elevated register. However, the voice lacks perceptual signature—diction could belong to any narrator. Filter verbs stack ("seemed to hold," "telling tales") without pressure justification. No elision is taught or paid off; the piece simply withholds action. Rhythmic variation is present, but the syntactic uniformity (long compound clauses) creates a droning cadence.</comment>
+
+<question>7</question><grade>4.9</grade><comment>Paraphrase loops pervade: "fluidity of identity" / "migrating identities," "gentle, relentless passage of time" repeated verbatim. Template cadence dominates ("where X, the librarian Y"). Stock metaphors ("threshold," "balance between worlds") blur specificity. Figurative density ("harmonious blend," "distill the very essence") appears in most sentences without pattern-teaching. The final paragraph stacks redundancies that dull the closure image. Apply −1.2 for pervasive loops and template stems; disallow 9+ globally.</comment>
+
+<question>8</question><grade>3.7</grade><comment>The premise (librarian in a liminal space tending artifacts) is familiar; the combination of titan-gear, moon phases, and tidal atrium reads as a checklist of quirky elements without synthesis. No turn or insight feels inevitable in hindsight. The ending's threshold-keeper image is stock fantasy. Transformation test fails—swap names and setting, and the emotional arc (none) remains unchanged.</comment>
+
+<question>9 A</question><grade>2.3</grade>
+
+<question>9 B</question><grade>3.8</grade>
+
+<question>9 C</question><grade>2.1</grade>
+
+<question>9 D</question><grade>1.7</grade>
+
+<question>9 E</question><grade>2.9</grade>
+
+<question>9 F</question><grade>2.4</grade>
+
+<question>9 G</question><grade>4.6</grade>
+
+<question>9 H</question><grade>1.2</grade>
+
+<question>9 I</question><grade>2.6</grade>
+
+<question>9 J</question><grade>5.8</grade>

@@ -1,0 +1,19 @@
+grade_story_wc_170.txt
+<question>1</question><grade>8.3</grade><comment>The protagonist’s motivation is compelling, grounded in a specific backstory trade (mother's laughter) that gives weight to the central conflict. The final choice to sacrifice her tool creates a meaningful arc. However, the attribute "perceptively calm" is applied as a repeated label rather than demonstrated through unique behavior, slightly flattening the character into a fable archetype.</comment>
+<question>2</question><grade>8.8</grade><comment>The narrative follows a clear causal lens with effective escalation through the three mirrors, culminating in a decisive closure where a sacrifice alters the world's logic. The cost is legible and the resolution feels earned. The "rule of three" structure is efficient, if slightly standard for the genre.</comment>
+<question>3</question><grade>8.5</grade><comment>The setting is vivid and active; the "prism parapet" and "foxed" mirrors are not just backdrop but integral tools that constrain the action. The atmosphere is consistent, though occasional abstract descriptions like "taller than grief" blur the sensory grounding.</comment>
+<question>4</question><grade>8.7</grade><comment>Stakes are established early and escalate cleanly from professional curiosity to a personal sacrifice of her primary tool. The conflict is externalized well through the mirrors' resistance. The final trade-off forecloses her previous way of working, satisfying the requirement for cost.</comment>
+<question>5</question><grade>9.0</grade><comment>The theme of sacrificing personal capacity to empower a collective vision is integrated beautifully into the plot mechanics. The ending resonates by showing the result of the sacrifice (citizens seeing possibilities) without delivering a heavy-handed moral sermon.</comment>
+<question>6</question><grade>7.8</grade><comment>The voice is consistently lyrical and suits the fable-like tone. However, the verbatim repetition of the distinctive phrase "perceptively calm" acts as a jarring artifact that breaks the narrative spell, suggesting a lapse in distance control or editing.</comment>
+<question>7</question><grade>7.2</grade><comment>The prose is generally high-density and evocative, but suffers from significant repetition artifacts. The phrase "perceptively calm" appears twice in identical fashion, and "grace" and "dusky harmony" are also looped. These repetitions feel like inserted prompt-checks rather than organic rhythmic choices.</comment>
+<question>8</question><grade>8.8</grade><comment>The central conceit of a "mirage painter" using a borrowed heartbeat to coax truth out of mirrors is imaginative and fresh. The execution transforms standard fantasy tropes into a cohesive, metaphorically rich narrative.</comment>
+<question>9 A</question><grade>10.0</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>10.0</grade>
+<question>9 D</question><grade>3.5</grade>
+<question>9 E</question><grade>5.0</grade>
+<question>9 F</question><grade>8.5</grade>
+<question>9 G</question><grade>8.2</grade>
+<question>9 H</question><grade>7.5</grade>
+<question>9 I</question><grade>9.5</grade>
+<question>9 J</question><grade>4.5</grade>

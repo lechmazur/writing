@@ -1,0 +1,19 @@
+grade_story_wc_1.txt
+<question>1</question><grade>4.2</grade><comment>The protagonist lacks internal contradiction or grit; she executes a linear quest without hesitation, conflicting desires, or tactical error. Emotions are labeled via abstract interiority ("sensed an echo of purpose") rather than embodied in difficult choices with visible costs.</comment>
+<question>2</question><grade>4.6</grade><comment>The narrative is a linear progression of successes without obstacles, meaningful reversals, or causality gaps; the frost maps work perfectly. Closure is tidy and didactic ("every ending would birth a new beginning"), lacking the "felt cost" or resistance required for high-band literary fiction.</comment>
+<question>3</question><grade>6.1</grade><comment>Imagery like "glassy hush" and "black snow" establishes a vivid, cohesive atmosphere that anchors the piece. However, the environmental constraints are weak; the frost patterns function as a convenient GPS rather than a source of physical friction or danger.</comment>
+<question>4</question><grade>3.8</grade><comment>Tension is minimal; the "attempt" on her life is inert backstory, and the trek itself poses no actual danger or tactical trade-off. The protagonist faces no active opposition or dilemma, resulting in a flat trajectory with no meaningful escalation.</comment>
+<question>5</question><grade>3.5</grade><comment>The theme is explicitly stated in the narrative voice ("smuggler's ledger was not merely a record... but a scorched testament"), violating the show-don't-tell rule. The ending moralizes directly ("purpose lived not in grand gestures"), flattening potential subtext into a sermon.</comment>
+<question>6</question><grade>5.2</grade><comment>The voice is consistent but marred by "committee voice" poeticism and forced phrasing that distances the reader from immediate action. The insertion of the phrase "steadily adaptive" is jarring and disrupts the internal rhythm, reading as a constraint compliance rather than organic thought.</comment>
+<question>7</question><grade>3.5</grade><comment>Severe repetition of specific phrases ("drifting resonance" ×4, "scorched testament" ×2, "steadily adaptive" ×2) creates significant artifact drag. The line "mind steady and steadily adaptive" acts as a redundancy loop that halts momentum and highlights the artificiality of the prompt integration.</comment>
+<question>8</question><grade>4.5</grade><comment>The story synthesizes the elements competently but predictably, relying on a standard "artist finds magic through nature" template. The synthesis feels formulaic, and the "singing glass" resolution offers a familiar trope without a fresh, risky inflection.</comment>
+<question>9 A</question><grade>7.8</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>4.1</grade>
+<question>9 D</question><grade>1.8</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>5.5</grade>
+<question>9 G</question><grade>6.8</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>3.5</grade>
+<question>9 J</question><grade>2.0</grade>

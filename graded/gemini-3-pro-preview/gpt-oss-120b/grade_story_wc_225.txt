@@ -1,0 +1,19 @@
+grade_story_wc_225.txt
+<question>1</question><grade>3.8</grade><comment>The protagonist is a vessel for abstract themes rather than a living character. Motivation is explicitly stated ("steadied his resolve to forgive himself") rather than dramatized through difficult choices or embodied resistance. The internal conflict is resolved via a convenient visualization of a chess piece, lacking the visceral, contradictory impulses required for a higher score.</comment>
+<question>2</question><grade>4.2</grade><comment>The narrative follows a linear checklist of events without genuine causality or setbacks. The closure ("finally forgave himself") is a "soft reset" where the character simply decides to be healed, bypassing the necessary cost or struggle. The "time-frozen" nature of the village removes urgency, flattening the narrative drive.</comment>
+<question>3</question><grade>4.8</grade><comment>While the atmosphere is consistent, the imagery relies heavily on purple prose and abstract metaphors ("wind that never moved," "frayed like old nerves") rather than concrete, grounding details. The "woven hush" and "platinum labyrinth" feel like symbolic props rather than a lived-in environment that constrains the character.</comment>
+<question>4</question><grade>3.5</grade><comment>Stakes are purely internal and abstract ("winnow the soul"). The frozen time setting actively removes external pressure, and the labyrinth offers no resistance other than a "soft voice" urging progress. The resolution comes too easily, lacking a decisive moment where the protagonist must pay a price for their redemption.</comment>
+<question>5</question><grade>3.6</grade><comment>The theme is delivered through heavy-handed moralizing ("He knew forgiveness was not a single move...") rather than emerging organically from the action. The text repeatedly explains the meaning of its symbols (labyrinth = winnowing regrets), leaving no room for subtext or reader interpretation.</comment>
+<question>6</question><grade>4.4</grade><comment>The voice aims for a high literary register but slips into pretension with stacked metaphors and repetitive phrasing ("woven hush," "fierce repose"). The narrative distance is inconsistent, toggling between close interiority and broad, sermon-like generalizations about life and chess.</comment>
+<question>7</question><grade>3.2</grade><comment>A significant grammatical failure occurs when inserting the prompt element "fidgets productively" into a past-tense sentence ("He paced slowly, fidgets productively..."), breaking the narrative flow. Additionally, the repetition of distinct phrases like "woven hush" (four times) and "fierce repose" (three times) creates a distracting echo.</comment>
+<question>8</question><grade>4.0</grade><comment>The story relies on standard "healing journey" fantasy tropes without subverting them. The concept of a mental chess game manifest as a physical labyrinth is familiar, and the execution leans into abstraction rather than offering a fresh, specific angle on the prompt elements.</comment>
+<question>9 A</question><grade>7.5</grade>
+<question>9 B</question><grade>7.2</grade>
+<question>9 C</question><grade>3.5</grade>
+<question>9 D</question><grade>0.8</grade>
+<question>9 E</question><grade>5.2</grade>
+<question>9 F</question><grade>5.8</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>7.0</grade>
+<question>9 J</question><grade>2.5</grade>

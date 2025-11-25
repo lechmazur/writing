@@ -1,53 +1,53 @@
 mistral-medium-2508.txt
-1) Executive profile
+1) Executive profile  
 
-Mistral Medium 3.1 consistently delivers character-led, accumulative narratives that honor the Defaults track (single POV; one scene or two shards) while proving comfortable in Mosaic and occasional Multi-POV when transitions are taught. Its dominant strength is clarity under pressure: early orientation, a coherent drive lens (usually accumulative with hybrid causal scaffolding), and closures that land on the page with visible cost. Readers feel momentum because patterns tighten rather than meander; micro-choices under stress externalize values; final images foreclose plausible paths. Voice is a standout—close third with a distinct perceptual signature, rhythmic modulation keyed to escalation, and elision that’s taught and paid off. Setting isn’t wallpaper: objects and environments act as constraints, often powering the final beat. The model’s best work pairs motif recurrences with on-page sacrifices, avoiding diagnostic labels and moralizing.
+Across Q1–Q8, Mistral Medium 3.1 consistently behaves like a high-literary, Track A–leaning storyteller with strong support for disciplined Mosaic and occasional Multi-POV designs. Its dominant strengths are embodied interiority, dense but clear accumulative structure, and setting as active crucible. Characters are usually driven by concrete, flaw-linked micro-choices; pressure escalates through motif and environment rather than plot pyrotechnics; and closure generally lands with on-page, felt cost. Readers are given clear orientation, tight momentum, and an ending image that reweights the story’s motifs rather than simply summarizing a thesis.  
 
-Fragilities surface when abstraction or register drift intrudes at emotional peaks, or when the desire for resonance pushes toward aphorism or conceptual closure without a concrete bill. Midsection plateaus, orientation delays not paid off, or soft coincidence occasionally erode escalation. On prose, artifact clusters (template cadences, paraphrase loops) can dull the final third. Within Tracks B/C, it generally passes the track tests, but untaught segmentation or lens ambiguity at closure can shave coherence. Overall, closure reliability is high when cost is embodied; it slips when cost is asserted, thematic echo appears, or environmental constraints fail to bite in the last image.
+Where it stumbles is almost always in the same band of issues: abstracted or aphoristic reflection at emotional peaks, cost that’s declared rather than dramatized, and occasional register drift into authorial or philosophical diction. These slips tend to occur in the final third, capping resonance even when the scaffolding is otherwise excellent. Within the rubric’s tracks, the model reliably stays within the taught lens: single-POV accumulative structures are its home ground, with Mosaic shards and sectioned POV handled cleanly when used. Track-test failures are rare and mild. Closure almost always arrives on time and on-page; the difference between “very good” and “exceptional” is whether that closure exacts a tangible price instead of gesturing toward one in abstraction.
 
-2) Portfolio map
+2) Portfolio map  
 
-Q1 Character — Strong · Embodied micro-choices, contradictory impulses collide under pressure  
-Q2 Plot/Causality — Strong · Accumulative logic tightens; closure lands with visible cost  
-Q3 Setting — Strong · Environment and objects constrain tactics and shape closure  
-Q4 Conflict/Stakes — Strong · Early stake; agency-driven escalation; cost on the page  
-Q5 Theme/Subtext — Strong · Motifs reweight at closure; avoids sermonizing when strong  
-Q6 Voice/POV — Strong · Distinct perceptual signature; rhythmic modulation; no head-hopping  
-Q7 Prose/Line-level — Mixed · Occasional loops, template cadences, abstract reflection clusters  
-Q8 Originality/Ingenuity — Strong · Non-obvious syntheses; risk-taking with grounded particulars
+Q1 Character — Strong · Embodied interiority, contradictory impulses, visible cost at closure  
+Q2 Plot/Causality — Strong · Accumulative structure, clear constraints, on-page closure with cost  
+Q3 Setting — Strong · Environment and objects reliably function as crucibles, not wallpaper  
+Q4 Conflict/Stakes — Strong · Early live stakes, agency-driven escalation, mostly concrete prices paid  
+Q5 Theme/Subtext — Strong · Motif-driven subtext; slips only with rare aphoristic final lines  
+Q6 Voice/POV — Strong · Distinct perceptual signatures; stable close POV with patterned compression  
+Q7 Prose/Line-level — Strong · High-density, rhythmic sentences; few artifacts outside occasional loops  
+Q8 Originality/Ingenuity — Strong · Non-obvious syntheses; tropes regularly transformed by vocation and world  
 
-3) Signature moves
+3) Signature moves  
 
-- Accumulative patterning that narrows options, then resolves in a charged, physical act (hand off rope; turn the valve; leave the ledger).
-- Setting-as-crucible: micro-objects (valve, seed, lens, coin, compass) recur to constrain tactics and charge closure.
-- Embodied interiority: flaws tested through pressured, tactile choices rather than labels or summary.
-- Voice keyed to vocation: diction and figurative logic match the focalizer’s lived domain.
-- Earned, image-led closure that reweights motifs and clarifies cost: “He let the gear go.”
-- Line-level economy with rhythmic modulation: short, breathless lines at climax; elongated release after.
+- Embodied micro-choices that surface character values under stress: “tracing the rune before lunging,” “deciding not to look back as the bunker slides behind her.”  
+- Recurring objects as micro-settings that constrain tactics and charge closure (valve wheels, ledgers, seeds, lenses, ropes, coins, inkwells).  
+- Accumulative patterning: motifs and sensory details (“dust applications,” “aurora’s colors shifting with the forge’s breath”) thicken until a single act or image reweights everything.  
+- Closure via tactile, world-linked images that externalize internal change: “added his own name to the ledger, the ink blurred by rain,” “the garden would remember.”  
+- Strong focalizer filters: profession- or obsession-specific noticing (“glassblower’s lens,” “math/odds lexicon braided with sensuous detail”) that shape both imagery and diction.  
+- Original conceptual syntheses where trope, vocation, and world logic are inseparable (seed-sorting as prophecy, grief distilled as craft, sound-absorbing lighthouse, “controlled collapse as creative method”).  
 
-4) Failure modes
+4) Failure modes  
 
-- Closure without legible cost: conceptual stance shifts or aphorisms replacing a concrete bill on the page.
-- Orientation drag beyond ~120 words without payoff; spatial choreography blurs during high-pressure transitions.
-- Lens ambiguity at closure: accumulative/causal pattern untaught or renegotiated late.
-- Reflection >30% without anchoring to present micro-choices; momentum stalls in the middle third.
-- Artifacty cadence in the final third: template stems and paraphrase loops flatten intensity.
-- Track-test slips (infrequent): >4 shards or untaught segmentation; mild multi-POV drift without section breaks.
+- Emotion abstracted or labeled at the peak: closing lines like “Some truths were too heavy to bear” or “the most important crossings are the ones you don’t make” supplant earned image-based resonance.  
+- Cost gestured at rather than paid: conceptual stance-shifts (“She understood then…”) without a concrete relinquished path or physical consequence on the page.  
+- Middle-section plateaus: repetition of mood or observation (“repetitive observations,” “middle section could tighten”) where escalation pauses instead of narrowing options.  
+- Stakes staying atmospheric: threats or antagonists remaining “theoretical” or “abstract” (village/council/opposition offstage), softening pressure and making resolutions feel too convenient.  
+- Register drift at high intensity: philosophical or academic diction (“conceptual repricing,” “liminal stretch,” therapy-speak) breaks POV plausibility and blurs felt immediacy.  
+- Minor track-test slips: occasional untaught segmentation (>4 shards, “segmentation untaught”) or slight POV/section drift that briefly muddies lens or spatial orientation before closure restores clarity.  
 
-5) When it shines / when it breaks
+5) When it shines / when it breaks  
 
-It shines when a single live stake is laid early, pressure tightens via protagonist agency, and setting or a recurrent object concretely constrains the final decision. Accumulative logic works best when motifs evolve (not repeat) and the last image is irreplaceable—remove the world’s tool or rule and the ending collapses. Voice remains close and character-true; reflection interleaves with present-tense tactics. Theme emerges from things done and touched, not said.
+It shines when the story is built around a single, clearly live stake introduced within the first ~120 words, with the environment and one or two recurring objects acting as genuine constraints. Under those conditions, the model’s strengths align: agency-driven micro-choices ratchet pressure; motifs evolve rather than repeat; and thematic questions bloom from specific acts and images. Lyric-accumulative structures and quiet, non-causal plots work especially well when a persistent constraint (silence, limited time, a failing mechanism, forbidden knowledge) forces adaptation and the final image is a non-literal but concrete answer.  
 
-It breaks when the prose reaches for universal statements in lieu of scene, or when reflection displaces micro-choices in the final third. If cost is described philosophically, if a twist relies on late-game mechanics, or if environmental details stay ornamental at closure, resonance drops. Similarly, midsection plateaus, coincidence softens the pinch, or register drift introduces authorial diction the focalizer wouldn’t use.
+It breaks when reflection displaces present-tense choice, especially in the final third. If more than ~a third of the story drifts into generalized philosophizing or the ending swaps a charged gesture for an aphorism, cost becomes blurry. Similarly, if antagonistic pressure remains offstage or constraints are introduced only at the end (late magical mechanic, convenient visitor, self-protecting archive), closure feels unearned. Overly ornamental setting work that doesn’t shape tactics, or figurative density without payoff, can also dull momentum right where the narrative needs its sharpest edges.
 
-6) Keep vs. adjust
+6) Keep vs. adjust  
 
-• Keep:
-- Pressure-driven setting integration where tools and environments actively constrain choices and closure.
-- Close, character-bound voice with rhythmic modulation and patterned, paid-for elision.
-- Accumulative motif work that reweights in a final, costed image (“The garden would remember.”).
+• Keep  
+- Embodied, POV-filtered specificity: tactile, occupation- and flaw-driven perception that makes characters and worlds feel unswappable.  
+- Micro-choice escalation: letting small, pressured actions (kneeling, planting, signing, releasing, turning the valve) carry conflict, theme, and cost.  
+- Motif-based, image-led closure: reusing and reweighting objects and environmental cues so the last image resolves and deepens earlier patterns without stating a moral.  
 
-• Adjust:
-- Replace thematic echo and abstract closure lines with a concrete action or loss that pays the bill.
-- Audit the final third for template cadence and paraphrase loops; compress to one charged, original image.
-- Teach and hold the drive lens by midpoint; avoid late renegotiation or unseeded mechanisms in the turn.
+• Adjust  
+- Replace abstract or aphoristic final sentences with a single, consequential act or image that makes the price unmistakable (a door not opened, a tool broken, a name erased or added).  
+- In midsections, cut atmospheric repetition and add at least one new constraint or opposing tactic so each beat measurably narrows options rather than re-describing tension.  
+- Audit high-pressure passages for register drift and filter verbs; recast any elevated, thesis-like phrasing into character-plausible sensory noticing or concrete decision, keeping voice and pressure anchored to the focalizer in the moment.

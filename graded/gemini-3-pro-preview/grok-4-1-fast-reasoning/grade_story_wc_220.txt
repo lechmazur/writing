@@ -1,0 +1,19 @@
+grade_story_wc_220.txt
+<question>1</question><grade>5.3</grade><comment>Motivation is clear but static; Elias moves from point A to B without internal conflict or significant tactical shifts. The "bloodhound" trait is present but feels like a labeled superpower rather than a source of difficulty or nuance. The emotional arc is linear, lacking the contradictory impulses that create depth.</comment>
+<question>2</question><grade>5.7</grade><comment>The narrative arc is complete but lacks tension; the riddle is solved instantly, and the journey is summarized rather than dramatized. Closure lands as a Conceptual Repricing (accepting flawed reality over preserved memory), but the lack of prior struggle makes the resolution feel unearned and low-cost.</comment>
+<question>3</question><grade>6.2</grade><comment>The setting details ("fuselage bones," "rad-scorched suns") establish a vivid post-apocalyptic atmosphere. However, the environment rarely constrains choice or forces tactical improvisation, serving mostly as a backdrop for the protagonist's travel.</comment>
+<question>4</question><grade>5.0</grade><comment>Escalation is negligible; the protagonist faces no significant opposition or moment of doubt. The transition from the shack to the reunion is smooth and procedural, missing a crisis point where the outcome is genuinely in question.</comment>
+<question>5</question><grade>4.8</grade><comment>The theme is explicitly stated in dialogue ("we mend by finding each other whole"), triggering the thematic echo penalty. Subtext is displaced by on-the-nose declarations about the meaning of the leaf and the reunion.</comment>
+<question>6</question><grade>4.9</grade><comment>The voice attempts a poetic register but is marred by the forced repetition of specific phrases ("wild hush," "intuitively descriptive"). These repetitions create a robotic, unpolished feel that breaks narrative immersion and distinctness.</comment>
+<question>7</question><grade>3.5</grade><comment>Severe artifact penalties apply for the repetition of "wild hush" (~11 times) and "intuitively descriptive" (~4 times) in awkward syntactic slots. These loops damage prose rhythm and coherence, creating mixed metaphors ("lantern's wild hush flicker") that obscure meaning.</comment>
+<question>8</question><grade>4.7</grade><comment>The premise of a wasteland reunion via clues is a standard genre trope. While the phonograph cylinder is a nice specific detail, the execution relies on familiar beats without subverting them or offering a fresh structural angle.</comment>
+<question>9 A</question><grade>7.2</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>5.0</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>7.5</grade>
+<question>9 G</question><grade>6.0</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>7.5</grade>
+<question>9 J</question><grade>1.5</grade>

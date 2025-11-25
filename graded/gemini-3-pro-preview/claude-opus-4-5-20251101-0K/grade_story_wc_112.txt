@@ -1,0 +1,19 @@
+grade_story_wc_112.txt
+<question>1</question><grade>6.3</grade><comment>Mira is a competent focalizer with a clear objective, but she lacks internal conflict or a hierarchy of values tested under pressure. Her journey is procedural—executing a plan without hesitation or significant obstacles—rather than dramatic. The "kinship with machines" trait is stated but operates smoothly without forcing a difficult trade-off or cost.</comment>
+<question>2</question><grade>5.5</grade><comment>The narrative follows a linear "hypothesis-experiment-validation" structure with zero complications, failing to generate causal friction. The closure is a "soft" confirmation of what she already believed, lacking a Decisive Change or Resonant Reconfiguration with visible cost. The stakes regarding Dr. Vasquez remain theoretical and off-page.</comment>
+<question>3</question><grade>7.6</grade><comment>The atmospheric details of the gas giant and the station ("legs of a sleeping spider") are vivid and ground the scene well. The setting effectively mirrors the protagonist's isolation, though the prompt-forced phrase "mechanically warm" feels slightly repetitive and disrupts the otherwise solid sensory work.</comment>
+<question>4</question><grade>4.2</grade><comment>Escalation is virtually absent; the experiment proceeds exactly as predicted, the creatures behave as expected, and the antagonist is not present. Without an on-page reversal, obstacle, or tightening of options, the story reads as a vignette of a successful procedure rather than a narrative with genuine stakes.</comment>
+<question>5</question><grade>6.1</grade><comment>The theme of non-linear time is handled with consistent imagery, but the execution relies on explicit thesis statements ("Time wasn't a river. It was an ocean") rather than subtextual emergence. The "subdued awakening" conclusion feels conceptually tidy but emotionally unearned due to the lack of struggle.</comment>
+<question>6</question><grade>7.1</grade><comment>The narrative voice is consistent, maintaining a contemplative and slightly lyrical tone appropriate for the subject matter. The POV stays firmly with Mira, blending technical competence with wonder, though the insertion of prompt phrases occasionally stiffens the rhythm.</comment>
+<question>7</question><grade>6.4</grade><comment>Prose is generally polished, but the forced repetition of oxymoronic phrases ("mechanically warm," "icy warmth") to satisfy prompt requirements creates noticeable artifacts. These repetitions draw attention to the writing's construction rather than the scene's reality.</comment>
+<question>8</question><grade>5.1</grade><comment>The core concept—aliens perceiving non-linear time and a scientist proving it with a signal sent back from the future—is a familiar sci-fi trope (reminiscent of *Arrival*). While executed competently, the story adds little new conceptual or emotional territory to the existing genre conversation.</comment>
+<question>9 A</question><grade>8.5</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>3.5</grade>
+<question>9 D</question><grade>2.5</grade>
+<question>9 E</question><grade>5.2</grade>
+<question>9 F</question><grade>5.0</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>6.2</grade>
+<question>9 I</question><grade>8.2</grade>
+<question>9 J</question><grade>3.8</grade>

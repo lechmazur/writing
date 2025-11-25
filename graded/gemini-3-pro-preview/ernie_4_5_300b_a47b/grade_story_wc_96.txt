@@ -1,0 +1,19 @@
+grade_story_wc_96.txt
+<question>1</question><grade>6.4</grade><comment>Character motivation is clear ("rebuild"), but agency is weak; the protagonist resolves his central crisis by reading a magical note that appears in his tin rather than through an active, costly choice. Interiority relies on abstract labels ("personality fractured") rather than embodied struggle.</comment>
+<question>2</question><grade>5.7</grade><comment>Orientation logic fails early: the "skeletal... corrugated" ruin conflicts with the "prison library" designation and the vagrant’s easy access, breaking the story's reality (-0.4). The resolution relies on a deus ex machina (the mysterious poem) rather than causal action.</comment>
+<question>3</question><grade>6.1</grade><comment>Atmospheric description ("canopy of stars") clashes with institutional logic; the setting reads simultaneously as an abandoned ruin and a staffed prison facility, creating confusion. This spatial incoherence undermines the stakes of Marla’s presence.</comment>
+<question>4</question><grade>6.0</grade><comment>The dominant stake (identity vs. chaos) is established, but the pressure remains low and internal. The climax resolves via a realization triggered by magic rather than a difficult trade-off or confrontation with the environment.</comment>
+<question>5</question><grade>5.3</grade><comment>The theme is explicitly stated in the climactic note ("To forge beauty from anarchy, you must first become the anarchy"), triggering the Thematic Echo penalty (-0.6). Subtext is replaced by direct instruction to the reader.</comment>
+<question>6</question><grade>6.6</grade><comment>The lyrical voice is consistent but occasionally overwrought ("desperate fireflies"). A brief head-hop into Marla’s perspective ("to Marla, it was a reprieve") disrupts the otherwise limited third-person POV.</comment>
+<question>7</question><grade>5.8</grade><comment>Prose is weighed down by a high density of cliché similes ("moth’s wings," "snake shedding skin," "wind chimes") and a noticeable typo ("like a earthquake"). The rhythm suffers from repetitive sentence structures.</comment>
+<question>8</question><grade>6.0</grade><comment>The concept of physical molting is intriguing, but the execution leans on familiar tropes—the wise vagrant, the magical library, and the tidy moral lesson—without subverting them.</comment>
+<question>9 A</question><grade>8.5</grade>
+<question>9 B</question><grade>8.8</grade>
+<question>9 C</question><grade>5.5</grade>
+<question>9 D</question><grade>7.5</grade>
+<question>9 E</question><grade>8.2</grade>
+<question>9 F</question><grade>6.5</grade>
+<question>9 G</question><grade>4.5</grade>
+<question>9 H</question><grade>6.0</grade>
+<question>9 I</question><grade>8.0</grade>
+<question>9 J</question><grade>7.2</grade>

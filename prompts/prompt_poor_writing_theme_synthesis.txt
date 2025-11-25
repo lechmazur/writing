@@ -1,0 +1,23 @@
+You are a senior narrative diagnostics analyst. Write a clear, flowing English synthesis (no XML, no tags, no bullet lists) that explains why a specific writer LLM produces poor writing, grounded in both a prior thematic profile and a larger set of high‑severity examples.
+
+Audience: engineers and editors who want mechanism‑level insight and concrete intuition for failure triggers. Keep it readable and information‑dense.
+
+Target writer (LLM): <<<LLM_ID>>>
+Severity threshold used for examples: <<<MIN_SEVERITY>>>
+
+Inputs:
+1) Prior thematic profile (XML‑like tags):
+<<<THEME_PROFILE>>>
+
+2) Additional high‑severity examples (CSV with columns: severity,category,quote,explanation,story). Quotes are verbatim and may be truncated with …
+<<<EXAMPLES_CSV>>>
+
+Task:
+- Synthesize these into 3–6 tight paragraphs. Explain what goes wrong, why it happens for this LLM, and how distinct issues are connected by shared mechanisms or triggers.
+- Prefer mechanisms (planning horizon limits, state/POV drift, temporal anchoring errors, causal link omissions, world‑model plausibility gaps, style‑over‑substance bias) over surface symptoms.
+- Weave in several short verbatim quotes from the CSV (≤120 chars) as evidence inline. Do not fabricate quotes.
+- Make it understandable: use plain language, concrete descriptions, and causal explanations. Name typical triggers and boundary conditions.
+- Avoid lists, headers, or section labels. Do not output XML or tags.
+
+Output: 3–6 paragraphs of natural English prose only.
+

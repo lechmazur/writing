@@ -1,0 +1,76 @@
+llama4-maverick.txt
+**Q6 Editorial Synthesis — Voice & Point of View (600–800 word stories)**
+
+---
+
+**1. Executive Insight**
+
+The most consistent pattern across Q6 is stable but generic single-POV control: stories reliably maintain their chosen perspective—typically third-person limited or close, occasionally first-person—without overt head-hopping or unexplained perspective jumps. However, a marked majority default to a “literary-prose” or “workshop-mystical” register, often lacking the *distinct perceptual signature* that would ground narration in a unique, embodied consciousness. While the surface diction and rhythm typically hold steady, they rarely modulate with rising pressure, emotional turns, or a character’s specialized way of noticing. Dialogue, when present, often matches the narration’s generic cadence rather than carrying subtext or revealing idiosyncrasy. Closure usually lands in terms of plot logic, but emotional cost is frequently dulled by filter-verb stacks and summary interiority that “tells” rather than dramatizes felt change. Most entries fit Track A: Default single-POV, but a handful (esp. lyric/accumulative or craftsman-focused pieces) align well with Track B; multi-POV attempts (Track C) are extremely rare, and when present, are typically clear. Where the writing excels, it leverages textural and syntactic shifts to heighten pressure or payoff pattern-taught elision; where it fails, it converges at emotional peaks into abstract, interchangeable narration.
+
+---
+
+**2. Strength Profile**
+
+- **Stable POV & Distance:** Most stories maintain a tight focalization (usually third-person limited), avoiding unmotivated head-hopping or overstepping the character’s knowledge. Example: “POV is stable and the lyrical voice is consistent, with appropriate psychic distance.” (DeepSeek, wc_10)
+- **Consistent Register & Rhythm:** A controlled cadence supports atmosphere; line-level mechanics remain clean, with minimal tense or stance confusion: “Voice is lyrical and consistent, and filtered through [protagonist’s] perception.” (Gemini, wc_114)
+- **Lyric or Sensory Texture:** Many entries achieve moments of linguistic beauty, typically in opening or setting passages—“Distinct, lyrical, and sensorily attuned; perceptual signature is strong.” (Kimi, wc_158)
+- **Patterned Elision, When Present:** A minority pattern-teach their compressions (e.g., ritual, prolepsis, lyric build), which pays off in closure without confusion. “Purposeful compression and patterned elision are taught early and paid off at closure, with no head-hopping or register drift.” (DeepSeek, wc_254)
+- **No Expository POV Leakage:** Even generic voices generally avoid unwarranted certainty about other characters’ interiority or unanchored omniscience.
+
+---
+
+**3. Weakness Profile**
+
+- **Generic or Template Voice:** A critical mass of stories lack a *distinct perceptual signature*, such that “any gentle/mystical/literary protagonist could narrate this.” See, e.g.: “The voice is competent but generic, lacking distinctive perceptual signature or rhythmic modulation.” (Claude, wc_101)
+- **Filter Verb & Abstract Diction Overuse:** Especially under pressure, the prose resorts to “she felt… she knew…” clusters and summary (“sense of wonder,” “urge,” “mixture of hope and fear”) rather than dramatizing selective, biased, character-driven observation. “Filter constructions proliferate… POV provides no unique perceptual signature.” (Claude, wc_113)
+- **Repetitive Syntactic Patterns:** Uniform sentence stems (“As she…,” “The [NOUN] [VERB]…”) create rhythmic monotony, especially at emotional peaks. “Repetitive sentence structures… creating a monotonous cadence that feels more like a template.” (Gemini, wc_143)
+- **Lack of Modulation under Pressure:** The voice seldom shifts rhythm, stance, or sentence style as emotional or narrative intensity rises; pressure doesn’t compress or fracture the line, nor teach new modes. “Rhythmic variety is adequate, if occasionally monotone; voice rarely modulates under pressure.” (GPT-5, wc_242)
+- **Dialogue (if present) Is Functional, Not Distinctive:** When dialogue appears, it often sounds like written prose or plot advance, lacking subtext, idiomatic cadence, or character-led friction. “Dialogue feels scripted… without subtext or indirection.” (Claude, wc_128)
+- **Register Drift/Generic Abstraction at Key Beats:** Emotional or philosophical “telling” (“profound beauty,” “testament to human spirit”) intrudes during closure or reflection, flattening character-specificity and undermining immediacy.
+
+---
+
+**4. Performance Boundaries**
+
+This writing excels when the character’s way of seeing shapes not just what is noticed but how language, rhythm, and metaphor adapt to stakes and scene. Strong entries teach the reader to inhabit unfamiliar perspectives through selective noticing—whether tactile, synesthetic, or professional—while modulating sentence style for stress and payoff. Outcomes break down when voice becomes an averaged or “committee” lyricism, dialogue and narration converge, and closure arrives without syntax or diction ever spiking, shortening, or daring idiosyncrasy. The writing’s limitations reveal themselves most sharply at emotional or narrative peaks: when prose remains serene, evenly poetic, or summary-abstract regardless of internal friction, the cost and transformation implicit in the action are never truly felt.
+
+---
+
+**5. Signature Moves and Blind Spots**
+
+- **Moves:**  
+  - Lyric surface texture—atmosphere built through musical, gentle rhythm  
+  - Professional vocabulary or expertise sometimes colors noticing (best: crafts, science, or music foci)  
+  - Controlled psychic distance—no unmotivated head-hopping  
+- **Blind Spots:**  
+  - Generic lyricism: voice that could belong to “any gentle fantasy narrator”  
+  - Repetitive filter-verb and summary constructions in emotional beats  
+  - No dialogic idiosyncrasy or subtext, even when stakes beg for it  
+  - Failure to degrade or compress rhythm at high intensity—stress is never embodied in line  
+  - Register drift at pivotal moments (abstract concepts, therapy-speak, academic diction)
+
+---
+
+**6. High-Band Signals (≈ 8.8+ explicit tells)**
+
+- **Coherent, specific perceptual signature fully embedded in sentence selection, diction, and metaphor, distinguishable even in isolation.**
+- **Rhythmic control that modulates under pressure—sentence structure shortens, fractures, or expands, reflecting urgency or tranquility, not just content.**
+- **Closure effect pays off any taught pattern/compression/elision on the page, landing a cost or changed stance that reads as embodied and earned rather than convenient or summary.**
+
+---
+
+**7. Revision Levers and Keepers**
+
+**Keep:**  
+- Consistent focalization and control of narrative stance; avoid “helpful” exposition.  
+- Any textural, character-driven noticing or word choices that could only come from *this* consciousness in *this* story.  
+- Purposeful, pattern-taught compression, whether for lyric, cumulative, or structural effect.
+
+**Change:**  
+- Replace filter-verb and summary labels (“felt a surge…,” “a sense of peace”) with specific, in-scene noticing filtered by role, desire, and pressure.  
+- Vary sentence rhythm, especially in moments of stress—test for compression, fragmentation, omission, or pattern-learning as pressure rises.  
+- Ensure dialogue (if present) carries subtext, idiom, and friction rather than just plot; even minimal speech can reveal emotional or status beats.
+
+---
+
+**Cautions:** If evidence for sharp modulation or pattern-teaching is thin, this reflects the overall median: most stories are consistent, readable, and atmospheric, but only a handful risk strong individuation or ride stress to the line-level. When in doubt, privilege the on-page micro-choice and voice-driven noticing over claims of “poetic” or “gentle” texture that could have been copy-pasted to any narrator.

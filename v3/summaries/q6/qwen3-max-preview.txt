@@ -1,0 +1,61 @@
+qwen3-max-preview.txt
+## 1. Executive Insight
+
+Across the 600–800 word Q6 stories, the dominant pattern is the meticulously sustained, character-bound lyric voice: each protagonist’s perceptual signature—what, how, and why they notice—is tightly woven into the prose texture, creating a lens that is both immediately immersive and steadily maintained. Whether assessed under Track A (Default), Track B (Mosaic with ≤4 shards), or Track C (Multi-POV with section breaks), the conviction and clarity with which the same drive-lens is taught, developed, and closed is a common strength. Driven by the rubric’s emphasis on focalization, voice confidence, and distance control, these pieces largely avoid register mismatch, head-hopping, or committee-voice artifacts; instead, they equip the reader to inhabit a singular, pressurized consciousness (or a rhythmically-anchored set in Mosaic/Track C work), with closure that lands clearly and with visible cost on the page. In rare instances where multi-POV or mosaic forms are used, legibility of focal transition and a coherent closure lens remain consistently high, supporting the rubric’s global fairness guardrails. Overall, this axis is a frequent site of technical distinction: even under peak narrative/emotional stress, most entries retain pattern-driven lyric modulation, targeted compression/elision, and a prose rhythm that reflects not only the character’s psyche but also the cost of their arc.
+
+## 2. Strength Profile
+
+- **Singular Perceptual Signature:** Nearly every story foregrounds a clear, character-specific way of noticing: *“tides in teacups”*; *“molars ache”*; *“bark’s whisper”*; *“color of sound, cerulean streaked with amber”*. This uniqueness is sustained under both mundane and peak conditions, lending each narrative a felt interior bias.
+- **Rhythmic Control Under Pressure:** Prose rhythm intentionally modulates with affect or scene: long, unhurried lines for reverie; clipped, staccato fragments for crisis—e.g., *“She wept. Not from awe. From recognition.”*, *“She did not flinch. She did not rush.”*
+- **Purposeful Compression & Lyric Patterning:** Patterned elision is taught early (e.g., omitting connective explanations, letting actions and metaphors do narrative work), then paid off at closure, as in: *“not peace. Not rest. Just absence.”* and *“She didn’t plant it. Not yet.”*
+- **No Head-Hopping/Stable Distance:** Free indirect style and interior monologue remain tightly within the focalizer’s plausible lexicon, with no unearned access to other characters’ minds. Multi-POV texts clearly mark transitions (Track C), never “leaking” interiority.
+- **Dialogue as Subtext/Action:** When present, dialogue is spare, distinct in rhythm from narrative, and subtext-laden: *“You're not predicting. You're conducting.”*; *“Tell me, and I'll tell you mine after.”*
+- **Syntax Mirrors Internal State:** Sentence structure shifts fluidly with emotional beats; syntax as character emerges, particularly under stress: *“It did not burn her. It did not whisper. It waited.”*
+
+## 3. Weakness Profile
+
+- **Register Elevation/Abstraction Under Stress:** Some passages drift into overly abstract or “purple” diction (*“spiritual dislocation”*, *“vouchsafe the last truth”*, *“diaspora returnee”*), straining the plausibility of the character’s lexicon—especially in moments that would benefit from sensory or specific language.
+- **Minor Filter-Verb Clutter/Therapy-Speak:** A few segments dull immediacy by clustering filter verbs (*“she remembered,” “she realized”*) or diagnostic phrasing (*“proprioceptively enhanced”*, *“attentively inventive”*), flattening interior vividness.
+- **Expository Interiority:** Occasional explanatory sentences summarize what has just been shown, sapping narrative confidence (*“She knew now why the song mattered”* after a strong dramatization).
+- **Momentary Uniformity at Emotional Peaks:** In rare cases, distinct voices flatten or converge at high stakes (especially in dialogue), risking a “committee” effect: e.g., dialogue that could plausibly emerge from narrator or multiple characters, or narrative that pulls back to the general rather than the specific under pressure.
+- **Over-Reliance on Patterned Constructions:** Some stories over-use a particular rhythmic or syntactic motif (“not X, but Y”; “She [verb]; She [verb]...”), risking mechanical repetition or template feel if not varied at key beats.
+- **Occasional Opaque Compression:** A handful of pieces compress so tightly, especially in poetic/accumulative closure, that causal or emotional connections become momentarily obscure to the reader.
+
+## 4. Performance Boundaries
+
+When these writers excel, it is by sustaining a living, pressure-responsive lyric signature that allows even abstract or highly poetic prose to remain character-anchored, immersive, and frictional, guiding the reader to closure that lands both structurally and emotionally. The strongest blends modulate rhythm and syntax to serve the narrative pressure—shifting gears at escalation or release—and resist the temptations of generic lyricism. Conversely, outcomes are threatened when compression is not sufficiently “pattern-taught,” lyric diction drifts above the focalizer’s natural lexicon, or when patterned moves (e.g., repetition, negation) ossify into predictable routines. Success is also closely tied to the clarity of perspective transitions in multi-POV or mosaic attempts: where transitions are clean and closure lens is coherent, these structures amplify impact; when segmentation blurs or elision leaves payoff unpaid, the connection weakens.
+
+## 5. Signature Moves and Blind Spots
+
+- **Moves:**
+  - Prose-as-character: rhythm and sentence structure *embody* psyche and state.
+  - Selective, biased noticing as worldbuilding (emotional, scientific, tactile, etc.).
+  - Compression (lyric or fragmentary) during emotional peaks.
+  - Patterned elision taught, not just deployed; mitigates lyric density with clarity.
+- **Blind Spots:**
+  - Drift into abstraction or “purple” prose under maximum stress.
+  - Filter verb pile-ups in interior beats.
+  - Occasional didactic or essay-style assertions post-action (“And so she realized…”).
+  - Template/algorithmic overuse of sentence stems—requires strategic breakage or escalation modulation.
+
+## 6. High-Band Signals (≈8.8+)
+
+- **Cohesive, Legible Closure with Cost:** The ending reflects clear change/toll on the protagonist (or world), through the *same* voice and perceptual signature taught from the start, not via summary.
+- **Distilled, Patterned Compression under Pressure:** Line-level precision—fragmented, poetic, or elliptical—mirrors climax or stress yet remains easily parsed because the pattern was taught earlier in the piece.
+- **Rhythm and Syntax as Emotional Register:** Under pressure, sentence rhythm shifts organically to reflect the beat—short, breathless fragments in danger, long lyrical expansions in reverie or awe, always with voice-motivated purpose.
+
+## 7. Revision Levers and Keepers
+
+**Keep:**
+1. Singular, embodied perceptual signature—character-specific bias in what and how details are noticed.
+2. Rhythmic modulation—syntax and sentence length reflecting emotional/narrative peaks and valleys.
+3. Early, purposeful teaching of patterns (compression/elision, repetition, negation, etc.) that are resolved/paid off in closure.
+
+**Change:**
+1. Replace abstract or academic diction in high-pressure beats with sensory, situated observation appropriate to character (test: could your focalizer formulate this phrase in-scene, under stress?).
+2. Prune filter-verb clusters or “therapy-speak” (“she realized,” “proprioceptively enhanced,” etc.) when more direct sensory interiority or embodied action can do the work.
+3. Introduce rhythmic or syntactic variance at emotional peaks, especially if a patterned construction has recurred more than twice—heighten or break the pattern for narrative effect rather than let it repeat mechanically.
+
+---
+
+This axis is a wellspring of technical and affective strength for these stories: sustained, centered by lens, and robust even under experimental drive choices. Weaknesses are generally a function of overreach—compression without payoff, abstraction without anchor, or patterning without modulation—rather than laxity. Focusing revision on elision legibility, pressure-specific register, and syntactic/rhythmic escalation will further distinguish strong work in the upcoming bands.

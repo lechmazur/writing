@@ -1,0 +1,85 @@
+ernie_4_5_300b_a47b.txt
+1) Executive profile
+
+Baidu Ernie 4.5 300B A47B consistently delivers tightly contained, single-POV stories (Track A) with crisp orientation, concrete interiority, and pressure assembled through motif and micro-choice. Reader impact is strongest in clarity and momentum: scenes anchor quickly; sensory detail is POV-filtered; escalation usually tightens once with purpose; closure lands as a charged image or decisive renunciation. Felt cost is often present but can skew conceptual; the model occasionally asserts change rather than dramatizing a paid price. Voice and line craft drive resonance when they stay character-specific and resist register drift.
+
+Drive-lens consistency is reliable. Accumulative/textural builds dominate, with occasional causal/hybrid patterns that hold because/therefore rigor. Mosaic or multi-POV moves are rare and mostly taught; when attempted, section breaks and a coherent lens to closure are maintained. Closure generally lands legibly; the limiting factor is cost legibility and simultaneous tension at the apex—contradictory impulses sometimes appear sequentially or are summarized, softening the crucible.
+
+2) Portfolio map
+
+Q1 Character — Strong · Concrete interiority; micro-choices escalate; cost sometimes under-embodied
+
+Q2 Plot/Causality — Mixed · Lens holds; cost drifts conceptual; occasional coincidence assist
+
+Q3 Setting — Strong · Purposeful micro-setting constrains tactics; rare backdrop-only drift
+
+Q4 Conflict/Stakes — Mixed · Early stakes, agency-driven; pressure can plateau; cost asserted
+
+Q5 Theme/Subtext — Mixed · Motifs reweight at closure; final-paragraph thesis undermines subtext
+
+Q6 Voice/POV — Mixed · Distinct professional lens; register drift and filter verbs at peaks
+
+Q7 Prose/Line-level — Strong · Multi-job lines, rhythmic variation; loops and template runs recur
+
+Q8 Originality/Ingenuity — Mixed · Fresh syntheses; safe arcs and tidy resolutions blunt consequence
+
+3) Signature moves
+
+- Concrete, embodied interiority that converts emotion to action and texture.
+- Professional/vocational lens shaping perception, diction, and tactics; prose as character.
+- Pattern escalation via recurring objects/motifs that reweight at closure.
+- Economy of scope: single scene, one cadence shift, legible final image.
+- Closure rooted in prior micro-choices; cost often marked by a charged object or tool.
+- Micro-quotes that distill this approach:
+  - “Trembling hands and the physicality of her experiments...”
+  - “waveform of a dying pulsar”
+  - “each coffin a promise”
+
+4) Failure modes
+
+- Contradictory impulses rendered serially or in summary; apex lacks simultaneity under pressure.
+- Closure without embodied cost: conceptual insight replaces paid, on-page sacrifice.
+- Escalation plateaus: atmospheric accumulation or gentle deepening without a true pattern break.
+- Coincidence or convenient mechanism nudges resolution; agency diluted at the turn.
+- Register drift and filter-verb clusters at peaks (“she realized/understood/felt”) sap immediacy.
+- Paraphrase loops and template cadences in the middle/close (“She’d [verb]… She’d [verb]…”).
+- Setting as backdrop at the decisive beat; environment stops constraining options.
+- Track-test slips (rare): unmarked POV shift mid-scene; untaught segmentation in mosaic experiments.
+
+5) When it shines / when it breaks
+
+Shines when the story teaches a single lens early (accumulative or causal), anchors who/where/when by ~120 words, and threads a single, meaningful tightening that forces an irrevocable choice. Environments and micro-objects function as constraints and closure chargers; voice stays idiosyncratic, pressure-modulated, and free of abstraction creep. The final image is specific and consequential—motifs reweighted, options visibly foreclosed.
+
+Breaks when escalation relies on mood over mechanism, or when the ending asserts understanding rather than proving cost. If a coincidence solves a problem, or if motif recurrence is decorative, pressure flattens. Voice slippage into generic lyricism or thesis-speak (“thematic echo”) in the final 50–100 words undermines subtext. Setting that ceases to constrain at the apex, plus filter-verb scaffolding and paraphrase loops, erodes momentum and felt consequence.
+
+6) Keep vs. adjust
+
+• Keep:
+- POV-filtered, profession-shaped perception that compresses character and world into every line.
+- Motif patterning that escalates and pays off as a charged closure image.
+- Structural economy: single scene or two shards, one clean cadence shift, legible agency.
+
+• Adjust:
+- Make cost proof explicit and embodied at closure; replace thesis lines with physical consequence.
+- Force simultaneous impulses at the apex (hope/fear, resolve/hesitation) in-scene, not in summary.
+- Audit peaks for artifact debt: cut filter-verb clusters, break template runs, and prevent register drift.
+
+Notes by domain
+
+Character: The model excels at concrete, flaw- or profession-rooted motivation, with micro-choices revealing value hierarchies. Final renunciations or transformations often land; risk remains in tidy resolutions that imply rather than show the price. Secondary figures can read functional, offering pressure but not person-specific crucibles.
+
+Plot/Causality: Accumulative/textural builds dominate and are coherent; causal chains, when used, hold. Orientation is solid. Weaknesses center on cost legibility and occasional coincidence or oracle-like assists. The most successful pieces deliver one decisive tightening that differentiates stasis from earned change.
+
+Setting: Early anchoring and purposeful micro-setting are standouts. Tools, bodies, and local artifacts constrain tactics and charge closure; removal would break logic. Slippage occurs when description turns touristic or the environment stops acting on options at the crisis.
+
+Conflict/Stakes: Stakes are clear early; agency drives escalation. Pressure can plateau when opposition is atmospheric or unadaptive, and when mid-story lacks a pattern break. Some endings succeed by stance crystallization without a trade—acceptable but less biting.
+
+Theme/Subtext: Theme emerges from action and image; motifs reweighted at closure create resonance. The common failure is a final-paragraph thematic echo that explains what image and subtext already earned, tipping into sentiment or moral.
+
+Voice/POV: Distinct perceptual signatures, stress-modulated syntax, and dialogue as implication are frequent strengths. Risk points: register drift into generic lyricism/abstraction, undifferentiated secondary dialogue, and a rare unmarked POV slip.
+
+Prose/Line-level: Information-dense lines pull multiple weights; rhythm varies with pressure; figurative language is typically purposeful. Artifact patterns include paraphrase loops, template stems, filter verbs, and figurative overgrowth at peaks. Closure images commonly land clean.
+
+Originality/Ingenuity: Fresh syntheses and tactile logics are common; the transformation test often passes. However, safe, familiar arcs and tidy, consequence-light endings temper impact. The boldest entries commit to their singular mechanism and exact a price.
+
+In sum, Baidu Ernie 4.5 300B A47B is a reliable Track A stylist whose clarity, pressure modulation, and closure images produce strong reader momentum and resonance. To convert consistency into top-band work, it must insist on embodied cost, simultaneous tension at the apex, and artifact-free, voice-faithful final thirds.

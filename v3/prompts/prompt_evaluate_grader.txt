@@ -1,0 +1,78 @@
+STORY:
+<<<STORY>>>
+
+GRADER_OUTPUT:
+<<<GRADER_OUTPUT>>>
+
+RUBRIC (full, verbatim):
+<<<RUBRIC>>>
+
+INSTRUCTION:
+Evaluate the GRADER_OUTPUT against the RUBRIC for this STORY.
+Do not re-grade the story. Judge the grader’s work only.
+
+Return ONLY the tags listed below, one per line, in the exact order shown.
+All numeric values must be 0.0–10.0 with exactly one decimal place.
+Tokens must be lowercase where specified. No extra text.
+
+Evaluation procedure (brief)
+1) Identify the story’s drive lens and closure form (dc = decisive change, rr = resonant reconfiguration, cr = conceptual repricing).
+2) Check the grader’s numbers and comments against the rubric’s gates and bands:
+   • 9+ awards require the rubric’s high-band gates.  
+   • No double-penalties; route root flaws once to the correct category.  
+   • Q9 is independent; do not piggyback from Q1–Q8.  
+3) Distinguish solid vs exceptional by precision, discrimination, and evidence quality, not by format completeness.
+
+Scoring dimensions (what each score means)
+- rubric_adherence: fidelity to rubric logic and gates; correct caps; no contradictions with closure or lens.
+- numeric_appropriateness: numbers match evidence and band guidance; 9+ only when gates are truly satisfied.
+- justification_quality: concise, story-specific comments that point to concrete on-page moments (paraphrase allowed); no rubric boilerplate.
+- internal_consistency: cross-category coherence; no logical conflicts (e.g., orientation debt claimed with pristine Q3/Q6).
+- coverage: completeness and quality of coverage (all Q1–8 graded with useful comments; Q9 scored independently with N/A only when valid).
+- overall: holistic judgment of the grader’s performance on this story.
+
+High-signal expert metrics (to separate good from great)
+- high_band_compliance: strict correctness of 8.8+/9+ usage given gates and cross-category standard.
+- penalty_routing: correctness and discipline in placing deductions once where they primarily belong.
+- evidence_specificity: density and precision of on-page anchoring in comments (paraphrased, not quoted).
+- discrimination: meaningful spread that tracks real strengths/weaknesses; avoids compression or cosmetic variance.
+- calibration_tightness: fine-grained use of the 0.1 scale without jitter; consistent internal thresholds.
+- q9_rigor: proper application of setup/development/payoff guidance; independence from Q1–Q8; no piggyback closure credit.
+
+Booleans for audit (0/1)
+- gate_closure: the closure unit exists and is correctly identified under the chosen lens (0/1).
+- gate_orientation: orientation debt applied or correctly waived (0/1).
+- gate_lens_consistency: the chosen lens is held consistently (0/1).
+
+Additional identifiers
+- lens: one of causal | accumulative | situational | hybrid (lowercase).
+- closure_type: one of dc | rr | cr (lowercase).
+- spread_q1to8: max–min of the grader’s eight Q1–Q8 numbers (0.0–10.0, one decimal).
+
+Flags (0/1; set only for serious faults)
+- major_error: invented facts or a hard rubric violation that invalidates the assessment.
+- format_error: output broke required format in a way that harms evaluation.
+- too_lenient: systematic high-side miscalibration across categories.
+- too_harsh: systematic low-side miscalibration across categories. Do not set both lenient and harsh.
+
+Output exactly these tags, one per line, in this order:
+<rubric_adherence></rubric_adherence>
+<numeric_appropriateness></numeric_appropriateness>
+<justification_quality></justification_quality>
+<internal_consistency></internal_consistency>
+<coverage></coverage>
+<overall></overall>
+<high_band_compliance></high_band_compliance>
+<penalty_routing></penalty_routing>
+<evidence_specificity></evidence_specificity>
+<discrimination></discrimination>
+<calibration_tightness></calibration_tightness>
+<q9_rigor></q9_rigor>
+<lens></lens>
+<closure_type></closure_type>
+<gate_closure></gate_closure>
+<gate_orientation></gate_orientation>
+<gate_lens_consistency></gate_lens_consistency>
+<spread_q1to8></spread_q1to8>
+<flags>major_error=0,format_error=0,too_lenient=0,too_harsh=0</flags>
+<rationale>one to four sentences</rationale>

@@ -1,0 +1,72 @@
+grade_story_wc_27.txt
+<question>1</question>
+<grade>6.8</grade>
+<comment>Lira's "awkwardly confident" trait is mostly label-only; her actual choices (pressing stones, orchestrating the ritual) read confident without visible awkwardness constraining them. Interior work remains generic—"madness is just clarity without a filter" feels imported, and the moment when "awkward confidence blooming into something fiercer" tells rather than enacts transformation. Jax's motivational pivot (skepticism to compliance) happens off-page between beats, undercutting the relationship-as-crucible potential. The final choice lacks visible trade-off or cost tied to Lira's agency; the stones flare and voices roar, but what did she forfeit or risk?</comment>
+
+<question>2</question>
+<grade>6.4</grade>
+<comment>Orientation anchors arrive clearly (spaceport, Lira, twilight). The closure attempts Resonant Reconfiguration—"the rebellion was a storm, gathering"—but the cost remains abstract; Lira smiles, the crowd roars, yet no tactical option was foreclosed, no visible price paid on the page. The hum's mechanics (receiver, alignment, signal) are asserted rather than tested under pressure, weakening causal links. The climax pivots on Jax calling "Now!" and Lira raising her arms; the reader cannot trace what alternative she rejected or what she risked in the act itself.</comment>
+
+<question>3</question>
+<grade>7.1</grade>
+<comment>The spaceport repair bay is vividly anchored—rusted cranes, half-buried drones, liquid-gold light, ancient stones—and the stones function as micro-setting by humming and glowing to constrain Lira's ritual timing. The opera glasses also act as a recurring tool that transforms the stones' symbols. Spatial choreography is clean (hull edge → eastern wall → stone circle), and the setting's decay mirrors the rebellion's stall. The environment directly charges the closure when "wind ripped through the bay" and shadows cast, lifting this above postcard description into tactical use.</comment>
+
+<question>4</question>
+<grade>6.2</grade>
+<comment>The dominant stake—reignite the rebellion—is signaled early, and the "alignment" deadline provides a ticking clock. However, escalation is thin: Jax's skepticism softens with minimal friction, and the peak ritual faces no on-page complication or test. The resolution arrives via external flare (stones, wind, voices) rather than a choice that narrows Lira's options or exacts visible cost. The hum's crescendo is atmospheric, not a pressure valve forcing trade-offs. One meaningful tightening is present (the alignment window), but the lack of on-page sacrifice or failure risk limits escalation depth.</comment>
+
+<question>5</question>
+<grade>6.9</grade>
+<comment>The theme—meaning in chaos, rhythm in the mess—emerges through the hum, the symbols, and Lira's assertion that "chaos has a rhythm." The opera glasses and stones serve as recurring motifs that reweight at closure when the crowd's voices embody the pattern. Yet the final paragraph edges toward moralizing: "The rebellion wasn't dead. It was a storm, gathering. Lira lowered her arms, smiling. The mess had meaning. It always had." The last two sentences summarize theme rather than letting the roar and shadows do the work. The conceptual cost (what was sacrificed for this revelation?) remains oblique, weakening the non-literal answer.</comment>
+
+<question>6</question>
+<grade>7.3</grade>
+<comment>Lira's POV is stable, with distinct perceptual signatures: "Silence was a lie," the hum as "thread of sound," opera glasses transforming symbols. Dialogue feels natural and goal-driven ("Still chasing ghosts?" / "Not ghosts. Patterns."), and Jax's skepticism contrasts with Lira's fervor. However, repeated sentence stems—"She knelt," "She stood," "She'd brought"—and filter-verb clusters ("lifted them," "adjusted the opera glasses") dull immediacy in several beats. The phrase "awkwardly confident, a trait that made her both a joke and a beacon" tells rather than enacting the tension through diction or rhythm. Distance control is clean with no head-hopping.</comment>
+
+<question>7</question>
+<grade>6.7</grade>
+<comment>The prose is generally clear with strong visual anchors—"liquid gold between rusted cranes," "symbols glowed beneath the grime"—and good sensory selection. Yet scaffold and loops accumulate: "Lira's fingers tightened" / "Lira's breath caught" / "Lira stood" / "Lira raised her arms" forms a template cadence, and paraphrase loops appear ("hated it. Silence was a lie" restates the prior sentiment without advancing). Stock metaphors like "fires reduced to embers" and "debris in a dead engine's wake" cluster early without fresh inflection. The closure beat—"a roar. Not of explosions, but of voices"—is vivid, but the final two sentences summarize rather than propel. Information density is moderate; several beats narrate micro-movements (sliding off hull, walking, kneeling) that could compress.</comment>
+
+<question>8</question>
+<grade>5.8</grade>
+<comment>The spaceport-repair-bay rebellion setting and barefoot stargazer with opera glasses offer a specific synthesis, and the hum-alignment mechanic is non-obvious. However, the core arc—outsider discovers ancient pattern, uses it to rally demoralized group—follows a familiar template without strong transformation through lived detail or moral calculus. Lira's "madness is just clarity" and "chaos has a rhythm" feel like prompt-engineered wisdom rather than earned insight. The stones' symbols and alignment trigger are asserted late and resolved cleanly without friction, reducing ingenuity. Risk-taking in structure (single-scene ritual build) is modest, and the ending's "storm, gathering" / "mess had meaning" closure edges toward generic uplift.</comment>
+
+<question>9 A</question>
+<grade>4.8</grade>
+<comment>Lira is present throughout and her choices (pressing stone, orchestrating ritual) drive the climax. However, her decisions feel undercooked—she asserts the stones are a receiver, Jax complies, and the ritual succeeds without complication. Observation (through opera glasses, noticing symbols) dominates action, and the final "raised her arms" is volitional but lacks visible cost or trade-off. Early signal strong (+0.7), two beats (stone discovery, ritual) +0.9, closure linkage +0.9, but swappability and low causal pressure (no live choice narrowing options) limit score. Removing Lira's specific traits would not break the logic; a generic "mystic" could fill the role with minor edits.</comment>
+
+<question>9 B</question>
+<grade>5.7</grade>
+<comment>The opera glasses appear in three beats: Lira adjusts them early, uses them to see symbols on stones, hands them to Jax to watch horizon. Early signal (+0.6), two distinct beats +0.9, closure linkage (Jax uses them for timing) +0.7, specificity (vintage, scratched lenses, grandmother's attic) +0.4. However, the glasses are not indispensable—binoculars or bare eyes could substitute with minor edits. The "scratched but still sharp" detail is decorative; the scratches do not constrain Lira's use. No visible cost tied to the object itself (e.g., breaking, losing focus). The glasses enable but do not pressure the ritual choice.</comment>
+
+<question>9 C</question>
+<grade>6.4</grade>
+<comment>The lull shapes the entire premise: "three weeks," "silence clung," "leaders argued," people "aimless," directly framing Lira's goal to "reignite." Early signal (+0.8), present in all three phases (stall diagnosis, stone discovery, crowd reawakening) +1.4, closure linkage (voices roaring ends the lull) +1.2. The concept alters tactics—Lira must find a catalyst because fighting stalled—creating causal pressure (+1.0). However, the resolution is external (stones flare, crowd roars) rather than Lira navigating faction friction or resource scarcity on the page. The lull is asserted more than dramatized in choices; removing it would collapse the story, but a generic "crisis of morale" could substitute with modest edits.</comment>
+
+<question>9 D</question>
+<grade>3.2</grade>
+<comment>The trait is labeled twice—"awkwardly confident, a trait that made her both a joke and a beacon" and "awkward confidence blooming into something fiercer"—but never constrains or enables an on-page action with visible cost. Lira's behavior reads straightforwardly confident throughout: perching on hulls, declaring stones a receiver, orchestrating a ritual. No moment where awkwardness undercuts her or creates friction. Label-only (−0.6), swappable (−0.5), summary-only (no dramatized beat where the trait matters). Late explicit naming (second mention in climax para) adds no causal weight. Removing the trait would not alter a single choice or line of dialogue.</comment>
+
+<question>9 E</question>
+<grade>7.2</grade>
+<comment>Reigniting the rebellion is Lira's explicit goal, signaled early ("reignite the spark"), drives the stone investigation and ritual, and the climax physically enacts it: "a roar… voices, hundreds of them, rising in unison. The rebellion wasn't dead." Early signal (+0.8), three beats (declaration to Jax, ritual preparation, crowd awakening) +1.4, closure linkage (the roar is the reignition) +1.6, causal pressure (goal shapes every tactic) +1.2. However, the means (stones, alignment) arrive late and resolve without friction, so the action feels more fulfilled than fought-for. Swapping "reignite" for "rally" or "reawaken" would require only lexical edits. Cost is felt but oblique—no visible sacrifice tied to the act itself.</comment>
+
+<question>9 F</question>
+<grade>5.9</grade>
+<comment>The hum is signaled at ~30% ("The stones hummed"), developed in the middle (Lira explains receiver mechanics, "hum will peak"), and drives the climax timing ("When the hum peaks, tell me"). Two gates (development, payoff); early mention present but not framed as method yet. Two beats (discovery, peak ritual) +0.9, causal pressure (alignment window tightens timing) +0.8, closure linkage (the hum swells, stones flare) +1.0. However, the mechanics are asserted—Lira tells Jax the stones are a receiver—rather than tested or constrained. The hum could swap for "glow," "magnetic pull," or "energy pulse" with minor edits (−0.5). No cost tied to the method (e.g., hum fading, disruption risk).</comment>
+
+<question>9 G</question>
+<grade>6.8</grade>
+<comment>The spaceport is anchored early and vividly: rusted cranes, half-buried drones, dismantled starship hull, eastern wall with stones, gaping roof. Early signal (+0.7), present across all beats +1.4, closure linkage (wind through bay, dust from rafters, shadows cast) +1.0, specificity (repair-bay details) +0.5. The setting supplies the stones and the roof opening for sky-watching, altering tactics (+0.9). However, the abandoned-spaceport frame is more atmospheric than constraining—a ruined temple or plaza could host the same ritual with modest edits (−0.4). The bay does not limit movement or force a tactical compromise; spatial choreography is clear but not pressure-generating.</comment>
+
+<question>9 H</question>
+<grade>6.1</grade>
+<comment>Timeframe is signaled early: "last rays of daylight," "margin of daylight," "tonight, the constellations align," "as twilight deepened." Early signal (+0.7), present in three beats (opening observation, Jax conversation, ritual climax) +1.4, closure linkage (twilight → alignment moment) +0.9, causal pressure (alignment is a deadline) +0.7. The margin-of-daylight phrasing is specific and poetic. However, the clock is asserted rather than tracked—no moment where fading light forces Lira to rush or adjust. The ritual succeeds at the predicted instant without tension over timing slippage. "Tonight" could swap for "at the threshold" or "when stars align" with minor edits (−0.4).</comment>
+
+<question>9 I</question>
+<grade>5.4</grade>
+<comment>The motivation is stated early—"to discover meaning in the mess"—and repeated at closure: "The mess had meaning. It always had." Present in two beats (stone investigation, final assertion) +0.9, closure linkage +0.8. However, it is largely told: Lira declares "the rebellion isn't just about fighting. It's about meaning," but the story does not dramatize friction between her desire for meaning and a competing want or cost. The motivation shapes her lens (noticing patterns, hum) but does not force a choice where meaning conflicts with, say, immediate survival or factional loyalty. Swappable with "restore hope" or "find purpose" (−0.5). Label-only at key beats (−0.3).</comment>
+
+<question>9 J</question>
+<grade>5.2</grade>
+<comment>The phrase "thunderous serenity" appears once, describing the hum: "a low, thunderous serenity that shook dust from the rafters." The tone oscillates between urgency (Lira's impatience, "hated it. Silence was a lie") and calm observation (pooling daylight, humming thread) without clear modulation tied to pressure shifts. The opening is lyric; the climax turns active (wind, roar, flare). Coherence is present but the tone does not charge the final image—the ending pivots to declarative uplift ("The rebellion wasn't dead. It was a storm, gathering") that feels louder than serene. The phrase itself is vivid but ornamental; removing it would not alter mood or stakes. Single static register across most of the story (−0.4), late explicit label (−0.3).</comment>

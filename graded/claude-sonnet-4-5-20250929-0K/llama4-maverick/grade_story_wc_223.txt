@@ -1,0 +1,36 @@
+grade_story_wc_223.txt
+<question>1</question><grade>4.2</grade><comment>Three characters appear (crisis actor, survivor, historian) but remain label-bound with no embodied interiority or contradictory impulses dramatized. The crisis actor is told to have "benevolently ruthless tactics" and "cold, calculating smile" without micro-choices that reveal hierarchy of values under pressure. Motivation for the historian ("to become the historian of small gestures") is declared but never tested by a concrete cost on the page. The alliance proposal and agreement occur without friction, forfeiting earned change.</comment>
+
+<question>2</question><grade>3.8</grade><comment>Orientation anchors arrive late: who the characters are and what they want remains abstract past 120 words, triggering the −0.3 to −0.5 Orientation Test penalty. The dominant stake is never clarified—no live choice forces a trade-off—and the ending ("stood there, poised on the threshold") offers declared poise without visible cost or a decisive change on the page. The interregnum frame and "unbind the past" quest are announced but never narrow options causally; the piece reads as allegorical tableau rather than dramatized pressure, failing closure requirements.</comment>
+
+<question>3</question><grade>5.1</grade><comment>The whispering gallery setting is named and its acoustics noted ("seemed to amplify the historian's words") but never constrains a choice or alters tactics. The chessboard with missing pawns appears twice but remains symbolic furniture; no character handles it or uses its configuration to guide action. Spatial choreography is vague (the historian "emerged from the shadows," the trio "walked" in patterns) without coherent blocking or distances.</comment>
+
+<question>4</question><grade>3.5</grade><comment>No dominant stake is signaled early or tested by a concrete reversal. The characters stand facing each other, a historian appears, they agree to an alliance, and walk together—sequence without escalation or cost. The proposed "unbind the past" quest never forces a trade-off or forecloses an option on the page. Coincidence (historian's arrival) initiates movement but no protagonist agency drives a turn, violating the lens requirement.</comment>
+
+<question>5</question><grade>4.6</grade><comment>The piece gestures toward themes of memory, absence, and historiography but relies on abstract labels ("luminous absence," "nomadic penumbra," "void," "tapestry of meaning") rather than earned imagery. The final paragraph asserts thematic arrival ("a new story began to unfold") without a concrete on-page image that reweights prior material. The chessboard pawns are declared symbolic but never constrain a choice, making motif ornamental rather than resonant.</comment>
+
+<question>6</question><grade>5.3</grade><comment>Third-person narration maintains stable distance and no head-hopping, but voice is generic and lacks perceptual signature—any character could narrate this tableau. Diction drifts into elevated register ("enigmatic historian," "deep conviction," "potent symbol") that reads expository rather than character-filtered. The three characters speak briefly; the historian's one line carries no distinct idiom, and subtext is absent.</comment>
+
+<question>7</question><grade>4.1</grade><comment>Paraphrase loops and synonym churn pervade: "the void left by the missing leader" / "void that needed to be filled"; "silence was broken" / "eerie silence"; "luminous absence" repeated without reweighting. Template cadence runs: "She had always been…" / "She proposed…" / "She realized…" Stock metaphors ("thread weaving together," "tapestry of meaning") muddle without clarity. Filter-verb stacks ("seemed to echo," "seemed to be coalescing," "seemed to amplify," "seemed to fade") dull immediacy across high-density paragraphs, triggering −0.5 and disallowing 9+ globally per the patterned-artifact penalty pack.</comment>
+
+<question>8</question><grade>3.9</grade><comment>The premise—characters walking patterns that spell words during an interregnum—combines prompt elements without transformation or lived specificity. The crisis actor / crisis survivor pairing, chessboard symbolism, and allegorical historian read as template assembly rather than a fresh synthesis. No turn feels inevitable in hindsight; the alliance and joint quest arise from convenience rather than prior causality, making the core moves swappable.</comment>
+
+<question>9 A</question><grade>2.4</grade>
+
+<question>9 B</question><grade>3.2</grade>
+
+<question>9 C</question><grade>1.8</grade>
+
+<question>9 D</question><grade>1.5</grade>
+
+<question>9 E</question><grade>2.6</grade>
+
+<question>9 F</question><grade>3.8</grade>
+
+<question>9 G</question><grade>2.9</grade>
+
+<question>9 H</question><grade>2.1</grade>
+
+<question>9 I</question><grade>3.5</grade>
+
+<question>9 J</question><grade>2.7</grade>

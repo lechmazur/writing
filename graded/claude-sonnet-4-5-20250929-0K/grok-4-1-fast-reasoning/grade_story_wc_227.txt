@@ -1,0 +1,72 @@
+grade_story_wc_227.txt
+<question>1</question>
+<grade>4.2</grade>
+<comment>The alchemist's uncertainty is declared but rarely manifested in on-page micro-choices under pressure; the statue-matching sequence proceeds mechanically without hesitation or competing impulses. Interiority consists largely of label-only emotions ("lungs burning," "uncertain fingers steadying") and therapy-speak summaries ("intentions mended in gold") rather than embodied contradiction. The final transformation from "uncertain" to "certain" is asserted without dramatized cost or visible forfeiture of a path. Backstory dominates (~40% of the text) but remains expository; the five pockmark confessions summarize past failures rather than tilting present stance through micro-choices.</comment>
+
+<question>2</question>
+<grade>5.1</grade>
+<comment>Orientation is delayed: "who" (the alchemist's role) and "where" (floating workshop on acid sea) arrive early, but "when" (the breach, the timeframe) remains vague until paragraph two, and the statue's location/accessibility is unclear until paragraph three. The dominant stake—survival versus meaning-conjuring—is signaled but the causal chain is weak: matching charm to pockmarks triggers memory montages and then a deus-ex-machina statue cracking open with a crystal core that fuses the charm and lifts the barge, bypassing earned agency. Closure reads as Decisive Change (barge saved, alchemist certain), yet the cost is conceptual only—"no longer doubting"—without visible forfeiture or tactical tradeoff on the page. The lens wavers between Accumulative (memory quilting) and Causal (charm unlocks statue), never stabilizing; this ambiguity past midpoint warrants the −0.4 lens penalty and cross-cap at 8.0 for all categories.</comment>
+
+<question>3</question>
+<grade>5.8</grade>
+<comment>The acid sea, gears-and-cogs workshop, and underwater setting are vividly rendered with concrete sensory detail (corroded hull, caustic haze, steam vents). Spatial choreography is mostly clear—alchemist swims to statue, traces pockmarks—but the workshop's layout (walkways, chamber, rents) and the statue's accessibility underwater are underdeveloped. The environment pressures the protagonist (acid gnawing, breath held) but does not constrain a key choice; the statue's transformation is magical rather than environmental. Sensory selection reflects urgency (bubbles, stinging depths) but some details (golden veins, kintsugi glow) feel ornamental rather than tactical.</comment>
+
+<question>4</question>
+<grade>4.8</grade>
+<comment>The dominant stake—survival and meaning-conjuring—is signaled early, but escalation is ornamental: the acid sea "surges" and "devours" in repeated assertions without narrowing options or forcing trade-offs. The five pockmark matches proceed identically (trace, narrate, glow, memory montage) with no complication or cost; the protagonist never hesitates, risks a wrong match, or sacrifices anything tangible. The statue's climactic opening and barge-lifting arrive via coincidence (the charm fuses to the core) rather than protagonist agency. No on-page reversal or tightening alters tactics; pressure is declared ("oblivion loomed") but not dramatized.</comment>
+
+<question>5</question>
+<grade>5.3</grade>
+<comment>The kintsugi theme (mending breaks with gold) is stated repeatedly ("kintsugi intentions," "embracing the flaw") but remains abstract; the alchemist's past failures are summarized rather than tested against present choices. The final image—"quilting oblivion into legacy"—asserts thematic victory without showing how acceptance of flaws constrains or enables the ending action. The prompt-concept labels ("dire enchantment," "conjure meaning from oblivion's edge") recur without fresh inflection. Thematic Echo penalty: the final paragraphs articulate the thesis ("breaks invite gold," "narrated salvation") rather than letting image carry meaning, warranting −0.6 in Q5.</comment>
+
+<question>6</question>
+<grade>4.9</grade>
+<comment>POV is stable third-person limited, but psychic distance wavers: the narrator alternates between close embodiment ("lungs burning," "vision blurring") and detached summary ("His mind quilted the fragment together"). Diction drifts into elevated register inconsistent with crisis urgency ("intentions quilted solitude into strength," "spidering out"). The alchemist's perceptual signature is generic—no distinct idiom or selectivity beyond "uncertain" labels. Filter verbs ("felt," "seemed") and abstract nominalizations ("intentions," "enchantment") dull immediacy in peak beats. No dialogue appears, so those bullets are not scored.</comment>
+
+<question>7</question>
+<grade>3.7</grade>
+<comment>Heavy paraphrase loops and template cadence pervade: "Another pockmark… he matched it… narrated… surged… quilted" repeats five times with only synonym substitution. Stock metaphors cluster without coherent vehicles (quilting memories, kintsugi veining, spidering, tapestry, legacy). Filter-verb stacks in high-pressure beats ("The charm clicked… His mind quilted… Memories quilted anew") add −0.5. Figurative density in most sentences (golden resolve, dire enchantment, quilted solitude) without pattern payoff triggers −0.6. Artifact penalties total −1.7 and touch the closure beat ("quilting oblivion into legacy"), disallowing 9+ globally and capping high-band entries at 8.8. Information density is low; many sentences restate prior content (e.g., paragraphs 6–7 paraphrase the first pockmark match three times).</comment>
+
+<question>8</question>
+<grade>4.5</grade>
+<comment>The kintsugi-as-repair conceit is a recognizable writing-prompt template; the story does not transform it through specific lived detail or non-obvious moral calculus, warranting −0.8 derivative-premise adjustment. The five-pockmark structure and underwater breath-holding frame offer moderate freshness, but the emotional arc (uncertain → certain via acceptance of flaws) follows a generic redemption path. The floating workshop and acid sea provide vivid setting, yet their interaction with the core premise is ornamental—statue and charm could function identically on solid ground. No risky structural or perspectival choices elevate stakes.</comment>
+
+<question>9 A</question>
+<grade>4.1</grade>
+<comment>Character "uncertain alchemist" is present throughout and makes the decision to match pockmarks, but the choices are uniform and uncomplicated—no hesitation, wrong turns, or trade-offs. Setup clear (paragraph 1), middle development weak (matches proceed identically), closure participation minimal (the statue cracks open via the charm's fusion, not the alchemist's final choice). Two-gate met; causal pressure low; swappable with "determined alchemist" with minor edits. Band 3.0–4.9 functional but replaceable, lifted slightly by beat involvement across paragraphs 6–18, yielding ~4.1.</comment>
+
+<question>9 B</question>
+<grade>6.2</grade>
+<comment>Object "key ring charm" is handled in five distinct beats (paragraphs 3, 6, 9, 12, 15) and returns with reweighted meaning at closure (fuses to crystal core, lifts barge). Setup clear (paragraph 3 "Clutching a key ring charm"), middle development functional (matches pockmarks), closure participation strong (paragraph 26 "the charm's final key"). All three gates met; causal pressure moderate (enables matches but mechanics are vague); specificity unclear (why a charm versus another tool?). Band 5.0–6.9 shapes one key turn, pushed higher by closure linkage to ~6.2.</comment>
+
+<question>9 C</question>
+<grade>3.8</grade>
+<comment>Core Concept "kintsugi intentions" is stated nine times but functions as theme label rather than tactic-shaping mechanic. Setup present (paragraph 7 "kintsugi fashion"), middle development weak (narrated in memory montages, not enacted), closure participation ornamental (paragraphs 29–30 assert "intentions mended" without showing how acceptance changes options). Two gates met (setup, closure mention); causal pressure negligible; swappable with "healing intentions" with minor edits. Band 3.0–4.9 functional but replaceable, capped at 3.8 by swappability.</comment>
+
+<question>9 D</question>
+<grade>2.9</grade>
+<comment>Attribute "quilts memories together" is mentioned eight times but remains metaphorical description; no on-page action shows the alchemist physically quilting or using quilted material to constrain a choice. Setup weak (paragraph 8 uses "quilted" as verb for mental process), middle development label-only, closure participation thematic (paragraphs 34, 37 "quilting oblivion"). One gate met (closure mention); no causal pressure; visible tradeoff absent. Band 0.1–2.9 ornamental, ~2.9.</comment>
+
+<question>9 E</question>
+<grade>5.7</grade>
+<comment>Action "narrate" drives five distinct beats (paragraphs 6, 10, 14, 18, 22) and the protagonist's confessions trigger the statue's response. Setup clear (paragraph 5 "narrating his unraveling life"), middle development functional (each pockmark match paired with narration), closure participation present (paragraph 37 "he had narrated salvation"). All three gates met; causal pressure moderate (narration seems necessary for the charm-statue linkage); specificity moderate (why narration versus silent touch?). Band 5.0–6.9 shapes key turns, ~5.7.</comment>
+
+<question>9 F</question>
+<grade>6.4</grade>
+<comment>Method "by matching the pockmarks on a centuries-old statue" is signaled early (paragraph 5 "traced the key ring charm along the statue's first pockmark") and structures all five middle beats. Setup clear (paragraph 3 statue introduced, paragraph 5 first match), middle development strong (paragraphs 6–22 five matches), closure participation direct (paragraph 25 "the statue cracked open" after matches complete). All three gates met; causal pressure strong (matches are necessary for resolution); specificity high (pockmarks are unique to this statue). Band 7.0–8.4 essential across beats, ~6.4.</comment>
+
+<question>9 G</question>
+<grade>5.9</grade>
+<comment>Setting "gears-and-cogs workshop floating on an acid sea" is vividly described and pressures the protagonist (acid gnawing, workshop shuddering), but does not constrain a key choice—the statue-matching sequence proceeds identically regardless of the threat. Setup clear (paragraph 1), middle development functional (paragraphs 17–18 workshop shudders, acid floods), closure participation present (paragraph 27 barge lifted skyward). All three gates met; causal pressure low (threat declared, not forcing trade-offs); micro-setting insufficient (statue as object, not environment). Band 5.0–6.9 shapes atmosphere, ~5.9.</comment>
+
+<question>9 H</question>
+<grade>4.3</grade>
+<comment>Timeframe "between breaths held underwater" is stated three times but never tracked or enforced—the protagonist completes five pockmark matches, each with extended memory montages, without surfacing or suffering hypoxia consequences until the climax. Setup present (paragraph 2 "timeframe between breaths"), middle development weak (no clock pressure alters tactics), closure participation minimal (paragraph 28 "he broke surface" after resolution). Two gates met; causal pressure negligible; swappable with vague urgency. Band 3.0–4.9 functional but replaceable, ~4.3.</comment>
+
+<question>9 I</question>
+<grade>4.6</grade>
+<comment>Motivation "to conjure meaning from the edge of oblivion" is stated twice and frames the quest, but remains abstract—the protagonist never faces a choice between survival and meaning-conjuring. Setup present (paragraph 5 "conjure meaning from oblivion's edge"), middle development weak (desire told, not tested), closure participation ornamental (paragraph 34 "conjuring meaning" asserted). Two gates met; friction between want and cost absent (he achieves both survival and meaning without trade-off). Band 3.0–4.9 functional, ~4.6.</comment>
+
+<question>9 J</question>
+<grade>5.4</grade>
+<comment>Tone "dire enchantment" is established early (acid sea, corroded hull, eons of brine) and modulates with pressure (caustic haze, oblivion looming, triumphant whirring). Setup clear (paragraphs 1–2), middle development consistent (enchantment via glowing charm, humming statue), closure participation present (paragraph 31 "enchanted dusk," paragraph 38 "dire enchantment promised renewal"). All three gates met; coherence strong; final image charged (barge sailing into dusk). Band 5.0–6.9 shapes atmosphere and ending, ~5.4.</comment>

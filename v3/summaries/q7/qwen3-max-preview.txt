@@ -1,0 +1,65 @@
+qwen3-max-preview.txt
+### 1) Executive Insight
+
+The dominant pattern in these 600–800-word stories is a high level of line-level craft, seen in the consistent use of dense, image-rich prose that rarely resorts to loops, scaffold, or line-level artifacts. Across the spread of feedback, the writing achieves syntactic and rhythmic variety, purposeful figurative language, and concrete specificity—a composite of hallmarks for Track A (default single-lens, single-POV), though ample evidence suggests Track B (mosaic, ≤4 shards, legible transitions) and the occasional Track C (multi-POV coherence) are securely managed when used. Even at its richest, the prose usually resists over-ornament and instead charges each line with multiple functions: mood, world, character, and story propulsion. Closure typically lands with a recharging image or action, rather than summary or abstraction, and technical flaws are scarce or inconsequential. This level of execution matters: it keeps the reader immersed, ensures that pressure and affect are felt rather than told, and that narrative momentum never stalls due to redundancy or muddled metaphor. On the rare occasion that density, overwriting, or cadence artifacts appear, they are isolated and almost never touch the crucial closure beat. In sum, these stories set a near-best-practice standard for Q7, showing how meticulous sentence work—when paired with fastidious artifact-avoidance—yields immersive, memorable fiction.
+
+### 2) Strength Profile
+
+- **Information Density & Multipurpose Lines:** Sentences routinely compress multiple functions. Micro-quotes:
+  - “brittle geometry of ice-limned glass panes”
+  - “prisms fractured like frozen lightning”
+- **Rhythm and Sentence Variety:** Natural variation in both sentence openings and paragraph lengths supports both visual rhythm and narrative breath—no algorithmic monotony or drumbeat effect.
+- **Concrete, Sensory Imagery:** Specific nouns and tactile detail anchor the narrative (“roots swallowing iron frames like green teeth;” “salt-wind slipping through cracks...like a whispered secret”).
+- **Purposeful Figurative Language:** Metaphors and similes are disciplined, seldom repeated, and serve more than one purpose. Examples:
+  - “The seed split. Not with violence, but with grace.”
+  - “sound like thawing ice over deep water”
+- **Zero/Minimal Loops or Scaffold:** Repetition, parallelism, or refrains are pattern-taught and resolved, never algorithmic or accidental.
+- **Closure by Image or Action:** Final lines consistently recharge and concretize early motifs (“final line’s cadence...lands with charged specificity”).
+
+### 3) Weakness Profile
+
+- **Isolated Overwriting or Density Spikes:** Occasionally, dense metaphor clusters in high-pressure beats (“liquid starlight,” “auroral sorrow,” “screaming tenderness”) threaten to muddy clarity or stall momentum—most are swiftly grounded or redeemed by the surrounding context.
+- **Minor Register Drift or Abstractions:** Phrases like “conceptual repricing,” “latent resonance,” or “architecture of redemption” appear rarely but sometimes feel out of character or insufficiently embodied.
+- **Template Cadence/Pattern Issues:** A handful of stories show brief runs of repeated structural forms (e.g., “She didn’t... She didn't...”; “not X, but Y”), which, when untaught or unearned, momentarily flatten rhythm or create mechanical echo.
+- **Micro Scaffold in Thematic or Philosophical Statements:** Occasional sentences risk telling or summary, such as “she understood now: they don’t go. They linger,” serving as unnecessary scaffolding when image/action suffice.
+- **Near-Closure Friction:** Only in a handful of cases do minor paraphrase loops or ornamental phrases (e.g., “brilliant dimness” repeated, “virtue was neither accidental nor absolute”) touch the final third, capping the possible high band.
+
+**Track-test Failures:** Notably rare; almost all pieces with Track B/C structures demonstrate legible segmentation, purposeful transitions, and no lens/POV confusion at escalation or closure.
+
+### 4) Performance Boundaries
+
+This writing excels when physical logic, embodied detail, and thematic motifs are fused at the sentence level: when figurative language is physically coherent, context-specific, and always supports pressure or closure. It also thrives when rhythm is varied with intention and repetition is taught and resolved. The writing can break or risk capping out of elite bands when density becomes clutter—e.g., too many metaphors in a sentence/beat—or when abstract register or summary scaffolding invades pivotal emotional moments. Pieces that falter in the final third (even with otherwise high density and specificity) rapidly lose eligibility for the uppermost band.
+
+### 5) Signature Moves and Blind Spots
+
+**Signature Moves:**
+- Metaphors that compress scene, theme, and character in one vivid brushstroke.
+- Syntactic variety and natural modulation between fragments, complex sentences, and clipped beats for pressure modulation.
+- Closure images that recall or invert opening motifs—closure as echo or transformation.
+
+**Blind Spots:**
+- Occasional drift into academic/philosophical abstraction, momentarily detaching from visceral story work.
+- Density overdrive in high-pressure beats, risking purple patches or momentary muddle.
+- Untaught cadence patterns (e.g., repeated “She [verb]”), which, if unearned by logic or voice, create friction.
+
+### 6) High-band Signals (≈8.8+; 3 tells)
+
+- **Seamless Closure Propulsion:** The final third is free of loops, clutter, or figurative muddle; closure lands by image, action, or motif recharge.
+- **Pattern-Taught Repetition or Parallelism:** Any repeated structure or phrase serves a clear rhythmic or thematic function and is resolved, not accidental or mechanical.
+- **Dual/Triple Function Sentences:** Nearly every line does more than one job; often an image advances plot, deepens character, and underscores theme simultaneously.
+
+### 7) Revision Levers and Keepers
+
+**Keep:**
+- Multi-job lines: Sentences that compress action, theme, and sensory data.
+- Taught, resolved repetition: Parallelism or refrain that is purposeful and concludes with closure.
+- Embodied specificity: Image and action grounded in concrete, idiosyncratic, and visceral details.
+
+**Change:**
+- Prune density spikes: In high-pressure beats, remove redundant or clashing metaphors—especially when too many appear within a paragraph or when they strain logic.
+- Scrub philosophical scaffold: Excise direct thematic summaries or thesis statements in favor of embodiment or action that implies said theme.
+- Break template cadence: If three or more adjacent sentences open with the same stem (e.g., “She [verb]”), vary structure unless the pattern is overtly functional and paid off soon after. 
+
+---
+
+**Summary**: This writing meets a “top-shelf” ear for Q7 through dense, multi-tasking lines, legible rhythm, and judicious, coherent figurative language. Only when metaphoric density, register drift, or subtle mechanical artifacts intrude—especially in high-pressure or closure beats—does the work risk falling below the upper band. Strategic revision can easily address these, preserving strengths and ensuring enduring reader impact.

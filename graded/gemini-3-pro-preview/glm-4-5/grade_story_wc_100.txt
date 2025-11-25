@@ -1,0 +1,19 @@
+grade_story_wc_100.txt
+<question>1</question><grade>3.5</grade><comment>Characterization relies on stock archetypes ("weary undertaker") and declarative labels rather than dramatized interiority. Motivation is driven by convenient epiphanies ("With sudden clarity, Elias understood") rather than genuine psychological pressure or internal conflict. The protagonist moves through the plot on rails without making difficult, cost-laden choices.</comment>
+<question>2</question><grade>2.8</grade><comment>The narrative reads as a synopsis or outline rather than a short story, violating the single-scene scope default by jumping across days and locations (study, cliff, submarine, library) without transitions or pressure. Causality is lubricated by extreme convenience (a captain owing a favor, finding coordinates on the frame, puzzle pieces fitting automatically), resulting in a linear "and then" progression without structural tension.</comment>
+<question>3</question><grade>3.2</grade><comment>Settings are described with generic abstractions ("impossible spaces," "gray waters," "coral forests") rather than concrete, sensory-grounded particulars. The underwater library lacks tactile reality, relying on told phrases like "occupying impossible spaces that physics shouldn't allow" instead of specific environmental constraints that affect the character's movement or choices.</comment>
+<question>4</question><grade>2.2</grade><comment>There is virtually no active conflict or obstacle; the protagonist obtains a submarine, locates a lost city, and solves an ancient puzzle with "deliberate care" and no resistance. The narrative lacks a credible on-page cost or risk; the resolution is gifted through "sudden clarity" and magical compliance rather than earned through struggle or sacrifice.</comment>
+<question>5</question><grade>2.5</grade><comment>The theme is delivered through explicit moralizing in the final paragraph ("found his purpose not in death, but in eternal preservation") rather than emerging organically from the action. The ending serves as a summary of the lesson learned, flattening any potential subtext or ambiguity into a stated thesis.</comment>
+<question>6</question><grade>3.8</grade><comment>The voice is distant and explanatory, functioning more as a fable narrator than a close third-person perspective. It frequently engages in "telling" emotions and realizations ("felt the weight," "understood"), creating a barrier between the reader and the immediate experience of the scene.</comment>
+<question>7</question><grade>3.9</grade><comment>The prose suffers from adverbial telling ("inadvertently stubborn," "surprisingly light") and abstract similes ("fish scattered like silver thoughts") that obscure rather than illuminate. The reliance on summary phrasing ("Working methodically," "navigated through") prevents the generation of scene-level momentum or density.</comment>
+<question>8</question><grade>3.0</grade><comment>The core premise—restoring a magical beacon to put ghosts to rest—is a familiar trope executed here without a fresh angle or specific, lived detail. The progression is predictable, and the "underwater library" concept remains a sketch rather than a fully realized innovation.</comment>
+<question>9 A</question><grade>5.2</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>4.1</grade>
+<question>9 D</question><grade>2.2</grade>
+<question>9 E</question><grade>6.0</grade>
+<question>9 F</question><grade>2.1</grade>
+<question>9 G</question><grade>5.5</grade>
+<question>9 H</question><grade>4.0</grade>
+<question>9 I</question><grade>3.5</grade>
+<question>9 J</question><grade>3.1</grade>

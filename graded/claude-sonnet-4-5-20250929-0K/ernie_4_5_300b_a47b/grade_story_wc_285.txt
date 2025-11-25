@@ -1,0 +1,72 @@
+grade_story_wc_285.txt
+<question>1</question>
+<grade>4.2</grade>
+<comment>Thaddeus exists as a passive observer with no meaningful choices or internal conflict. His motivation "to distill complexity into essence" is asserted through label-speak ("his gift—his motivation") without embodied cost or trade-offs. The ferryman remains a cipher without pressure or relationship dynamics. No character makes a decision that forecloses a path or reveals contradictory impulses under stress.</comment>
+
+<question>2</question>
+<grade>3.8</grade>
+<comment>The piece lacks a legible closure unit—no decisive change, resonant reconfiguration, or conceptual repricing occurs. Thaddeus boards the ferry, crosses, disembarks, and carries forward "his own layer" in pure stasis without visible cost or altered options. Orientation is delayed: who, where, and when remain unclear until well past 120 words, triggering the Orientation Test penalty (−0.4). The inferred lens (Accumulative/Textural) never tightens or reweights the dominant stake on the page.</comment>
+
+<question>3</question>
+<grade>6.1</grade>
+<comment>Fog, river, and ferry are vividly rendered with selective sensory detail (fog "like a second skin," hull "slicing through fog like a knife through linen"). The setting provides atmospheric texture but does not constrain a single on-page choice or charge the final image. Spatial choreography is clean (carriage, dock, boat, tiller positions track coherently). Micro-setting qualification is not met; the yarn needle and boat vibrations remain descriptive rather than tactical.</comment>
+
+<question>4</question>
+<grade>2.9</grade>
+<comment>No dominant stake is dramatized with on-page pressure. Thaddeus waits, boards, crosses, and disembarks without opposition, narrowing options, or trade-offs. The "palimpsest promise" and his gift to "distill complexity" are thematic declarations never tested by conflict. No reversal or tightening occurs; coincidence (the ferry's arrival) advances the plot without protagonist agency. The ferryman's silence and the ticking gutters supply atmosphere but no escalation or cost.</comment>
+
+<question>5</question>
+<grade>4.6</grade>
+<comment>Theme is asserted through abstract labels ("palimpsest promise," "distill complexity into essence," "spindrift serenity") rather than emergent from concrete events. The final paragraph moralizes ("the palimpsest promise was safe here") and restates theme without scene pressure, violating the anti-sermon rule (−0.6). The yarn needle and river function as symbolic ornaments without constraining choice or charging the closure. No thematic question is tested or reweighted by the ending.</comment>
+
+<question>6</question>
+<grade>5.4</grade>
+<comment>Third-person limited POV is stable with no head-hopping. The perceptual signature leans heavily on elevated diction ("palimpsest," "spindrift serenity," "percolate through ambient awareness") that feels imposed rather than voice-particular. Filter verbs ("he knew," "he thought," "he believed") cluster without propelling immediacy. The prose carries a museum-tour quality—descriptive and observational—without urgent rhythm modulation under pressure. Dialogue is absent, so those bullets do not apply.</comment>
+
+<question>7</question>
+<grade>4.9</grade>
+<comment>Multiple text-artifact patterns: paraphrase loops ("The promise of passage was etched into the very stones" / "the palimpsest promise"; "distill complexity into essence" appears three times with synonym churn), template cadence ("He'd always been closely attentive... he'd thought... now he knew"), and stock metaphors ("knife through linen," "dance of silence"). Filter-verb stacks dull immediacy ("he knew," "he believed," "he thought"). Register drift into academic diction ("percolate through ambient awareness," "spindrift serenity") clashes with scene urgency. Cumulative deductions in Q7: −1.4 for loops, template stems, and elevated diction in key beats.</comment>
+
+<question>8</question>
+<grade>3.7</grade>
+<comment>The gloom-hill coachman / silent ferryman / fog-bound crossing premise is familiar without transformation. Thaddeus's "gift" to distill complexity and the yarn needle as unraveling tool read as symbolic ornaments rather than lived particulars. The palimpsest metaphor is deployed as thematic gloss without causal work. No fresh inflection or bold risk; the ending restates the setup ("carry his own layer forward") without earned change or hindsight resonance.</comment>
+
+<question>9 A</question>
+<grade>2.4</grade>
+<comment>Present throughout as the POV focalizer, but Thaddeus makes no key choices—he waits passively, boards when the ferry arrives, and disembarks without decision or cost. Observation without agency.</comment>
+
+<question>9 B</question>
+<grade>3.1</grade>
+<comment>The yarn needle appears in three beats (pulled from pocket, warmed in sleeve, tucked back) but remains a static symbolic object. Its stated purpose ("to distill complexity into essence") is asserted, never dramatized. No choice hinges on its presence or use.</comment>
+
+<question>9 C</question>
+<grade>2.6</grade>
+<comment>The "palimpsest promise" is mentioned four times as thematic gloss ("layers of vows," "living palimpsest," "safe here") but never shapes stakes, narrows options, or alters tactics. Pure thematic echo without causal pressure.</comment>
+
+<question>9 D</question>
+<grade>2.8</grade>
+<comment>"Closely attentive" is used twice as a label and illustrated through passive observation (fog, water, ferryman's breath). No on-page action is constrained or enabled by this trait; it describes rather than pressures.</comment>
+
+<question>9 E</question>
+<grade>1.9</grade>
+<comment>"Percolate through ambient awareness" appears once as descriptive interiority. No turn or choice traces to this action; easily swappable with "observe" or "notice" without structural change.</comment>
+
+<question>9 F</question>
+<grade>2.2</grade>
+<comment>"Through ambient awareness" is mentioned once in conjunction with "percolate." The method is asserted, not mechanically enacted or tested. No attempt or tactic depends on its operation.</comment>
+
+<question>9 G</question>
+<grade>5.8</grade>
+<comment>The fog-bound river crossing is present throughout, vividly rendered, and frames the scene. It supplies atmosphere and grounds spatial choreography but does not constrain a choice or alter outcome. The ferryman's arrival is coincidental timing, not protagonist-driven.</comment>
+
+<question>9 H</question>
+<grade>4.3</grade>
+<comment>The rain gutters are mentioned twice: "wouldn't appear until the rain gutters stopped ticking" and "The rain gutters had begun their ticking." This temporal marker bookends the crossing but does not tighten decisions or alter tactics. The timeframe is tracked but passive.</comment>
+
+<question>9 I</question>
+<grade>2.7</grade>
+<comment>"To distill complexity into essence" is stated three times ("his gift—his motivation," "That was his gift," "to distill complexity into essence") as label-only exposition. No dramatized friction, choice, or cost shows this desire in conflict with other wants.</comment>
+
+<question>9 J</question>
+<grade>3.4</grade>
+<comment>"Spindrift serenity" appears once as a direct label. The tone is consistently meditative and calm but static—no modulation with pressure, no charge at the final image. Functional but ornamental and replaceable.</comment>

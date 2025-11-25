@@ -1,0 +1,91 @@
+deepseek-v31.txt
+**Q7 Synthesis: Prose & Line-Level Craft in 600–800 Word Stories**
+
+---
+
+**1. Executive Insight**
+
+The dominant pattern in this corpus is a high baseline of information density—most stories drive multiple layers (atmosphere, action, interiority) through nearly every sentence, reflecting the rubric’s emphasis on compression and momentum over ornament. Most entries use Track A (Default: single lens, continuous narrative), and almost all hold their drive-lens consistency, with closure that reliably lands via image or embodied action rather than rhetorical summary. When weaknesses manifest, they tend to stem from line-level artifacts—especially paraphrase/synonym loops, filter-verb stacks in peak beats, or figurative density that edges toward muddle. However, within the expected band, these artifacts rarely obscure cause/effect or closure directly; even when density is high, most stories avoid the common pitfalls of filler, purple prose, or generic modifiers. Rhythm and sentence structure are typically varied and deliberate, supporting both the visual and auditory pacing the rubric demands. The difference between publishable and truly top-tier is determined largely by the presence or absence of micro-artifacts in the final third, and by how consistently lines do more than one job under pressure.
+
+---
+
+**2. Strength Profile**
+
+- **Multi-tasking Lines:** Across the board, sentences “do more than one job,” often advancing plot, mood, and character in a single gesture (e.g., “dust from a butterfly wing, and it held the secrets of a different kind of gravity”).
+- **Purposeful Rhythm:** Most stories employ varied sentence lengths and paragraph structures—long, atmospheric lines breathe during reflection; declarations or fragments accelerate tense beats.
+- **Specific Imagery & Verbs:** Writers frequently favor concrete, idiosyncratic detail (“oak desk carved from a pew,” “bones of a forgotten leviathan”), escaping generic high-level description.
+- **Clean Technical Execution:** Grammar and tense are almost uniformly consistent, with pronoun references clear and paragraph cuts intentional—few, if any, “can be cut without loss.”
+- **Strategic Telling:** When summary/telling appears, it is usually compressing background or transit, not pivotal beats—demonstrating density and momentum.
+- **Motif Resolution:** Final lines habitually recharge earlier images or motifs, fulfilling the rubric’s requirement for closure via action or concrete resonance.
+
+**Micro-quotes:**
+- “Her back was a question mark.”
+- “Salt-tolerant fruits grew wild and strange, their twisted branches pressing against the murky panes.”
+- “The star-ink did not scratch the surface; it seeped into the metal.”
+- “Conducting an experiment in reality.”
+
+---
+
+**3. Weakness Profile**
+
+- **Paraphrase & Synonym Loops:** The most common artifact is repetition of a concept or image in adjacent lines without added pressure—e.g., “She saw...She began to see” or “restored trust after silence/The silence was her own.” These can occur mid-story or, more critically, in final paragraphs, dulling narrative momentum.
+- **Template Cadence:** Runs of repeated sentence stems (“He saw... He gripped... He unstoppered...”) sometimes creep in, especially during sequences or in experimental/accumulative modes. Unless pattern-taught and evolved, these flatten the read-aloud ear test and rhythm.
+- **Figurative Muddle & Density:** A smaller but notable subset of stories clusters metaphor on metaphor or couples contradictory vehicles (“crumbling peace, a tranquility forever on the verge of collapse”); in some, elevated/abstract diction (“aqueous gloom,” “liquid silence”) is inserted in peak beats, momentarily obscuring the logic of action or emotion.
+- **Register Drift:** Elevated, academic, or therapy-speak labels occasionally intrude in moments that should be voice-specific, e.g., “reactively visionary,” “operatively gentle,” “profound peace” (especially damaging if in dialogue or internal monologue).
+- **Minor Redundancy:** Particularly in describing emotional state after the fact (“profound grief” after embodied action), or in double-modding (“hollowed-out temple of fleeting joy”), some stories dilute density via intensifier stacks.
+- **Artifacts Touching Closure:** Infrequent, but when a filter-verb stack or repetition appears in the final third, it caps otherwise strong line work at a maximum of 8.8 by rubric.
+
+**Track-Test Failures:**
+- Multi-POV or shard-based narratives almost always teach the lens before switching, but untaught segmentation (>4 shards, >2 voices) or unanchored section breaks can briefly compromise sequential clarity in a couple of cases.
+- On rare occasions, mosaic (Track B) stories edge toward too many undifferentiated fragments without advancing macro pressure.
+
+---
+
+**4. Performance Boundaries**
+
+When this writing excels, it balances maximal information density with clean propulsion—lines do double or triple duty, metaphors run in disciplined sets, and sentence rhythm adapts perfectly to the pressure of the scene. Exceptional entries avoid artifacts, especially in the final third, and closure always arrives via concrete, recharged motif. The writing breaks when figurative language or template cadence accumulates in high-pressure beats without pattern or payoff, or when repetition (of stems, metaphors, or abstract nouns) is allowed to replace escalation. Outcomes also flip if register drift or label-speak overtakes embodied voice in moments of crisis. Stories flirting with overwriting or paraphrase but keeping artifacts out of the last quarter can still rate highly, provided artifact density never masks cause/effect or dulls closure.
+
+---
+
+**5. Signature Moves and Blind Spots**
+
+- **Moves:**
+  - Patterned repetition for accumulative effect (e.g., deliberate anaphora for ritual/ritual closure, or motif recursion to thematic payoff)
+  - Visceral, multisensory imagery woven into action (e.g., “the water had touched the boy’s boots last; it held his trace”)
+  - Strategic fragment/long-line alternation to control suspense/relief
+
+- **Blind Spots:**
+  - Occasional reliance on familiar constructions (“her heart hammered,” “liquid silence,” “etched into memory”), especially under pressure
+  - Abstract emotional overlays without concrete anchor (“a beautiful mess of living,” “terrible purpose”, “fragment of remembered stardust”)
+  - Slightly mechanical or algorithmic patterning (repetitive opening stems or transitions) in mosaic or cumulative tracks not always exploited for pattern-teaching
+
+---
+
+**6. High-Band Signals (8.8+)**
+
+- **Zero Loops or Scaffold:** No substantive paraphrase, synonym churn, or template stem repetition over any adjacent lines or in closure. Each beat introduces new pressure or deepens detail organically.
+- **High Information Density with Clear Propulsion:** Every line advances at least two of (plot, character, atmosphere, theme), often more, and nothing is wasted or left to mere restatement or intensifier inflation.
+- **No Figurative Muddle in Peak Beats:** When metaphor density spikes under pressure, it is pattern-taught, coherent with physical logic, and fully pays off—never mixing vehicles or drifting from embodied voice.
+- **Crystalline Closure Image:** Final lines recharge the central motif with concrete consequence, never resort to explanatory summary, and do not rely on abstract or ornamental phrasing.
+
+---
+
+**7. Revision Levers and Keepers**
+
+**Keep:**
+- Multi-jobbing sentences: Lines that advance world, character, and tension simultaneously
+- Clean, varied rhythm: Syntactic and paragraphial shifts that mirror scene pressure and create visual and auditory interest
+- Concrete, idiosyncratic detail: Specific objects, actions, or images that resist generic description and ground the story’s stakes
+
+**Change:**
+- Cut or consolidate any adjacent sentences that paraphrase/core-repeat without new pressure (especially within a paragraph or at closure)—run the paraphrase loop check aggressively.
+- Where figurative language is super-dense or metaphors verge on contradiction/synonym churn (within 2–3 lines), refactor to pattern-teach or compress to pay off—test by reading aloud the sequence for logical/sonic drag.
+- At closure, audit final lines for any filter-verb stack, register drift, or abstract label. Replace with physical, image-led action that reframes or recharges the opening motif. If a template cadence is present in the last third, revise so each beat carries unique pressure or insight.
+
+---
+
+**Caution:** While most strengths are robust, some weaknesses (especially loops or register drift in crucial moments) can silently cap the highest scores by rubric. When tracking revision or seeking a “top literary” polish, pay particular attention to the clarity and density of final-third prose and its freedom from even minor patterned-artifacts or redundancy. 
+
+---
+
+This review should direct both line-level revision and strategic preservation for writers seeking to rise from “well-published” to “exceptional” on Q7’s demanding axis.

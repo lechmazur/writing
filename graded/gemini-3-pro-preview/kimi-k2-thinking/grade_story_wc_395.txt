@@ -1,0 +1,19 @@
+grade_story_wc_395.txt
+<question>1</question><grade>4.3</grade><comment>The protagonist is defined by a stated role rather than dramatized complexity; her motivation ("to find where deleted files go") is asserted rather than felt. The prompt-required attribute "brightly attentive" is inserted as a label rather than demonstrated through unique perception. Emotion is conveyed through abstract metaphors ("feeling the weight") rather than embodied reaction or difficult choices.</comment>
+<question>2</question><grade>3.8</grade><comment>The narrative reads as a synopsis or outline rather than a fully dramatized scene, relying heavily on summary ("She began to suspect," "She decided to lie"). The central "heist" action—forging a token to bypass AI—lacks granular causality or resistance, resolving instantly without suspense. The pacing is rushed, compressing a complex investigation into a linear checklist of events.</comment>
+<question>3</question><grade>3.5</grade><comment>The setting is a generic cyberpunk archive without distinct sensory grounding, relying on standard tropes ("digital ghosts," "humming"). The inclusion of the exact sequence 4-8-15-16-23-42 (from *Lost*) shatters world-building credibility, reading as a pop-culture intrusion rather than a logic-driven detail of this specific world.</comment>
+<question>4</question><grade>3.2</grade><comment>Escalation is absent; the protagonist faces no genuine opposition, moving from clue to solution with perfect ease. The "security AI" offers no resistance, and the decision to "lie" carries no visible risk or cost on the page. The stakes are declared but never tested, resulting in a flat narrative arc without tension.</comment>
+<question>5</question><grade>3.5</grade><comment>The theme is delivered through heavy-handed sermonizing ("truth, like data, never truly disappears") rather than emerging from subtext. The ending explicitly states the moral of the story, removing interpretive agency from the reader. The resonance is forced by assertion rather than earned through the conflict.</comment>
+<question>6</question><grade>4.0</grade><comment>The narrative voice is consistent but overly elevated and melodramatic ("mournful hum," "chorus of absence," "talisman against silence"). High narrative distance keeps the reader detached from the protagonist's immediate experience. The tone feels manufactured, prioritizing poetic sounding phrases over clarity.</comment>
+<question>7</question><grade>2.8</grade><comment>The phrase "echo of forgotten songs" repeats verbatim four times (six variations total) in a short text, creating a severe, unintentional loop. Syntactic monotony is pervasive, with the majority of sentences starting with "She [verb]" (She had, She noticed, She began, She poured, etc.). Telling dominates showing throughout.</comment>
+<question>8</question><grade>2.0</grade><comment>The story relies on a standard whistleblower trope without a fresh angle. The use of the *Lost* numbers (4-8-15-16-23-42) as the central mystery key is a fatal derivative flaw that undermines any claim to ingenuity. The execution follows a predictable path with no surprising turns or specific, lived-in details.</comment>
+<question>9 A</question><grade>7.2</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>6.2</grade>
+<question>9 D</question><grade>1.8</grade>
+<question>9 E</question><grade>5.0</grade>
+<question>9 F</question><grade>6.5</grade>
+<question>9 G</question><grade>5.2</grade>
+<question>9 H</question><grade>2.2</grade>
+<question>9 I</question><grade>5.0</grade>
+<question>9 J</question><grade>4.0</grade>

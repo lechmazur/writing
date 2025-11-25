@@ -1,0 +1,19 @@
+grade_story_wc_15.txt
+<question>1</question><grade>3.2</grade><comment>The protagonist lacks conscious agency; her primary action occurs while sleepwalking "beyond conscious control," removing the capacity for choice or cost. Characterization relies on asserted labels ("hauntingly optimistic," "poetic") rather than demonstrated traits under pressure. No internal conflict or trade-offs exist; she is a vessel for magic rather than a character making decisions.</comment>
+<question>2</question><grade>3.5</grade><comment>The narrative operates as a synopsis of a fable rather than a dramatized story, violating the default scope of a continuous scene or shards. Causality is magical and inevitable rather than driven by consequence; events unfold without resistance or distinct turning points. The closure is a summarized realization of success without an on-page cost or decisive change in a specific moment.</comment>
+<question>3</question><grade>4.1</grade><comment>Setting descriptions are generic ("morning mist," "red canyon walls") and rely on standard fantasy tropes without specific sensory grounding. The environment functions as a passive backdrop for the magical action rather than a source of constraint or pressure. There is no specific "now" or anchored atmosphere, as the timeline blurs across days and years.</comment>
+<question>4</question><grade>2.8</grade><comment>There is no antagonist, internal doubt, or environmental obstacle; the stone accepts the needle without resistance, and the villagers immediately accept the change. The stakes are abstract ("ruin into reverence") and never tested by a concrete threat or failure. The narrative lacks escalation, moving in a straight line from intent to total success.</comment>
+<question>5</question><grade>3.0</grade><comment>The theme is delivered through explicit moralizing statements ("transforming ruin into reverence," "art to transform") rather than emerging from subtext. The ending offers a tidy, sermon-like conclusion that resolves all tension without ambiguity. Emotional resonance is asserted by the narrator ("bringing comfort") rather than earned through the character's experience.</comment>
+<question>6</question><grade>4.5</grade><comment>The voice is consistent in its fable-like distance but lacks distinct texture or a specific perceptual signature. The omniscient narration summarizes internal states ("In her heart, Elara knew") instead of filtering them through immediate experience. The tone is uniform throughout, with no modulation for tension or pacing.</comment>
+<question>7</question><grade>3.8</grade><comment>The prose relies on clichés ("fingers danced," "sleeping serpents") and precious phrasing ("poetic wharf weaver"). Key prompt phrases ("hauntingly optimistic," "orchid solace") are repeated verbatim, creating a "check-the-box" feel. The reliance on summary sentences ("As days passed...") drains momentum and immediacy.</comment>
+<question>8</question><grade>4.0</grade><comment>While the core image of sewing stone is imaginative, the execution follows a standard, conflict-free fable template. The story synthesizes the prompt elements literally without transforming them into a fresh narrative argument or emotional reality. The outcome is predictable from the first paragraph.</comment>
+<question>9 A</question><grade>3.5</grade>
+<question>9 B</question><grade>7.2</grade>
+<question>9 C</question><grade>3.0</grade>
+<question>9 D</question><grade>2.0</grade>
+<question>9 E</question><grade>8.0</grade>
+<question>9 F</question><grade>7.0</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>2.5</grade>
+<question>9 I</question><grade>3.0</grade>
+<question>9 J</question><grade>2.8</grade>

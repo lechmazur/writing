@@ -1,0 +1,19 @@
+grade_story_wc_386.txt
+<question>1</question><grade>3.5</grade><comment>Characterization relies on functional labels ("wreck-diver," "ghost whisperer") and explicitly stated motivations ("Aria's motivation was to...") rather than embodied action or choice. Internal conflict is absent; the protagonist observes a vision and succeeds without overcoming personal resistance or flaws.</comment>
+<question>2</question><grade>3.6</grade><comment>The narrative follows a linear dream-logic without causal friction; events happen sequentially (touch globe, see vision, understanding dawns) rather than through earned effort. The closure—opening the "windows of connection"—feels like a soft reset achieved by tracing a pattern, lacking visible cost or consequence.</comment>
+<question>3</question><grade>4.2</grade><comment>While the "melted snow globe" and "ice shrine" offer specific imagery, the setting functions as a static backdrop rather than a source of constraint or pressure. The physics of the scene (candle flames in ice) feel ungrounded, and the environment does not force distinct tactical choices.</comment>
+<question>4</question><grade>2.8</grade><comment>Stakes are purely abstract ("expose hidden patterns," "salvage something pure") and face no concrete opposition or time pressure. The protagonist encounters no meaningful obstacles; the resolution arrives automatically upon "understanding," leaving the victory feeling unearned.</comment>
+<question>5</question><grade>2.5</grade><comment>The theme is delivered through explicit exposition ("The snow globe was a symbol of..." "windows of connection") rather than subtext or dramatic enactment. This over-explanation flattens resonance, as the story interprets itself for the reader in real-time.</comment>
+<question>6</question><grade>2.5</grade><comment>Voice control is poor, with unmotivated tense shifts (switching between "sat" and "weaves" in the first paragraph). The narrative distance is excessive, relying on abstract summary ("realm of the subconscious," "tapestry of truth") rather than immediate, grounded perception.</comment>
+<question>7</question><grade>2.0</grade><comment>Severe flaws include a grammatical breakdown in the opening sentence ("surrounded by... emitted") and unmotivated tense switching. The prose relies heavily on clichés ("eyes... like stars," "broken shell") and "telling" constructions ("was a symbol"), with repetitive phrasing ("ethereal," "surrounded by").</comment>
+<question>8</question><grade>3.5</grade><comment>While the prompt elements ("wreck-diver ghost whisperer") promise novelty, the execution retreats into generic "mystical vision" tropes. The story lacks a fresh, specific synthesis of its ideas, relying instead on familiar abstractions about connection and light.</comment>
+<question>9 A</question><grade>4.5</grade>
+<question>9 B</question><grade>7.2</grade>
+<question>9 C</question><grade>6.0</grade>
+<question>9 D</question><grade>2.5</grade>
+<question>9 E</question><grade>4.0</grade>
+<question>9 F</question><grade>3.5</grade>
+<question>9 G</question><grade>5.5</grade>
+<question>9 H</question><grade>N/A</grade>
+<question>9 I</question><grade>3.0</grade>
+<question>9 J</question><grade>3.0</grade>

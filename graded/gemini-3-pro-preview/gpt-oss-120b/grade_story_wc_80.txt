@@ -1,0 +1,19 @@
+grade_story_wc_80.txt
+<question>1</question><grade>4.4</grade><comment>Characterization relies heavily on label-speak ("stoically sensitive," "archeologist of abandoned dreams") rather than dramatized behavior. Mara's internal state is asserted through poetic abstraction, lacking genuine contradictory impulses or difficult choices that define personality under pressure.</comment>
+<question>2</question><grade>5.2</grade><comment>The narrative is linear and lacks a strong causal chain; events happen sequentially without necessary linkage. The mechanics of the "repairs"—placing paper notes into wet stone foundations using water-soluble ink—strain credibility and confuse the physical action. Closure is an earned stasis, but the cost is purely atmospheric, not felt.</comment>
+<question>3</question><grade>5.5</grade><comment>The setting is vividly described but suffers from "purple" overcrowding ("hushed blaze of damp copper," "skeletal fingers"). The overuse of metaphor occasionally obscures spatial geometry, making it difficult to visualize exactly where the waterline interacts with the structure.</comment>
+<question>4</question><grade>4.2</grade><comment>Conflict is entirely internal and abstract (memory vs. oblivion) with no external pressure or obstacle to test Mara's resolve. The stakes are declared rather than demonstrated; there is no moment where she almost fails or must sacrifice something tangible to succeed.</comment>
+<question>5</question><grade>4.8</grade><comment>The theme is delivered through heavy-handed exposition and repeated phrases ("interlaced absence," "archeologist of abandoned dreams") rather than subtext. The story tells the reader exactly what to feel about memory and loss instead of allowing it to emerge from the action.</comment>
+<question>6</question><grade>4.6</grade><comment>The narrative voice is consistent but overwrought, often prioritizing sound over sense. The tone is monotonous in its reverence, lacking the modulation needed to make the climax feel distinct from the setup.</comment>
+<question>7</question><grade>3.4</grade><comment>Severe text artifacts and repetition penalties apply. Full phrases are looped multiple times ("antique traveling inkwell" x4, "archeologist of abandoned dreams" x2, "interlaced absence" x3, "hushed blaze" variants x3). This scaffold repetition creates a robotic cadence that disrupts immersion.</comment>
+<question>8</question><grade>4.8</grade><comment>The core concept of preserving ruins with written memory is poetic but executed with standard "lonely sentinel" tropes. The reliance on prompt-specific phrases as repeated mantras reduces the feeling of organic originality.</comment>
+<question>9 A</question><grade>5.5</grade>
+<question>9 B</question><grade>7.2</grade>
+<question>9 C</question><grade>4.5</grade>
+<question>9 D</question><grade>1.8</grade>
+<question>9 E</question><grade>3.5</grade>
+<question>9 F</question><grade>6.2</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>4.2</grade>
+<question>9 J</question><grade>3.2</grade>

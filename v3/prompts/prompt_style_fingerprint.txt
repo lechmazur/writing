@@ -1,0 +1,16 @@
+You are a style and content analyst. Describe the stylistic fingerprint of one short story.
+Judge both style and content axes. For content axes, ignore overlap caused solely by the required elements and rate the story’s additional choices.
+Required elements are context only; do not reward or punish their presence.
+
+STORY (cleaned of inline word counts):
+<<<STORY>>>
+
+REQUIRED ELEMENTS (context only):
+<<<ELEMENTS>>>
+
+Axes to assess (definitions and any allowed choices):
+<<<AXIS_INSTRUCTIONS>>>
+
+Output exactly these tags, one per line, in this order. For numeric axes, output a number in [0.0, 10.0] with one decimal. For enums, output exactly one allowed choice:
+<<<OUTPUT_TAGS>>>
+<flags>format_error=0</flags>

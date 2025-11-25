@@ -1,0 +1,19 @@
+grade_story_wc_105.txt
+<question>1</question><grade>3.8</grade><comment>Characterization relies heavily on role labels ("hearing aid designer") and stated emotions ("pain of that loss," "sense of satisfaction") rather than embodied experience. There is no internal conflict or contradictory impulse; Lyra simply wants something and works until she gets it. The motivation is clear but lacks the friction or cost required for depth.</comment>
+<question>2</question><grade>3.5</grade><comment>The narrative follows a linear, low-tension sequence ("As she worked," "As the night wore on") without a causal chain of choices. The resolution creates "symmetric satisfaction"—complete success with no cost or trade-off—resulting in a flat trajectory. The orientation of the setting (sunken yet under the sky) is physically confusing.</comment>
+<question>3</question><grade>4.2</grade><comment>The setting elements ("sunken orchard," "shipwrecks," "ashen forge") feel like a list of disconnected nouns rather than a cohesive environment interacting with the character. While the visual descriptions are colorful, they do not constrain the character's movement or choices, functioning merely as a backdrop.</comment>
+<question>4</question><grade>2.9</grade><comment>Stakes are purely abstract ("help her clients heal") and face no active opposition or possibility of failure. The process of discovery is smooth and unhindered, lacking any escalation of pressure or necessary sacrifice. The protagonist encounters no meaningful resistance.</comment>
+<question>5</question><grade>3.2</grade><comment>The theme is delivered through explicit moralizing, stating the lesson directly at the end ("a reminder that even in the darkest moments, there was always a way forward"). This overt summary replaces subtext and resonance, reducing the narrative to a simple parable.</comment>
+<question>6</question><grade>3.5</grade><comment>The voice is marred by a repetitive syntactic template, with seven sentences beginning with "As..." or "And as..." constructions. This creates a monotonous, droning rhythm that distances the reader. The narration tends to explain Lyra's thoughts rather than inhabiting them.</comment>
+<question>7</question><grade>3.1</grade><comment>Severe template cadence issues ("As she worked," "As the aurora danced," "As the night wore on," "As the first light...") disrupt flow. The prose relies on clichés ("shattering of glass," "dull ache," "petals of a flower") and abstract phrasing rather than concrete, fresh imagery.</comment>
+<question>8</question><grade>3.8</grade><comment>While the synesthetic hearing aid concept has potential, the execution relies on familiar tropes (broken trust as shattering glass). The combination of elements feels stitched together to satisfy a prompt rather than synthesized into a fresh, organic narrative.</comment>
+<question>9 A</question><grade>9.0</grade>
+<question>9 B</question><grade>5.5</grade>
+<question>9 C</question><grade>4.0</grade>
+<question>9 D</question><grade>8.0</grade>
+<question>9 E</question><grade>7.0</grade>
+<question>9 F</question><grade>4.5</grade>
+<question>9 G</question><grade>6.0</grade>
+<question>9 H</question><grade>2.5</grade>
+<question>9 I</question><grade>9.0</grade>
+<question>9 J</question><grade>2.5</grade>

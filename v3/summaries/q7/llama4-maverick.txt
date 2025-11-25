@@ -1,0 +1,78 @@
+llama4-maverick.txt
+### 1) Executive Insight
+
+Across this batch of 600–800 word stories, the central pattern for Prose & Line‑Level Craft (Q7) is the near-universal presence of paraphrase loops, template sentence cadences, and abstract or scaffolded language that dampen momentum, density, and propulsive clarity. The most common artifact is redundant restatement of emotional or scenic beats—often using near-identical formulations—which, when paired with repetitive stems or filter-verb clusters (“she felt,” “as she walked,” “the [noun] [verb]…”), produces a mechanical, sometimes algorithmic, rhythm instead of the pressure-responsive, varied cadence expected of literary-caliber fiction. These issues routinely surface in the final third, eroding the closure’s charge and cost. While most stories default to Track A (conventional single-POV, continuous lens), the identified flaws cut across all tracks and story types; even when information density is locally high, the cumulative effect of line-level repetition, summary-forward abstraction, and lack of syntactic variety undermines propulsion and clarity. This persistence of artifacted line craft means that, for most stories, closure images resolve the narrative surface but rarely recharge motifs with the compressed, vivid specificity essential for top-band achievement.
+
+### 2) Strength Profile
+
+- **Concrete Imagery and Purposeful Sensory Detail**  
+  Many stories display moments of vivid, multi-sensory description that simultaneously anchor setting, mood, and character: *“fingers moved with a life of their own,” “glass mountains shimmering in the half-light,” “dust motes dancing in a solitary sunbeam.”*
+- **Natural Rhythm and Breathing Syntax**  
+  Even in the presence of repetition, sentence and paragraph structure often shows careful modulation—varying length for atmospheric effect and using rhythm to mirror meditative or suspenseful beats: *“shards of sunrise broke the glassed-in hush. She waited, breath suspended.”*
+- **Occasional Multi-Function Sentences**  
+  Some lines do double (or triple) duty, advancing action, character insight, and physical context without padding: *“mapkeeper knelt by the roots, tracing patterns where stories and stones intertwined.”*
+- **Strategic Image Reprises**  
+  Patterned repetition (when taught and resolved) can produce accumulative effect, as in: *“the hush, at first brittle, now spun fluid beneath her step.”*
+
+### 3) Weakness Profile
+
+- **Paraphrase Loops and Synonym Churn**
+  The most pervasive failure is adjacent or near-adjacent sentences restating the same content with slight variation, especially emotional labeling: *“She felt a sense of calm wash over her. A deep calmness surrounded her.”* This dulls propulsion and information density.
+- **Template Cadence and Repetitive Openings**
+  Runs of sentences or paragraphs opening with identical stems, e.g., *“As she…”; “The [noun] [verb]…”*—across high-pressure beats and especially in climactic sequences—create a mechanical, unpressurized rhythm.
+- **Filter-Verb Stacks**
+  Filtering (e.g., “she felt,” “she watched,” “she began to”) clusters three or more lines in key dramatic beats, reducing immediacy, flattening voice, and accumulating artifact penalties.
+- **Abstract or Diagnostic Labels**
+  Instead of concrete showing, texts repeatedly label emotions or states with generic abstractions: *“overwhelming sense of purpose,” “deep sense of loss,” “therapeutic hush.”* Abstract summary tends to replace dramatic action at pivot or closure moments.
+- **Closure-Beat Scaffold and Low-Density Endings**
+  Many stories summarize, paraphrase, or reassert thematic material rather than delivering a charged, image-forward coda: *“She was forever changed by the journey”* is a common endnote, which violates the demand for closure with cost and textural specificity.
+- **Figurative Muddle and Incoherence**
+  Though rarer than redundancy, some stories pile dense metaphors or mix vehicles without pattern-teaching or payoff, causing clarity slips: e.g., *“seeds taking root in fertile soil”* followed by “growth that had sprouted” in close proximity.
+- **Register Drift**
+  Elevated, academic, or therapy–speak diction appears in high-pressure moments that jar with the established POV, especially in stories where lyricism should be embodied within voice.
+
+### 4) Performance Boundaries
+
+This writing excels when vivid, concrete images do the work of abstraction, sentences compress action and emotion without scaffolding, and the cadence adapts to scene pressure—with repetition or lyric flourish taught and resolved for effect, not residue. The piece maintains propulsive clarity, especially if the closure lands not only an image but a cost or transformation that recharges motif or stakes. However, outcomes flip when line-level artifacts (loops, template cadence, filter-verb stacks) anchor the story in summary, overwrite, or repetition—particularly in the final third—robbing the closure of its potential impact. A single instance of these flaws in a pivotal or closing paragraph can cap scores and preclude high-band eligibility, as per rubric, regardless of strengths elsewhere.
+
+### 5) Signature Moves and Blind Spots
+
+- **Habits That Define Strength**
+  - Purposeful sensory grounding and concrete, selective imagery
+  - Rhythm that breathes with tension, allowing for both acceleration and stillness
+  - Use of single lines that do multiple jobs—scene, insight, and atmosphere together
+
+- **Blind Spots (Recurrent Weaknesses)**
+  - Unchecked line-level repetition: paraphrase loops and scaffolded emotional summary
+  - Overreliance on filter verbs and template sentence/paragraph openings
+  - Drift toward abstract labeling at moments of emotional or narrative climax
+  - Summarizing closure rather than resolving by image or charged action
+
+### 6) High-Band Signals (≈8.8+)
+
+- **No Scaffold or Loops, High Information Density, and Rhythm That Responds to Pressure**
+  - Each sentence advances knowledge, mood, or character; stripping away a paragraph would materially affect the scene or result.
+- **Charged, Specific Closure**
+  - Closing lines resolve through an image or action that both reweights an earlier motif and shows, not tells, transformation or cost—*without summary or diagnostic abstraction*.
+- **Zero Figurative Muddle in Peak Beats**
+  - Metaphors are concrete, controlled, and taught if repeated; no mixing of vehicles or stacking without pattern and payoff. No filter-verb clusters in high-pressure or closing paragraphs.
+
+### 7) Revision Levers and Keepers
+
+**Keep:**
+1. Concrete, multi-sensory images that situate character and setting simultaneously.
+2. Natural variation in sentence and paragraph rhythm that creates breathing room and aligns with scene pressure.
+3. Multi-functional lines—those that compress character action, mood, and atmosphere for maximum density.
+
+**Change:**
+1. **Excise paraphrase loops**—systematically cut or compress any adjacent or near-adjacent sentences/paragraphs stating the same content or employing synonym churn; each sentence must add new pressure or information.
+2. **Eliminate template cadences**—actively vary sentence and paragraph openings, especially in climactic or closure sequences; teach any repetition if purposeful—or remove it altogether.
+3. **Replace filter-verb and abstract summary with concrete showing**—identify all instances of “she felt,” “he began to,” “they realized”; substitute or rework to present action or image whenever possible, especially in high-pressure moments and closure beats.
+
+---
+
+**Fairness Guardrail:**  
+Track B/C shards and multi-POV moves were not penalized unless legibility, pressure, or closure was compromised. Diagnostic abstraction and repetition—not multi-lens segmentation—remained the locus of negative impact.
+
+**Evidence Caveat:**  
+If there were occasional on-page exceptions (e.g., a story or two with limited loops or well-managed repetition), they never overturned the central pattern diagnosed here. Where ambiguity exists (e.g., semantic repetition vs. purposeful motif), the comments consistently favor direct evidence on the artifact’s presence and effect.

@@ -1,0 +1,19 @@
+grade_story_wc_208.txt
+<question>1</question><grade>3.5</grade><comment>Characterization relies on abstract labels ("spirited," "scaffold complexity") rather than embodied traits or choices. Mara faces no difficult micro-choices; the lantern guides her and the storm conveniently pauses, removing agency from the protagonist. Her motivation is stated as a jargon-heavy thesis rather than a human drive.</comment>
+<question>2</question><grade>3.4</grade><comment>The plot is driven by convenience and cliché (GPS failure, intuition) rather than causality. The narrative arc lacks a true crisis; the storm stops exactly when needed, and the resolution involves a mechanical interaction (inserting the slide) with no felt cost or sacrifice to earn the ending.</comment>
+<question>3</question><grade>3.7</grade><comment>Setting details are generic ("ancient stones," "dark clouds") and fail to constrain action or create a specific atmosphere. The "chamber" and "carvings" remain vague placeholders, serving only as a backdrop for the plot token rather than a tangible environment.</comment>
+<question>4</question><grade>3.0</grade><comment>Stakes are declared ("urgent") but never tested on the page; the primary antagonist (the storm) vanishes without the protagonist taking action. The conflict is purely mechanical, lacking any emotional or physical price that would justify the "transformative" conclusion.</comment>
+<question>5</question><grade>2.8</grade><comment>The theme is delivered through heavy-handed exposition and buzzwords ("timewoven alliances") rather than emerging from narrative action. The ending reduces the story to a moralizing summary, stripping away ambiguity in favor of a direct lecture on the prompt's concepts.</comment>
+<question>6</question><grade>3.3</grade><comment>The narrative voice is cluttered with melodramatic modifiers and explicitly explains thoughts rather than dramatizing them. The integration of prompt phrases ("turbine-hum reverie") creates jarring tonal shifts, and filter verbs ("she believed," "she realized") distance the reader.</comment>
+<question>7</question><grade>3.2</grade><comment>Prose suffers from "purple" over-description and clunky abstract phrasing inserted to meet prompt requirements. Repetitive sentence structures and filter verbs dilute immediacy, while phrases like "scaffold complexity with simplicity" read as unnatural intrusions.</comment>
+<question>8</question><grade>3.1</grade><comment>The premise is a derivative "chosen one finds ancient tech" narrative with little freshness. While the specific occupation (driftwood sculptor) is unique, it is not utilized to solve the problem or deepen the trope, resulting in a standard fantasy fragment.</comment>
+<question>9 A</question><grade>4.0</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>2.5</grade>
+<question>9 D</question><grade>2.0</grade>
+<question>9 E</question><grade>2.5</grade>
+<question>9 F</question><grade>2.0</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>4.5</grade>
+<question>9 I</question><grade>1.5</grade>
+<question>9 J</question><grade>1.5</grade>

@@ -1,0 +1,19 @@
+grade_story_wc_81.txt
+<question>1</question><grade>3.2</grade><comment>Characterization relies entirely on prompt labels ("logical page indexer") and abstract states ("tranquilly perceptive") without embodied emotion or internal conflict. Mara is a functional vehicle for the plot, lacking distinct interiority or genuine struggle; her success is immediate and unearned by character growth or sacrifice.</comment>
+<question>2</question><grade>2.8</grade><comment>The narrative reads as a synopsis rather than a dramatized story, spanning a blackout, a council meeting, and a return to the library in a rush of summary. This violates the single-scene scope appropriate for the length, resolving complex societal issues off-page and lacking a cohesive closure unit with palpable cost.</comment>
+<question>3</question><grade>4.1</grade><comment>The setting offers some atmospheric visuals ("water-worn marble," "amber glow"), but spatial logic is weak; the transition from a submerged library to a surface council and back is physically disorienting. Description leans heavily on purple adjectives ("mournful sigh") rather than concrete, grounding particulars.</comment>
+<question>4</question><grade>2.5</grade><comment>Stakes are declared but never felt, as obstacles evaporate immediately upon encountering the protagonist (e.g., the council instantly agrees to funding). There is no escalation or pressure; Mara moves from hypothesis to proof to solution without facing failure, trade-offs, or any on-page price.</comment>
+<question>5</question><grade>3.0</grade><comment>The theme is delivered through explicit moralizing ("truth outshone fear") and repetitive insertion of prompt phrases ("reclaimed stillness") rather than subtext or action. The resolution offers a simplistic, distinct moral that flattens complexity and lacks resonance.</comment>
+<question>6</question><grade>3.4</grade><comment>The narrative voice is stiff and overwrought, relying on "purple" descriptors ("painted dappled resolve") and repetitive sentence structures. The frequent, unmodulated repetition of full prompt phrases (e.g., "antique ink stamp") disrupts the narrative flow and creates a mechanical, checklist-like tone.</comment>
+<question>7</question><grade>2.9</grade><comment>Prose is marred by severe repetition of stock phrases; "antique ink stamp" appears five times, and abstract metaphors clutter the text. The writing tells rather than shows, using density-reducing scaffold and flowery abstractions that obscure the physical action.</comment>
+<question>8</question><grade>3.5</grade><comment>The story follows a generic "archivist saves the world" template with a standard "hidden history" trope. The execution feels like a checklist of constraints rather than an organic narrative, with no fresh subversion of the genre expectations or specific lived detail.</comment>
+<question>9 A</question><grade>6.5</grade>
+<question>9 B</question><grade>6.8</grade>
+<question>9 C</question><grade>2.2</grade>
+<question>9 D</question><grade>2.0</grade>
+<question>9 E</question><grade>5.0</grade>
+<question>9 F</question><grade>5.5</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>6.0</grade>
+<question>9 J</question><grade>1.5</grade>

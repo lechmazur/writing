@@ -1,0 +1,19 @@
+grade_story_wc_208.txt
+<question>1</question><grade>3.5</grade><comment>Motivation is pasted on via abstract labels ("perpetually learning," "scaffold complexity") rather than revealed through difficult choices or behavior. The character experiences no internal contradiction, and her emotional arc is a straight line to satisfaction without cost or sacrifice.</comment>
+<question>2</question><grade>3.8</grade><comment>The narrative is a linear summary of events lacking causal tension or a decisive turning point; the GPS failure is convenient backstory rather than a source of pressure. Closure is unearned ("satisfaction and wonder") because no meaningful obstacle was overcome and no price was paid to achieve the insight.</comment>
+<question>3</question><grade>3.5</grade><comment>The setting is rendered through generic descriptors ("weathered stones," "ocean's fury") rather than sensory details that constrain the protagonist's actions or choices. The "storm-tossed" nature of the archway is stated but has no physical impact on the delicate work of cleaning a slide or sculpting.</comment>
+<question>4</question><grade>2.2</grade><comment>Stakes are non-existent; the storm is ambient noise rather than an antagonist, and the artistic discovery faces no risk of failure or loss. The narrative lacks a meaningful tightening of options, as success and inspiration are immediate and inevitable.</comment>
+<question>5</question><grade>2.5</grade><comment>The theme is delivered through explicit sermonizing ("The world, she knew, was full of hidden patterns") rather than emerging from subtext or action. The concept of "timewoven alliances" is asserted in the narration but not dramatized in the relationships between objects or events.</comment>
+<question>6</question><grade>3.5</grade><comment>The voice is overly expository and distant, relying on filter verbs ("she realized," "she felt," "she pondered") that flatten immediacy and lower the stakes. The tone becomes oddly academic ("embody this principle") rather than reflecting the visceral reality of the storm.</comment>
+<question>7</question><grade>3.2</grade><comment>The prose is laden with clichés ("testament to," "ravages of time," "flotsam and jetsam") and passive, abstract constructions that dull the imagery. Information density is low, with many sentences devoted to explaining the character's thoughts instead of showing her interaction with the physical world.</comment>
+<question>8</question><grade>3.0</grade><comment>The story mechanically stitches together prompt elements without generating a fresh or cohesive narrative reality; the result feels like a checklist. The insertion of "turbine-hum reverie" into a 19th-century-style nature setting is jarring and forced.</comment>
+<question>9 A</question><grade>5.5</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>2.1</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>3.0</grade>
+<question>9 F</question><grade>1.2</grade>
+<question>9 G</question><grade>6.2</grade>
+<question>9 H</question><grade>3.5</grade>
+<question>9 I</question><grade>1.5</grade>
+<question>9 J</question><grade>1.0</grade>

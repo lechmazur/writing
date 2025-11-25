@@ -1,0 +1,19 @@
+grade_story_wc_334.txt
+<question>1</question><grade>5.2</grade><comment>Motivation is extrinsic, driven by a convenient dream rather than internal pressure or conflicting needs. Elias encounters a warning about a "price" in the journal, but this setup is abandoned; he pays no emotional or physical cost for the discovery. He remains static, ending exactly as he began—a curious folklorist—without a decisive internal shift or sacrifice.</comment>
+<question>2</question><grade>4.5</grade><comment>The narrative follows a linear "fetch quest" structure (Dream → Map → Locket → Explanation) without complication or reversal. The ending relies on the "explain-everything" anti-pattern, where a ghost explicitly resolves the mystery and theme in dialogue. Causality suffers from a dropped thread: the "price" warned of in the journal is never exacted, making the resolution feel unearned.</comment>
+<question>3</question><grade>7.6</grade><comment>The sunken greenhouse and fungal star-maps create a distinct, atmospheric setting that grounds the fantasy elements. Sensory details like the "salt-crusted glass" and "ivory caps" are vivid and specific. The environment pressures the action slightly via the tide and sand, though the potential for greater atmospheric pressure is underutilized at the climax.</comment>
+<question>4</question><grade>3.8</grade><comment>Conflict is minimal; Elias faces no active opposition, and the puzzle yields to him without a struggle or trade-off. The stakes remain abstract (satisfying curiosity) rather than visceral. The climax lacks a moment of hard choice; he simply opens a locket and receives affirmation, bypassing the need for courage, sacrifice, or ingenuity under pressure.</comment>
+<question>5</question><grade>4.1</grade><comment>The theme is delivered through explicit lectures in dialogue ("They were never gone. Just... misplaced") and narrative summary ("Habits might break, but curiosity? That was eternal"). This overt moralizing replaces subtext and resonance. The story interprets itself for the reader, leaving no room for ambiguity or lingering impact.</comment>
+<question>6</question><grade>5.5</grade><comment>The third-person limited POV is consistent, but the voice slips into melodrama during dialogue ("Find the broken stars"). The ghost's speech feels functional and expository rather than character-specific. The narrative distance is stable, but the emotional interiority feels reported rather than embodied.</comment>
+<question>7</question><grade>6.2</grade><comment>Prose is competent and moves with reasonable momentum, though it occasionally relies on abstract phrasing ("crisp nostalgia") that blurs sensory immediacy. Sentence rhythm is varied, but the reliance on "body part + verb" constructions (hands trembled, breath hitched) borders on stock physical cues. No major technical errors, but the style lacks a sharp, unique texture.</comment>
+<question>8</question><grade>5.8</grade><comment>The core concept—a sunken greenhouse where mushrooms map broken constellations—is imaginative and visually arresting. However, the execution falls back on standard "ghostly revelation" tropes. The story relies on a familiar "hidden object" logic that doesn't fully exploit the freshness of the setting or the "broken stars" metaphor.</comment>
+<question>9 A</question><grade>7.5</grade>
+<question>9 B</question><grade>8.0</grade>
+<question>9 C</question><grade>7.0</grade>
+<question>9 D</question><grade>6.0</grade>
+<question>9 E</question><grade>7.2</grade>
+<question>9 F</question><grade>8.1</grade>
+<question>9 G</question><grade>8.2</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>6.5</grade>
+<question>9 J</question><grade>4.5</grade>

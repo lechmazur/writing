@@ -1,0 +1,19 @@
+grade_story_wc_23.txt
+<question>1</question><grade>3.9</grade><comment>The protagonist is an archetype defined by poetic descriptors rather than agency; the vivid physical detail ("eyes sewn together from maps") logically contradicts her primary action ("watched the ships"). Motivation is abstract and delivered via exposition ("Her motivation was stark") rather than dramatized through difficult choices.</comment>
+<question>2</question><grade>5.0</grade><comment>The narrative relies heavily on summary ("Night after night") rather than scenic action, reducing the plot to a linear ritual without obstacles. While closure is achieved (ships return), the lack of a "before/after" state change for the character makes the resolution feel inevitable rather than earned.</comment>
+<question>3</question><grade>5.5</grade><comment>Atmosphere is consistent but relies on adjective-heavy description ("cracked hush", "indifferent sky") over concrete grounding. The station's mechanics ("hydraulics fail" vs. magical censer) clash, creating a setting that feels like a collage of prompt words rather than a cohesive world.</comment>
+<question>4</question><grade>3.2</grade><comment>Escalation is absent; the protagonist faces no active opposition, resource scarcity, or risk of failure. The process is described as a successful progression of tasks, lacking the tension or tightening of options required to drive a narrative arc.</comment>
+<question>5</question><grade>4.0</grade><comment>The theme is explicitly stated to the reader ("she understood that reverse migration was not a folly... but a necessity") rather than emerging from the subtext of the action. This didactic approach flattens the emotional resonance of the ending.</comment>
+<question>6</question><grade>4.5</grade><comment>The voice is overwrought and leans on "purple prose," utilizing complex noun-adjective pairs that distance the reader. The reliance on filtering verbs and summary prevents a distinct, embodied POV from emerging.</comment>
+<question>7</question><grade>3.0</grade><comment>Significant repetition of full phrases ("patina bronze censer foot" appears four times; "raw solace" twice) creates a stilted, scaffolded rhythm. Metaphors often mix or confuse the physical reality (eyes made of maps vs. visual observation), and abstract labels replace concrete imagery.</comment>
+<question>8</question><grade>4.5</grade><comment>The story assembles standard post-apocalyptic tropes (the lonely watcher, the ruined station) without subverting them or adding specific, lived-in detail. The "patchwork" concept feels like a direct translation of the prompt rather than an organic character trait.</comment>
+<question>9 A</question><grade>8.5</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>9.2</grade>
+<question>9 D</question><grade>7.0</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>7.5</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>3.0</grade>
+<question>9 I</question><grade>7.8</grade>
+<question>9 J</question><grade>4.5</grade>

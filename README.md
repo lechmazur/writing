@@ -34,47 +34,52 @@ The top bar chart summarizes **mean story quality** for each model with uncertai
 
 | Rank | LLM                    | Mean Score | Samples | SEM |
 |-----:|------------------------|-----------:|--------:|----:|
-| 1 | Kimi K2-0905 | 8.729 | 2800 | 0.0115 |
-| 2 | GPT-5 (medium reasoning) | 8.723 | 2800 | 0.0100 |
-| 3 | Qwen 3 Max Preview | 8.711 | 2800 | 0.0108 |
-| 4 | Kimi K2 | 8.693 | 2800 | 0.0101 |
-| 5 | Mistral Medium 3.1 | 8.629 | 2800 | 0.0110 |
-| 6 | o3-pro (medium reasoning) | 8.628 | 2800 | 0.0103 |
-| 7 | Gemini 2.5 Pro | 8.602 | 2800 | 0.0100 |
-| 8 | Claude Opus 4.1 (no reasoning) | 8.538 | 2800 | 0.0110 |
-| 9 | DeepSeek V3.1 Reasoner | 8.517 | 2800 | 0.0099 |
-| 10 | DeepSeek V3.1 Non-Think | 8.507 | 2800 | 0.0100 |
-| 11 | Qwen 3 235B A22B 25-07 Think | 8.495 | 2800 | 0.0115 |
-| 12 | Grok 4 Fast Reasoning | 8.114 | 2800 | 0.0141 |
-| 13 | Baidu Ernie 4.5 300B A47B | 8.110 | 2800 | 0.0130 |
-| 14 | Grok 4 | 8.068 | 2800 | 0.0137 |
-| 15 | GLM-4.5 | 7.803 | 2800 | 0.0175 |
-| 16 | GPT-OSS-120B | 7.726 | 2800 | 0.0177 |
-| 17 | Cohere Command A | 7.459 | 2800 | 0.0172 |
-| 18 | Llama 4 Maverick | 6.370 | 2800 | 0.0226 |
+| 1 | GPT-5 Pro | 8.474 | 2797 | 0.0158 |
+| 2 | GPT-5.1 (medium reasoning) | 8.438 | 2797 | 0.0134 |
+| 3 | GPT-5 (medium reasoning) | 8.434 | 2797 | 0.0162 |
+| 4 | Kimi K2-0905 | 8.331 | 2797 | 0.0199 |
+| 5 | Gemini 3 Pro Preview | 8.221 | 2797 | 0.0170 |
+| 6 | Gemini 2.5 Pro | 8.219 | 2797 | 0.0169 |
+| 7 | Mistral Medium 3.1 | 8.201 | 2797 | 0.0185 |
+| 8 | Claude Opus 4.5 (no reasoning) | 8.195 | 2797 | 0.0172 |
+| 9 | Claude Sonnet 4.5 Thinking 16K | 8.169 | 2797 | 0.0176 |
+| 10 | Claude Sonnet 4.5 (no reasoning) | 8.112 | 2797 | 0.0179 |
+| 11 | Qwen 3 Max Preview | 8.090 | 2797 | 0.0233 |
+| 12 | Claude Opus 4.1 (no reasoning) | 8.067 | 2797 | 0.0198 |
+| 13 | Kimi K2 Thinking | 7.686 | 2797 | 0.0286 |
+| 14 | Grok 4.1 Fast Reasoning | 7.566 | 2797 | 0.0297 |
+| 15 | Baidu Ernie 4.5 300B A47B | 7.505 | 2797 | 0.0252 |
+| 16 | GLM-4.6 | 7.452 | 2797 | 0.0285 |
+| 17 | GLM-4.5 | 7.119 | 2797 | 0.0315 |
+| 18 | GPT-OSS-120B | 7.030 | 2797 | 0.0336 |
+| 19 | Cohere Command A | 6.794 | 2797 | 0.0302 |
+| 20 | Llama 4 Maverick | 5.777 | 2797 | 0.0304 |
 
 #### Full normalized leaderboard
 
 | Rank | LLM                    | Normalized Mean |
 |-----:|------------------------|-----------------:|
-| 1 | Kimi K2-0905 | 0.675 |
-| 2 | Qwen 3 Max Preview | 0.639 |
-| 3 | GPT-5 (medium reasoning) | 0.626 |
-| 4 | Kimi K2 | 0.605 |
-| 5 | Mistral Medium 3.1 | 0.512 |
-| 6 | o3-pro (medium reasoning) | 0.505 |
-| 7 | Gemini 2.5 Pro | 0.463 |
-| 8 | Claude Opus 4.1 (no reasoning) | 0.385 |
-| 9 | DeepSeek V3.1 Reasoner | 0.356 |
-| 10 | Qwen 3 235B A22B 25-07 Think | 0.342 |
-| 11 | DeepSeek V3.1 Non-Think | 0.342 |
-| 12 | Grok 4 Fast Reasoning | -0.202 |
-| 13 | Baidu Ernie 4.5 300B A47B | -0.214 |
-| 14 | Grok 4 | -0.234 |
-| 15 | GLM-4.5 | -0.571 |
-| 16 | GPT-OSS-120B | -0.654 |
-| 17 | Cohere Command A | -1.063 |
-| 18 | Llama 4 Maverick | -2.514 |
+| 1 | GPT-5 Pro | 0.728 |
+| 2 | GPT-5 (medium reasoning) | 0.691 |
+| 3 | GPT-5.1 (medium reasoning) | 0.618 |
+| 4 | Kimi K2-0905 | 0.614 |
+| 5 | Gemini 3 Pro Preview | 0.441 |
+| 6 | Gemini 2.5 Pro | 0.437 |
+| 7 | Mistral Medium 3.1 | 0.435 |
+| 8 | Qwen 3 Max Preview | 0.408 |
+| 9 | Claude Opus 4.5 (no reasoning) | 0.403 |
+| 10 | Claude Sonnet 4.5 Thinking 16K | 0.377 |
+| 11 | Claude Sonnet 4.5 (no reasoning) | 0.302 |
+| 12 | Claude Opus 4.1 (no reasoning) | 0.286 |
+| 13 | Kimi K2 Thinking | -0.027 |
+| 14 | Grok 4.1 Fast Reasoning | -0.129 |
+| 15 | Baidu Ernie 4.5 300B A47B | -0.306 |
+| 16 | GLM-4.6 | -0.312 |
+| 17 | GLM-4.5 | -0.665 |
+| 18 | GPT-OSS-120B | -0.734 |
+| 19 | Cohere Command A | -1.113 |
+| 20 | Llama 4 Maverick | -2.455 |
+
 
 #### Element integration only (9A–9J)
 
@@ -142,13 +147,13 @@ Additional view: grader–grader correlation (how graders align with each other)
 
 The following grader models scored stories:
 
-- Claude Opus 4.1 (no reasoning)
-- DeepSeek V3.1 Reasoner
-- Gemini 2.5 Pro
-- GPT-5 (low reasoning)
-- Grok 4
-- Kimi K2
-- Qwen 3 235B A22B 25-07 Think
+- Claude Sonnet 4.5 (no reasoning)
+- DeepSeek V3.2 Exp
+- Gemini 3 Pro Preview
+- GPT-5.1 (low reasoning)
+- Grok 4.1 Fast Reasoning
+- Kimi K2-0905
+- Qwen 3 Max
 
  
 ---
@@ -177,67 +182,54 @@ Notes
 
 Coverage: each story is evaluated by seven independent LLM graders. Each prompt specifies one choice in each of ten categories; at most one category may be “None” (not required), keeping brief‑following comparable across models. If a category is “None,” graders mark that 9‑series sub‑question as N/A. N/As are excluded from aggregation and the per‑question weights are re‑normalized over the remaining questions.
 
-Graders used (7): Claude Opus 4.1 (no reasoning), DeepSeek V3.1 Reasoner, Gemini 2.5 Pro, GPT‑5 (low reasoning), Grok 4, Kimi K2, Qwen 3 235B A22B 25‑07 Think.
-
 ---
 
 ## Robustness checks
 
-- Exclude bottom 10% per LLM: Rankings and means change only marginally; top models retain their order. We drop the lowest‑scoring decile of stories per model, recompute means, and compare ranks. 
+- Exclude each model’s 50 lowest‑scoring stories: Rankings and means change only marginally; top models retain their order. We drop the 50 weakest stories per LLM (≈12.5% of each portfolio), recompute means, and compare ranks. 
 - Leave‑one‑grader‑out: Recomputing means while excluding each grader in turn yields the same top tier; movements are within noise for most models. See per‑grader views and aggregates in the summary tables.
-- Grader‑weighted vs unweighted: Weighting graders by reliability barely shifts ordering; deltas are recorded in the summary tables. Sample:
-
-  | LLM | Mean (unweighted) | Mean (weighted) | Δ |
-  |-----|-------------------:|----------------:|---:|
-  | Kimi K2‑0905 | 8.695 | 8.798 | +0.103 |
-  | GPT‑5 (medium reasoning) | 8.668 | 8.766 | +0.098 |
-  | Qwen 3 Max Preview | 8.655 | 8.756 | +0.101 |
-  | Kimi K2 | 8.635 | 8.728 | +0.093 |
-  | Mistral Medium 3.1 | 8.569 | 8.674 | +0.105 |
-
-
 
 ---
 
-### Bottom 10% per‑LLM exclusion (top 15)
+### Worst‑50 per‑LLM exclusion (top 15)
 
 | LLM | Old Rank | Old Mean | New Rank | New Mean | ΔRank |
 |-----|---------:|---------:|---------:|---------:|------:|
-| Kimi K2‑0905 | 1 | 8.726 | 1 | 8.782 | 0 |
-| GPT‑5 (medium reasoning) | 2 | 8.685 | 2 | 8.723 | 0 |
-| Qwen 3 Max Preview | 3 | 8.684 | 3 | 8.722 | 0 |
-| Kimi K2 | 4 | 8.667 | 4 | 8.705 | 0 |
-| o3‑pro (medium reasoning) | 5 | 8.596 | 5 | 8.636 | 0 |
-| Mistral Medium 3.1 | 6 | 8.589 | 6 | 8.627 | 0 |
-| Gemini 2.5 Pro | 7 | 8.569 | 7 | 8.607 | 0 |
-| Claude Opus 4.1 (no reasoning) | 8 | 8.511 | 8 | 8.556 | 0 |
-| Qwen 3 235B A22B 25‑07 Think | 9 | 8.487 | 9 | 8.542 | 0 |
-| DeepSeek V3.1 Reasoner | 10 | 8.486 | 10 | 8.528 | 0 |
-| DeepSeek V3.1 Non‑Think | 11 | 8.474 | 11 | 8.520 | 0 |
-| Grok 4 | 12 | 8.086 | 12 | 8.155 | 0 |
-| Baidu Ernie 4.5 300B A47B | 13 | 8.082 | 13 | 8.147 | 0 |
-| GLM‑4.5 | 14 | 7.804 | 14 | 7.890 | 0 |
-| GPT‑OSS‑120B | 15 | 7.727 | 15 | 7.809 | 0 |
+| GPT‑5 Pro | 1 | 8.443 | 1 | 8.515 | 0 |
+| GPT‑5 (medium reasoning) | 2 | 8.398 | 2 | 8.467 | 0 |
+| GPT‑5.1 (medium reasoning) | 3 | 8.380 | 3 | 8.451 | 0 |
+| Kimi K2‑0905 | 4 | 8.312 | 4 | 8.408 | 0 |
+| Gemini 3 Pro Preview | 5 | 8.206 | 5 | 8.271 | 0 |
+| Gemini 2.5 Pro | 6 | 8.199 | 6 | 8.270 | 0 |
+| Mistral Medium 3.1 | 7 | 8.171 | 7 | 8.240 | 0 |
+| Claude Opus 4.5 (no reasoning) | 8 | 8.161 | 8 | 8.234 | 0 |
+| Claude Sonnet 4.5 Thinking 16K | 9 | 8.143 | 9 | 8.226 | 0 |
+| Qwen 3 Max Preview | 10 | 8.083 | 10 | 8.157 | 0 |
+| Claude Sonnet 4.5 (no reasoning) | 11 | 8.079 | 11 | 8.156 | 0 |
+| Claude Opus 4.1 (no reasoning) | 12 | 8.052 | 12 | 8.126 | 0 |
+| Kimi K2 Thinking | 13 | 7.697 | 13 | 7.840 | 0 |
+| Grok 4.1 Fast Reasoning | 14 | 7.610 | 14 | 7.696 | 0 |
+| Baidu Ernie 4.5 300B A47B | 15 | 7.487 | 15 | 7.575 | 0 |
 
 ### Leave‑one‑grader‑out re‑rank (max change, top 15)
 
 | LLM | Old Rank | Old Mean | Worst ΔRank | New Rank (worst) | New Mean (worst) | Removed grader |
 |-----|---------:|---------:|------------:|------------------:|-----------------:|----------------|
-| GPT‑5 (medium reasoning) | 2 | 8.685 | 2 | 4 | 8.586 | Gemini 2.5 Pro |
-| Qwen 3 235B A22B 25‑07 Think | 9 | 8.487 | 2 | 11 | 8.511 | GPT‑5 (low reasoning) |
-| o3‑pro (medium reasoning) | 5 | 8.596 | 2 | 7 | 8.607 | GPT‑5 (low reasoning) |
-| Grok 4 | 12 | 8.086 | 1 | 13 | 7.958 | DeepSeek V3.1 Reasoner |
-| Baidu Ernie 4.5 300B A47B | 13 | 8.082 | -1 | 12 | 7.969 | DeepSeek V3.1 Reasoner |
-| DeepSeek V3.1 Non‑Think | 11 | 8.474 | -1 | 10 | 8.514 | GPT‑5 (low reasoning) |
-| DeepSeek V3.1 Reasoner | 10 | 8.487 | -1 | 9 | 8.400 | DeepSeek V3.1 Reasoner |
-| Gemini 2.5 Pro | 7 | 8.569 | -1 | 6 | 8.611 | GPT‑5 (low reasoning) |
-| Kimi K2 | 4 | 8.667 | -1 | 3 | 8.595 | Gemini 2.5 Pro |
-| Claude Opus 4.1 (no reasoning) | 8 | 8.511 | 0 | 8 | 8.659 | Claude Opus 4.1 (no reasoning) |
-| Cohere Command A | 16 | 7.427 | 0 | 16 | 7.634 | Claude Opus 4.1 (no reasoning) |
-| GLM‑4.5 | 14 | 7.804 | 0 | 14 | 8.030 | Claude Opus 4.1 (no reasoning) |
-| GPT‑OSS‑120B | 15 | 7.727 | 0 | 15 | 7.952 | Claude Opus 4.1 (no reasoning) |
-| Kimi K2‑0905 | 1 | 8.726 | 0 | 1 | 8.902 | Claude Opus 4.1 (no reasoning) |
-| Llama 4 Maverick | 17 | 6.345 | 0 | 17 | 6.585 | Claude Opus 4.1 (no reasoning) |
+| Qwen 3 Max Preview | 11 | 8.088 | -3 | 8 | 8.383 | Claude Sonnet 4.5 (no reasoning) |
+| Gemini 2.5 Pro | 6 | 8.218 | 3 | 9 | 8.366 | Claude Sonnet 4.5 (no reasoning) |
+| GPT‑5.1 (medium reasoning) | 2 | 8.437 | 2 | 4 | 8.603 | Claude Sonnet 4.5 (no reasoning) |
+| Mistral Medium 3.1 | 7 | 8.199 | -2 | 5 | 8.433 | Claude Sonnet 4.5 (no reasoning) |
+| Claude Opus 4.5 (no reasoning) | 8 | 8.194 | -2 | 6 | 8.177 | Kimi K2‑0905 |
+| Gemini 3 Pro Preview | 5 | 8.219 | 2 | 7 | 8.176 | Kimi K2‑0905 |
+| GPT‑5 (medium reasoning) | 3 | 8.433 | -1 | 2 | 8.626 | Claude Sonnet 4.5 (no reasoning) |
+| GPT‑5 Pro | 1 | 8.473 | 1 | 2 | 8.476 | GPT‑5.1 (low reasoning) |
+| Kimi K2‑0905 | 4 | 8.329 | -1 | 3 | 8.604 | Claude Sonnet 4.5 (no reasoning) |
+| Claude Sonnet 4.5 Thinking 16K | 9 | 8.168 | 1 | 10 | 8.365 | Claude Sonnet 4.5 (no reasoning) |
+| Claude Opus 4.1 (no reasoning) | 12 | 8.066 | -1 | 11 | 7.944 | DeepSeek V3.2 Exp |
+| Claude Sonnet 4.5 (no reasoning) | 10 | 8.111 | 1 | 11 | 8.317 | Claude Sonnet 4.5 (no reasoning) |
+| Baidu Ernie 4.5 300B A47B | 15 | 7.503 | -1 | 14 | 7.456 | Kimi K2‑0905 |
+| Grok 4.1 Fast Reasoning | 14 | 7.564 | 1 | 15 | 7.454 | Kimi K2‑0905 |
+| Kimi K2 Thinking | 13 | 7.684 | 0 | 13 | 7.980 | Claude Sonnet 4.5 (no reasoning) |
 
 
 ## Do Graders Agree?
@@ -270,97 +262,97 @@ We highlight **standout individual stories** (highest cross‑grader means) and 
 
 Top 3 individual stories (all graders):
 
-* **Story**: [story_wc_63.txt](stories_wc/kimi-k2-0905/story_wc_63.txt) by Kimi K2‑0905
-  - Overall Mean (All Graders): 9.13
-  - Grader Score Range: 8.23 (lowest: Claude Opus 4.1 (no reasoning)) .. 9.82 (highest: Gemini 2.5 Pro)
+* **Story**: [grade_story_wc_186.txt](stories_wc/gpt-5.1-medium/grade_story_wc_186.txt) by GPT‑5.1 (medium reasoning)
+  - Overall Mean (All Graders): 9.09
+  - Grader Score Range: 8.37 (lowest: Claude Sonnet 4.5 (no reasoning)) .. 9.50 (highest: DeepSeek V3.2 Exp)
   - Required Elements:
-    - Character: precise local clock tower winder
-    - Object: clock tower pendulum bob
-    - Core Concept: incremental absolution
-    - Attribute: ethically diligent
-    - Action: emerge
-    - Method: through tiny inscriptions carved along a broken rake handle
-    - Setting: tidal obsidian ridge
-    - Timeframe: during the pause in a pendulum's swing
-    - Motivation: to restore shared balance
-    - Tone: searing reverie
+    - Character: beacon-tower custodian
+    - Object: broken crystal prism
+    - Core Concept: a shard of hush
+    - Attribute: retrocognitively blessed
+    - Action: rekindle
+    - Method: by tracking star paths
+    - Setting: glass humming pavilion
+    - Timeframe: after the collapse of civilization
+    - Motivation: to prove that coincidences have meaning
+    - Tone: thistle-blown hope
 
-* **Story**: [story_wc_346.txt](stories_wc/kimi-k2-0905/story_wc_346.txt) by Kimi K2‑0905
-  - Overall Mean (All Graders): 9.13
-  - Grader Score Range: 8.09 (lowest: Claude Opus 4.1 (no reasoning)) .. 9.71 (highest: Gemini 2.5 Pro)
+* **Story**: [grade_story_wc_13.txt](stories_wc/gpt-5-medium/grade_story_wc_13.txt) by GPT‑5 (medium reasoning)
+  - Overall Mean (All Graders): 9.06
+  - Grader Score Range: 8.38 (lowest: Claude Sonnet 4.5 (no reasoning)) .. 9.46 (highest: Gemini 3 Pro Preview)
   - Required Elements:
-    - Character: doomsday clock adjuster
-    - Object: broken puppet head
-    - Core Concept: a pane of hush
-    - Attribute: beautifully flawed
-    - Action: vouchsafe
-    - Method: through nested patterns
-    - Setting: hidden lighthouse at dusk
-    - Timeframe: across the hush of time’s final ripple
-    - Motivation: to whisper a lullaby across a thousand lifetimes
-    - Tone: bruised awe
+    - Character: natural history illustrator
+    - Object: infinity symbol pendant
+    - Core Concept: interrupted cadence
+    - Attribute: sculpts time itself
+    - Action: uncage
+    - Method: by borrowing time
+    - Setting: rooftop canal system weaving between towers
+    - Timeframe: across a giant's nap
+    - Motivation: to find the place where echoes are born
+    - Tone: None (category left open for this prompt)
 
-* **Story**: [story_wc_79.txt](stories_wc/kimi-k2-0905/story_wc_79.txt) by Kimi K2‑0905
-  - Overall Mean (All Graders): 9.13
-  - Grader Score Range: 8.39 (lowest: Claude Opus 4.1 (no reasoning)) .. 9.63 (highest: Gemini 2.5 Pro)
+* **Story**: [grade_story_wc_347.txt](stories_wc/gpt-5-pro/grade_story_wc_347.txt) by GPT‑5 Pro
+  - Overall Mean (All Graders): 9.05
+  - Grader Score Range: 8.45 (lowest: Claude Sonnet 4.5 (no reasoning)) .. 9.31 (highest: Gemini 3 Pro Preview)
   - Required Elements:
-    - Character: spiral-shell cartographer
-    - Object: reed whistle
-    - Core Concept: lost expedition
-    - Attribute: quietly driven
-    - Action: crack
-    - Method: through pattern languages
-    - Setting: city built on the shells of gargantuan turtles
-    - Timeframe: after the gate rusts shut
-    - Motivation: to question the silent watchers on the horizon
-    - Tone: sunwashed dread
+    - Character: reluctant caretaker of a cursed orchard
+    - Object: small nut
+    - Core Concept: forgotten blueprint
+    - Attribute: offhandedly exact
+    - Action: assemble
+    - Method: leaving impressions without touching
+    - Setting: cliffside labyrinth patrolled by mechanical birds
+    - Timeframe: before the night frost forms
+    - Motivation: to guide lost travelers to safety
+    - Tone: graceless beauty
 
 Bottom 3 individual stories (all graders):
 
-* **Story**: [story_wc_323.txt](stories_wc/llama4-maverick/story_wc_323.txt) by Llama 4 Maverick
-  - Overall Mean (All Graders): 4.73
-  - Grader Score Range: 2.70 (lowest: Qwen 3 235B A22B 25‑07 Think) .. 7.41 (highest: DeepSeek V3.1 Reasoner)
+* **Story**: [grade_story_wc_119.txt](stories_wc/llama4-maverick/grade_story_wc_119.txt) by Llama 4 Maverick
+  - Overall Mean (All Graders): 3.91
+  - Grader Score Range: 2.38 (lowest: Kimi K2‑0905) .. 5.96 (highest: DeepSeek V3.2 Exp)
   - Required Elements:
-    - Character: navigation instructor
-    - Object: boat anchor chain link
-    - Core Concept: unfolded horizons
-    - Attribute: balancedly curious
-    - Action: expand
-    - Method: edge geometry
-    - Setting: benthic city
-    - Timeframe: after discovering aliens
-    - Motivation: to learn to navigate by starlight
-    - Tone: somber marvel
+    - Character: cryptic fortune cookie writer
+    - Object: spycraft microdot film specs
+    - Core Concept: open secrets
+    - Attribute: accidentally prophetic
+    - Action: orchestrate
+    - Method: by directing flow
+    - Setting: mysterious lighthouse on a rocky island
+    - Timeframe: after last orders
+    - Motivation: to transpose life into a new key
+    - Tone: familiar enigma
 
-* **Story**: [story_wc_305.txt](stories_wc/llama4-maverick/story_wc_305.txt) by Llama 4 Maverick
-  - Overall Mean (All Graders): 4.91
-  - Grader Score Range: 3.47 (lowest: Claude Opus 4.1 (no reasoning)) .. 7.66 (highest: DeepSeek V3.1 Reasoner)
+* **Story**: [grade_story_wc_4.txt](stories_wc/llama4-maverick/grade_story_wc_4.txt) by Llama 4 Maverick
+  - Overall Mean (All Graders): 4.45
+  - Grader Score Range: 3.21 (lowest: Gemini 3 Pro Preview) .. 5.63 (highest: Kimi K2‑0905)
   - Required Elements:
-    - Character: committed caretaker
-    - Object: antique hairpin
-    - Core Concept: the cycle of rebirth
-    - Attribute: kindly decisive
-    - Action: scallop
-    - Method: climbing trees to think better
-    - Setting: umbral grotto above the clouds
-    - Timeframe: after forgiving the unforgivable
-    - Motivation: to find the source of contentment
-    - Tone: vineyard hush
+    - Character: subtle puzzle archivist
+    - Object: dove gray map case
+    - Core Concept: collective healing
+    - Attribute: perceptively calm
+    - Action: linger
+    - Method: via arcs in black-and-white photographs
+    - Setting: lavender field tucked behind rusted factory ruins
+    - Timeframe: as vines climb
+    - Motivation: to transmute pain into a masterpiece
+    - Tone: earnest whimsy
 
-* **Story**: [story_wc_240.txt](stories_wc/llama4-maverick/story_wc_240.txt) by Llama 4 Maverick
-  - Overall Mean (All Graders): 4.96
-  - Grader Score Range: 4.08 (lowest: Kimi K2) .. 6.82 (highest: DeepSeek V3.1 Reasoner)
+* **Story**: [grade_story_wc_389.txt](stories_wc/llama4-maverick/grade_story_wc_389.txt) by Llama 4 Maverick
+  - Overall Mean (All Graders): 4.46
+  - Grader Score Range: 2.53 (lowest: Gemini 3 Pro Preview) .. 7.98 (highest: DeepSeek V3.2 Exp)
   - Required Elements:
-    - Character: intrusion detection specialist
-    - Object: laser pointer button
-    - Core Concept: familiar strangers
-    - Attribute: spatially gifted
-    - Action: revolutionize
-    - Method: through permeable barriers
-    - Setting: bioluminescent mushroom farm
-    - Timeframe: before the echo of morning birdsong
-    - Motivation: to understand the physics of letting go
-    - Tone: quiet wildfire
+    - Character: lonely visionary
+    - Object: cobalt glass portico
+    - Core Concept: variant allegiance
+    - Attribute: lyrically prophetic
+    - Action: unfold
+    - Method: through fragmented radio frequencies
+    - Setting: stormlit observatory above clouds
+    - Timeframe: across the rise of a prophet
+    - Motivation: to shape a new dawn using ancient shadows
+    - Tone: gritty whimsy
 
 ---
 
@@ -380,23 +372,27 @@ Short excerpts from model‑level writer summaries (see `general_summaries/` for
 
 1) Executive profile
 
-Across Q1–Q8, this writer‑LLM is most reliable in Track A: single POV, accumulative/textural builds, 1–2 on‑page characters, and an interior drive‑lens that remains coherent through closure. Its dominant strength is embodied, character‑bound storytelling...
+Across the eight craft questions this model stays in Track A: a single, disciplined POV, accumulative structures, and pressure that tightens through micro‑choices instead of twisty plotting. The dominant impression is immersive interiority—motivation rendered as tactile actions—anchored inside settings that behave like constraints rather than backdrops, so closure usually feels earned and priced.
+
+Strengths cluster around clarity of lens and on‑page cost: stakes are flagged early, escalated through specific trade‑offs, and settled with a concrete reconfiguration rather than a free‑floating epiphany. When it stumbles, the prose can over‑lyricize at peak beats, flattening visceral struggle into conceptual statements, or escalate pressure in atmosphere instead of a visible crucible.
 
 Signature moves (sample):
-- Embodied motivation in scene: micro‑choices that visibly trade values.
-- Micro‑setting as constraint—objects steer tactics and charge closure images.
-- Pattern‑teaching with motif repricing at closure.
+- Translating abstract desire into precise micro‑actions (“pressing the heart fragment to my rib”) so every beat shows a value exchange.
+- Running contradictory impulses concurrently in-scene—shame vs. clarity, fear vs. need—and forcing a single choice that visibly forecloses a path.
+- Letting objects and environments act as puzzles to solve, so motif systems and setting mechanics drive both theme and closure.
 
-### Kimi K2
+### Kimi K2‑0905
 
 1) Executive profile
 
-Kimi K2’s dominant strengths span embodied interiority, tight voice control, and accumulative patterning that guides readers toward earned, on‑page closure...
+Kimi K2‑0905’s fiction reads as high‑literary, accumulative, and relentlessly character‑bound. It favors a close POV in compact timespans, teaching motifs early and then reweighting them at closure so even complex mosaics hold together. Motivation, stakes, setting, and ingenuity all flow through tactile, POV-biased particulars, which is why the work often feels publishable as-is.
+
+Limitations surface when lyricism outruns pressure: peak beats sometimes swap embodied conflict for abstraction or therapy‑speak, mid‑story patterning can drift into atmosphere, and a few endings fall back to familiar emotional arcs instead of pushing the premise to its sharpest cost. Even then the underlying control remains strong; the fix is usually tightening escalation and trimming overgrowth rather than reinventing structure.
 
 Signature moves (sample):
-- Embodied perception as engine; sensory specifics anchor motive and choice.
-- Objects as micro‑settings; voice‑world mesh with pressure‑responsive rhythm.
-- Final images reweight a taught motif rather than state a thesis.
+- Rendering interiority through sensory labor—emotions shown as “sorting tape fragments” or “breath fogging glass” instead of named states.
+- Holding contradictions in the same beat (“catalog vs. destroy”) so crises feel psychologically pressurized and agentive.
+- Treating objects and settings as constraint engines: bells, shards, valves, or obsidian shards recur as living problems whose motif payoff delivers closure.
 
 ## Word count and length effects
 
@@ -443,7 +439,7 @@ Correlation between craft (Q1–Q8) and element fit (9A–9J) is high across gra
 * **Rubric expansion:** grew from 7 craft items to an **18‑question rubric** (8 craft + 10 element‑fit), with clearer, more granular definitions; Q7 and Q8 now separate voice/POV from prose quality.
 * **Story length:** increased from 400–500 words to a strict **600–800** window with upfront enforcement and compliance dashboards. Enforcement is applied at prompt level and in pre‑grading extraction, with compliance dashboards and optional cleanup tools; it is not a hard inclusion gate during aggregation unless you apply the cleanup step.
 * **Aggregation change:** replaced simple averages with a **power mean (Hölder mean, p = 0.5)** and 60/40 weighting (Q1–Q8 vs. 9A–9J) to reward balanced performance and penalize weak dimensions more.
-* **Grader refresh:** upgraded the grader set—previously: GPT‑4o Mar 2025, Claude 3.7 Sonnet, Llama 4 Maverick, DeepSeek V3‑0324, Grok 3 Beta (no reasoning), Gemini 2.5 Pro Exp, Qwen 3 235B; now: Claude Opus 4.1 (no reasoning), DeepSeek V3.1 Reasoner, Gemini 2.5 Pro, GPT‑5 (low reasoning), Grok 4, Kimi K2, Qwen 3 235B A22B 25‑07 Think.
+* **Grader refresh:** upgraded the grader set—previously: Claude Opus 4.1 (no reasoning), DeepSeek V3.1 Reasoner, Gemini 2.5 Pro, GPT‑5 (low reasoning), Grok 4, Kimi K2, Qwen 3 235B A22B 25‑07 Think; now: Claude Sonnet 4.5 (no reasoning), DeepSeek V3.2 Exp, Gemini 3 Pro Preview, GPT‑5.1 (low reasoning), Grok 4.1 Fast Reasoning, Kimi K2‑0905, Qwen 3 Max.
 * **Model set additions:** added Kimi K2‑0905, Qwen 3 Max Preview, Mistral Medium 3.1, Claude Opus 4.1 (no reasoning), DeepSeek V3.1 Reasoner, and DeepSeek V3.1 Non‑Think to the evaluated models.
 * **New analyses:** added head‑to‑head A‑vs‑B comparisons, model‑level style summaries, and intra‑model style diversity analysis (previously none).
 * **Agreement views:** expanded beyond only grader‑grader correlations to include Grader×LLM mean and normalized matrices, story‑level disagreement tables, and leave‑one‑grader‑out robustness checks.
@@ -495,6 +491,7 @@ For the prior edition’s full leaderboard and the list of “old” grader LLMs
 
 
 ## Updates 
+- Nov 25, 2025: Major new version of the benchmark: V4. All new graders. GPT-5 Pro, Gemini 3 Pro, GPT-5.1, Claude Opus 4.5, Claude Sonnet 4.5, Grok 4.1, Kimi K2 Thinking, GLM-4.6.
 - Sep 23, 2025: Grok 4 Fast Reasoning added.
 - Sep 9, 2025: Major new version of the benchmark: V3. See the section "What’s new in V3"
 

@@ -1,0 +1,19 @@
+grade_story_wc_87.txt
+<question>1</question><grade>3.2</grade><comment>Characterization relies entirely on diagnostic labels ("merrily melancholic") and stock phrases rather than behavior. Emotions are summarized ("calm wash over him," "faith begin to flicker") rather than embodied, and the protagonist lacks the internal contradiction required for depth.</comment>
+<question>2</question><grade>3.5</grade><comment>The narrative follows a linear "and-then" structure without causal pressure or meaningful obstacles. The ending is a "soft reset" where a simple paddle resolves the trauma of divorce without visible cost or complication.</comment>
+<question>3</question><grade>3.8</grade><comment>The setting is generic ("golden glow," "sparkled," "blue sea") and lacks sensory texture. The specific elements (compass, utility poles) feel like inserted props rather than organic constraints of the environment.</comment>
+<question>4</question><grade>3.0</grade><comment>There is no escalation; the protagonist decides to feel better and immediately succeeds. The conflict is purely internal and abstract, resolved without testing the character's commitment or forcing a tradeoff.</comment>
+<question>5</question><grade>2.2</grade><comment>The story explicitly sermonizes ("When expectations collapse... it's easy to become mired"), explaining its theme rather than dramatizing it. The reliance on repeating prompt phrases as thematic statements flattens resonance.</comment>
+<question>6</question><grade>3.5</grade><comment>The voice is distanced by frequent filter verbs ("He knew," "He felt," "Jack remembered") and sentimental abstraction. There is no distinct perceptual signature; the narration reads like a summary of emotional states.</comment>
+<question>7</question><grade>2.5</grade><comment>Prose is ridden with clichés ("wash over him," "candle flame in the wind," "bright future"). The verbatim repetition of prompt phrases ("backlash of regrets," "align heart and actions") multiple times creates a mechanical, scaffolded rhythm.</comment>
+<question>8</question><grade>3.0</grade><comment>The story executes a standard "healing by nature" trope without fresh insight. The required elements feel like a checklist pasted into a template rather than synthesized into a unique narrative logic.</comment>
+<question>9 A</question><grade>4.0</grade>
+<question>9 B</question><grade>5.2</grade>
+<question>9 C</question><grade>1.5</grade>
+<question>9 D</question><grade>1.2</grade>
+<question>9 E</question><grade>1.5</grade>
+<question>9 F</question><grade>6.0</grade>
+<question>9 G</question><grade>3.5</grade>
+<question>9 H</question><grade>1.5</grade>
+<question>9 I</question><grade>2.0</grade>
+<question>9 J</question><grade>2.8</grade>

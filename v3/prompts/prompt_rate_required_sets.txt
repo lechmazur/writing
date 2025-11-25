@@ -1,0 +1,25 @@
+Your future task will be to create a short story that is as coherent as possible and integrates the required narrative elements.
+In this step, you will rate candidate sets of required elements. Some elements in a set may be "None" - this indicates that this element is not required.
+
+Every element in a chosen set should shape the narrative arc, enrich the setting, deepen character motives, and strengthen the theme. Opt for surprising,
+imaginative combinations rather than easy or clichéd ones, but think deeply about how they will coherently fit together. Your story will need to be original and authentic, not cliché. 
+
+Rate sets based on how well elements in them fit together and will allow you to create the best possible story. Rate each set below 1 (worst) to 10 (best).
+Output nothing except the set index number and the rating for each set. 
+
+### Example of Expected Output Format:
+1. 6
+2. 9
+3. 2
+4. 10
+5. 4
+6. 1
+7. 9
+8. 4
+9. 1
+10. 2
+11. 5
+
+---
+
+{sets}

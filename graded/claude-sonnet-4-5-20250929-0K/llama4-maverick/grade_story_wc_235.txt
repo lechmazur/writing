@@ -1,0 +1,36 @@
+grade_story_wc_235.txt
+<question>1</question><grade>4.8</grade><comment>The protagonist remains a passive observer throughout, recording dreams without making choices that foreclose paths or alter tactics. Interiority consists largely of abstract declarations ("feral nostalgia," "jaded wonder") rather than embodied contradictions. The shift from pain to peace at the end is asserted, not earned through on-page struggle. Therapy-speak labels ("chronologically confused," "jealous of my past selves") replace concrete sensory experience at pivotal moments.</comment>
+
+<question>2</question><grade>5.2</grade><comment>The piece lacks a legible closure with visible cost—the protagonist simply finishes writing and declares satisfaction without forfeiting anything or facing a trade-off. The "chronologically confused" frame is introduced but never constrains a choice or creates friction. No meaningful escalation: the narrator writes, the words flow, and the process concludes without reversal or deepening. The drive lens remains ambiguous between accumulative and causal without teaching a pattern early enough.</comment>
+
+<question>3</question><grade>5.6</grade><comment>The mountain ranger cabin anchors location, and "birch bark scroll" offers tactile specificity. However, the setting remains static backdrop—neither the woods nor the cabin constrain a choice or supply a resource that alters outcome. Sensory detail is sparse and generic ("silence of the woods," "scratch of my pen"). No spatial choreography or environmental pressure shapes the writing act.</comment>
+
+<question>4</question><grade>4.9</grade><comment>The dominant stake—"to distill chaos into narrative"—is declared but never tested by opposition or scarcity. No reversal occurs: the protagonist begins writing, continues writing, and finishes successfully. "Feral nostalgia" is named as a driver but does not narrow options or force a trade-off. The narrative substitutes summary of internal process ("the hours blurring together") for on-page escalation with visible cost.</comment>
+
+<question>5</question><grade>5.4</grade><comment>"Feral nostalgia" and "jaded wonder" are announced as themes but remain abstract labels rather than emerging from concrete images or choices. The final paragraph ("I'd continue to create, to soar") states a moral instead of offering a resonant image. The birch bark scroll "glows with an inner light"—overt symbolism that shouts rather than accumulates meaning through use. No thematic complexity or counter-reading is invited.</comment>
+
+<question>6</question><grade>5.9</grade><comment>Single-POV first-person remains stable with no head-hopping. However, diction drifts into elevated register ("serpentine curve of words," "unencumbered by the constraints of time or space") that clashes with the immediate sensory moment. Perceptual signature is generic; the narrator notices in broad abstractions rather than character-specific bias. Filter verbs ("I felt," "I saw") appear frequently but do not flatten immediacy drastically at closure.</comment>
+
+<question>7</question><grade>5.1</grade><comment>Paraphrase loops pervade: "The feral nostalgia that had driven me to start writing still lingered, but it was no longer a source of pain. Instead, it had become a catalyst" repeats prior content without advancing pressure. Template cadence runs ("I was," "I felt," "I knew") dominate adjacent sentences. Stock metaphors ("maelstrom," "kaleidoscope," "spark that had set my imagination ablaze") cluster without fresh vehicle. Synonym churn ("exhilarated," "exhilarating," "exhausted but exhilarated") within tight proximity. These artifacts touch the final third, triggering −1.0 baseline and disallowing 9+ globally.</comment>
+
+<question>8</question><grade>4.6</grade><comment>The core premise—lucid dream chronicler records dreams in a cabin—follows a familiar artist-at-work template without transformation. "Feral nostalgia" and "jealous of past selves" are prompt-concept labels rather than lived-in particulars. The emotional arc (confusion → peace through creative work) is generic and could apply to any reflective narrator. No bold structural risk or non-obvious synthesis; the piece plays safely in the median.</comment>
+
+<question>9 A</question><grade>2.3</grade><comment>The lucid dream chronicler is named and described but makes no choice that alters tactics—observation and recording proceed uninterrupted. Present in setup and throughout, but swappable with "writer" or "artist" without structural loss.</comment>
+
+<question>9 B</question><grade>5.8</grade><comment>The birch bark scroll appears early, is handled across multiple beats (reaching for it, writing on it, unrolling to read), and is present in the final image ("seemed to glow"). However, it does not constrain a choice or enable a tactic under pressure; it serves as passive medium. Functional reprise without causal force caps mid-band.</comment>
+
+<question>9 C</question><grade>2.1</grade><comment>"Feral nostalgia" is named twice as a recurring theme but never shapes an on-page stake or constrains a tactic. It remains ornamental mood rather than a driver of choice or cost.</comment>
+
+<question>9 D</question><grade>1.8</grade><comment>"Chronologically confused" is declared in the opening but does not constrain or enable any on-page action. The protagonist writes linearly without friction from the attribute; it is label-only.</comment>
+
+<question>9 E</question><grade>3.2</grade><comment>"Soar" appears in action ("my mind begin to soar," "I soared through the landscapes") as metaphor for imaginative freedom but does not create a reversal or redefine options. Swappable with "drift" or "wander" without affecting closure.</comment>
+
+<question>9 F</question><grade>2.4</grade><comment>"Getting jealous of past selves" is mentioned once in the middle as a feeling but does not shape attempts or recur. Summary-only and ornamental.</comment>
+
+<question>9 G</question><grade>4.1</grade><comment>The mountain ranger cabin anchors setting early and reappears in reflection ("once a refuge, had become a launching pad"), creating a slight reweighting. However, it does not pressure a choice or supply a resource; the protagonist could write anywhere. Lyric reprise without causal work.</comment>
+
+<question>9 H</question><grade>1.2</grade><comment>"After seeing your own grave" is mentioned in backstory ("It had started when I saw my own grave") but does not shape present decisions or appear at closure. No temporal pressure or live clock.</comment>
+
+<question>9 I</question><grade>4.7</grade><comment>"To distill chaos into narrative" is stated as motivation and recurs in the final third ("I'd distilled chaos into narrative"). However, no on-page friction or trade-off tests the desire; the process succeeds without cost. Functional lyric reprise without causal constraint.</comment>
+
+<question>9 J</question><grade>3.6</grade><comment>"Jaded wonder" is named once late in the piece and matches the reflective tone, but the tone itself remains uniform without modulation under pressure. Static mood rather than dynamic charge at closure.</comment>

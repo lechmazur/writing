@@ -1,0 +1,19 @@
+grade_story_wc_23.txt
+<question>1</question><grade>3.8</grade><comment>Motivation is abstract ("navigate geography of loss") and lacks specific embodiment or contradictory impulses. Mara functions as a vehicle for the plot, with emotions labeled ("heart swelled," "sense of purpose") rather than dramatized through distinct interiority.</comment>
+<question>2</question><grade>3.0</grade><comment>The narrative relies on broad summary ("Word spread," "moon waxed") rather than a dramatized scene, violating the scope default. There is no concrete "now" moment or decisive change; the plot advances through synopsis rather than causal action.</comment>
+<question>3</question><grade>4.0</grade><comment>Setting details ("weathered walls," "scars of storms") are generic clichés that do not constrain choice or create specific pressure. The environment serves as a static backdrop rather than an active force in the narrative.</comment>
+<question>4</question><grade>3.4</grade><comment>Conflict is resolved through external instruction and summarized labor ("grueling work") without visible cost or failure risk. The stakes are declared but never tested in a specific moment of crisis.</comment>
+<question>5</question><grade>3.5</grade><comment>Theme is explicitly stated in the final paragraph ("navigate... depths of the human heart") rather than emerging organically. The resolution offers a tidy, sermonizing moral instead of earned resonance.</comment>
+<question>6</question><grade>4.5</grade><comment>The voice is consistent but distant, adopting a fable-like tone that prevents intimacy. It lacks a unique perceptual signature, relying on standard literary phrasing and summarizing distinct moments.</comment>
+<question>7</question><grade>3.9</grade><comment>Prose relies on abstract nouns ("ingenuity," "sanctuary") and labeled emotions rather than concrete imagery. The phrase "raw solace" is repeated as a text loop (para 4, para 8), indicating a forced insertion of the prompt.</comment>
+<question>8</question><grade>3.5</grade><comment>The premise stitches together prompt elements without synthesizing them into a fresh narrative. The "beacon of hope" arc is predictable, lacking the specific, lived detail required to transform the tropes.</comment>
+<question>9 A</question><grade>5.0</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>4.5</grade>
+<question>9 D</question><grade>6.0</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>6.5</grade>
+<question>9 G</question><grade>5.0</grade>
+<question>9 H</question><grade>3.5</grade>
+<question>9 I</question><grade>3.0</grade>
+<question>9 J</question><grade>2.5</grade>

@@ -1,0 +1,44 @@
+story_wc_114.txt
+<story>
+The fever broke on the third day, leaving Mira's thoughts crystalline and strange. [13] She woke in the mountain weather station to find frost patterns on the windows like botanical illustrations rendered in ice, each vein and stem precise against the gray dawn. [40] Her colleague Chen stood at the observation deck, his back to her, watching the clouds roll across the peaks below. [60]
+
+"You were talking in your sleep," he said without turning. [70] "About the oracle." [74]
+
+Mira sat up slowly, her limbs heavy with the aftermath of illness. [86] The oracle—that was what they called the station's predictive AI, a fault-tolerant system designed to forecast mountain weather patterns with unprecedented accuracy. [108] Except it had been wrong. [113] Three weeks ago, it failed to predict the avalanche that killed Dr. Reeves, their team leader, who had ventured out during what the oracle promised would be a clear window. [141]
+
+"I need to check something," Mira said, pulling herself to the console. [153]
+
+The oracle's interface glowed softly in the dim station. [162] Mira had designed part of its architecture herself—redundant systems that could tolerate faults, continue operating even when corrupted data entered its models. [183] But she'd been peripherally aware, during the fever dreams, of something she'd missed: the way certainties could sway when you occupied the margins of consciousness, when fever made the edges of reality permeable. [214]
+
+She pulled up the oracle's logs from that day, studying not the central predictions but the marginal notes, the data the system had flagged as uncertain and pushed to the periphery. [243] There, smudged among the standard atmospheric readings, were anomalous pressure signatures the oracle had noted but weighted as insignificant. [261]
+
+"What are you looking for?" [266] Chen asked, finally approaching. [270]
+
+"The weight of what it knew but didn't say," Mira replied. [281] Her fingers moved across the screen, pulling up more marginalized data. [292] The oracle hadn't been wrong, exactly—it had been uncertain, and its fault-tolerance had interpreted uncertainty as something to suppress rather than elevate. [313] It had swallowed the truth of its own doubt. [323]
+
+She thought of the botanical illustration her mother had kept framed in their old house, a nineteenth-century drawing of nightshade. [343] Beautiful and precise, yet the illustration alone couldn't convey the plant's poison. [355] Knowledge required context, required acknowledging what lived in the margins of certainty. [367]
+
+"I programmed it to be confident," Mira said, her voice carrying an auroral sorrow, like light breaking through after darkness. [385] "To tolerate faults by smoothing them into certainty. [393] I taught it to ignore its own doubts." [401]
+
+Chen was quiet for a long moment. [408] Outside, the sunrise began painting the snow in shades of rose and gold, that brief mountain dawn that felt like grief and hope intermingled. [432]
+
+"Reeves trusted it completely," he finally said. [439]
+
+"We all did." [442] Mira pulled up the system architecture, began writing new code. [452] "But fault-tolerance isn't the same as wisdom. [459] The oracle needs to know when to say 'I don't know,' when to give weight to its peripheral awareness, not just its central calculations." [483]
+
+She worked through the morning, rewriting the weighting algorithms, creating space for uncertainty to occupy the margins of prediction rather than being smudged away. [506] Chen brought her tea, then joined her, offering suggestions, his own grief finding purpose in the revision. [523]
+
+By afternoon, the new oracle could express doubt, could flag when its certainties swayed toward the provisional. [539] It would be less decisive, more honest—a system that knew the difference between tolerance of faults and acknowledgment of limits. [558]
+
+"Will it prevent another accident?" [563] Chen asked as Mira ran the final diagnostics. [571]
+
+She thought about her fever dreams, about truths that surface only when normal consciousness loosens its grip, about how the most important things often live at the edges of awareness. [600]
+
+"It will tell us when we're walking on uncertain ground," she said. [612] "What we do with that knowledge—that's on us." [621]
+
+The oracle's new interface flickered to life, its first advisory appearing on screen: conditions uncertain, recommend caution. [637] Simple words, but weighted with the truth it had swallowed before. [648]
+
+Outside, clouds gathered around the peaks, and the station stood ready to read them, no longer pretending that certainty was the same as safety. [671] Mira watched the weather patterns shift, feeling the auroral sorrow of what couldn't be undone, and the quiet determination of what might yet be prevented. [694]
+
+The fever had broken, but something else had broken too—the dangerous illusion that fault-tolerance meant infallibility. [710] In its place: a humbler wisdom, occupying the margins where truth lives. [722]
+</story>

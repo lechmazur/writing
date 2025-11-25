@@ -1,0 +1,19 @@
+grade_story_wc_162.txt
+<question>1</question><grade>3.9</grade><comment>The protagonist's motivation ("seeking answers") is abstract, and her characterization relies on awkward labels like "featherly determined" rather than demonstrated behavior. The emotional arc pivots on a sudden, passive memory retrieval rather than an active struggle or choice under pressure. Elara feels like a vessel for the theme rather than a living agent.</comment>
+<question>2</question><grade>4.3</grade><comment>The narrative follows a linear path to closure, but the middle lacks causal density; the terrace essentially solves the problem for her by magically triggering a memory. The mention of "the butterfly effect" is a confusing world-building element that is never contextualized, creating orientation debt. While leaving the logbook creates a legible closure action, the buildup is weak.</comment>
+<question>3</question><grade>4.8</grade><comment>The setting is atmospheric but described in vague, repetitive terms ("fractured hush," "prism," "light"). The "butterfly effect" reference implies a speculative genre context that clashes with the intimate, dream-like tone of the rest of the piece. The environment functions as a "deus ex machina" to deliver the epiphany rather than a place offering resistance.</comment>
+<question>4</question><grade>3.6</grade><comment>Stakes are purely internal and low-pressure, with no external opposition or meaningful barrier to the goal. The resolution comes too easily via the terrace's magic and a sudden realization, bypassing the need for the protagonist to make a difficult trade-off or endure a genuine struggle before the end.</comment>
+<question>5</question><grade>3.2</grade><comment>The story explicitly lectures the reader on its theme in the final paragraphs ("She understood now... codes were about necessary distances"). This overt moralizing replaces dramatic enactment, violating the "show, don't tell" principle and triggering a penalty for Thematic Echo/explanation in the closure beat.</comment>
+<question>6</question><grade>4.2</grade><comment>The voice is consistent but overly sentimental and prone to purple prose ("groaning softly," "whisper secrets"). The usage of "intuit" as an intransitive verb and the ungrammatical/forced phrasing of "featherly determined" disrupt the narrative authority and flow.</comment>
+<question>7</question><grade>3.5</grade><comment>A severe repetitive loop artifact is present: the specific phrase "fractured hush" appears three times (paragraphs 3, 5, and 7) in a very short text, flattening the prose. Additionally, reliance on filter verbs ("she felt," "she realized") distances the reader from the immediate experience.</comment>
+<question>8</question><grade>3.8</grade><comment>The premise of a magical place where a character heals a past wound via an epiphany is a common trope, and this execution adds little freshness. The "weather codes as relationship metaphors" concept is standard, and the execution relies on generic sentimental beats rather than a unique specific vision.</comment>
+<question>9 A</question><grade>5.2</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>4.0</grade>
+<question>9 D</question><grade>2.0</grade>
+<question>9 E</question><grade>5.5</grade>
+<question>9 F</question><grade>1.5</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>1.0</grade>
+<question>9 I</question><grade>6.5</grade>
+<question>9 J</question><grade>2.5</grade>

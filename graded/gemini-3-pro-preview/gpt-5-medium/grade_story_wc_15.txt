@@ -1,0 +1,19 @@
+grade_story_wc_15.txt
+<question>1</question><grade>6.6</grade><comment>Sera is a competent, archetypal protagonist who fits the mythic mode but lacks internal friction. Her choices are linear and noble without the hesitation or contradictory impulses that create psychological depth; she succeeds because she is "optimistic" and skilled, not because she navigates a difficult trade-off.</comment>
+<question>2</question><grade>6.4</grade><comment>The narrative follows a clear ritual progression, but the resolution relies on magical convenience (bells ringing themselves, sluices opening automatically) rather than earned causality. The closure feels unearned because the protagonist pays no visible on-page price for the massive transformation of the town.</comment>
+<question>3</question><grade>8.8</grade><comment>The setting is the story's strongest asset, with vivid, atmospheric details like "harbor has thinned to ribs" and "labyrinth mouth breathes rust and thyme." The environment actively shapes the mood and constraints, grounding the high-concept premise in specific sensory experience.</comment>
+<question>4</question><grade>6.1</grade><comment>Conflict is low-tension; the "forbidden" labyrinth yields immediately to the protagonist's skills ("wall loosens a breath") without pushing back. The stakes are declared ("salvage or surrender") but the obstacle is overcome with a single ritual action, lacking a sense of genuine danger or struggle.</comment>
+<question>5</question><grade>5.5</grade><comment>The story explicitly states its moral in the final paragraph ("What we broke was the habit of turning away..."), which flattens the subtext into a sermon. The theme is told rather than allowed to resonate through the imagery alone, triggering the Thematic Echo penalty.</comment>
+<question>6</question><grade>7.6</grade><comment>The voice is distinct, consistent, and highly lyrical, suited to the fable-like quality of the tale. While it occasionally drifts into overwrought territory, the narrator's perspective ("hands learned meter from rope") remains stable and authoritative.</comment>
+<question>7</question><grade>6.5</grade><comment>The prose suffers from metaphor congestion (Density penalty), with phrases like "shy thunder," "ribcage songs," and "mirror water" appearing in rapid succession. The beauty becomes breathless and opaque, prioritizing poetic sound over narrative clarity, particularly in the climax.</comment>
+<question>8</question><grade>6.8</grade><comment>The synthesis of weaving, mining lore, and a storybook plate is imaginative and creates a fresh aesthetic. However, the underlying arc of "artist heals community with ritual" is a familiar trope, and the safe, symmetrical resolution limits the sense of risk.</comment>
+<question>9 A</question><grade>9.2</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>6.5</grade>
+<question>9 D</question><grade>4.0</grade>
+<question>9 E</question><grade>9.5</grade>
+<question>9 F</question><grade>8.0</grade>
+<question>9 G</question><grade>9.0</grade>
+<question>9 H</question><grade>6.5</grade>
+<question>9 I</question><grade>8.5</grade>
+<question>9 J</question><grade>3.0</grade>

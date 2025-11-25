@@ -1,0 +1,19 @@
+grade_story_wc_96.txt
+<question>1</question><grade>7.5</grade><comment>Mara is a distinct, grounded presence with a backstory that informs her physical actions (prying bars). The narrator's "molting" trait, however, remains an asserted label rather than a driver of tactical shifts; he acts with a singular, consistent poetic voice throughout. The relationship offers warmth but lacks friction or evolving status dynamics under pressure.</comment>
+<question>2</question><grade>7.2</grade><comment>The narrative follows a clear Accumulative arc from ruin to restoration, and the closure (naming the library) is resonant. However, the transition from isolated struggle to community embrace is rapid and lacks causal struggle; neighbors arrive without friction, smoothing the tension rather than escalating it. The police car moment is a refusal that carries no visible consequence.</comment>
+<question>3</question><grade>7.0</grade><comment>The atmospheric details are vivid ("rust," "coffee tin"), but physical credibility slips in service of lyricism. The line "We braid rebar with drifted ivy" breaks the reality of the materials—rebar cannot be braided by hand—undermining the grit of the labor. The setting often feels more like a poem than a physical space.</comment>
+<question>4</question><grade>6.8</grade><comment>Conflict is largely external and potential rather than dramatized; the patrol car passes without stopping, and the developers are present only as signs. The rapid assistance from neighbors lowers the stakes, resolving the central challenge of rebuilding with convenient ease. The pressure does not force a difficult trade-off or significant cost.</comment>
+<question>5</question><grade>6.0</grade><comment>The theme is explicitly stated by the characters ("forge beauty from anarchy," "call the work our blooming resistance"), which flattens subtext. This reliance on "Thematic Echo"—articulating the thesis in prompt-like language—prevents organic resonance. The resistance is named rather than simply felt through action.</comment>
+<question>6</question><grade>7.4</grade><comment>The narrative voice is consistent and unified, fitting the "penny poet" persona well. However, the relentless lyricism creates a monochromatic texture where even concrete actions are filtered through heavy metaphor, occasionally distancing the reader from the immediate physical reality.</comment>
+<question>7</question><grade>5.2</grade><comment>The prose suffers from extreme metaphor density; nearly every noun is paired with a figurative modifier ("knot is a stanza," "bracket a breath," "shard a possible vowel"), which obscures the action. The physics break ("braid rebar") and the explicit labeling of symbols ("blooming resistance") trigger the overwriting and coherence penalties.</comment>
+<question>8</question><grade>6.5</grade><comment>The concept of a guerrilla library is engaging, but the execution leans heavily on romanticized tropes of the magical vagrant and the sanctity of books. The resolution feels idealized, lacking the gritty, specific ingenuity that would elevate the premise beyond a standard ode to storytelling.</comment>
+<question>9 A</question><grade>8.0</grade>
+<question>9 B</question><grade>9.2</grade>
+<question>9 C</question><grade>5.5</grade>
+<question>9 D</question><grade>3.5</grade>
+<question>9 E</question><grade>9.5</grade>
+<question>9 F</question><grade>7.8</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>6.2</grade>
+<question>9 I</question><grade>5.0</grade>
+<question>9 J</question><grade>4.5</grade>

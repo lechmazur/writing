@@ -1,0 +1,19 @@
+grade_story_wc_157.txt
+<question>1</question><grade>2.4</grade><comment>Characterization relies entirely on adjectives ("charming rogue," "candidly cryptic") rather than demonstrated behavior. There are no on-page micro-choices or internal conflicts; Lyra is a static vehicle for the summary rather than an agent acting under pressure. The emotional landscape is summarized ("took it to heart") rather than embodied.</comment>
+<question>2</question><grade>1.8</grade><comment>The piece is a synopsis spanning seasons rather than a dramatized story; it violates the single-scene/two-shard scope default without earning the mosaic track. There is no specific inciting incident or climax in a present moment, only a generalized timeline of events ("As the days passed"). Closure is a vague summary of legacy rather than a decisive change with felt cost.</comment>
+<question>3</question><grade>3.2</grade><comment>The setting is established via generic descriptors ("scent of blooming flowers," "gentle hum") that lack specific texture or interaction. The spatial relationship between the greenhouse and the "community gardens" is muddled—she plants in the greenhouse, but then the community gardens are mentioned as the locus of the patterns. The environment does not constrain Lyra's choices.</comment>
+<question>4</question><grade>2.1</grade><comment>Stakes are declared conceptually ("thoughts taxable") but never manifest as an immediate, on-page threat; there is no antagonist or obstacle testing Lyra's plan. The narrative lacks a tightening of screws; success is assumed and summarized rather than earned through struggle. The "chaos" mentioned never pressures the protagonist's tactics.</comment>
+<question>5</question><grade>2.0</grade><comment>The theme is delivered through explicit moralizing ("testament to the enduring power," "beacon of resistance") rather than subtext. The ending relies on a heavy-handed Thematic Echo (-0.8 penalty range) that restates the thesis instead of landing a resonant image. There is no thematic complexity or ambiguity.</comment>
+<question>6</question><grade>2.9</grade><comment>The narrative voice is distant and summarizing, lacking a distinct perceptual signature or immediate grounding in the scene. The POV relies on "As [time passed]" transitions that distance the reader from the action. Dialogue is absent, and interiority is reported ("Lyra... smiled to herself") rather than experienced.</comment>
+<question>7</question><grade>2.5</grade><comment>The prose is riddled with cliché ("unbreakable spirit," "beacon of hope," "testament to") and abstract summary. There are repetitive sentence starts ("As the days passed," "As the seasons passed," "As a result") that create a droning, synopsis-like rhythm. Significant telling prevents any scene density or momentum.</comment>
+<question>8</question><grade>3.5</grade><comment>The core concept of taxable thoughts offers potential but is handled through a generic resistance fable structure without specific, lived detail. The "rogue scholar" planting seeds is a familiar trope that isn't transformed here because the specific mechanics of the code and the tax are never dramatized.</comment>
+<question>9 A</question><grade>2.8</grade>
+<question>9 B</grade><grade>5.2</grade>
+<question>9 C</question><grade>3.1</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>2.9</grade>
+<question>9 F</question><grade>4.5</grade>
+<question>9 G</question><grade>3.5</grade>
+<question>9 H</question><grade>3.8</grade>
+<question>9 I</question><grade>2.2</grade>
+<question>9 J</question><grade>1.8</grade>

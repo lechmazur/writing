@@ -1,0 +1,19 @@
+grade_story_wc_134.txt
+<question>1</question><grade>4.6</grade><comment>Lira functions primarily as an observer until the final paragraph; her internal state is described through metaphor rather than embodied emotion ("river of certainty," "stone she had missed"). The pivotal realization ("She understood now") relies on summary rather than dramatized experience, and her motivation is explicitly stated rather than felt through conflict.</comment>
+<question>2</question><grade>5.4</grade><comment>The narrative follows a clear linear structure, but the causality feels mechanical; the pilgrim acts as a static catalyst without agency or interaction beyond a smile. The resolution (letting the pearl absorb the forces) is a functional Decisive Change, but it resolves the tension too neatly, restoring a "balance" that feels unearned by the preceding abstract threat.</comment>
+<question>3</question><grade>6.0</grade><comment>The crystal cave is described with vivid, albeit standard, fantasy imagery ("choir of frozen stars," "silver and violet hues"). While the setting is visually clear, the sensory details are repetitive, and the environment functions more as a backdrop than a source of constraint or tactical resources for Lira.</comment>
+<question>4</question><grade>4.8</grade><comment>Stakes are abstract; the "unseen forces" and "shadows" present a vague threat without concrete immediate consequences for failure. The escalation is atmospheric ("crescendo," "pulsing") rather than tactical, leading to a resolution that feels low-cost despite the "unsettling" paradox mentioned.</comment>
+<question>5</question><grade>4.2</grade><comment>The theme is delivered through explicit exposition ("This bright darkness was both beautiful and unsettling, a paradox that Lira had learned to embrace"). The story relies on explaining the meaning of its symbols ("a gift of everyday wonder") rather than allowing subtext or ambiguity to emerge from the action.</comment>
+<question>6</question><grade>5.2</grade><comment>The POV remains consistently with Lira, but the voice is heavily filtered through explanatory metaphors. The distance is somewhat remote, prioritizing poetic description over the immediate, visceral experience of the character's fear or confusion.</comment>
+<question>7</question><grade>3.2</grade><comment>Severe repetition artifacts mar the prose; the phrase "overlapping shadows" appears six times in a short space, creating a distracting loop. Other prompt phrases ("bright darkness," "everyday magic") are repeated three times each, causing the text to read mechanically rather than flowing naturally.</comment>
+<question>8</question><grade>4.0</grade><comment>The story executes a standard fantasy encounter with little innovation in the "oracle in a cave" trope. The extensive reuse of prompt phrasing as labels prevents the concepts from feeling integrated or fresh.</comment>
+<question>9 A</question><grade>6.5</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>5.5</grade>
+<question>9 D</question><grade>2.2</grade>
+<question>9 E</question><grade>6.0</grade>
+<question>9 F</question><grade>4.0</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>3.2</grade>
+<question>9 J</question><grade>3.5</grade>

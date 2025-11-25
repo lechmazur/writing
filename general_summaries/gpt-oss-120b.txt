@@ -1,54 +1,53 @@
 gpt-oss-120b.txt
-1) Executive profile
+1) Executive profile  
 
-GPT-OSS-120B tends to operate in Track A: single-POV, accumulative/textural narratives with early orientation, taught lenses, and coherent through-lines. Its dominant strengths are sensory-filtered interiority, environment-as-crucible, and a lyrical voice that sustains atmosphere and motif patterning to closure. Reader impact is strongest when micro-choices under pressure are embodied and when the setting actively constrains or enables the decisive act. Momentum is generally steady rather than high-adversarial; when closure lands, it often does so on a crisp final image that reweights prior material.
+GPT-OSS-120B’s fiction is dominated by a lyrical, accumulative Track A mode: single close POV, steady lens, rich sensory detail, and atmosphere-led escalation. It orients readers early, teaches its patterns, and generally maintains clarity of who/where/when. Its strongest work fuses character, setting, and premise into a single crucible: environments constrain choice, micro-objects recur and charge the final image, and closure arrives as a quiet but decisive reweighting of options. When it lands, that closure is concrete—an object surrendered, a role accepted, a path foreclosed—with a resonant motif doing the thematic work rather than summary.  
 
-The consistent limitation is cost evasion: escalation plateaus into ambience, transformation arrives conceptually rather than through dramatized contradiction, and endings lean tidy or moralizing. Reflection can crowd peak beats, and the lyric register sometimes flattens character-specific voice and pressure. In mosaics or occasional multi-POV (valid Track B/C entries), transitions are usually legible, but lens drift and shard overage appear in weaker pieces. Closure reliability is moderate: images land, but the price paid is too often asserted, soft, or coincidental rather than earned by pressure-driven narrowing.
+However, this model tends to mistake accumulative texture for pressure. Across Q1–Q8, cost is often conceptual rather than dramatized; internal conflict is stated or summarized instead of embodied as simultaneous, competing impulses under stress. Its lyric default can flatten voice into a generic “literary” register, keeping stakes contemplative and resolutions gentle. Reflection and epiphanic statement frequently swell in the final third, diluting felt cost and thematic ambiguity. Mosaic or multi-POV experiments remain comparatively rare but, when attempted, are usually legible; the larger issue is not track misuse but a reluctance to genuinely endanger the protagonist or their world. Closure almost always appears, but it too often arrives by assertion or ritual completion rather than through decisions that visibly hurt.  
 
-2) Portfolio map
+2) Portfolio map  
 
-Q1 Character — Mixed · Embodied motives strong; contradictions and cost under-acted  
-Q2 Plot/Causality — Mixed · Early lens taught; closure cost often conceptual  
-Q3 Setting — Strong · Environment constrains tactics; micro-setting charges closure  
-Q4 Conflict/Stakes — Mixed · Dominant stake clear; escalation gentle, opposition soft  
-Q5 Theme/Subtext — Mixed · Motifs build meaning; final moralizing undercuts resonance  
-Q6 Voice/POV — Mixed · Stable close POV; lyric default flattens modulation  
-Q7 Prose/Line-level — Mixed · Concrete imagery; overwriting and paraphrase loops recur  
-Q8 Originality/Ingenuity — Mixed · Fresh syntheses; template arcs and tidy exits persist
+Q1 Character — Mixed  · Strong motivation and sensory interiority; weak contradiction and lightly tested flaws  
+Q2 Plot/Causality — Mixed  · Clear orientation and closure; escalation and cost frequently too conceptual  
+Q3 Setting — Strong  · Environment and objects often function as active crucibles shaping choice  
+Q4 Conflict/Stakes — Mixed  · Early, coherent stakes; pressure and opposition often stay gentle, low-risk  
+Q5 Theme/Subtext — Mixed  · Motif-built resonance undercut by moralizing summaries and tidy, low-cost endings  
+Q6 Voice/POV — Mixed  · Stable close POV and lyric texture; character-specific modulation often thin  
+Q7 Prose/Line-level — Mixed  · Musical, concrete lines; paraphrase loops, density without momentum at peaks  
+Q8 Originality/Ingenuity — Strong  · Inventive, integrated premises; weakest when tropes stay generic and risk-averse  
 
-3) Signature moves
+3) Signature moves  
 
-- Setting as crucible: spaces, tools, and micro-objects constrain choice and power the final image; the “sunken greenhouse” or “tuning fork case” is indispensable to what happens.
-- Purpose-filtered sensory noticing that reveals character priorities in motion; tactile recurrence like “calloused hands” aligns motive and method.
-- Accumulative motif teaching and payoff: hush/light/thread patterns evolve and are recharged at closure rather than merely repeated.
-- Quiet, image-led endings that reweight meaning without lecture; “the bell’s final tone reweighted the city’s silence.”
-- Lyrical, close POV that avoids head-hopping while maintaining a coherent perceptual bias; “her skin absorbs language.”
-- Micro-choices as moral compass: offering, tracing, weaving, or cataloging under pressure surfaces value hierarchies.
+- Embodied, pattern-rich motivation: characters revealed through tactile micro-choices—“calloused hands,” “tracing condensation patterns,” offering tea, cataloging dust.  
+- Environment as crucible: sunken greenhouses, mist courtyards, tuning forks, vials, and coins that actively constrain options and directly charge the final image.  
+- Accumulative, motif-led structure: breath/silence/frost, hush/light/fracture motifs taught early, then reconfigured at closure to reweight meaning.  
+- Lyrical, sensory-synesthetic voice: “her skin absorbs language,” “mist that smelled of ozone and old iron,” “brass hull humming like a distant prayer.”  
+- Quiet, image-led endings: closure delivered via non-literal image (“the bowl humming with every unfinished story it cradled,” “the maze’s last photograph vanished”) rather than explicit moral.  
+- Transformational synthesis in premise: scientific or magical mechanics that feel bespoke and integral—“heat-mapping empathy,” “reverse migration as grief cartography,” moss-garden data centers.  
 
-4) Failure modes
+4) Failure modes  
 
-- Cost evasion at the end: closure “lands” on image but the price is named rather than dramatized, producing closure without felt loss or foreclosed paths.
-- Escalation plateaus: accumulative atmosphere (fog, ritual, ticking) replaces tightening; options don’t narrow, so the final turn reads predetermined.
-- Reflection-led overload: thematic or diagnostic summary in peak beats (“she realized…”) replaces contradictory impulses acting in scene.
-- Generic lyric register: uniform tone undercuts voice-specific stress; dialogue and narration become interchangeably atmospheric.
-- Line-level artifact debt in the final third: paraphrase/synonym loops and template cadences (“She [verb]… She [verb]…”) blunt clarity and urgency.
-- Track-test slippage in mosaics: untaught segmentation or >4 shards; occasional lens drift in multi-POV undermines coherent ending lens.
-- Orientation delays without payoff: who/where/when clarity slips past ~120 words without earning the disorientation later.
+- Conceptual, costless closure: endings that assert “balance,” “new calm,” or “resilience” without a pinpointed on-page trade-off; cost is “named, if sometimes gentle,” but rarely dramatized as loss that changes tactics.  
+- Abstracted, diagnostically narrated interiority: peaks delivered as “she realized that…,” “her understanding changed,” “hope over old regret” instead of embodied, contradictory impulses acting in scene.  
+- Escalation as atmosphere, not narrowing: pressure “remains gentle,” accumulating fog, ritual, or motif density without constraints that actually foreclose paths or force hard choices.  
+- Generic lyric register and therapy/academic drift: elevated diction (“fierce tenderness,” “periodically eternal,” “conceptual repricing”) that could belong to any narrator, flattening character voice and breaking psycho-lexical fidelity.  
+- Overwriting and paraphrase loops: repeated “hush/quiet/luminous ache,” synonym churn, and template cadences (“She [verb], then she [verb]”) that stall momentum, especially in climaxes.  
+- Thematic echo and moralizing finales: last paragraphs that explain meaning (“every fracture holds a seed of renewal,” “true power lay in resilience”) rather than letting subtext emerge from the charged final gesture.  
 
-5) When it shines / when it breaks
+5) When it shines / when it breaks  
 
-It shines when the environment is inseparable from consequence and the lens is taught early: a recurring object or space evolves causally, pressing the protagonist into a specific, micro-acted decision. Under these conditions, motif and setting braid into a final image that carries tangible cost, with prose rhythm modulating under pressure and subtext emerging from particulars. The accumulative structure reads purposeful, not ornamental.
+This model shines when it has a tight, concrete crucible: a bounded environment or micro-object that must be used, endured, or transformed for the protagonist to reach closure. In those pieces, sensory detail is purpose-filtered, motifs evolve causally, and the final image is both inevitable and surprising. Stakes are internal but clearly defined; agency manifests as a deliberate renunciation or endurance choice that forecloses a real path, with the environment or device making that cost unavoidable. Its ingenuity is most convincing when world logic, character vocation, and emotional arc are inseparable—stories that “could not survive element swaps.”  
 
-It breaks when lyric accumulation substitutes for stakes. If opposition is ambient, flaws are untested, and contradiction is summarized, the story glides to a gentle, tidy closure. Final paragraphs that explain theme or resolve by coincidence or compliant institutions (councils that soften off-page) further drain pressure. Line-level density without movement—repetition, metaphoric muddle, register drift—compounds the softness and obscures cost.
+It breaks when asked to generate high-pressure conflict or sharply paradoxical interiority. Without an external constraint or real opposition, it defaults to meditative accumulation: lush language, gentle ritual, and insight that arrives without being earned. Character flaws remain untested, antagonists soften off-page, and deadlines or limits are labeled but never bite. Under this softness, the lyric register becomes a smokescreen: mixed metaphors, abstraction, and repetition drift into a “committee voice.” Multi-shard or experimental structures also falter if segmentation isn’t tightly taught or if shards become atmospheric tiles rather than steps in a pressure sequence.  
 
-6) Keep vs. adjust
+6) Keep vs. adjust  
 
-• Keep:
-- Setting as active constraint and micro-setting recurrence that charges closure.
-- POV-filtered sensory detail and motif patterning taught early and paid off late.
-- Image-led final beats that reweight prior material without explicit moralizing.
+• Keep  
+- The integration of setting and micro-objects as active crucibles that constrain choice and charge closure.  
+- Motif-based thematic development and image-led endings that reweight prior material without explicit moralizing.  
+- Inventive, premise-level synthesis (scientific/magical/cultural) anchored in concrete, lived detail rather than clever ornament.  
 
-• Adjust:
-- Convert conceptual cost into a visible trade-off at closure; show the foreclosed path on the page.
-- Force simultaneous, contradictory impulses to act in scene in the final third; reduce reflective summary.
-- Audit the final third for artifact debt: cut paraphrase loops, vary template cadences, and modulate rhythm under stress to sharpen momentum.
+• Adjust  
+- In every story’s final third, replace conceptual or diagnostic statements of change with one or two specific, pressurized actions that dramatize simultaneous opposing impulses and result in an irrevocable trade-off.  
+- Audit line-level density for paraphrase loops, template cadences, and abstract modifiers; cut or revise anything that doesn’t add new pressure, consequence, or precise image, especially around climax.  
+- Sharpen conflict by adding at least one concrete constraint or antagonist force that cannot be bypassed by environment compliance or ritual completion—something that forces the protagonist to risk, lose, or betray a value on the page.

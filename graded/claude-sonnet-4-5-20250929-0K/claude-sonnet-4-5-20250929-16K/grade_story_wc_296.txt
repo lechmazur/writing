@@ -1,0 +1,72 @@
+grade_story_wc_296.txt
+<question>1</question>
+<grade>6.8</grade>
+<comment>Kael's motivation is clear and her guarded nature provides internal texture, but interiority remains largely declarative ("warlike serenity," "uncanny ability") rather than embodied through contradictory impulses acting in scene. The pivotal moment of "unbending her defenses" is told as a general price rather than shown through specific micro-choices under pressure. The final act—using the seed—feels competent but lacks visible internal conflict or cost that would make the choice genuinely difficult. Emotional states are mostly narrated rather than enacted through physical perception or gesture.</comment>
+
+<question>2</question>
+<grade>7.4</grade>
+<comment>The piece establishes a causal lens: charlatan fails → Kael investigates → vision reveals incomplete confession → seed completes it → curse breaks. Orientation is swift (who, where, stakes by ~100 words). The closure—completing the frozen confession—lands on the page with conceptual cost (the druid's innocence revealed too late), meeting the Decisive Change threshold. However, the final beat feels mechanical; the seed's deployment resolves the problem it did not help create, and the "words that were never reflected" closure image, while thematically apt, carries muted emotional weight.</comment>
+
+<question>3</question>
+<grade>7.1</grade>
+<comment>The swirling orchard vortex is vivid and spatially coherent; lily pads in winter and skeletal trees create atmosphere. The setting constrains Kael's approach (spiral ritual, water-walking) and the vortex anchors the central conflict. However, sensory detail is heavily visual with limited tactile or auditory texture, and the lakeside environment does not evolve with the curse-breaking—trees "sink peacefully" without dramatized environmental feedback. The final image of stillness feels postcard-like rather than charged by prior spatial pressure.</comment>
+
+<question>4</question>
+<grade>7.2</grade>
+<comment>The dominant stake—breaking the curse by finding its source—is signaled early and pursued through escalating circles. The mid-story reversal (curse punishes interrupted truth, not evil) narrows options and shifts tactics. However, the climax resolution hinges on a tool (the seed) introduced late and wielded without visible cost or trade-off; Kael faces no genuine dilemma in deploying it. The price of "losing herself temporarily" to gain the vision is noted but not felt—no lasting consequence or foreclosed path makes the victory costly on the page.</comment>
+
+<question>5</question>
+<grade>6.9</grade>
+<comment>The theme of truth interrupted/completed and "what mirrors don't show" emerges from the plot and images. The confession motif (frozen, then finished) provides a non-literal answer to the central question. However, the final line—"the words that were never reflected because they were never released"—edges toward explicit thematic statement rather than letting the image resonate. The moral calculus (protecting reputation versus justice) is present but not deeply conflicted; Kael's detachment keeps the ethical stakes abstract rather than viscerally felt.</comment>
+
+<question>6</question>
+<grade>7.3</grade>
+<comment>POV remains stable in close third; Kael's perceptual signature (search-pattern focus, guarded assessment) is consistent. The prose modulates between descriptive observation and action beats without head-hopping. However, several phrases—"warlike serenity," "uncanny ability," "ruthlessness toward her own guarded nature"—read as authorial characterization rather than Kael's internal idiom. The vision sequence shifts into omniscient summary ("a woman standing... holding a pouch") without anchoring whose eyes or memory Kael is accessing, creating momentary distance instability.</comment>
+
+<question>7</question>
+<grade>6.6</grade>
+<comment>Sentence rhythm varies and information density is generally high, but several lines carry redundancy or scaffold: "She had expected failure. Charlatans dealt in surfaces; curses required roots" restates the same idea twice. "The vision struck like a blade" and similar constructions lean on stock metaphor. Filter-verb stack in the final paragraph ("she had won," "she had found") dulls immediacy. The phrase "the lake became still, and in that stillness, finally rested" loops the concept of stillness without adding pressure. No severe loops, but cumulative minor inefficiencies lower momentum.</comment>
+
+<question>8</question>
+<grade>6.4</grade>
+<comment>The frozen-confession premise offers a fresh angle on curse-breaking, and the incomplete-truth mechanic is specific. However, the execution follows a predictable investigation structure: hired failure → expert arrives → clue gathering → tool deployment → resolution. The "flesh-eating plant seed... won from a bog witch" and "seven years" detail feel like stock fantasy furniture rather than organically integrated world logic. The final image (stillness after spiral) is apt but not surprising; the transformation test suggests the emotional arc could transplant to many magical-problem stories without major adjustment.</comment>
+
+<question>9 A</question>
+<grade>5.8</grade>
+<comment>Kael's guardedness frames the opening and her ability to "unbend" defenses enables the vision, but the trait functions more as a label than a constraint that shapes difficult choices. Present across beats (watching the charlatan, approaching the vortex, deploying the seed) but her decisions feel competent rather than conflicted by her guarded nature. The final reference to "ruthlessness toward her own guarded nature" tells the payoff rather than dramatizing a visible cost.</comment>
+
+<question>9 B</question>
+<grade>4.9</grade>
+<comment>The seed is introduced ("carried for seven years") and used at the climax to complete the confession. However, it appears only in backstory mention and final deployment—no middle beat where Kael considers or weighs its use. The "flesh-eating plant" property (consumes lies) is explained rather than shown through evolving interaction. The seed resolves a problem it did not help create, and its swappability is high—any truth-revealing magical tool could substitute with minor edits.</comment>
+
+<question>9 C</question>
+<grade>7.6</grade>
+<comment>The frozen confession is the story's conceptual spine: the curse traps an incomplete admission, and breaking it requires finishing the words. This shapes Kael's investigation (seeking the source) and the climax (completing the utterance via the seed). The concept appears in the vision ("confession never finished") and the resolution ("words finished at last"). While thematically central, the confession is recounted rather than enacted—the reader hears the words second-hand, which mutes their dramatic charge.</comment>
+
+<question>9 D</question>
+<grade>6.2</grade>
+<comment>Kael's ability to "find lost things" is signaled early ("known throughout the valley") and motivates her hiring and approach. The attribute enables the search-pattern ritual and the vision that reveals the frozen confession. However, the trait functions as a given skill rather than a constraint with visible cost—Kael does not lose anything on-page, and her success feels assured rather than hard-won. The "price of her gift—to lose herself temporarily" is noted but not felt through specific consequence.</comment>
+
+<question>9 E</question>
+<grade>6.8</grade>
+<comment>"Unbend her carefully maintained defenses" occurs at the midpoint, enabling Kael to access the vision that reveals the curse's nature. This action is causal (no vision without unbending; no solution without vision) and returns the story's theme of guardedness. However, the moment is told ("she... let her consciousness flow") rather than dramatized through physical or perceptual breakdown. The cost ("to find lost things, she had to lose herself temporarily") is declared but not enacted—Kael emerges unscathed with no visible price paid.</comment>
+
+<question>9 F</question>
+<grade>7.3</grade>
+<comment>The spiral method ("expanding circles... spiraling inward in the ancient method of the search-pattern ritual") is introduced early, used to approach the vortex across five circuits, and mirrored in the exit ("her circles expanding outward now"). The mechanics matter: each circuit allows Kael to "read the water's memory," and the numbered progression (third circle, fifth circle) provides structure. However, the method's constraint is minimal—no missed circuits or forced deviation—and it feels more atmospheric than tactically essential.</comment>
+
+<question>9 G</question>
+<grade>8.1</grade>
+<comment>The swirling orchard vortex is present throughout: the opening image, the spatial goal Kael approaches, the site of the vision, and the object that "stopped spinning" at closure. It supplies the story's central constraint (Kael must reach and understand it) and its resolution (stillness signals curse-breaking). The vortex's properties (spinning trees, pulsing bark, drowning history) are specific and irreplaceable. The setting drives choices (water-walking, spiral approach) and the final image (stillness) recharges the opening fury.</comment>
+
+<question>9 H</question>
+<grade>5.4</grade>
+<comment>The timeframe ("after the magic trick fails") anchors the opening and establishes causality (charlatan's failure → Kael's investigation). However, time is not tracked or pressured—no urgency, no ticking constraint. The piece reads as a continuous present-tense sequence without a clock that tightens tactics. The "at dawn" opener and "seven years" seed detail are atmospheric rather than functional; removing the timeframe would not alter Kael's choices or the story's stakes.</comment>
+
+<question>9 I</question>
+<grade>7.2</grade>
+<comment>Kael's desire "to find what mirrors refused to reveal" is stated early and governs her investigation approach (seeking hidden truth, not surface tricks). The motivation is dramatized through her dismissal of the charlatan and her search-pattern ritual. It returns at closure: "she had found what mirrors couldn't show: the words that were never reflected." However, the motivation is intellectual rather than conflicted—Kael pursues it without internal friction, competing wants, or visible cost, which keeps it in the mid-band.</comment>
+
+<question>9 J</question>
+<grade>6.7</grade>
+<comment>"Warlike serenity" is introduced early ("her expression as calm as still water yet sharp with predatory focus") and reprised at closure ("that warlike serenity—she had won through discipline and ruthlessness"). The tone is coherent across beats (Kael remains composed under pressure) and modulates slightly (stillness at opening/end vs. tension during the vision). However, the tone is largely static—Kael's affect does not shift with escalation—and the final reprise is told rather than embodied in gesture or perception, which limits its charge.</comment>

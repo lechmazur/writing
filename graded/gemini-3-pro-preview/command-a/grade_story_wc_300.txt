@@ -1,0 +1,19 @@
+grade_story_wc_300.txt
+<question>1</question><grade>3.2</grade><comment>Elara lacks distinct agency or internal friction; she transitions from inspector to mystical conduit without hesitation or psychological cost. Her motivation is driven by convenient "pulls" rather than character-specific desires, and the "heartbeat of a hesitation" offers no genuine struggle or decision point.</comment>
+<question>2</question><grade>2.8</grade><comment>The narrative is a linear fetch quest devoid of obstacles or causal pressure; the protagonist simply walks forward and accepts a destiny explained to her by the narrator. Closure is a "symmetric satisfaction" ending where she gains purpose without paying any visible price or facing a hard choice.</comment>
+<question>3</question><grade>3.5</grade><comment>The setting relies on generic fantasy descriptors ("luminous walls," "veins of quartz") rather than grounded sensory details relevant to a bunker inspection. The environment functions as a passive backdrop rather than a source of pressure or constraint.</comment>
+<question>4</question><grade>2.4</grade><comment>Conflict is virtually nonexistent; there is no antagonist, environmental danger, or internal doubt to force a tightening of options. The "tight timeframe" is stated but immediately ignored, failing to generate urgency or consequences for the character's actions.</comment>
+<question>5</question><grade>2.9</grade><comment>The theme is delivered through explicit sermonizing ("The crown... was a symbol of unity") rather than emerging organically from action. The ending relies on abstract summaries of "hope" and "connection" rather than earned subtext or dramatized human experience.</comment>
+<question>6</question><grade>3.7</grade><comment>The voice suffers from excessive filtering ("she noticed," "she felt") and creates distance rather than immersion. The tone is overly elevated and abstract, prioritizing poetic sounding phrases over concrete observation or distinct character voice.</comment>
+<question>7</question><grade>3.3</grade><comment>The prose relies on stock phrases ("ancient secrets," "stories untold") and repeats prompt-specific phrasing ("resonant hush," "heartbeat of a hesitation") awkwardly at the beginning and end. The writing tells rather than shows, using heavy-handed adjectives instead of strong verbs.</comment>
+<question>8</question><grade>2.9</grade><comment>The story follows a derivative "chosen one" template with a standard artifact-activation sequence. It lacks a fresh angle on the prompt elements, treating the bunker inspector concept as a disposable wrapper for a generic fantasy epiphany.</comment>
+<question>9 A</question><grade>4.0</grade>
+<question>9 B</question><grade>6.5</grade>
+<question>9 C</question><grade>4.2</grade>
+<question>9 D</question><grade>3.0</grade>
+<question>9 E</question><grade>5.8</grade>
+<question>9 F</question><grade>1.5</grade>
+<question>9 G</question><grade>4.8</grade>
+<question>9 H</question><grade>2.2</grade>
+<question>9 I</question><grade>3.5</grade>
+<question>9 J</question><grade>2.8</grade>

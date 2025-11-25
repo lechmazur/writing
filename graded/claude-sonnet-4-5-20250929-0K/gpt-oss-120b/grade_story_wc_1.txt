@@ -1,0 +1,72 @@
+grade_story_wc_1.txt
+<question>1</question>
+<grade>5.8</grade>
+<comment>Elya's core motivation is established (rebuilding through retracing patterns), but her agency reads as passive observation rather than choice-driven action. The "steadily adaptive" trait and emotional states are asserted through abstract labels ("trembling," "steady," "purpose") rather than embodied contradiction under pressure. Interior life remains generic and lacks the particularized perception or micro-choices that would elevate characterization; the final "smile" and discovery of purpose feel unearned by prior struggle.</comment>
+
+<question>2</question>
+<grade>6.4</grade>
+<comment>Drive lens reads as Accumulative/Textural (pattern-building through frost/glass/ledger motifs). Orientation anchors (who, where, when) arrive clearly within the first 120 words. Closure attempts Resonant Reconfiguration (Elya discovers purpose in pauses), but the cost remains conceptual and diffuse—no visible forfeiture or tactical shift is dramatized on the page. The ledger-to-glass journey unfolds through serial discovery rather than because/therefore causality, which fits the lens but never tightens into a choice that narrows options.</comment>
+
+<question>3</question>
+<grade>6.7</grade>
+<comment>Canyon, kiln, frost patterns, and charcoal mine are vividly rendered with sensory specificity ("glassy hush," "basalt floor," "black snow"). The frost patterns constrain Elya's path and the luminous shards charge the final image, satisfying the micro-setting test. However, the setting often serves as backdrop rather than active pressure; the canyon's "walls rose like glass towers" and similar descriptors lean decorative rather than choice-shaping in peak moments.</comment>
+
+<question>4</question>
+<grade>5.9</grade>
+<comment>Dominant stake (rebuild her art and discover purpose) is signaled early. The ledger-guided journey provides one meaningful deepening when she finds the luminous shards, but escalation is passive: discoveries happen to her rather than being forced by her choices under mounting cost. No live option is foreclosed; the narrative accumulates glass-making steps without pressure that narrows tactics or imposes a visible trade-off at closure.</comment>
+
+<question>5</question>
+<grade>6.2</grade>
+<comment>Theme (purpose found in pauses, survival as testament) emerges through frost/glass/ledger motifs and the canyon's resonance. The final image attempts non-literal answer via glass singing under starlight, but the execution tilts toward direct assertion ("she found the purpose she had been seeking") rather than letting particulars speak. Thematic statements in the final paragraph ("purpose lived not in grand gestures but in the quiet pauses") flatten what could have remained resonant.</comment>
+
+<question>6</question>
+<grade>6.1</grade>
+<comment>Third-person limited POV remains stable with no head-hopping. Perceptual signature is present but generic ("trembling," "steady," "drifting resonance") without character-particular texture. Diction drifts into elevated, abstract register ("scorched testament," "steadily adaptive," "purpose she had been seeking") that feels authored rather than filtered through Elya's lived experience under pressure. Psychic distance stays consistent but the prose lacks rhythmic modulation that would reflect her emotional arc.</comment>
+
+<question>7</question>
+<grade>5.7</grade>
+<comment>Paraphrase loops and template cadence pervade: "She realized… She set out… She followed… She slipped… She understood… She watched… She knew." The final third recycles stems and restates theme through synonym churn ("drifting resonance," "steadily adaptive," "quiet pauses") without adding pressure. Stock metaphor strings ("scorched testament," "quiet canyon under stars," "gentle chorus") and therapy-speak ("purpose," "steady rhythm") dull the closure image. Artifacts touch the ending, triggering cumulative −1.7 in Q7 and disallowing 9+ globally.</comment>
+
+<question>8</question>
+<grade>5.4</grade>
+<comment>Glass artist rebuilding after fire is a familiar template; the smuggler's ledger and frost patterns add decorative specificity but do not transform the recovery arc into something non-obvious. The story commits to its premise but the emotional and plot beats (loss → discovery → renewal) follow predictable contours. The transformation test fails: swap ledger for map, frost for ridges, glass for pottery, and the arc remains unchanged. No bold risk heightens stakes; the middle-ground path avoids difficult choices.</comment>
+
+<question>9 A</question>
+<grade>4.8</grade>
+<comment>Present throughout and drives the journey from workshop fire to canyon to new kiln. Elya's choices (following the ledger, arranging shards, crafting new vessels) advance the plot, but most are reactive discoveries rather than high-stakes decisions that narrow options. Swappable with another artisan archetype without structural breakage. Setup and closure present; middle development weak.</comment>
+
+<question>9 B</question>
+<grade>6.3</grade>
+<comment>Introduced in the opening third, used to guide Elya's path through the canyon, and tucked into the new kiln base at closure. Appears in three beats (discovery, navigation, final placement) with evolving significance (contraband record → survival guide → artistic anchor). The ledger enables her journey but does not impose cost or constrain a choice under pressure; reweighting at closure is gestural rather than causal.</comment>
+
+<question>9 C</question>
+<grade>5.1</grade>
+<comment>"Scorched testament" appears twice as a thematic label (ashes, smuggler's ledger) but does not shape on-page stakes or alter tactics. The concept is echoed rather than dramatized; removing the phrase would not break the story's logic or closure. Present in setup and thematic summary but absent from middle pressure beats.</comment>
+
+<question>9 D</question>
+<grade>3.2</grade>
+<comment>"Steadily adaptive" is asserted twice (narrative voice labels, final paragraph reflection) without constraining or enabling a visible on-page action. The trait is told rather than shown through choices with cost. Ornamental mention that could be removed without altering plot or closure.</comment>
+
+<question>9 E</question>
+<grade>7.1</grade>
+<comment>"Retrace" drives the core journey: Elya retraces frost patterns, follows the ledger's coordinates, and revisits the smuggler's hidden path. The action is essential to three beats (decision to follow ledger, navigation, discovery of shards) and shapes the closure (new series inspired by frost memory). Removing "retrace" would collapse the narrative spine; the specific backward-looking movement is irreplaceable.</comment>
+
+<question>9 F</question>
+<grade>6.8</grade>
+<comment>"Patterns in morning frost" anchor Elya's navigation method, appearing in four beats (opening memory, ledger alignment, path discovery, final vessel design). The mechanics matter: frost melts at sunrise to reveal the hidden groove, teaching her about light fracture. The method enables her journey and charges the final image (frost returns, echoing promise). Strong setup, development, and payoff; cost connection is conceptual rather than immediate.</comment>
+
+<question>9 G</question>
+<grade>5.9</grade>
+<comment>"Quiet canyon under stars" frames the opening and closing, supplies the basalt floor and crevice that guide Elya's path, and reflects the glass's colors at closure. The canyon provides spatial resources (hidden mine, frost-marked path) but does not actively pressure choices or impose constraint. Setting is vivid but largely postcard; micro-setting (kiln, frost) does more tactical work.</comment>
+
+<question>9 H</question>
+<grade>4.2</grade>
+<comment>"After surviving the attempt" anchors the opening beat (fire aftermath) and implies forward momentum, but the timeframe remains vague throughout (before dawn, sunrise, night deepens). No live clock tightens decisions or alters tactics; Elya's journey unfolds without temporal pressure. Setup present; middle and closure development absent.</comment>
+
+<question>9 I</question>
+<grade>5.3</grade>
+<comment>"To discover purpose in the pauses" is Elya's stated goal, signaled early and resolved in the final paragraph ("she found the purpose she had been seeking"). The motivation drives her journey but is told rather than dramatized through conflicted choices or visible cost. Desire and resolution are asserted; friction between wants and obstacles remains abstract. Setup and closure present; middle pressure weak.</comment>
+
+<question>9 J</question>
+<grade>5.6</grade>
+<comment>"Drifting resonance" recurs as descriptive texture (winds, glass tones, stars, Elya's journey) and modulates slightly from opening hush to final chorus. The tone is coherent and charges the final image (glass singing, canyon listening), but it remains a static mood layer rather than a dynamic pressure that shifts with escalation. Purposeful and consistent; does not rise to indispensable.</comment>

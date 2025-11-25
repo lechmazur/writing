@@ -1,0 +1,19 @@
+grade_story_wc_32.txt
+<question>1</question><grade>5.8</grade><comment>The protagonist is defined by label-heavy traits ("stoically sensitive") rather than dramatized complexity. While the sacrifice of sight for insight is a strong closure choice, the internal landscape feels archetypal and governed by the prompt's checklist rather than organic character depth.</comment>
+<question>2</question><grade>7.8</grade><comment>The causal arc is solid, moving from ritual preparation to a decisive transformation and departure. Orientation is clear, and the closure (Decisive Change) lands with a legible cost, though the "penny drops" timing feels mechanically inserted rather than causally inevitable.</comment>
+<question>3</question><grade>7.5</grade><comment>The "ember nexus" provides a vivid, atmospheric backdrop that constrains the ritual. Sensory details are specific ("scent of myrrh and ozone"), though the description occasionally veers into purple prose ("bled violet," "petrified bloom") that crowds the pacing.</comment>
+<question>4</question><grade>7.9</grade><comment>Stakes are well-defined and pressure escalates clearly through the ritual steps. The physical cost (blood) and the permanent consequence (blindness/loss of goggles) create a meaningful trade-off that charges the final image, earning a high score despite other flaws.</comment>
+<question>5</question><grade>6.3</grade><comment>The theme of "creative destruction" is central but is undercut by explicit statement ("it intimated...") rather than being allowed to resonate implicitly. The "insight" gained is a strong conceptual payoff, but the narrative sermonizes the thesis in the final third.</comment>
+<question>6</question><grade>5.5</grade><comment>The voice suffers from tonal clashes, mixing high-fantasy alchemy with the colloquial "penny drops" idiom. The verbatim repetition of prompt phrases ("stoically sensitive," "successive approximation") breaks the narrative spell and reveals the scaffolding.</comment>
+<question>7</question><grade>4.2</grade><comment>Significant artifact penalties apply for the verbatim repetition of three different prompt phrases within a short space. The recurrence of words like "bloom" (5 times) and "frozen" creates a repetitive texture that dulls the line-level impact.</comment>
+<question>8</question><grade>6.0</grade><comment>The concept of a religious relic transformed into a creature of destruction is engaging. However, the execution feels constrained by the checklist, resulting in a story that feels like a "fill-in-the-blanks" exercise rather than a fresh synthesis.</comment>
+<question>9 A</question><grade>8.5</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>6.5</grade>
+<question>9 D</question><grade>2.0</grade>
+<question>9 E</question><grade>6.0</grade>
+<question>9 F</question><grade>3.5</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>4.0</grade>
+<question>9 I</question><grade>7.5</grade>
+<question>9 J</question><grade>6.0</grade>

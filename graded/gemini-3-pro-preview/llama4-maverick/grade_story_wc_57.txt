@@ -1,0 +1,19 @@
+grade_story_wc_57.txt
+<question>1</question><grade>2.3</grade><comment>The protagonist is defined entirely by labels ("philosophical seed collector," "infinitely patient") rather than embodied action or struggle. There is no internal conflict; her emotions are described through distance abstract nouns ("sense of connection," "sense of peace") rather than visceral experience. She faces no difficult choices and pays no cost for her discovery.</comment>
+<question>2</question><grade>2.5</grade><comment>The narrative is a linear sequence of events without causal friction or a Decisive Change. The protagonist arrives, succeeds immediately at her task without distinct tactics, and leaves; the ending is a "Soft Reset" where nothing has fundamentally changed or cost anything. The "secret" is abstract and convenient, lacking narrative weight.</comment>
+<question>3</question><grade>3.2</grade><comment>The setting is established with generic descriptors ("gentle lapping," "damp, gray mist," "mournful tone") that create a static atmosphere but fail to constrain the character. The environment is treated as a backdrop rather than a pressure cooker; the thickening fog is explicitly ignored by the protagonist, neutralizing it as a setting element.</comment>
+<question>4</question><grade>1.2</grade><comment>There is a near-total absence of conflict or stakes. The potential obstacle (fog) is dismissed ("felt no sense of unease"), and the central task (decoding) is accomplished via summary ("eyes narrowed," "fingers moved deftly") without setbacks. Success is inevitable and unearned, with zero escalation or risk.</comment>
+<question>5</question><grade>2.1</grade><comment>The theme relies on vague platitudes about "ancient knowledge" and "connection to the natural world" without specific, grounded exploration. The ending summarizes the theme ("preservation," "mysteries") rather than allowing it to emerge from a concrete realization or sacrifice. It feels like a prompt response rather than an organic narrative argument.</comment>
+<question>6</question><grade>3.1</grade><comment>The narrative voice is distant and monotonous, relying heavily on "The collector [verb]" and "She [verb]" constructions. There is no distinct perceptual signature; the narration tells the reader what the character feels ("felt a deep sense of belonging") rather than showing the world through a specific lens.</comment>
+<question>7</question><grade>2.4</grade><comment>The prose suffers from severe repetition of sentence structures (numerous sentences begin with "As she..." or "The collector..."). There is a high density of filter verbs and abstract noun phrases ("sense of peace," "sense of excitement," "sense of gratitude") that distance the reader from the action. The writing is scaffold-heavy and lacks propulsion.</comment>
+<question>8</question><grade>2.0</grade><comment>The story assembles standard tropes (ancient secrets, mysterious weavers, fog) without a fresh angle or subversion. It reads like a generic fulfillment of a checklist, lacking a unique conceptual twist or emotional specificity to distinguish it from stock fantasy vignettes.</comment>
+<question>9 A</question><grade>3.0</grade>
+<question>9 B</question><grade>2.0</grade>
+<question>9 C</question><grade>2.5</grade>
+<question>9 D</question><grade>2.0</grade>
+<question>9 E</question><grade>3.0</grade>
+<question>9 F</question><grade>4.0</grade>
+<question>9 G</question><grade>3.0</grade>
+<question>9 H</question><grade>2.2</grade>
+<question>9 I</question><grade>2.5</grade>
+<question>9 J</question><grade>3.5</grade>

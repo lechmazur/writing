@@ -1,0 +1,72 @@
+grade_story_wc_303.txt
+<question>1</question>
+<grade>4.2</grade>
+<comment>Elara's motivations are declared but not dramatized through contradictory impulses or embodied pressure. The "accidentally telepathic with plants" trait remains label-only; plants whisper urgent commands ("Propagate. Protect. Prevail.") but never constrain her choice or create friction. The final action—drawing the bow—feels unmotivated by prior interiority; we see no internal struggle, no micro-choice that reveals competing values. The "mulberry ache" is repeated as a placeholder emotion without embodied specification, and the Dominion scouts freeze conveniently rather than forcing a trade-off with visible cost.</comment>
+
+<question>2</question>
+<grade>4.8</grade>
+<comment>Orientation anchors arrive within the first paragraph (who, where, when). The closure sequence—violin played, vines awaken, scouts freeze, violin becomes opaque—lands on the page, but the causal linkage is weak: Elara's decision to play the violin is not earned by prior pressure or a narrowing of options; she simply "knew what she had to do." The scouts' defeat is convenient (minds clouded by song) rather than a consequence of her tactics or sacrifice. The violin's transformation from ice to opaque lifelessness occurs without cost to Elara herself; no visible price forecloses a path or alters her stance. Under a Causal lens, the because/therefore chain is soft; under Accumulative, the final image does not reweight prior material with undeniable pressure. The piece reads as outline-like sequencing.</comment>
+
+<question>3</question>
+<grade>5.4</grade>
+<comment>The velvet observatory, midsummer air, and nightshade scent are vivid in the opening, but the setting does not constrain a choice or charge the final image. The balcony becomes a convenient stage for the climax without prior spatial work that would make it the necessary choice. The coffee stains and plants are described but do not function as environmental pressure; the vines that snake up the walls in the finale are introduced for effect rather than prepared as a resource. Micro-setting (coffee cup, violin surface) is present but ornamental. The piece does not meet the Q3 9+ gate (environment must constrain a choice or charge the final image).</comment>
+
+<question>4</question>
+<grade>4.6</grade>
+<comment>The dominant stake—protect the violin from the Dominion—is signaled early, but escalation is absent. Elara faces no on-page reversal or tightening choice; the Dominion scouts prowl below but never test her resolve or force a trade-off. Her decision to play the violin is not dramatized as a consequence of narrowing options; instead, she "knew what she had to do" after a single stain interpretation. The resolution (vines awaken, scouts freeze) is convenient rather than earned by protagonist agency. No visible price is paid that alters later tactics; the violin becomes lifeless, but Elara remains unchanged and the Dominion threat simply vanishes. Under the selected lens (likely Causal or Hybrid), one meaningful tightening or deepening that narrows options is required; this piece provides none.</comment>
+
+<question>5</question>
+<grade>4.7</grade>
+<comment>Theme ("to weigh a dream against an empire") is declared rather than dramatized through specific events. The "perforated destiny" concept recurs as a metaphor but does not accrue meaning through concrete action; it remains an abstraction. The final paragraph states the thematic answer directly: "a dream over an empire, a perforated destiny mended," replacing scene pressure with authorial summary. The plants' chorus ("Propagate. Protect. Prevail.") reads as thematic echo, and the closing line—"The story was far from over, but for now, she had done what she could"—is a tidy moral rather than a resonant image that reweights prior material. The piece does not invite reflection beyond its declared thesis.</comment>
+
+<question>6</question>
+<grade>5.6</grade>
+<comment>POV is stable third-person limited on Elara, with no head-hopping. Voice carries some texture in the opening ("velvet observatory," "mulberry ache"), but diction becomes generic under pressure: "she knew what she had to do" and "that, she realized, was enough" are stock closure phrases. Filter verbs ("felt," "seemed," "realized") appear frequently without voice-motivated purpose, dulling immediacy. Perceptual signature is weak; Elara's way of noticing is not character-specific. The plants' telepathic voices are indistinct from narrator summary. No dialogue is present, so dialogue bullets do not apply. The final paragraph's meta-commentary ("The story was far from over") breaks the POV's immediacy and reads as authorial convenience.</comment>
+
+<question>7</question>
+<grade>4.9</grade>
+<comment>Multiple paraphrase loops and scaffold sentences: "The violin was more than an object; it was a key, a whisper of a perforated destiny" repeats the same concept across two clauses without adding pressure. "They spoke of change, of a storm brewing in the roots of the world, and of her role in it" is a list-like expansion that delays content. "The plants whispered again, their voices urgent" is told-only and recaps prior action. Template cadence appears in the climax: "She closed her eyes, letting the telepathic chorus of the plants guide her. With a deep breath, she drew the bow across the strings." Stock metaphors: "sea of uncertainty," "ghosts of decisions past and future," "thorn in her resolve." Figurative density in the opening ("hum with a life of its own," "threads that bound it to empires," "velvet-draped ferns") slows the beat without pattern-teaching or payoff. The final paragraph—"The story was far from over, but for now, she had done what she could. And that, she realized, was enough"—is boilerplate closure phrasing. Apply patterned-artifact penalty pack: paraphrase loops, template cadence, stock metaphor strings trigger baseline −0.6 to −1.4 in Q7.</comment>
+
+<question>8</question>
+<grade>3.8</grade>
+<comment>The premise—telepathic researcher, ice violin, empire threat—combines prompt elements without transformation. The "accidentally telepathic with plants" trait and "reading the future in coffee stains" are quirky labels rather than specific, grounded choices that alter the emotional arc. The violin's song that awakens plants and freezes minds is a convenient solution rather than a turn earned in hindsight. Emotional beats follow a generic template: researcher discovers threat, consults oracle method, acts decisively, reflects on sacrifice. The piece does not offer a fresh angle on familiar material; the "dream vs. empire" framing is abstract and the resolution (vines defeat scouts) is stock fantasy convenience. Proximity check: "before the promise loses its glow" and "mulberry ache" carry poetic texture but do not synthesize into a memorable perspective. The transformation test fails: plot and emotional arc work unchanged with different names and places.</comment>
+
+<question>9 A</question>
+<grade>3.2</grade>
+<comment>Elara's role as provenance researcher is mentioned in the opening but does not shape her choices. She traces the violin's curves and considers its "tangled web of ownership," but this research work does not constrain her tactics or create a beat. Her key action—playing the violin—has no connection to her professional skill. The character is present and the role is logically consistent, but it is swappable with any generic protagonist role. Missing middle development gate (research work does not enable a choice). Caps at 3.4 per gate rule; additional −0.2 for swappability.</comment>
+
+<question>9 B</question>
+<grade>6.8</grade>
+<comment>The ice violin appears in the opening (traced by Elara), is interpreted via coffee stains in the middle (the stain shows a tree reaching toward the violin), and is played in the climax (its song awakens plants, then it becomes opaque). Three beats. The object enables the final action and its transformation (ice to opaque) signals cost. However, the violin's unique properties (transparency, ice crystal material) do not meaningfully constrain Elara's tactics; any magical instrument could serve the same function with minor edits. Causal pressure is moderate; closure linkage is strong. Early signal +0.5, three beats +1.4, closure linkage +1.0, but swappability −0.6 and specificity of material (ice/transparency) unused −0.5. Lands ~6.8.</comment>
+
+<question>9 C</question>
+<grade>2.4</grade>
+<comment>"Perforated destiny" is mentioned three times as metaphor but never operationalized. It does not shape stakes or tactics on the page; we never learn what a perforated destiny concretely means or how it constrains Elara's choices. The violin's song "mend[s] the perforations in the air itself" at the climax, but this is decorative language rather than a dramatized rule. The concept remains abstract theme rather than a stake-shaping force. Present but ornamental; no middle development or closure participation as a causal element. Missing all three gates. Apply missing-closure-participation cap of 2.8, then −0.4 for ornamental use. Lands 2.4.</comment>
+
+<question>9 D</question>
+<grade>4.1</grade>
+<comment>Elara's telepathy with plants is introduced in paragraph one and recurs in four mentions: she hears ferns and oak speak of change, plants whisper "Propagate. Protect. Prevail.," and in the climax "the telepathic chorus of the plants guide[s] her." However, the trait never constrains a choice with visible cost. The plants offer encouragement and commentary but do not create friction or force a trade-off; Elara does not struggle with plant voices or sacrifice anything to use them. The trait is label-only rather than dramatized with embodied cost. Early signal +0.4, two beats +0.9, but label-only −0.7 and no cost connection −0.5. Caps at ~4.1 due to missing cost gate.</comment>
+
+<question>9 E</question>
+<grade>4.6</grade>
+<comment>"Propagate" is Elara's stated task ("to propagate the truth of the violin's origins") and the plants' command ("Propagate. Protect. Prevail."). However, the action does not drive the major turn. Elara's climactic choice is to *play* the violin, not to propagate; the vines that awaken are a result of the song, not an act of deliberate propagation by Elara. The action is thematically present but causally tangential. Introduced after 40% (the plants' command arrives mid-story). Missing middle development (no choice driven by propagation) and weak closure participation (the vines' growth is an effect, not her agency). Apply introduced-after-40% cap of 4.6.</comment>
+
+<question>9 F</question>
+<grade>5.1</grade>
+<comment>Coffee-stain reading is introduced early ("by reading the future in coffee stains, a practice she had once dismissed as superstition") and used twice: once for fragments of a future (violin's song could mend or shatter), once for the tree-split image that prompts the climax. The method shapes one key turn (the second reading motivates her to act). However, the mechanics are vague; we do not see how the stains are interpreted or what cost attends the reading. The method is present but its specificity (why coffee, not tea or ink?) is unused. Early signal +0.5, one beat +0.4, causal pressure +0.7, but mechanics underspecified −0.4 and swappability (any divination method) −0.5. Lands ~5.1.</comment>
+
+<question>9 G</question>
+<grade>4.3</grade>
+<comment>The velvet observatory at midsummer is anchored in the opening and provides the stage for the climax (balcony overlooks gardens where scouts prowl). However, the setting does not pressure choices. The velvet curtains, brass telescopes, and nightshade scent are decorative. The balcony is a convenient vantage rather than a tactical necessity; Elara could play the violin anywhere. Midsummer is mentioned but does not tighten the clock or alter her options. Early signal +0.5, closure participation (balcony as stage) +0.4, but no causal pressure −0.8 and postcard description −0.6. Lands ~4.3.</comment>
+
+<question>9 H</question>
+<grade>2.7</grade>
+<comment>"Before the promise loses its glow" appears in the setup ("Time was running out… before the promise of the violin's potential lost its glow") and in Elara's final thought. The timeframe is declared but never tracked or used to tighten decisions. We do not know how much time remains or what event would mark the promise's loss. The scouts' presence suggests urgency, but no on-page clock forces a faster or riskier choice. The phrase recurs as motif but does not function as a time constraint. Vague timeframe; no middle development or causal pressure. Missing all three gates. Apply missing-closure-participation cap of 2.8, then −0.1 for vague tracking. Lands 2.7.</comment>
+
+<question>9 I</question>
+<grade>4.8</grade>
+<comment>Elara's motivation—"to weigh a dream against an empire"—is stated explicitly and frames the dominant stake. The dream (harmony, healed destiny) and the empire (the Dominion) are present in setup, middle (scouts prowling), and ending (scouts defeated, dream chosen). However, the weighing is told rather than dramatized through conflicted choices. Elara never faces a moment where choosing the dream costs her something she values from the empire's offer, or where the empire's threat forces a painful trade-off. The motivation is clear but friction between wants and costs is absent. Early signal +0.6, closure linkage +0.8, but told-only −0.7 and no on-page friction −0.5. Lands ~4.8.</comment>
+
+<question>9 J</question>
+<grade>3.6</grade>
+<comment>"Mulberry ache" is introduced ("The mulberry ache in her chest deepened as she considered her choices") and recurs at the ending ("the mulberry ache remained, a reminder of what had been sacrificed"). The tone is signaled and reprised, but it is a static mood rather than one that modulates with pressure. "Mulberry" as a color/flavor metaphor is evocative but not developed; we do not learn why the ache is mulberry-colored or how it changes. The ache does not intensify during the climax or charge the final image with new meaning. Two touches (setup, ending) suggest lyric-resonance allowance, but the lack of modulation and specificity limits the score. Early signal +0.4, closure participation +0.5, but static mood −0.6 and underspecified vehicle −0.4. Lands ~3.6.</comment>

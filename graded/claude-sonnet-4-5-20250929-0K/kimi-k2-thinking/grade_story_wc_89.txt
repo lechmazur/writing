@@ -1,0 +1,72 @@
+grade_story_wc_89.txt
+<question>1</question>
+<grade>3.8</grade>
+<comment>The protagonist's interior life is labeled rather than embodied: "paradoxically steady," "reluctant metamorphosis," and "cosmic intimacy" function as prompt echoes rather than dramatized contradiction. The transformation is asserted through stock physical markers (fur threading, bones shifting) without the cognitive or emotional degradation under duress that would make the cost real. The beloved remains an abstract ghost; no friction between desire and fear plays out in concrete micro-choices. The final smile ("a feral grin that held the warmth of a thousand shared sunrises") exemplifies unearned epiphany—therapy-speak elevation without prior struggle.</comment>
+
+<question>2</question>
+<grade>4.2</grade>
+<comment>Orientation Test: who (beast whisperer), where (orchard), and when (after phoenix rises) are anchored within bounds; waive penalty. Drive lens: attempts Accumulative/Textural (spice ritual layering), but the closure lacks visible cost—the beloved simply answers, the bond reforges without forfeit or friction. No meaningful tightening occurs: each paragraph reiterates the same transformation without narrowing options or escalating stakes. The ending grants the protagonist everything (beast form, beloved's presence, guardian role) with no felt price, failing the Cost proof test. No before/after is legible because the protagonist never loses, trades, or renounces anything on the page.</comment>
+
+<question>3</question>
+<grade>5.1</grade>
+<comment>The orchard supplies vivid images (moon-cinnamon bark, star-anise, ghost-pepper) and a distinct atmosphere, but it never constrains a choice or complicates a tactic. Spatial choreography is vague—beasts gather, the whisperer walks rows, yet no physical obstacle or environmental pressure impinges on the ritual. The recurring spices and moonlight motifs remain ornamental, present at setup and closure but without causal weight. The setting functions as mood rather than crucible, preventing high-band entry.</comment>
+
+<question>4</question>
+<grade>3.6</grade>
+<comment>The dominant stake (reforge bond beyond death) is signaled early but never tested by a credible obstacle or internal contradiction. The protagonist gathers spices, arranges them, whispers a name, and the beloved answers—no reversal, no tightening, no trade-off. The "reluctant metamorphosis" is named but not dramatized: the transformation proceeds smoothly without visible cost or forfeit of a prior identity or goal. Coincidence (the beloved's voice simply appears) resolves the stake, violating the lens guardrail. No escalation under any lens.</comment>
+
+<question>5</question>
+<grade>4.4</grade>
+<comment>Theme (love transcending death) is stated rather than earned: "love transcended the boundaries of form" and "In change, find constancy; in loss, find a new embrace" read as fortune-cookie aphorisms rather than resonant reconfiguration. The prompt label "cosmic intimacy" appears verbatim ("a cosmic intimacy that needed no words"), reducing thematic work to echo. No concrete particular reweights the abstract claim; the orchard's violet blossoms signal "new magic" without cost or irony. The final paragraph's "double heartbeat" moralizes instead of charging the image with ambiguity.</comment>
+
+<question>6</question>
+<grade>4.6</grade>
+<comment>POV remains stable third-limited, and the narrator's distance is controlled. However, diction drifts into elevated register ("cosmic intimacy," "reluctant metamorphosis," "paradoxically steady") that clashes with the immediacy of transformation under duress. Perceptual signature is generic: the whisperer's noticing lacks character-specific bias or selectivity. The prose often asserts emotional states ("tears fell from her now-bestial eyes, each drop a tiny moon") rather than filtering them through embodied perception. No dialogue appears.</comment>
+
+<question>7</question>
+<grade>4.2</grade>
+<comment>Heavy paraphrase loops and template cadence pervade the text: "She had come not for the fruit, but to reforge a bond…" / "She had found the slip of paper years ago…" / "She felt the reluctant metamorphosis begin…" / "She felt her voice change…" / "She knew that each night…" / "She taught the young fox-cubs…" / "She often looked at the fortune's fragile paper…" / "She felt within her…" The closure beat itself suffers stock metaphor ("love now a constellation, each star a memory") and rhythm fatigue. Filter verbs cluster without voice motivation. Information density is low: adjacent sentences restate the same transformation without added pressure. Apply Text-Artifact Screen: −1.4 baseline for pervasive loops and template stems, escalate to −1.7 for touching closure, and disallow 9+ globally with high-band cap at 8.8.</comment>
+
+<question>8</question>
+<grade>3.2</grade>
+<comment>The premise (beast whisperer transforms to rejoin dead beloved via spice magic) assembles familiar portal-fantasy and romantic-resurrection tropes without transformation. The fortune cookie, phoenix ash, and moonlit orchard read as checklist fantasy rather than lived-in world logic. Emotional arc (grief → reunion) could proceed unchanged with different names and window dressing. The closure grants symmetric satisfaction—bond reforged, transformation complete, no ambiguity—without a non-obvious cost or inflection. No risk-taking; the story retreats to the safety middle.</comment>
+
+<question>9 A</question>
+<grade>4.2</grade>
+<comment>Beast whisperer is present throughout and performs the ritual, satisfying setup and closure gates. However, her choices (gather spices, arrange circle, whisper name) do not create reversals or trade-offs; the transformation proceeds without agency-driven turn. She observes and narrates rather than deciding under friction. Mid-band functional use without causal pressure.</comment>
+
+<question>9 B</question>
+<grade>5.8</grade>
+<comment>Fortune appears in paragraph 5 (setup), is recalled in paragraph 12 ("Only the one who is paradoxically steady…"), and revisited near the end ("She often looked at the fortune's fragile paper…"), meeting all three gates. It frames the prophecy and recurs with reweighted meaning at closure. However, it does not constrain a middle choice or impose a visible cost; the protagonist trusts it without friction. Solid lyric reprise with setup and payoff, but no causal pressure or irreplaceability.</comment>
+
+<question>9 C</question>
+<grade>6.4</grade>
+<comment>Reluctant metamorphosis is signaled early ("a transformation she had long avoided"), enacted in the ritual paragraphs (fur, bones, voice change), and completed at closure ("She had become the very creature…"). All three gates met. The concept shapes the dominant stake and alters the protagonist's form. However, "reluctance" is asserted but not dramatized through resistant micro-choices or visible cost—she proceeds smoothly. The transformation enables rather than constrains, weakening causal pressure. Eligible above 6.0 with all gates; land mid-6s for presence without friction.</comment>
+
+<question>9 D</question>
+<grade>4.8</grade>
+<comment>"Paradoxically steady" appears as a label in paragraph 3 and echoed in the fortune (paragraph 12: "Only the one who is paradoxically steady…"), but it never constrains or enables an on-page action with visible cost. The trait is claimed, not tested: the whisperer's calm is asserted to steady her heart, yet no moment shows her steadiness preventing a misstep or forcing a trade-off. Missing development gate (no middle choice hinging on this trait); label-only use trends low.</comment>
+
+<question>9 E</question>
+<grade>5.6</grade>
+<comment>Conjuring (via spice ritual and whispered name) is enacted in paragraphs 14–22 and succeeds at closure when the beloved's voice answers. Setup and payoff gates met. The action defines the climax and enables the bond's reforging. However, the conjuring is unopposed and suffers no setback—the beloved simply answers—reducing its causal weight. No middle development gate (no failed or partial conjuring that forces adjustment). Present in closure with charged reprise, but swappable mechanics (any ritual would suffice) and lack of friction keep it mid-band.</comment>
+
+<question>9 F</question>
+<grade>6.1</grade>
+<comment>Spices (moon-cinnamon, star-anise, ghost-pepper) are introduced in paragraph 8, arranged in the ritual (paragraph 14), and their scent spirals into the whisperer in paragraph 16 ("entering her lungs, her blood, her soul"). Setup, development, and payoff gates met. The method is specific and recurs across beats. However, the mechanics are ornamental—any rare ingredient would serve the same plot function—and the scent does not constrain a middle choice or impose a visible cost. All three gates present but causal pressure weak; land just above 6.0.</comment>
+
+<question>9 G</question>
+<grade>5.4</grade>
+<comment>Fairy-tale orchard under permanent moonlight is established in paragraph 1, hosts the ritual mid-story, and remains the protagonist's "forever home" at closure. All three gates met. The setting supplies atmosphere and recurring images (blossoms, silver leaves, moonlight), and the orchard's beasts witness the transformation. However, the environment never constrains a choice, complicates a tactic, or supplies a resource that alters outcome—it functions as backdrop. Eligible above 6.0 with all gates, but lack of causal pressure or micro-setting constraint pulls the score to mid-5s.</comment>
+
+<question>9 H</question>
+<grade>3.8</grade>
+<comment>Timeframe "after the phoenix rises" anchors the setting (phoenix ash in soil, ghost-pepper blooms "when the phoenix's cry echoed") but does not tighten decisions or tactics on the page. No live clock, no urgency, no temporal constraint that narrows the whisperer's window. The phoenix is invoked at setup and mentioned at closure but remains ornamental. Missing development and payoff gates for time pressure; setup only trends low.</comment>
+
+<question>9 I</question>
+<grade>6.2</grade>
+<comment>Motivation to reforge bond beyond death is signaled in paragraph 4 and drives the ritual. The whisperer gathers spices, undergoes transformation, and at closure the beloved's voice answers and they stand together. Setup and payoff gates met. The desire is consistent and animates the plot. However, it is never dramatized in conflicted micro-choices—no moment where reforging the bond costs the whisperer a live alternative or forces a trade-off between competing goods. The transformation proceeds without visible friction between want and fear. Eligible above 6.0 with setup and payoff; land low-6s for lack of on-page friction.</comment>
+
+<question>9 J</question>
+<grade>4.6</grade>
+<comment>Tone aspires to cosmic intimacy through elevated diction ("breath to the stars," "love now a constellation") and recurring moonlight imagery. The tone is present at setup and closure. However, it remains static—no modulation under pressure, no cadence shift that reflects escalation. The label "cosmic intimacy" appears verbatim in paragraphs 6 and 25, reading as prompt echo rather than emergent effect. The tone does not charge the final image with new meaning; it asserts grandeur without earned cost. Single mood across all beats trends mid-low.</comment>

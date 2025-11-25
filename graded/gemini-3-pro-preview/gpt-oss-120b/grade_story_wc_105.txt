@@ -1,0 +1,19 @@
+grade_story_wc_105.txt
+<question>1</question><grade>3.5</grade><comment>The protagonist lacks specific interiority or genuine struggle; she functions as a vehicle for the concept rather than a character making difficult choices. Motivation is abstract ("collect absences") and encounters no resistance, resulting in a flat emotional arc without a "crucible" moment.</comment>
+<question>2</question><grade>2.9</grade><comment>The narrative fails to form a coherent scene, relying instead on a montage summary of habitual actions ("She returned to the greenhouse at night," "She returned to the forge nightly"). This violation of the single-scene/two-shard scope prevents causal pressure from accumulating and dissolves the timeline into a generalized synopsis.</comment>
+<question>3</question><grade>5.8</grade><comment>The setting is vivid and imaginative, utilizing the prompt's elements well, though the physics are dream-like ("fire feeding on the void" underwater) rather than grounded. While the imagery is lush, the environment acts more as a backdrop than a source of constraints or resources that force specific tactics.</comment>
+<question>4</question><grade>2.4</grade><comment>There is no visible conflict or tightening of stakes; Mara sets out to do a task and completes it without facing error, opposition, or cost. The lack of an antagonist, time pressure, or risk of failure leaves the story without dramatic tension.</comment>
+<question>5</question><grade>3.0</grade><comment>The theme is delivered through explicit authorial statements ("memory remains the bridge," "trust, even when broken, leaves a trace") rather than emerging from subtext or action. This "thematic echo" flattens the resonance into a moralizing summary.</comment>
+<question>6</question><grade>4.2</grade><comment>The voice is consistent but overly reliant on elevated, poetic diction that creates distance from the immediate physical reality. The narrative filter feels more like an omniscient aesthetic description than a grounded POV experiencing urgency.</comment>
+<question>7</question><grade>4.0</grade><comment>The prose suffers from overwriting and high adjective density, with frequent "X of Y" constructions ("note of betrayal," "whisper of growth") that obscure clarity. The reliance on abstract metaphors prevents the text from achieving narrative propulsion.</comment>
+<question>8</question><grade>4.5</grade><comment>While the synthesis of the prompt elements is creative on a surface level, the execution falls into a standard "magical assembly" template. The story avoids risk by having the protagonist easily solve an abstract problem through undefined magical processes.</comment>
+<question>9 A</question><grade>4.5</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>5.5</grade>
+<question>9 D</question><grade>7.0</grade>
+<question>9 E</question><grade>5.0</grade>
+<question>9 F</question><grade>5.5</grade>
+<question>9 G</question><grade>7.0</grade>
+<question>9 H</question><grade>1.5</grade>
+<question>9 I</question><grade>4.0</grade>
+<question>9 J</question><grade>2.0</grade>

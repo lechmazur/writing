@@ -1,0 +1,19 @@
+grade_story_wc_274.txt
+<question>1</question><grade>2.5</grade><comment>Characterization relies entirely on diagnostic labels ("bravely conflicted mind," "bravely conflicted soul," "bravely conflicted heart") repeated verbatim rather than dramatized behavior. There is no internal struggle or contradictory impulse shown; the protagonist executes the plot without hesitation or specific, embodied interiority. The emotional arc is summarized through generic physical tells ("heart raced," "palm sweat").</comment>
+<question>2</question><grade>3.2</grade><comment>The story fails the Closure requirement by relying on an "explain-everything" summary ("The council’s collapse was inevitable now") rather than a specific on-page resolution with cost. The narrative ignores the "blink" timeframe constraint, allowing for a leisurely exit and reflection that breaks causal logic. Resistance is non-existent; the upload succeeds instantly without complication.</comment>
+<question>3</question><grade>3.8</grade><comment>While atmospheric ("frost-coated shelves"), the setting functions as a static backdrop rather than a source of pressure or tools. The phrase "echoing library under snow" is repeated four times as a refrain, reducing the setting to a linguistic artifact rather than a physical space the character must navigate.</comment>
+<question>4</question><grade>2.9</grade><comment>Conflict is static; the protagonist faces no active opposition, difficult trade-offs, or unforeseen complications during the scene. The "cost" is entirely hypothetical and future-tense ("council would hunt her"), leaving the on-page action devoid of stakes. The resolution is immediate and total, lacking the necessary friction for a narrative arc.</comment>
+<question>5</question><grade>2.6</grade><comment>The theme is delivered through explicit moralizing ("Contraband truths weren’t just dangerous—they were necessary") and heavy-handed assertion rather than subtext. The ending devolves into a sermon on freedom, lacking nuance or ambiguity. The core concept is treated as a slogan rather than a complex inquiry.</comment>
+<question>6</question><grade>3.1</grade><comment>The voice is melodramatic and prone to purple prose ("ghost dancing in the quiet," "digital tomb," "bravely conflicted soul"). Narrative distance is inconsistent, often zooming out to summarize global reactions ("Across the city, eyes widened") that the POV character cannot know, breaking the established perspective.</comment>
+<question>7</question><grade>2.3</grade><comment>Severe prose artifacts define the text. Prompt phrases are repeated verbatim multiple times ("bravely conflicted" x4, "echoing library under snow" x4, "dangerous liaison letter" x3, "the blink that follows surprise" x3), creating a robotic, template-filling cadence. Clichés ("shattered their carefully constructed lies," "carry the torch") further degrade density and freshness.</comment>
+<question>8</question><grade>2.5</grade><comment>The narrative relies on stock dystopian tropes—the lone archivist, the upload that instantly wakes the world, the inevitable revolution—without offering a fresh synthesis or twist. The execution follows a predictable path with no risk-taking or specific, non-obvious details to ground the premise.</comment>
+<question>9 A</question><grade>4.0</grade>
+<question>9 B</question><grade>3.8</grade>
+<question>9 C</question><grade>2.0</grade>
+<question>9 D</question><grade>1.2</grade>
+<question>9 E</question><grade>3.0</grade>
+<question>9 F</question><grade>4.0</grade>
+<question>9 G</question><grade>3.2</grade>
+<question>9 H</question><grade>1.5</grade>
+<question>9 I</question><grade>3.0</grade>
+<question>9 J</question><grade>3.5</grade>
