@@ -262,7 +262,7 @@ We highlight **standout individual stories** (highest cross‑grader means) and 
 
 Top 3 individual stories (all graders):
 
-* **Story**: [grade_story_wc_186.txt](stories_wc/gpt-5.1-medium/grade_story_wc_186.txt) by GPT‑5.1 (medium reasoning)
+* **Story**: [story_wc_186.txt](stories_wc/gpt-5.1-medium/story_wc_186.txt) by GPT‑5.1 (medium reasoning)
   - Overall Mean (All Graders): 9.09
   - Grader Score Range: 8.37 (lowest: Claude Sonnet 4.5 (no reasoning)) .. 9.50 (highest: DeepSeek V3.2 Exp)
   - Required Elements:
@@ -277,7 +277,7 @@ Top 3 individual stories (all graders):
     - Motivation: to prove that coincidences have meaning
     - Tone: thistle-blown hope
 
-* **Story**: [grade_story_wc_13.txt](stories_wc/gpt-5-medium/grade_story_wc_13.txt) by GPT‑5 (medium reasoning)
+* **Story**: [story_wc_13.txt](stories_wc/gpt-5-medium/story_wc_13.txt) by GPT‑5 (medium reasoning)
   - Overall Mean (All Graders): 9.06
   - Grader Score Range: 8.38 (lowest: Claude Sonnet 4.5 (no reasoning)) .. 9.46 (highest: Gemini 3 Pro Preview)
   - Required Elements:
@@ -292,7 +292,7 @@ Top 3 individual stories (all graders):
     - Motivation: to find the place where echoes are born
     - Tone: None (category left open for this prompt)
 
-* **Story**: [grade_story_wc_347.txt](stories_wc/gpt-5-pro/grade_story_wc_347.txt) by GPT‑5 Pro
+* **Story**: [story_wc_347.txt](stories_wc/gpt-5-pro/story_wc_347.txt) by GPT‑5 Pro
   - Overall Mean (All Graders): 9.05
   - Grader Score Range: 8.45 (lowest: Claude Sonnet 4.5 (no reasoning)) .. 9.31 (highest: Gemini 3 Pro Preview)
   - Required Elements:
@@ -309,7 +309,7 @@ Top 3 individual stories (all graders):
 
 Bottom 3 individual stories (all graders):
 
-* **Story**: [grade_story_wc_119.txt](stories_wc/llama4-maverick/grade_story_wc_119.txt) by Llama 4 Maverick
+* **Story**: [story_wc_119.txt](stories_wc/llama4-maverick/story_wc_119.txt) by Llama 4 Maverick
   - Overall Mean (All Graders): 3.91
   - Grader Score Range: 2.38 (lowest: Kimi K2‑0905) .. 5.96 (highest: DeepSeek V3.2 Exp)
   - Required Elements:
@@ -324,7 +324,7 @@ Bottom 3 individual stories (all graders):
     - Motivation: to transpose life into a new key
     - Tone: familiar enigma
 
-* **Story**: [grade_story_wc_4.txt](stories_wc/llama4-maverick/grade_story_wc_4.txt) by Llama 4 Maverick
+* **Story**: [story_wc_4.txt](stories_wc/llama4-maverick/story_wc_4.txt) by Llama 4 Maverick
   - Overall Mean (All Graders): 4.45
   - Grader Score Range: 3.21 (lowest: Gemini 3 Pro Preview) .. 5.63 (highest: Kimi K2‑0905)
   - Required Elements:
@@ -339,7 +339,7 @@ Bottom 3 individual stories (all graders):
     - Motivation: to transmute pain into a masterpiece
     - Tone: earnest whimsy
 
-* **Story**: [grade_story_wc_389.txt](stories_wc/llama4-maverick/grade_story_wc_389.txt) by Llama 4 Maverick
+* **Story**: [story_wc_389.txt](stories_wc/llama4-maverick/story_wc_389.txt) by Llama 4 Maverick
   - Overall Mean (All Graders): 4.46
   - Grader Score Range: 2.53 (lowest: Gemini 3 Pro Preview) .. 7.98 (highest: DeepSeek V3.2 Exp)
   - Required Elements:
