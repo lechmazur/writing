@@ -1,57 +1,53 @@
 deepseek-v31.txt
 1) Executive profile  
 
-DeepSeek V3.1 Non-Think presents as a disciplined, high-craft storyteller with a strong bias toward Track A: single-POV, one-scene (or two-shard) narratives that foreground embodied interiority, tight causality, and on-page closure with visible cost. Across Q1–Q8, its default mode is character-driven fiction in which motivation, environment, and tactic are tightly braided. Readers are rarely lost: orientation (who/where/when) typically arrives within 120 words, the drive lens (causal or accumulative/textural) is taught early and held, and closure almost always lands as Decisive Change or Resonant Reconfiguration, not a vague fade-out.
+DeepSeek V3.1 Non-Think shows a consistently high baseline across all eight axes. Its dominant mode is Track A: single-POV, scene-focused narratives with one primary setting and a small cast. Within that default, it reliably teaches a clear drive lens early—usually causal or accumulative/textural—and then holds it through to closure. The reader almost always gets crisp orientation within ~120 words, coherent escalation, and an ending beat that is legibly paid for on the page.  
 
-Its dominant strengths—embodied interior contradiction, constraint-shaped setting, agency-driven escalation, and coherent, character-specific voice—generate strong momentum and clarity. Final choices tend to foreclose real alternatives and register in the body or world (“tears cutting clean through grime,” “grandfather’s dissolution”), making cost legible and emotionally resonant. Theme and originality are likewise scene-rooted: motifs and inventive premises reweight at closure rather than being explained.
-
-The recurrent limitations show up at the margins of this discipline. Under peak pressure, the model sometimes lets reflection or abstraction swell where a micro-choice should happen in scene; it occasionally resolves crises via competence, coincidence, or neat realization rather than a friction-tested decision. The last paragraphs are the danger zone: thematic label-speak, abstract cost, or line-level artifacts (synonym loops, register drift) can soften what would otherwise be top-tier endings. It tends to avoid catastrophic Track B/C failures, but when it experiments with mosaics or multi-POV, segmentation or voice shifts aren’t always fully taught or functionally necessary.
-
-Overall, DeepSeek V3.1 Non-Think is reliably clear and immersive, with closure that usually lands and feels paid for. Its highest-band work appears when contradictory impulses act simultaneously under acute pressure and are resolved through a specific, costly act tightly bound to setting, motif, and prior causality.
+Character work, plot/causality, setting, and theme all intersect around one core habit: pressure is funneled through a specific protagonist’s embodied perception, with micro-choices under constraint shaping both structure and meaning. Closure typically arrives as Decisive Change or Resonant Reconfiguration with visible cost: renunciation, depletion, foreclosed paths. Momentum is steady and controlled rather than frenetic, with a preference for one decisive tightening over multiple reversals. The main risks are softening pressure in the middle, abstracting or moralizing in the final lines, or letting line-level artifacts (diagnostic phrasing, paraphrase loops, over-lyric diction) intrude exactly where emotional cost should be sharpest. Multi-shard or multi-POV experiments (Track B/C) are rare but generally legible when attempted; the model’s strongest work remains single-lens, high-pressure, and cleanly closed.  
 
 2) Portfolio map  
 
-Q1 Character — Strong · Embodied contradictions, micro-choices, and visible cost at closure  
-Q2 Plot/Causality — Strong · Taught lens, tight constraints, and disciplined, causal or accumulative escalation  
-Q3 Setting — Strong · Environments and micro-objects function as constraints and closure engines  
-Q4 Conflict/Stakes — Mixed · Stakes clear; escalation or resistance sometimes too gentle or conveniently solved  
-Q5 Theme/Subtext — Strong · Motif-led, emergent themes; risk only when endings moralize explicitly  
-Q6 Voice/POV — Strong · Singular, biased lenses with rhythmic modulation and POV fidelity  
-Q7 Prose/Line-level — Strong · Dense, multi-tasking lines with minor repetition and register artifacts  
-Q8 Originality/Ingenuity — Strong · Tropes transformed via specific professions, tools, and non-transferable stakes  
+- Q1 Character — Strong  · Embodied contradiction, motivated micro-choices, closure with visible cost  
+- Q2 Plot/Causality — Strong  · Clear lens, tight escalation, disciplined, paid-off closure beats  
+- Q3 Setting — Strong  · Environments and objects act as constraints, not wallpaper  
+- Q4 Conflict/Stakes — Strong  · Early stakes, agency-driven tightening, on-page cost at climax  
+- Q5 Theme/Subtext — Strong  · Theme emerges from motif and image, not stated morals  
+- Q6 Voice/POV — Strong  · Singular, character-specific lens with rhythmic modulation under stress  
+- Q7 Prose/Line-level — Strong  · High-density lines, varied rhythm, concrete imagery over filler  
+- Q8 Originality/Ingenuity — Strong  · Tropes transformed via irreplaceable professions, tools, and world-logic  
 
 3) Signature moves  
 
-- Embodied, trait-rooted interiority: tactile anchors like “her hands, still dusted with flecks of precious foil” or “weight strapped to his soul” fuse motive, flaw, and perception.  
-- Simultaneous contradictory impulses under pressure, dramatized rather than told: “contradictory impulses (terror vs wonder) that culminate in an earned renunciation.”  
-- Constraint-driven escalation: objects and environments (hourglasses, projectors, greenhouses, weather stations) are taught early, then actively shape tactics and closure.  
-- Quiet but decisive renunciations at the end—accepting mystery, leaving a roof open, trading certainty for loss—where the cost is visible on the page.  
-- Theme surfacing through a final reweighted image or motif: dust becoming “evidence of ‘persistent, beautiful existence on a microscopic scale’,” bowls turning from alms collectors into acoustic receivers.  
-- Vocationally specific ingenuity: neutron-star botanists, emotion cartographers, memory forges—premises where “what happens on the page could not happen elsewhere.”  
+- Embodied interiority under pressure: characters experience “contradictory impulses (terror vs wonder)” simultaneously, with motives expressed through tactile anchors like “pressing the arrowhead for grounding.”  
+- Closure with cost via renunciation or endurance: endings often hinge on giving something up (“forecloses a genuinely viable alternative”) with the price made bodily—“tears cutting clean through grime,” “silver light fading from her.”  
+- Setting as crucible rather than backdrop: micro-settings such as “the projector lens” or “hourglass grain” actively constrain tactics and define what closure can be.  
+- Accumulative motif work that reweights at the end: dust, light, music, or silence recur and change meaning—“the open roof reframes all dust as evidence of ‘persistent, beautiful existence.’”  
+- Character-tuned voice with controlled rhythm: syntax shortens under strain, stretches in reflection; diction is filtered through vocation and bias (“finding patterns in static,” “strip needless drama from the loss”).  
+- Conceptual risk grounded in craft discipline: inventive premises (emotion cartographers, “neutron-star botanist”) are always subordinated to character stakes and a coherent, constraint-driven arc.  
 
 4) Failure modes  
 
-- Peak beats resolved via summary, insight, or competence instead of friction-tested choice; “her motivation snapped into painful clarity” or a transformation that “lacks visible micro-choices” undercuts the felt struggle.  
-- Cost that is stated rather than dramatized: endings where “the cost remains more conceptual than viscerally felt,” or thematic paragraphs that recap the lesson instead of showing its price.  
-- Over-reflection and abstraction in final thirds: interiority or theme tilting toward label-speak (“crushing weight, cowardly justification,” “courage is not the absence of fear”) instead of concrete conflict.  
-- Conflict that stays gentle or overly internal: “one-dimensional or internalized conflict” with “pressure… intellectual and psychic but [lacking] a moment of visceral opposition,” or middles that skip a tightening beat.  
-- Line-level artifacts near closure: paraphrase loops, filter-verb stacks, or register spikes (“fractally precise,” “cathedral of silence”) that blur voice and slightly dull the last cadence.  
-- Occasional Track B/C stumbles: untaught extra shards or multi-POV/code-switching without clear pattern, creating brief orientation drag or softening drive-lens coherence.  
+- Peak beats lapsing into abstract or diagnostic label-speak: moments of crisis sometimes default to “granular purpose feels slightly diagnostic,” “her motivation snapped into painful clarity,” or therapeutic phrasing, flattening otherwise rich interiority.  
+- Closure without fully felt pressure or cost: some endings state loss conceptually (“last link to the past”) or resolve with convenience/competence, missing a friction-tested micro-choice or embodied price.  
+- Middle-section softening: a number of stories move from premise to conclusion with only “gentle” or “slightly redundant” escalation, skipping a tangible obstacle, failure, or dilemma that would tighten stakes.  
+- Theme over-explained in final lines: explicit echoes (“courage is not the absence of fear”; “the choice is not the point. The understanding is.”) or meta-commentary undercut subtext earned by scenes.  
+- Register drift and figurative overload at climaxes: under pressure, the voice can spike into untaught elevated diction (“cathedral of silence,” “texture of time itself”) or metaphor pile-ups, briefly clouding action and character.  
+- Line-level artifact debt in the last third: paraphrase/synonym loops, filter-verb clusters (“she saw, she felt, he noticed”), or template cadences creep into crucial paragraphs and cap impact, especially at closure.  
 
 5) When it shines / when it breaks  
 
-It shines when the canvas is small, the lens tight, and the story can root itself in one consciousness, one environment, and one dominant stake. Character-driven pieces that hinge on a specific object, tool, or room—as crucible and metaphor—play directly to its strengths. Under these conditions, it produces clean causal chains, rich subtext, and inventive, profession-specific worlds where a closing image can quietly reconfigure everything that came before.
+This model shines when it has a tight, constraint-rich situation; a single, deeply inhabited POV; and one central stake that can be pressed to a visible, costly decision. Give it a room, tool, or bodily limit that *must* shape tactics, and it will build a clean arc: specific noticing, micro-choices under pressure, motif recursion, and a closure image that feels both surprising and inevitable. It is particularly strong at quiet, accumulative narratives where theme emerges from reweighted symbols and the final act is a renunciation, endurance, or reframed perception rather than a twist.  
 
-It breaks when asked to leap from this discipline into either more baroque structure (untaught mosaics, unmotivated POV switches) or overt thesis-stating. As pressure mounts toward the end, it is tempted to explain or uplift—through abstractions, moral echoes, or conceptual gloss—rather than doubling down on micro-choices and embodied cost. Conflict can also flatten when opposition remains intellectual or conveniently resolved, with coincidence or a tidy realization smoothing away the hardest trade-offs.
+It breaks, or at least flattens, when asked to carry too much abstraction or moral freight without enough concrete struggle. If the core conflict is primarily intellectual or therapeutic and external constraints are weak, the prose tends to slide toward generalized language and explicit statement at exactly the wrong time. Similarly, if the structure under-delivers on escalation—no real obstacle, no live alternative to foreclose—the dependable closure mechanics start to feel tidy or soft. Over-ambitious lyric diction, untaught stylistic jumps, or mosaic structures without a crisp throughline can also erode clarity and pressure.  
 
 6) Keep vs. adjust  
 
 • Keep  
-- The fusion of motive, flaw, and perception into concrete, tactile interiority: “foxglove regret,” “her fingers found the cool, metallic disc.”  
-- Early, explicit teaching of lens and constraint—objects and settings that both limit and enable the closing act.  
-- Motif-led, image-based closures where theme and originality emerge from reweighted detail rather than stated morals.  
+- The fusion of motive, flaw, and perception into embodied interiority—tactile, specific cues (“foxglove regret,” “dust motes, thick as felt”) that make motives felt rather than named.  
+- Constraint-driven architecture: early orientation, clear drive lens, and closing beats that pay off every meaningful object, rule, and pattern with on-page cost.  
+- Motif-led, image-centered thematics: endings that reconfigure a recurring symbol or sensory pattern instead of summarizing a lesson.  
 
 • Adjust  
-- At moments of crisis, replace abstract realizations and label-speak with on-page, simultaneous contradictory impulses and a specific, pressured micro-choice.  
-- Audit final paragraphs for conceptualized cost or thematic summary; swap these for one embodied act or image that proves what was lost, traded, or accepted.  
-- Tighten middles and final thirds by adding or sharpening at least one tangible obstacle or resistance beat; ensure resolution arises from protagonist agency under constraint, not from coincidence or overly smooth competence.
+- Replace diagnostic or abstract phrasing in peak beats with scene-anchored conflict: show contradiction and struggle through gesture, misstep, or physical sensation rather than labels.  
+- Sharpen middle and final-third pressure: introduce or amplify at least one concrete obstacle, trade-off, or failed tactic so closure feels hard-won, not gently arrived at.  
+- Audit final paragraphs for paraphrase, moralizing, and register drift; cut loops and explicit theses, and re-ground the ending in a single, concrete, character-true image of what has been lost, chosen, or irrevocably changed.

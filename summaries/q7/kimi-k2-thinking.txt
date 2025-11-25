@@ -1,2 +1,41 @@
 kimi-k2-thinking.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The dividing line between competent and exceptional prose on this axis is **information density versus decorative drag**. High-performing entries utilize "multi-tasking lines"—sentences that simultaneously advance world-building, character interiority, and plot momentum without scaffolding (e.g., *“frost painted new constellations each dawn on the windows of an ancient Volvo”*). In contrast, mid-range submissions often confuse emphasis with repetition, resulting in **paraphrase loops** where adjacent sentences restate the same concept using synonym churn (e.g., describing a silence as "heavy," then "weighted," then "crushing" within a single paragraph). While the lyric register is generally high, the most frequent failure mode is **template cadence**—structural monotony that creates a drumbeat rhythm, effectively stalling propulsion. Closure beats are particularly vulnerable; stories that land a concrete, propulsive final image consistently outscore those that dissolve into abstract thematic summaries or metaphorical muddle.
+
+**Strength Profile**
+*   **High Information Density:** The strongest lines perform double or triple duty, merging sensory detail with causal stakes. The prose avoids "filler" description, ensuring every adjective or metaphor narrows the reader’s focus toward the conflict.
+    *   *Micro-quote:* “brass teeth glinting like frozen starlight”
+    *   *Micro-quote:* “roots gripped stone like desperate fingers”
+    *   *Micro-quote:* “decay revealed itself through accumulated dust patterns”
+*   **Coherent Figurative Systems:** Successful pieces maintain vehicle consistency (e.g., a story about clocks using exclusively mechanical/temporal metaphors), preventing mixed-metaphor confusion during high-pressure beats.
+*   **Rhythmic Control:** High-band entries pass the read-aloud ear test by modulating sentence length to match emotional intensity—elongating during reflection and fracturing into staccato fragments during crises.
+*   **Clean Mechanics:** Grammar, tense stability, and pronoun tracking are largely flawless in the upper tier, allowing the reader to focus entirely on the image-stream.
+
+**Weakness Profile**
+*   **Paraphrase Loops:** A pervasive issue where the narrative stalls to restate a point already made. This often manifests as an abstract statement followed immediately by a metaphorical restatement of the same idea, netting zero narrative progress.
+*   **Template Cadence:** Runs of identical sentence structures, particularly "She [verb]..." or "The [noun] [verb]..." openers across three or more consecutive sentences. This creates a robotic, algorithmic rhythm that deadens emotional impact.
+*   **Synonym Churn:** The recycling of specific atmospheric words (e.g., *hush, luminous, fragile, burnished, silence*) within close proximity. This signals a limited lexical pool or a lack of editorial pressure.
+*   **Overwriting in Peak Beats:** In moments of high drama, weaker prose stacks metaphors (e.g., "a storm of grief like a tidal wave crashing against a stone wall"), obscuring the actual physical action.
+*   **Scaffolding and Filtering:** Reliance on filter verbs (*felt, saw, realized, understood*) and transitional summary phrases (*It was then that...*) rather than direct sensory immersion.
+
+**Performance Boundaries**
+The threshold for the 8.8–9.0+ band is defined by the **Text Artifact Screen**. A story drops out of the top tier the moment a **paraphrase loop** or **synonym cluster** touches the closure beat. If the final paragraph restates the theme abstractly rather than landing a concrete image, the score is capped. Conversely, prose excels when figurative language is **pattern-taught**—meaning a metaphor introduced early (e.g., light as liquid) evolves throughout the text and pays off in the climax without needing explanation. The writing breaks when the author distrusts the image and adds an explanatory clause, diluting the density.
+
+**Signature Moves and Blind Spots**
+*   **The Lyrical Plateau:** Writers often maintain a high, poetic register throughout the entire piece. While beautiful, this lack of modulation creates a "wall of sound" effect where high-pressure beats lack contrast and punch.
+*   **The "Luminous" Crutch:** There is a distinct over-reliance on words like *luminous, crystalline, gossamer,* and *echo*. These often act as placeholders for more specific, textured descriptions.
+*   **Meta-Commentary:** Characters frequently "realize" or "understand" the thematic import of an object in real-time, a blind spot that trades subtext for on-the-nose exposition.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Zero Scaffolding:** No sentences exist solely to move characters from room to room or to explain a previous metaphor; transitions are seamless and propulsive.
+*   **Concrete Closure:** The final sentence resolves the narrative arc through a specific, tangible image or action, recharging earlier motifs without summarizing them.
+*   **Figurative Precision:** Metaphors in high-pressure beats are sparse and physically coherent, prioritizing clarity of action over poetic flourishes.
+
+**Revision Levers and Keepers**
+*   **Keep:** The instinct for **multi-sensory imagery**. When a line combines sound, texture, and light (e.g., "copper sang against his hands"), it anchors the reader effectively.
+*   **Keep:** **Variable paragraph pacing**. The use of single-sentence paragraphs to isolate pivotal beats works well to control reading speed.
+*   **Keep:** **Voice-specific lexicon**. Stories that strictly limit vocabulary to the POV character's domain (e.g., a clockmaker using only mechanical verbs) achieve superior immersion.
+
+*   **Change:** **The Loop Cut.** Ruthlessly excise any sentence that restates the information of the one preceding it. If sentence A says "She was sad," and sentence B says "Grief weighed on her," cut one.
+*   **Change:** **Destabilize Sentence Openers.** Audit the first word of every sentence in a paragraph. If three or more start with the same pronoun or article, force a syntactic shift to break the template cadence.
+*   **Change:** **Prune the Peaks.** In the story's climax, strip away adjectives and similes. Rely on strong verbs and concrete nouns to carry the weight of the action, ensuring the reader can see exactly what is happening without wading through "purple" fog.

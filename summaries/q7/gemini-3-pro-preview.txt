@@ -1,2 +1,48 @@
 gemini-3-pro-preview.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**1) Executive Insight**
+The central pattern for Question 7 is a tension between high-level atmospheric ambition and line-level efficiency. The prose consistently achieves high information density—a hallmark of the upper bands—where single sentences successfully layer world-building, sensory texture, and character stakes (e.g., "rustling blizzard," "brass biting into iron"). However, this density frequently tips into overwriting and "purple" saturation, particularly in high-pressure beats where clarity and momentum should take precedence over ornamentation. The writing often fails to trust its own imagery, resulting in "paraphrase loops" where a strong visual is immediately followed by an abstract restatement or an explanatory scaffold. While the "read-aloud" ear is generally strong, rhythm is occasionally marred by template cadences (repetitive sentence structures) and a reliance on stock metaphors ("bruised sky," "velvet hush"). To move from strong to exceptional, the prose must shed its decorative safety net and trust that the concrete image alone is sufficient to carry the emotional weight of closure.
+
+**2) Strength Profile**
+*   **High Information Density:** The most consistent strength is the ability to make sentences do double or triple duty. Lines rarely just set the scene; they advance character and plot simultaneously.
+    *   *Micro-quote:* "whale dying in a cathedral"
+    *   *Micro-quote:* "glistening filament of braided kelp and steel"
+*   **Coherent Figurative Logic:** Even when dense, metaphors usually stick to a consistent vehicle (e.g., sound as architecture, light as liquid) rather than mixing imagery, preventing confusion.
+*   **Rhythmic Variety:** The writing avoids the monotony of uniform sentence lengths. Authors generally understand how to use long, sinuous clauses for description and short fragments for impact ("The lock clicked.").
+*   **Sensory Specificity:** Strong nouns and verbs often replace weak adverbs. "Petrichor," "ozone," and "oxidation" appear frequently, grounding abstract concepts in physical reality.
+
+**3) Weakness Profile**
+*   **Overwriting in Peak Beats:** In moments of high drama (climaxes, realizations), the prose often becomes *more* decorative rather than less, stacking modifiers and metaphors that obscure the action.
+    *   *Signal:* "cacophony of desperate colors," "choking beauty," "violent, fragrant riot."
+*   **Paraphrase Loops:** A pervasive artifact where the text states a thing, then immediately restates it in slightly different words without adding new pressure.
+    *   *Signal:* "The silence was heavy. It pressed down like a physical weight."
+*   **Scaffolding and Filter Verbs:** The narrative frequently filters experience through the character's cognition rather than immediate sensation, distancing the reader.
+    *   *Signal:* "He realized," "She understood," "He felt the weight."
+*   **Template Cadence:** Clusters of sentences starting with identical structures, creating a robotic rhythm that kills momentum.
+    *   *Signal:* Runs of "He [verb]... He [verb]... He [verb]..." or "It was... It was..."
+*   **Register Drift:** A tendency to slip into academic or abstract diction that clashes with the immediate physical scene.
+    *   *Signal:* "ontological," "metaphysical," "conceptual repricing."
+
+**4) Performance Boundaries**
+This writing excels in the setup and atmospheric build-up (Tracks A and B), where lush description establishes a vivid, immersive world. It struggles, however, during the pivot to closure. When the narrative requires a sharp causal snap or a moment of irreversible change, the prose often "freezes" in a layer of decorative static or explanatory summary. The writing breaks when it prioritizes sounding "literary" (via adjective stacking and abstract nouns) over the kinetic requirements of the scene. It succeeds when it allows concrete nouns and strong verbs to drive the action without the crutch of interpretative adjectives.
+
+**5) Signature Moves and Blind Spots**
+*   **The "Bruised" Sky:** A near-universal reliance on "bruised," "velvet," and "hush" as atmospheric descriptors. These have become stock metaphors that dull specific observation.
+*   **The Negational Definition:** A habit of defining things by what they are *not* (e.g., "not a sound, but a vibration"), which often reads as scaffolding rather than direct imagery.
+*   **Simultaneity Errors:** Using participial phrases ("Doing X, he did Y") for sequential actions, creating impossible physical overlaps.
+*   **Thematic Labeling:** Explicitly naming the theme (e.g., "the core concept of forgiveness") within the narrative flow, breaking immersion.
+
+**6) High-Band Signals (≈ 8.8+)**
+*   **Zero Scaffolding:** The absence of "He realized," "It was," or "She felt." The interiority is rendered entirely through sensory interaction with the environment.
+*   **Propulsive Climax:** The peak beat strips away adjectives and metaphors, relying on the collision of concrete nouns and verbs to deliver the impact.
+*   **Closure by Image:** The final line resolves the narrative arc through a specific, recharged image (e.g., a tool, a change in light) rather than a summary of the character's emotional state.
+
+**7) Revision Levers and Keepers**
+*   **Keep:**
+    1.  **Multi-tasking Sentences:** Continue welding setting details to character stakes (e.g., "hands stained with the sap of memories").
+    2.  **Rhythmic Variety:** Maintain the interplay of long, accumulative sentences and short, percussive fragments.
+    3.  **Consistent Metaphor Systems:** Preserve the internal logic of figurative language (e.g., if time is water, keep it fluid; don't suddenly make it a machine).
+
+*   **Change:**
+    1.  **Prune Paraphrase Loops:** Scan for adjacent sentences that convey the same information. Cut the one that is more abstract or explanatory. *Test: Does removing the second sentence lose any actual data?*
+    2.  **Eliminate Filter Verbs:** Ctrl+F for "felt," "heard," "saw," "realized," "knew." Delete them and rewrite the sentence to make the sensation direct (e.g., "He heard the wind" $\rightarrow$ "The wind shrieked").
+    3.  **Reduce Figurative Density in Climax:** In the final third of the story, limit metaphors to one per paragraph. Force the action to carry the weight. *Test: If the metaphor is removed, is the physical action still clear?*

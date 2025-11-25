@@ -1,57 +1,57 @@
 gpt-5-medium.txt
 1) Executive profile  
 
-Across the eight-question portfolio, this model’s fiction is consistently character-first, accumulative, and pressure-aware. It defaults to Track A: single-POV, one primary strand, with occasional, well-managed Track B/C mosaics whose shards are legible and coherently rejoined by closure. The dominant impression for a reader is immersive interiority—motivation embodied in specific, tactile actions—carried through vivid, task-shaped settings and a disciplined, character-bound voice.
+Across Q1–Q8, this model’s fiction is defined by a deeply interior, accumulative drive lens: Track A single-POV stories predominate, with occasional well-managed Track B mosaics and rare, coherent Track C experiments. Its strongest work fuses character, setting, and motif into a single pressurized system where micro-choices under constraint generate both plot and theme. Motivation is intensely embodied, world and object act as live constraints, and endings usually land with legible cost—often via a precise, re-pricing final image rather than a big plot twist.  
 
-Strengths cluster around clarity of lens and closure with cost. Stakes are usually signaled early and escalated via micro-choices that narrow options: pressure tends to tighten rather than meander. Settings and objects act as constraints rather than wallpaper, so that environment and method feel inseparable from character and theme. Closure rarely arrives as a free-floating epiphany; more often it is an earned reconfiguration or renunciation, where “the ledger’s recovery and the door’s disappearance” or “leaving the key, taking only questions” makes the loss or trade-off unmistakable.
+Reader impact is high on clarity and resonance when the model stays inside its preferred mode: orientation is typically established by ~100 words, pressure tightens through dense patterning rather than reversals, and closure feels inevitable because character, environment, and stakes have been teaching a consistent logic from the outset. Momentum is more about deepening torque than acceleration; the best stories feel like a vice tightening, not a chase.  
 
-The limitations, though rarely catastrophic, matter for felt intensity and legibility. Under peak pressure the prose can over-lyricize, flattening visceral struggle into conceptual or therapy-tinged abstraction. Stakes sometimes remain atmospheric or ethical-in-principle instead of being tested in a specific crucible. Thematic closure is occasionally undercut by a single explicit “credo” line. And while ingenuity and structural risk are strong, there is a mild recurrent risk of opacity or orientation lag when figurative density or fragmentation outpaces taught pattern.
+Limits emerge when the model leans too hard into lyricism or concept. At pressure peaks it can drift into abstract, academic, or therapy-like phrasing, flattening felt struggle just when the reader most needs immediacy. Escalation sometimes stays conceptual or atmospheric, and cost can be asserted instead of dramatized. In a minority of pieces, motif and setting slip from engine to ornament, or reflection bloats past scene energy, diluting pressure.  
 
-Overall, the model is a reliable closer: endings usually land clearly, with on-page cost and a coherent lens. It shines whenever it can fuse character, setting, and motif into a tight system and let pressure work through micro-choices rather than plot gymnastics.
+Overall, this is a writer that reliably delivers coherent lenses, distinctive voices, and meaningful, often beautiful closure. Its most consistent risk is not confusion but softening: conflicts that never quite bite, endings that gesture toward wisdom rather than making the character—and reader—live the price.  
 
 2) Portfolio map  
 
-Q1 Character — Strong · Embodied, contradictory motives; micro-choices with visible cost and interior torque  
-Q2 Plot/Causality — Strong · Accumulative structures teach patterns early and close with concrete, priced turns  
-Q3 Setting — Strong · Environments and objects act as live constraints, shaping tactics and final images  
-Q4 Conflict/Stakes — Mixed · Stakes signaled and agentive, but sometimes stay atmospheric or gently escalated  
-Q5 Theme/Subtext — Strong · Motifs and subtext build theme organically; rare late moralizing blunts edge  
-Q6 Voice/POV — Strong · Character-specific perceptual signatures; stable lenses with rhythmic modulation  
-Q7 Prose/Line-level — Mixed · Dense, multi-jobbing lines; occasional overwriting and register drift at peaks  
-Q8 Originality/Ingenuity — Strong · Fresh syntheses of method/world/stakes; risk-taking forms usually legible  
+Q1 Character — Strong · Embodied, contradictory drives, closure with visible emotional cost  
+Q2 Plot/Causality — Strong · Accumulative structures teach pattern, closure re-prices with concrete cost  
+Q3 Setting — Strong · Environment and objects actively constrain tactics and charge closure  
+Q4 Conflict/Stakes — Mixed · Stakes clear; pressure sometimes atmospheric, cost or agency undercut  
+Q5 Theme/Subtext — Strong · Theme emerges via motifs and subtext, minor drift to thesis at endings  
+Q6 Voice/POV — Strong · Distinct, character-bound voices; rare register drift at high pressure  
+Q7 Prose/Line-level — Mixed · Dense, rhythmic, multi-jobbing lines; overwriting and abstraction at peaks  
+Q8 Originality/Ingenuity — Strong · Fresh syntheses of trope, method, and world; risk with clarity mostly paid off  
 
 3) Signature moves  
 
-- Turning abstract desire into tactile micro-actions: “kneeling to trace spirals in dust,” “carrying the painted shell,” “pressing the heart fragment to my rib.”  
-- Running contradictory impulses concurrently in-scene—fear vs. need, shame vs. clarity—then forcing a micro-choice that forecloses one flank.  
-- Making setting a problem to solve: greenhouses as equation frames; “valve wheel functions as rosary of sorrow”; bells, domes, or ledgers as micro-settings that constrain and enable.  
-- Building theme through recursive, pressurized motifs whose meaning shifts under cost: seeds, light, silence, bowls, marbles, shells.  
-- Voice as instrument: profession-bound metaphor systems (“the spoon’s octave,” “glass hears better than it sees”) and syntax that shortens or fragments under stress.  
-- Originality via integrated systems—“ghost shift” labor, time-borrowing mechanics, “fortune-cookie writer orchestrating revelation via lighthouse projection”—where swapping any element collapses the logic.
+- Builds motivation through tactile micro-actions—“kneeling to trace spirals in dust,” “pressing the heart fragment to my rib”—so desire is never abstract.  
+- Uses micro-setting as crucible: greenhouses, bells, valves, ledgers, shells and bowls all constrain what is possible, then return at closure as charged objects.  
+- Escalates via accumulative pressure rather than reversals: ritual, constraint, and motif repeat with new weight until one decisive stance crystallizes.  
+- Crafts thematics through image systems and subtext (“marbles’ scars aligning,” “crystal’s music as testimony”), then distills them into a non-literal final image instead of a moral.  
+- Maintains singular, character-bound perceptual signatures—“glass hears better than it sees,” “Blue is a far drum, green a plucked wire”—so voice, world, and theme are inseparable.  
+- Makes originality out of synthesis: scientific or technical processes braided with intimate stakes (“ghost shift” labor, “cartography of silence,” “pocket-sun as presence”), such that “swap any element and story collapses.”  
 
 4) Failure modes  
 
-- Peak moments narrated in abstract, diagnostic, or therapy-speak (“wondering is a form of love,” “recovery is not a rescue but a rehearsal”), diluting embodied struggle and capping felt cost.  
-- Escalation that plateaus in atmosphere: stakes named (“disaster, injustice, exile”) but never materially tested, leading to “gentle but cumulative” pressure without a decisive narrowing choice.  
-- Orientation softness in highly lyric or concept-heavy pieces—who/where/when or key mechanics (shell, advisor, violin) left slightly opaque past the opening, forcing readers to deduce rather than feel their way forward.  
-- Figurative overgrowth at crisis: metaphors stacking into muddle (“mitosis of faith,” “auroral sorrow,” mixed or strained images) just when clarity of consequence is most needed.  
-- Thematic undercutting by one late thesis line: “Safety is not the absence of loss; it is the ache that shines enough to guide,” or similar, which restates what images already earned.  
-- Conflict occasionally softened by coincidence or diffuse agency—letters arriving, storms breaking, communal consensus resolving tension—so closure tilts toward comfort instead of hard trade-off.
+- At emotional peaks, voice slides into therapy-speak or academic abstraction (“recovery is not a rescue but a rehearsal,” “conceptual repricing”), breaking the in-character register and dulling impact.  
+- Escalation plateaus in atmosphere: stakes are stated (“disaster, injustice, exile”) but never meaningfully tested in-scene, leaving pressure “gentle but cumulative” rather than crackling.  
+- Cost at closure is under-articulated: endings gesture toward acceptance or insight without a specific, lived trade-off; loss remains implied rather than embodied.  
+- Figurative and syntactic saturation in climaxes (“relentless metaphors in climax...cross into overwriting”) obscures causality and blurs the key decision or beat.  
+- Motifs and settings sometimes devolve into decorative recurrence—postcard vistas, “moonlight” and “salt air”—that don’t actually constrain tactics or reweight choices.  
+- In a few mosaics/collective POVs, pattern-teaching for elision or shard transitions is weak; orientation and setting constraints blur, softening both pressure and payoff.  
 
 5) When it shines / when it breaks  
 
-It shines whenever a story can live inside one disciplined lens—usually a single, idiosyncratic focalizer in a specific, constraining environment—with stakes that are intimate but real. Given a task or ritual that must negotiate physical and ethical limits, the model’s accumulative structures, micro-setting ingenuity, and motif systems create strong pressure and resonant, non-formulaic closure. Structural or stylistic risks (mosaics, lyric compression, unconventional world rules) do well when their patterns are taught early and paid off through a final, concrete choice.
+This model shines whenever it can build from an embodied, task-pressured premise: a character doing specific work in a constrained environment, with a clear but not overexplained stake (“restore the light,” “preserve memory,” “break inherited patterns”). Under those conditions, it excels at threading interior contradiction through setting and object, teaching a pattern of noticing or ritual, then closing on a reconfigured stance with real cost—a key left behind, a door disappeared, a role accepted at the price of exile or uncertainty. Lyric density and motif recurrence feel earned because every repetition changes the options.  
 
-It breaks when abstraction outpaces embodiment: when reflection, figurative density, or conceptual cleverness are asked to do the work that should be carried by an in-scene decision under constraint. Stories that lean on generic setting, unpressured motif recurrence, or inherited trope arcs without fresh, world-bound detail land as merely competent. Similarly, when voice slips into academic or therapeutic registers at emotional peaks, or when a finale opts for consensus comfort instead of the cost the setup invites, narrative momentum and post-read resonance drop.
+It breaks when invited into big abstraction or plot-forward spectacle. Without a strong micro-setting or tangible constraint, it tends to substitute atmosphere and aphorism for conflict; coincidence or communal pressure may move the story more than protagonist agency. In such pieces, the same lyric tools—metaphor, reflection, conceptual language—that are strengths elsewhere become evasions. Closure drifts toward a “credo” line or safe harmony, stakes stay intellectual, and originality flattens into quirky garnish rather than system-bound invention.  
 
 6) Keep vs. adjust  
 
 • Keep  
-- The habit of rooting character motivation in specific, sensory tasks and rituals that can bend or break under pressure.  
-- Using micro-setting—objects, tools, body, weather—as an active constraint that shapes tactics and charges closure images.  
-- Motif-driven, subtextual thematics where final images (“the ledger’s recovery and the door’s disappearance,” “planting the tether, not knowing if the new pattern will hold”) reprice the story without stating a lesson.  
+- The discipline of filtering everything—setting, image, thought—through a distinct, character-specific perceptual lens.  
+- Motif systems and micro-settings that function as real constraints and then return at closure as charged, consequential images.  
+- Accumulative, single-lens structures that teach their own logic early and land non-literal, costed reconfigurations rather than neat morals.  
 
 • Adjust  
-- At pivotal beats, replace conceptual or therapy-flavored summary with one irreversible, on-page action that clearly trades one value for another.  
-- Audit peak sections for figurative and syntactic overload; cut or simplify metaphors that obscure causal stakes, and vary cadence where template rhythms or loops emerge.  
-- In endings, strip any single-line thesis or credo; let cost show through environment, object, and body so that theme is inferred from changed tactics, not declared.
+- Replace abstract, thesis-like lines at emotional peaks with concrete, in-scene micro-choices that show the value tradeoff (what is kept, broken, foregone).  
+- Prune figurative and syntactic density especially in climaxes; ensure each metaphor or repetition either raises pressure or clarifies stakes, never just decorates.  
+- Sharpen mid- and late-story pressure by forcing at least one irreversible, protagonist-driven decision where environment, relationship, and flaw directly collide, and the cost is visible on the page.

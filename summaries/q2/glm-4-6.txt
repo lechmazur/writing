@@ -1,2 +1,44 @@
 glm-4-6.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The dominant pattern in this cohort is a heavy reliance on the **Accumulative/Textural** lens, where narrative pressure is generated through sensory density and recurring motifs rather than causal reversals. This approach generally succeeds in anchoring the reader early (Orientation Test pass rates are high) and delivering atmospheric coherence. However, reader impact fractures at the Closure Gate. While most pieces attempt a **Resonant Reconfiguration** or **Conceptual Repricing**, they frequently fail the **Cost Proof Test**. Too often, resolution arrives via a "soft reset"—a magical object works perfectly on the first try, or a realization arrives without resistance—resulting in symmetric satisfaction rather than earned change. The highest-performing stories distinguish themselves not by the magnitude of the external plot, but by the legibility of the *price paid* for the ending: a foreclosed option, a physical scar, or a permanent assumption of burden.
+
+**Strength Profile**
+*   **Early Orientation:** The writing consistently anchors *who*, *where*, and *when* within the first 120 words, establishing stable "single scene" windows. This prevents the "floating head" syndrome and grounds abstract concepts in concrete settings (e.g., "cobalt arcade at twilight," "abandoned spaceport terminal").
+*   **Lens Consistency:** Once a drive lens is established (usually Accumulative), the text rarely drifts. Writers effectively use pattern repetition—layering images of silence, glass, or time—to build density rather than relying on erratic plot twists.
+*   **Conceptual Repricing:** The cohort excels at endings that reweight the meaning of the inciting incident. Instead of solving a problem, the protagonist often redefines it (e.g., realizing a curse is a gift, or silence is a language).
+*   **Micro-Quotes (Strengths):**
+    *   "golden scar a map of what had been broken"
+    *   "borrowed time collapsed around him"
+    *   "utterly, beautifully empty"
+    *   "the pause between question and reply"
+
+**Weakness Profile**
+*   **Frictionless Rituals:** A pervasive failure mode is the linear "happy path" where a protagonist identifies a magical procedure and executes it without complication. If a ritual works exactly as intended without a "micro-turn" or near-failure, the closure feels inevitable and cost-less.
+*   **Asserted vs. Dramatized Cost:** The text often claims a character is "exhausted" or "changed" in the final paragraph without showing a specific forfeiture. Phrases like "weight of his decision" appear as labels rather than enacted consequences.
+*   **Summary-Based Climaxes:** In Causal attempts, crucial turning points are frequently delivered via summary (e.g., "Weeks passed," "She spent the night decoding") rather than dramatized scene work. This flattens the escalation and violates the "show, don't tell" imperative of high-band fiction.
+*   **Convenience and Coincidence:** Solutions often arrive via "magic keys" found at the exact right moment or sudden telepathic downloads, bypassing the protagonist's agency and deductive struggle.
+
+**Performance Boundaries**
+The writing excels when it operates within a **single, continuous scene** where the constraint is physical and immediate (e.g., a storm closing a window, a rising tide). In these instances, the Accumulative lens successfully builds to a **Charged Poise** ending. The performance breaks when the scope widens to cover days or weeks (Track B/C attempts without clear segmentation). In these cases, causal chains dissolve into "and-then" sequencing, and the ending relies on broad thematic statements rather than a sharp, imagistic reconfiguration of the status quo. The critical pivot point is **resistance**: stories that force the protagonist to abandon a tool, accept a wound, or fail an initial attempt consistently score in the 8.8+ range.
+
+**Signature Moves and Blind Spots**
+*   **The "Soft Reset" Ending:** A recurring habit of resolving tension by having the environment simply "quiet down" or "glow," returning the protagonist to safety without a permanent mark.
+*   **Atmosphere over Agency:** The writing often prioritizes describing the *feeling* of magic over the *mechanics* of consequence, leading to beautiful but static vignettes.
+*   **The Silent Epiphany:** Characters frequently reach closure by "realizing" something internal without taking an external action that validates that realization.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Irreversible State Change:** The final image proves that the world or the character cannot return to the opening state (e.g., an object destroyed, a door sealed, a physical scar).
+*   **Persistent Constraints:** The 9+ tier consistently employs a constraint (a ticking clock, a physical disability, a limited resource) that shapes tactics through the *very last sentence*.
+*   **Cost Legibility:** The specific price of the resolution is visible on the page (e.g., "inkless hands," "shattered tablet," "empty palm").
+
+**Revision Levers and Keepers**
+
+**Keep:**
+1.  **Early Anchoring:** Continue grounding the reader in specific sensory details within the first paragraph.
+2.  **Textural Density:** Maintain the practice of layering recurring motifs (light, sound, artifacts) to build thematic pressure.
+3.  **Conceptual Closure:** Continue aiming for endings that reframe the premise rather than just "fixing" the plot problem.
+
+**Change:**
+1.  **Dramatize the Cost:** Replace summary statements of relief with a concrete image of what was lost to achieve the result (e.g., instead of "he felt peace," show him leaving his father's watch behind).
+2.  **Insert a Micro-Turn:** Ensure every ritual or plan fails or complicates at least once before succeeding. Force the character to adapt their tactic on the page.
+3.  **Eliminate "Magic Keys":** Remove convenient solutions that appear exactly when needed. If a tool solves the plot, establish its limitations and costs in the first third.

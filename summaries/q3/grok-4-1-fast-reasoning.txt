@@ -1,2 +1,51 @@
 grok-4-1-fast-reasoning.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+
+The cohort demonstrates exceptional aptitude for **atmospheric immersion** but frequently struggles with **environmental causality**. The central pattern for Question 3 is a divergence between setting-as-mood (highly successful) and setting-as-machine (inconsistent). Writers consistently establish vivid, tone-heavy worlds—“bioluminescent fungi,” “frost-rimed observatories,” and “rusted shores”—that successfully anchor the reader’s emotional expectations. However, a significant portion of the work treats these settings as static backdrops rather than active pressures. In the highest-performing stories (Tracks A/B), the environment is an antagonist or an indispensable tool: the ice is slippery, forcing a specific gait; the acoustics of a dome compel a whisper; the tides dictate the exact minute a discovery can occur. In lower-band work, the setting is merely a painted stage where characters move without friction. For flash fiction (600–800 words), the "micro-setting" (a workbench, a cockpit, a single room) is often more effective than a sprawling landscape because it allows for granular, tactile interaction that charges the final image.
+
+**Strength Profile**
+
+*   **Micro-Setting Anchoring:** Writers excel at imbuing small, handleable objects with the weight of the setting. Tools, heirlooms, and detritus often function as "portable settings" that ground the narrative.
+    *   *Micro-quotes:* "beaded valve wheel," "frost-etched dome," "solder tang."
+*   **Sensory Consistency:** The cohort rarely lapses into "white room" syndrome regarding visuals. Textures and lighting are vivid, often leaning into high-contrast imagery (neon vs. rust, magma vs. ice).
+*   **POV Filtering:** Descriptions are rarely neutral; they are consistently filtered through the protagonist’s occupation or emotional state (e.g., a glazier noticing refraction, a mechanic noticing rust).
+*   **Thematic Resonance:** Weather and lighting are reliably used to mirror internal states (e.g., storms during conflict, dawn during resolution), creating a cohesive emotional arc.
+*   **Closure Integration:** A strong majority of stories successfully return to the setting in the final sentence to "re-weight" the imagery, satisfying the rubric’s requirement to charge the final image.
+
+**Weakness Profile**
+
+*   **The "Postcard" Trap:** Detailed descriptions often fail to **constrain choice**. A character might be in a "gale-force storm," yet they converse and move as if in a quiet room. The setting offers no resistance.
+*   **Adjectival Overload:** Reliance on "purple" modifiers ("ethereal," "iridescent," "velvet," "forgotten") often replaces concrete nouns and verbs. This creates a generic "fantasy gloss" rather than a specific, lived-in reality.
+*   **Spatial Disconnects:** In dynamic scenes, choreography sometimes blurs. Characters interact with objects or spaces that were not established, or move distances that contradict earlier descriptions (e.g., crossing a "vast cavern" in a single step).
+*   **Ornamental Mechanics:** Magical or sci-fi elements (glowing runes, humming crystals) are often decorative rather than functional. They provide light but do not alter how the character solves the problem.
+*   **Lack of Tactile Friction:** Visuals dominate the sensory hierarchy. Smell, taste, and proprioception (the sense of body position) are underutilized, which reduces the immediacy of the danger.
+
+**Performance Boundaries**
+
+The boundary between a **Functional (6.0–7.5)** and an **Exceptional (8.8–9.0+)** score lies in **inevitability**.
+*   **Functional:** The story takes place *in* a setting. The "abandoned library" sets a spooky mood, but the protagonist could find the secret book in a modern office with minor rewrites. The setting is a container.
+*   **Exceptional:** The story happens *because of* the setting. The protagonist succeeds only because the floorboards are warped, or fails because the fog obscures a visual cue. The environment supplies the specific tools (a shard of glass, a specific shadow) required to resolve the plot. If the setting changes, the plot collapses.
+
+**Signature Moves and Blind Spots**
+
+*   **The "Luminous" Crutch:** A pervasive habit of lighting scenes with "bioluminesce," "phosphor," or "spectral glows." While pretty, it often substitutes for more rigorous atmospheric construction.
+*   **The "Hush" Motif:** An over-reliance on silence ("a heavy hush," "the silence of held breath") to signal importance, occasionally rendering scenes static.
+*   **Metaphorical Drift:** Writers sometimes lose the physical reality of the scene in favor of extended metaphors, causing the reader to lose track of where the character is actually standing.
+
+**High-Band Signals (≈ 8.8+)**
+
+*   **Causal Evolution:** The setting changes physically as a result of the narrative action (e.g., the ice melts, the door breaks, the light fades). The environment is not the same at the end as it was at the start.
+*   **Tactile Constraint:** The character’s physical movement is visibly limited or guided by the space (e.g., ducking under a beam, shivering in the cold, shouting over noise).
+*   **Tool/Setting Fusion:** The solution to the central conflict utilizes an object or feature specific to that location (e.g., using a specific chemical found in a lab, or a rock from that specific beach).
+
+**Revision Levers and Keepers**
+
+*   **Keep:**
+    1.  **The Final Image Reprise:** Continue tying the closing line back to an environmental detail established early on.
+    2.  **Occupational Filtering:** Keep filtering sensory details through the protagonist’s specific expertise or obsession.
+    3.  **Micro-Object Focus:** Continue using small, tactile objects (watches, seeds, shards) to anchor abstract emotions.
+
+*   **Change:**
+    1.  **Force a Trade-off:** Introduce a moment where the setting actively blocks the protagonist’s first choice (e.g., the path is blocked, the light fails, the noise is too loud).
+    2.  **Audit Adjectives:** Cut "atmospheric" modifiers (e.g., "haunting," "mysterious") and replace them with concrete physical details (e.g., "rotting," "cold," "sharp").
+    3.  **Ground the Choreography:** Ensure every movement through space is physically possible and clearly mapped relative to established landmarks.

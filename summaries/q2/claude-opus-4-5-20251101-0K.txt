@@ -1,2 +1,41 @@
 claude-opus-4-5-20251101-0K.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The dominant pattern for Question 2 at this length is a mastery of the **Accumulative/Textural** drive lens within a **Track A (single continuous scene)** scope. The writing excels at establishing a stasis, deepening it through sensory density and recurring motifs, and landing a closure of **Resonant Reconfiguration** (specifically the "Charged Poise" variant). Rather than relying on kinetic plot twists or high-friction causal chains, these stories succeed by reweighting the protagonist’s internal stance or understanding of the world. When this works, the closure feels inevitable and earned; the reader accepts that a shift in perception is as valid as a shift in circumstance. However, this reliance on internal reconfiguration creates a ceiling: stories often lack external resistance, leading to "frictionless" resolutions where protagonists solve problems simply by realizing they can. For the highest bands, the "cost" of closure must move beyond the conceptual and become a visible, irreversible trade-off on the page.
+
+**Strength Profile**
+*   **Immediate Orientation:** The writing consistently anchors *who*, *where*, and *when* within the first 30–50 words, often utilizing the "single scene" default effectively to avoid disorientation.
+    *   *Micro-quotes:* "winterglass conservatory," "3:47 AM," "acid sea."
+*   **Accumulative Density:** Instead of "and-then" plotting, the narrative builds pressure by layering sensory details (sound, light, texture) that intensify a central metaphor until the climax.
+*   **Conceptual Repricing:** Closure frequently succeeds by redefining the terms of victory. Failure to fix a broken object becomes a success in "witnessing" or "honoring" the break.
+*   **Object-Anchored Backstory:** Exposition is rarely free-floating; it is almost always tethered to a tactile object in the present scene (a shell, a diary, a gear), keeping the narrative lens tight.
+
+**Weakness Profile**
+*   **Frictionless Causality:** Protagonists often overcome obstacles through sudden intuition ("suddenly she understood") or convenient tools found exactly when needed, rather than through trial-and-error or tactical adaptation.
+*   **Soft Cost:** While emotional resonance is high, the *Cost Proof Test* often reveals a lack of tactical sacrifice. Characters gain wisdom without losing resources, allies, or options.
+*   **Summary at Climax:** In Causal stories, the pivotal confrontation or action is sometimes summarized ("They worked through the night") rather than dramatized, deflating the tension right at the peak.
+*   **Convenience Creep:** Solutions often appear via "magical" coincidences (e.g., a letter arriving at the exact moment of doubt) that serve the theme but break the causal chain.
+
+**Performance Boundaries**
+This writing excels when the **Drive Lens is Accumulative/Textural**. In these modes, the lack of external antagonism is a feature, not a bug; the conflict is internal or environmental, and the resolution is a shift in harmony. The writing breaks, however, when attempting a **Causal/Thriller** lens. When the prompt demands a heist, escape, or confrontation, the prose often fails to generate genuine jeopardy. Antagonists rarely push back actively; locks open because the protagonist tries them; guards don't appear. The writing struggles to simulate a "hostile" universe, preferring a universe that wants to be solved.
+
+**Signature Moves and Blind Spots**
+*   **The "Dawn" Climax:** A disproportionate number of stories resolve exactly as the sun rises, using light as a metaphor for understanding.
+*   **The Artifact of Loss:** Stories frequently center on a broken object (watch, compass, robot) that represents grief, with closure achieved by deciding *not* to fix it.
+*   **Charged Poise:** The narrative often ends with a character standing still, holding an object, ready to act in a hypothetical future rather than acting in the now.
+*   **Blind Spot:** The "Try/Fail" Cycle. Characters rarely try a solution, fail, suffer a consequence, and then try a harder solution. They usually succeed on the first dramatized attempt.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Irreversible Physicality:** The closure isn't just a feeling; a physical object is destroyed, left behind, or altered (e.g., "the key crumbled," "the vial was empty").
+*   **Foreclosed Options:** The narrative explicitly shows that a return to the status quo is impossible (e.g., "she could never go back to the village").
+*   **Persistent Constraint:** A limitation established early (e.g., a ticking clock, a physical disability, a lack of tools) shapes the final tactical choice.
+
+**Revision Levers and Keepers**
+*   **Keep:**
+    1.  **The Accumulative Build:** The technique of layering sensory motifs to create pressure is sophisticated and effective.
+    2.  **Early Anchoring:** The habit of establishing the scene immediately is a major structural asset.
+    3.  **Resonant Reconfiguration:** The instinct to end on a shift in *meaning* rather than just a shift in *plot* is strong.
+
+*   **Change:**
+    1.  **Dramatize the Pivot:** Locate any sentence where a problem is solved by "realizing" or "understanding," and replace it with an action that requires a sacrifice.
+    2.  **Inject Resistance:** Ensure the environment or antagonist pushes back *once* before the resolution. The first key shouldn't fit; the first answer shouldn't work.
+    3.  **Tax the Cost:** Ensure the final image contains a "receipt" for the victory—a scar, a lost tool, or a closed door—to satisfy the Cost Proof Test.

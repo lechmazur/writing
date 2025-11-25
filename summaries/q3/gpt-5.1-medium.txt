@@ -1,2 +1,42 @@
 gpt-5.1-medium.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+Here is the editorial brief synthesizing the performance on Question 3.
+
+### Executive Insight
+The most successful stories in this cohort transform setting from a static backdrop into an active participant—an antagonist, a tool, or a clock—that physically forces the protagonist’s hand. The highest-scoring entries (9.0+) consistently utilize the **micro-setting** option, where a small object (an ice violin, a brass compass, a beaded valve wheel) or a confined space (a glass-ribbed greenhouse, a flooded opera house) rigorously constrains tactical choices. When the environment dictates *how* a character must move (wading through rising water) or *what* they can perceive (fog narrowing the visual field), the narrative gains immense pressure. Conversely, stories that rely on "postcard" descriptions—vivid but inert imagery that mirrors mood without obstructing action—tend to plateau in the mid-8s. The definitive marker of the elite tier is whether the setting **charges the final image**, re-weighting the physical space with the emotional cost of the story’s climax.
+
+### Strength Profile
+*   **Micro-Setting as Narrative Engine:** Writers excel at shrinking the world to a single, manageable focal point. Whether it is a "beaded valve wheel" or a "frozen courtyard," these small stages provide tactile anchors that prevent "white-room syndrome."
+*   **POV-Filtered Sensory Hierarchy:** The strongest pieces filter description through professional bias. A tuner hears "rust," a chef smells "cumin and wet stone," and a glazier notices "salt-bitten panes." This avoids generic tourist cataloging.
+    *   *Micro-quotes:* "air tasted like wet stone," "frost traced silver ferns," "cracks glowed silver."
+*   **Environmental Evolution:** High-scoring settings change causally with the plot. Ice melts, tides rise, lights dim, or fog lifts. This dynamic evolution ensures the setting at the end feels earned and distinct from the setting at the start.
+*   **The Object-as-Setting:** Frequent success is found in treating a handheld object (a shell, a lens, a shard) as the primary "setting" for the climax. This focuses the reader’s eye and allows for high-resolution sensory detail that supports the rubrics' economy bias.
+
+### Weakness Profile
+*   **Atmosphere over Constraint:** A recurring limitation in the 8.0–8.8 range is setting that sets a mood (e.g., "melancholy mist") but fails to **constrain a choice**. If the story could take place in a generic room without altering the protagonist's tactics, the setting is not pulling its weight.
+*   **Visual Over-Reliance:** Some entries lean heavily on visual description (colors, light) while neglecting tactile, olfactory, or auditory cues that often signal higher urgency (e.g., the temperature of a latch, the smell of ozone).
+*   **Decorative World-Building:** In Sci-Fi/Fantasy entries, there is a tendency to introduce "cool" elements (floating islands, kinetic towers) that remain backdrop scenery rather than becoming tactical tools the protagonist must use to solve the problem.
+*   **Drifting Choreography:** Occasionally, in complex spaces (multi-level libraries, shifting mazes), the spatial relationship between bodies and key objects blurs, confusing the physical logic of the scene.
+
+### Performance Boundaries
+The writing excels when the environment functions as a **crucible**. When a character is trapped by weather, physics, or architecture (e.g., a diver in a shipwreck, a climber on an ice-sheathed spire), the prose tightens, and sensory details become survival data. The writing breaks, however, when the setting becomes a **museum tour**—a series of static, beautiful images that the character walks *past* rather than *through*. The shift from "observing the rain" to "shouting over the rain" marks the boundary between good and exceptional performance.
+
+### Signature Moves and Blind Spots
+*   **The "Breathing" Room:** A pervasive habit of personifying spaces (rooms that "sigh," "hold their breath," or "watch"). When used sparingly, it connects theme to place; when overused, it becomes a stylistic tic that distances the reader from physical reality.
+*   **The Luminous Archive:** A fascination with libraries, archives, and storage spaces (jars of breath, shelves of moss). While often beautifully rendered, these settings sometimes encourage passive "looking" rather than active "doing."
+*   **The Tactical Prop:** The best writers consistently arm their protagonists with a tool derived from the setting (a shard of glass, a piece of chalk, a tuning fork) to resolve the conflict.
+
+### High-Band Signals (≈ 8.8+)
+*   **The 9+ Gate (Constraint):** The environment forces a specific physical compromise (e.g., the protagonist must kneel because the ceiling is low, or wait because the fog obscures the path).
+*   **The Charged Closure:** The final sentence re-invokes a specific environmental detail established early on (e.g., the hum of the silo, the glow of the moss), but its meaning has been inverted or deepened by the story’s action.
+*   **Occupational Texture:** The setting feels "lived-in" by a professional. A janitor notices dust differently than a visitor; a pilot notices wind shear. This specificity signals mastery.
+
+### Revision Levers and Keepers
+**Keep:**
+1.  **The Micro-Setting Focus:** Continue anchoring 600-word stories in singular, tactile spaces or objects. This economy is a major asset.
+2.  **Sensory Filtering:** Maintain the habit of routing description through the protagonist’s specific expertise or emotional state.
+3.  **Causal Weather/Lighting:** Protect the way environmental shifts (sunsets, storms) align with and pressurize narrative beats.
+
+**Change:**
+1.  **Test for Constraint:** Review every scene to ensure the setting forbids at least one action or forces a specific physical workaround. If the character can move freely, add an obstruction.
+2.  **Tactile Escalation:** In the climax, shift sensory language from visual (seeing) to haptic (touching, temperature, weight). Force the character to physically handle the setting.
+3.  **Anchor the Surreal:** When using abstract settings (dreamscapes, void-rooms), strictly apply physical rules (gravity, friction, sound) to prevent "floating" narrative logic.

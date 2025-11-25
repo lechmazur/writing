@@ -1,2 +1,47 @@
 grok-4-1-fast-reasoning.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+In the 600–800 word scope (Question 2), the decisive factor separating competent drafts from exceptional fiction is the **legibility of cost at the moment of closure**. While Track A (single continuous scene) remains the dominant and most successful structure, we see effective use of Track B (Mosaic) when the pattern is taught early. The central friction point in this batch lies in the Drive Lens: writers often attempt a Causal structure (A leads to B) but resolve it with Accumulative/Textural logic (density of imagery leads to epiphany) or vice versa. High-performing stories commit to one lens early and hold it without contradiction. Crucially, the 9+ band is reserved exclusively for stories where the closure unit—whether Decisive Change, Resonant Reconfiguration, or Conceptual Repricing—is not merely asserted in summary but enacted through a specific on-page image that proves a price has been paid.
+
+**Strength Profile**
+*   **Accumulative Density:** The strongest pieces leverage the Accumulative/Textural lens effectively, using recurring motifs to build pressure rather than relying on linear plot twists.
+    *   *Evidence:* "density builds via recurring motifs," "cadence shift reweights the stake."
+*   **Resonant Reconfiguration:** Many narratives successfully land this closure type, altering the meaning of the opening state without requiring a massive external plot shift.
+    *   *Evidence:* "reweights the premise," "crystallizes options."
+*   **Rapid Orientation:** High-scoring pieces consistently anchor who, where, and when within the first 50 words, often in the first sentence, waiving potential penalties.
+    *   *Evidence:* "Orientation anchored by line 3," "anchored immediately."
+*   **Charged Imagery:** Closure often relies on a specific, tactile object that embodies the thematic shift.
+    *   *Micro-quotes:* "notebook spent," "foxglove tears," "victory tasted of rust."
+
+**Weakness Profile**
+*   **Frictionless Resolution:** A frequent failure mode is the "magic feather" or "soft reset," where a tool or realization solves the central conflict instantly without resistance, failure, or trade-off.
+    *   *Signals:* "Magic fix-all," "obstacles yield effortlessly," "symmetric satisfaction."
+*   **Orientation Debt:** Stories that delay spatial or character grounding past ~120 words consistently incur deductions, creating a "drift" that the ending cannot recover from.
+    *   *Signals:* "Orientation anchors arrive late," "vague past 120 words."
+*   **Causality Breaks:** Plot points often hinge on convenience (e.g., finding the exact object needed at the exact moment) rather than earned discovery, breaking the "because/therefore" chain.
+    *   *Signals:* "Deus ex machina," "teleporting props," "convenient coincidence."
+*   **Drafting Artifacts:** Several stories failed due to the inclusion of meta-commentary or generation scaffolds in the final text, shattering the fictive dream.
+    *   *Signals:* "word count overrun," "Wait, trim to fit."
+
+**Performance Boundaries**
+The writing excels when it treats the word count as a pressure cooker, forcing a single meaningful tightening or deepening that narrows the protagonist's options. Outcomes flip from strong to weak when the writer substitutes *summary* for *scene* at the climax. If the decisive change happens "over weeks" or is told in a montage, the felt cost evaporates. Conversely, stories that isolate a specific ritual, conversation, or physical task and let the pressure break *that specific moment* consistently score in the high 8s and 9s. The boundary is often defined by whether the protagonist pays a price (loss of innocence, tool, option, or safety) or simply gains a reward.
+
+**Signature Moves and Blind Spots**
+*   **The "Hush" Motif:** A pervasive habit of using "silence," "hush," or "quiet" as a tangible force. When active (a constraint), it works; when passive (atmosphere), it stalls momentum.
+*   **The Lyrical Bypass:** Using dense, poetic language to obscure a lack of causal logic. Writers often hope a beautiful sentence excuses a plot hole.
+*   **Ritual as Plot:** Using a made-up ritual (polishing, weaving, tuning) to structure the narrative. This is a strength when the ritual fails or changes, but a blind spot when it simply succeeds as planned.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Persistent Constraint:** A physical or situational limit established early (e.g., a crumbling cliff, a fading light, a ticking clock) that dictates the final tactical choice.
+*   **Cost Proof:** An exact sentence in the final paragraph where the forfeiture is visible (e.g., "chalk stub clutched," "body pulled into the glow").
+*   **Coherent Lens:** The ending resolves the specific type of tension raised in the beginning (e.g., a Causal mystery ends with a Causal reveal, not a Textural vibe-shift).
+
+**Revision Levers and Keepers**
+*   **Keep:**
+    1.  **Sensory Anchors:** The practice of grounding abstract concepts in physical objects (clocks, shards, seeds).
+    2.  **Single-Scene Focus:** The discipline of staying in one time/place (Track A) yields the highest consistency.
+    3.  **Cadence Shifts:** Using a change in rhythm or sentence structure to signal the climax in Accumulative stories.
+
+*   **Change:**
+    1.  **Dramatize the Pivot:** Convert summary explanations of change into specific, time-bound actions. (Don't say they healed; show the scar tissue forming).
+    2.  **Inject Friction:** Ensure the protagonist fails or faces resistance at least once before the resolution. The solution cannot be the first thing they try.
+    3.  **Scrub Scaffolding:** Ruthlessly delete any meta-text, bracketed notes, or apologies for length; they act as immediate disqualifiers for high-band scoring.

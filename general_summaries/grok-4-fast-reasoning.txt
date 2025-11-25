@@ -1,55 +1,66 @@
 grok-4-fast-reasoning.txt
 1) Executive profile  
 
-Across Q1–Q8, this model’s fiction is defined by clear orientation, strong environmental constraint, and a disciplined commitment to single-POV Track A with occasional, well-taught forays into Track B mosaic or clean Track C multi-POV. Characters are usually driven by a single, legible motivation that tightens under pressure, with micro-choices often grounded in tactile, profession-specific detail (“Elara’s trembling hands tracing the frost,” “Elias kneeling to etch bark as memory falters”). When it works, this produces lucid momentum and closure that feels like **Resonant Reconfiguration** or **Charged Poise/Earned Stasis**: the final image or action visibly reweights the character’s options and the story’s motifs.  
+Across Q1–Q8, Grok 4 Fast Reasoning presents as a stylist with strong command of point of view, setting-as-engine, and motif-driven closure. It reliably works in Track A (single POV, one primary scene or a tight two-shard arc), with occasional, mostly disciplined use of Track B mosaic and Track C multi-POV. Orientation is almost always clear by ~120 words, structural lenses are taught early, and closures usually occur on the page via a charged image or concrete action. As a reader, you nearly always know where you are, what the protagonist wants, and how the final moment reconfigures their stance.
 
-The recurring limitation is a tendency to **announce** rather than dramatize cost and theme at the end. Across plot, conflict, and theme, closures sometimes drift toward conceptual or moralizing summary—“cost remains conceptual—we’re told about ‘acceptance’ but don’t see what she surrenders,” or “‘Vulnerability, embraced, was power incarnate’”—undercutting otherwise meticulous setup. Reflection can swell toward the ceiling; while the model stays within rubric bounds, reflection often carries the emotional meaning instead of the scene’s concrete tradeoffs. Line-level control is generally high, with rich, patterned imagery and flexible rhythm, but it can slide into looped phrasing, over-dense metaphor stacks, or register drift exactly where the story most needs sharpness.  
+The dominant strengths sit at the intersection of embodied interiority, environmental constraint, and line-level craft. Protagonists often filter the world through profession- or habit-specific noticing; micro-choices under pressure (“tracing the cicada at the pool’s edge,” “uncorking the vial,” “clutched the battered coin”) integrate motivation, setting, and stakes. Setting is frequently indispensable—storm-damaged greenhouses, underwater libraries, frost patterns, and beaded valve wheels constrain tactics and charge the closing image. Voice and prose are typically clean, vivid, and rhythmically modulated to pressure, with closure images that reprise motifs and reweight earlier material.
 
-Overall, this is a stylist with strong lens discipline, vivid setting-as-engine, and thoughtful thematic integration. Closure usually lands structurally (no off-stage endings, orientation remains clear), but it does not always *land with cost*. The difference between solid and publication-grade is almost always in the final third: on-page sacrifice vs. conceptual resolution; image-led subtext vs. explicit thesis.  
+The main limitations cluster around cost, escalation, and abstraction. Across character, plot, conflict, and theme, the model has a recurring tendency to *tell* about transformation and cost (“acceptance,” “solitude as shield,” “vulnerability is power”) rather than dramatize a concrete loss or foreclosed path. Escalation often plateaus after a single tightening; pressure can remain atmospheric or intellectual rather than viscerally narrowing options. At the prose level, abstract “label-speak,” synonym churn, and over-dense figurative stacks sometimes blur peak moments. When these habits converge—conceptual closure, soft escalation, thesis-like final lines—the stories feel aesthetically polished but emotionally undercharged.
+
+Track usage is generally sound: most alternations of lens or POV are taught and segmented; track-test failures (untaught shards, mid-scene drift, meta scaffolding) are real but rare. Closure almost always *appears*—you get a final image, a gesture, a decision—but the *felt* cost of that closure is inconsistent. The model’s signature move is a meticulously textured single-POV vignette where world, object, and body together press the protagonist into a small but resonant choice; it stumbles when it reaches for big thematic declarations or convenient solutions instead of letting that pressure bite.
+
+---
 
 2) Portfolio map  
 
-Q1 Character — Mixed · Embodied micro-choices strong; closures sometimes lack simultaneous conflicting impulses and felt loss  
-Q2 Plot/Causality — Mixed · Lenses taught cleanly; escalation and on-page cost often too soft or convenient  
-Q3 Setting — Strong · Environments/tools constrain choice and charge closure; rare decorative-only backdrops  
-Q4 Conflict/Stakes — Mixed · Dominant stakes clear; escalation/cost often abstract, plateauing after first tightening  
-Q5 Theme/Subtext — Mixed · Motifs carry meaning well; final paragraphs sometimes moralize or echo theme explicitly  
-Q6 Voice/POV — Strong · Tight focalization, character-filtered diction; meta-asides and generic lyric occasionally intrude  
-Q7 Prose/Line-level — Mixed · High information density and rhythmic control; loops and figurative overload at peaks  
-Q8 Originality/Ingenuity — Mixed · Inventive syntheses and idiosyncratic mechanisms; resolutions lean to familiar, low-risk patterns  
+Q1 Character — Mixed · Clear motivation; cost & secondary pressure often underdramatized  
+Q2 Plot/Causality — Mixed · Lens and closure clear; escalation and cost sometimes conceptual  
+Q3 Setting — Strong · Environments/tools constrain action and charge closure images  
+Q4 Conflict/Stakes — Mixed · Stakes signaled early; escalation plateaus, cost often gentle  
+Q5 Theme/Subtext — Mixed · Motif-driven subtext strong; final-paragraph moralizing undercuts resonance  
+Q6 Voice/POV — Strong · Tight focalization, character-filtered diction, rhythmic modulation under pressure  
+Q7 Prose/Line-level — Mixed · Dense, vivid lines; loops, overwriting, and label-speak in peaks  
+Q8 Originality/Ingenuity — Mixed · Inventive syntheses; resolutions and archetypes sometimes feel templated  
+
+---
 
 3) Signature moves  
 
-- Treating setting or micro-setting as an active engine—“storm-damaged greenhouse,” “underwater library,” “beaded valve wheel”—that physically constrains tactics and charges the last image.  
-- Using profession-specific or habit-based perception to fuse character and prose: “protagonists filter the world through their work/tools/habits,” like frost as “translucent canvas” or tech as “perceptual preprocessor.”  
-- Establishing who/where/when early (often within 80–120 words) so even dense lyric surfaces sit atop solid spatial and temporal clarity.  
-- Returning to a small emblematic object (bowl, cracked saucer, arrowhead, coin) whose reprise at closure non-literally answers the story’s thematic question.  
-- Rhythm that modulates with pressure—long, sinuous sentences in calm; clipped fragments when “oxygen [is] dwindling to minutes” or “heat threatened dissolution.”  
-- Closure images that reprise and transform an earlier setting or motif (“glass panes’ frost-veins,” “circling fog”) rather than introducing new symbols at the end.  
+- Treats setting as an active engine: storm-damaged greenhouses, underwater libraries, domes, frost patterns, and recurring objects (“beaded valve wheel,” “cracked plate”) genuinely constrain choices and reshape tactics at climax.  
+- Embeds motivation in tactile micro-choices and profession-specific perception: protagonists filter events through tools, crafts, and methods (“heat-map visualization,” “drumming,” “frost as translucent canvas”), making interiority concrete.  
+- Lands closure through motif reprise and charged images rather than summary—“the cracked saucer’s conclusion, breathing grace,” or a final gesture that non-literally answers the story’s question.  
+- Maintains disciplined POV and voice: close third with “prose as character,” where syntax and diction (“fragrant hush of brewing tea,” “frost-laced regolith”) reflect a distinct perceptual bias and modulate with pressure.  
+- Uses accumulative/textural structures well: motifs accrete, constraints persist, and a single, decisive before/after moment reconfigures stance in a way that feels formally coherent.  
+
+---
 
 4) Failure modes  
 
-- **Conceptual or cost-lite closure:** Stories assert change (“Elara realizes solitude is a shield,” “Elias accepts peace”) but don’t dramatize what is lost, surrendered, or risked; options aren’t visibly foreclosed.  
-- **Thematic echo and moralizing finals:** Last lines explain the theme—“a ‘thematic echo,’ a moralizing summary”—replacing earned ambiguity and subtext with thesis.  
-- **Plateaued escalation:** After an initial tightening, pressure becomes “more atmospheric than pressurized”; middle beats are interpretive rather than tactical, and stakes do not materially rise.  
-- **Convenient solutions and coincidence:** Artifacts, confessions, or environmental shifts appear late (“ghost’s unprompted confession,” “artifact’s sudden arrival”) to resolve conflict without being seeded as constraints.  
-- **Line-level artifact and density issues:** Paraphrase loops (“‘preemptively nostalgic’ 4x”), template cadences (“She [verb]... She [verb]...”), or over-stacked metaphors at climax blur action and sap immediacy.  
-- **Meta-intrusions and register drift:** Bracketed comments (“Wait, that's over—trimming back”), or abstract diction (“conceptual repricing,” “cosmic imbalance”) pierce POV and undercut the otherwise character-rooted voice.  
+- Closure without dramatized cost: endings assert acceptance, healing, or insight, but “cost remains conceptual—we’re told about ‘acceptance’ but don’t see what she surrenders”; final choices rarely foreclose a path in a visible, nontrivial way.  
+- Escalation plateaus: stories introduce a dominant stake and one tightening, then hover—“pressure accumulates but is more atmospheric than pressurized”; no secondary reversal, resource loss, or tactical failure sharpens conflict.  
+- Abstract label-speak and thematic echo: traits and insights are labeled (“quietly resilient,” “vulnerability, embraced, was power incarnate”) and themes are restated in final lines, replacing earned subtext with thesis.  
+- Overwritten or muddled peak beats: at climaxes, metaphor stacks and synonym churn (“luxuriant, brooding hush of symphonic relinquishment…”) obscure physical logic and sap momentum where one precise image would suffice.  
+- Convenience in resolution: ghosts confess unprompted; artifacts or disclosures arrive late and unearned, solving problems without the protagonist paying a price or adapting strategy.  
+- Occasional track-test artifacts: untaught extra shards, mosaic blur, or meta-commentary (“Wait, that's over—trimming back”) breaking immersion and undermining structural integrity, especially damaging in the final third.  
+
+---
 
 5) When it shines / when it breaks  
 
-This writer shines when there is a **tight triad** of constraint, motivation, and motif. If an environment or object genuinely limits choices, a protagonist’s desire is clear and under pressure, and a recurring image can be brought back with new meaning, the story reliably delivers a satisfying, legible closure. Track A accumulative lenses work particularly well when density-building is coupled to a ticking constraint—frost melting, light fading, breath thinning—and the final micro-choice with that object or environment embodies real tradeoff. Theme emerges cleanly in these cases because it’s embedded in what the character *does* in that crucible, not what they conclude about it.  
+It shines when story design is modest in scope but rigorous in pressure: a single POV, a constrained environment or object, and a dominant stake that is worked through concrete, sensory micro-choices. In these pieces, setting and tool are inseparable from conflict; motif returns at closure with altered charge; voice stays tightly tethered to character lexicon; and the final image embodies both change and cost without saying the moral out loud.
 
-The work breaks when the story leans on **abstraction instead of dramatization** just as it approaches resolution. If middle beats retreat into reflection, if conflict is solved by an unearned discovery or benevolent force, or if the final paragraph succumbs to thesis and purple diction, the meticulous groundwork in setting, voice, and motif cannot fully pay off. Similarly, originality lags when inventive premises aren’t followed through to risky consequences—when a clever mechanism could be swapped into another plot without changing much, or when endings default to reconciliation or gentle endurance rather than specific, costly change.  
+It breaks when the model reaches past its on-page evidence to impose conceptual closure. As soon as cost, theme, or transformation are handled via abstract language, tidy moralizing, or coincidental rescue—rather than on-page sacrifice or tactical risk—pressure collapses. Likewise, overindulgence in lyric density, repetition, or meta-scaffold in the final third turns otherwise strong vignettes into clever but emotionally thin exercises. The more the story leans on atmosphere, thesis, or genre template instead of letting environment and choice bite, the more fragile it becomes.
+
+---
 
 6) Keep vs. adjust  
 
 • Keep  
-- Binding setting, tools, or micro-objects directly to constraint and closure so that removing them would collapse the story’s logic.  
-- Using character-specific perception and diction—profession, habit, and bias shaping what is noticed and how it’s described.  
-- Building thematic resonance through recurring, pressure-bearing motifs and closure images that non-literally answer the core question.  
+- Using environment, body, and recurring objects as genuine constraints that shape tactics and charge the closing image.  
+- Grounding character and theme in specific, tactile micro-choices filtered through profession- and flaw-specific perception.  
+- Maintaining tight, character-driven voice and POV, with rhythmic modulation that tracks rising or falling pressure.  
 
 • Adjust  
-- In the final third, **show cost on the page**: engineer a concrete act (renunciation, risk, sacrifice) that forecloses a path; don’t let “acceptance” or “healing” remain conceptual.  
-- Strip final-paragraph thesis and abstract language; replace moralizing or echo lines with one precise, earned image or gesture that lets subtext stand.  
-- Prune loops and density at peak beats: remove redundant phrases, cut excess metaphors, and ensure climactic sentences remain concrete, uncluttered, and fully inside the character’s plausible register.
+- At closure, replace abstract insight with a concrete tradeoff: stage a visible loss, renunciation, or risk that forecloses an option and ties back to earlier flaw or desire.  
+- In the middle third, force escalation to bite: introduce a tactical failure, resource loss, or new constraint so pressure does not remain purely atmospheric or reflective.  
+- Strip final-paragraph moralizing, label-speak, and figurative clutter; end on one precise, motif-charged image or gesture that lets subtext and cost resonate without explanation.

@@ -1,2 +1,38 @@
 kimi-k2-thinking.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The central differentiator in this cohort is the movement from **diagnostic characterization** to **embodied contradiction**. High-performing stories (Track A mostly, occasional Track B) anchor motivation in a specific vocational or sensory lens, where the character’s internal conflict plays out through tactile micro-choices rather than abstract reflection. When the writing fails, it relies on "label-speak"—telling the reader a character is "cautiously hopeful" or "quietly rebellious"—rather than dramatizing those traits through friction. The most successful pieces bypass tidy epiphanies in favor of **Earned Stasis** or **Renunciation**, where the protagonist accepts a difficult truth or forecloses a safer path with visible cost. In short: the best characters do not *realize* things; they *do* things that force them to become something else, often losing a piece of themselves in the process.
+
+**Strength Profile**
+*   **Occupational Interiority:** The strongest characters filter the world through their specific craft (e.g., a clockmaker who sees people as escapements, a glassblower who understands breath). This grounds abstract feelings in concrete nouns.
+    *   *Micro-quotes:* "hands were permanent wrinkles of silt and sorrow"; "mechanically warm hands"; "screaming tenderness held behind her teeth."
+*   **Tactile Rituals:** Interior states are effectively externalized through repetitive, grounding actions—polishing lenses, winding gears, tracing scars—rather than internal monologue.
+*   **Earned Stasis:** Many stories successfully land on a "Credible Endurance" closure, where the protagonist chooses to carry a burden rather than magically fix it. This scales well to the 600-800 word count.
+*   **Micro-choices under Pressure:** High-scoring narratives force characters to make small, irreversible decisions in the middle of a scene (e.g., choosing *not* to speak, or *dropping* the tool) that reveal a hierarchy of values.
+
+**Weakness Profile**
+*   **Diagnostic Label-Speak:** A pervasive reliance on therapy-adjacent language to summarize complex states. Phrases like "she felt a surge of closure," "he processed his grief," or "her resilience was tested" appear frequently in the climax, flattening the emotional peak into a report.
+*   **Frictionless Competence:** Too many protagonists are hyper-competent professionals who solve the plot’s problem without their personal flaws ever getting in the way. If the character’s internal struggle doesn’t cause them to hesitate, err, or suffer, the victory feels unearned.
+*   **The "Prop" Antagonist:** Secondary characters often function as passive recipients of the protagonist's wisdom or help, rather than applying **relationship pressure** that forces a difficult choice.
+*   **Abstract Motivation:** Motivations stated as "to find meaning" or "to honor the past" often lack a concrete, immediate objective, leading to wandering middles.
+
+**Performance Boundaries**
+The writing excels when **contradictory impulses act simultaneously** in a single beat. For example, a character who *wants* to scream but *chooses* to whisper demonstrates depth through action. The writing breaks when these impulses are handled sequentially (first she felt fear, then she felt brave) or via summary. The boundary is also defined by **cost**. If a character changes their mind or achieves their goal without forfeiting something visible on the page (status, safety, a cherished belief, a physical object), the arc registers as a low-stakes "vignette" rather than a story.
+
+**Signature Moves and Blind Spots**
+*   **The Melancholy Archivist:** A recurring archetype of a solitary figure tending to a dying world/machine. While atmospherically strong, these characters often lack active agency, observing change rather than driving it.
+*   **The Epiphany Trap:** Characters frequently have a moment of "sudden understanding" in the final paragraph that resolves their internal conflict. This often reads as authorial intervention rather than a character-driven realization earned through struggle.
+*   **Sensory Overload vs. Emotional Void:** The writing is often rich in sensory description (light, dust, rust) but sparse in visceral, messy emotion (jealousy, pettiness, panic), making characters feel like noble statues.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Simultaneity of Impulse:** The narrative shows the character wanting two mutually exclusive things in the exact same moment (e.g., the urge to destroy the artifact vs. the urge to worship it) without explaining the conflict.
+*   **Irreversible Micro-Choices:** The character takes a small physical action (e.g., burning a letter, breaking a seal) early or mid-scene that forecloses the "safe" ending, raising the stakes organically.
+*   **Flaw-Driven Causality:** The resolution is shaped not just by the character’s strengths, but by their specific blind spots or limitations (e.g., a character who cannot let go *must* become a statue).
+
+**Revision Levers and Keepers**
+*   **Keep:** The intense focus on **occupational texture**. Using a character's job to metaphorize their soul is working.
+*   **Keep:** The instinct for **Earned Stasis**. Endings where the problem isn't "fixed" but "endured differently" are resonating.
+*   **Keep:** The use of **tactile anchors** (objects the characters hold/manipulate) to ground scenes.
+
+*   **Change:** **Excise "realization" verbs.** Replace "she realized/understood/felt" with an action that *proves* the realization (e.g., instead of "she realized she was free," have her unlock the door and leave it open).
+*   **Change:** **Sharpen the cost.** Ensure the protagonist loses something concrete (an object, a relationship, a comforting lie) to achieve their ending.
+*   **Change:** **Messier impulses.** Give characters a moment of selfishness, cowardice, or irrationality mid-story to break the "noble observer" mold and force a harder recovery.

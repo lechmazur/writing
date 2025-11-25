@@ -1,2 +1,40 @@
 gpt-5.1-medium.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The defining characteristic of high-performing stories in this cohort is the successful transmutation of abstract motivation into **embodied micro-choices**. The most resonant pieces do not merely state a character’s drive (e.g., "he wanted to save the library"); they force that drive to collide with a contradictory impulse in real-time, creating a spark of friction visible on the page. Stories that score in the 9-band consistently pass the "quick test": contradictory impulses act simultaneously in the scene, and the final choice—often a renunciation or an acceptance of burden—is earned by prior causality with a cost that feels physical rather than theoretical. While Track A (Single-POV) remains the dominant and most successful mode, the strongest pieces leverage their constraints to show that a character’s professional identity (whether bone-setter, clock-winder, or mapmaker) is not just a hat they wear, but the specific lens through which they distort and reconstruct the world under pressure.
+
+**Strength Profile**
+*   **Profession-Specific Perception:** The strongest characterization filters interiority through the protagonist's unique trade or trauma. A mapmaker sees grocery lists as geometry; an archivist feels silence as "weight on the ribs." This avoids generic observation and grounds the narrative voice.
+*   **Embodied Interiority:** High-scoring stories eschew emotion labels for visceral sensation. Instead of "feeling anxious," a character feels "a twitch in the fingers" or "a cool ache under the ribs."
+*   **Tactile Anchors:** Motivations are frequently externalized through interaction with specific objects—a burning nut in a pocket, a cracked lens, or a heavy key. These objects serve as focal points for internal conflict.
+    *   *Micro-quote:* "tasting the words like a key made of dust"
+    *   *Micro-quote:* "knuckles knotting into bark"
+    *   *Micro-quote:* "grief like a tuning fork"
+*   **Earned Stasis/Renunciation:** Given the short word count, many successful arcs conclude not with a massive external victory, but with a costly decision to *endure* or *witness*. This "Earned Stasis" works because the character actively chooses to hold their ground against a competing desire to flee or fix.
+
+**Weakness Profile**
+*   **Diagnostic Label-Speak:** The most persistent failure mode is the reliance on therapeutic or abstract language to summarize state. Phrases like "he processed his grief" or "she felt a sense of closure" flatten the dramatic peak. This creates distance exactly when the reader needs immersion.
+*   **Asserted vs. Dramatized Traits:** Stories often claim a character is "whimsical" or "ruthless" in the opening lines but fail to provide a scene where that trait forces a difficult choice. The trait remains a costume rather than a constraint.
+*   **The "Functional" Antagonist:** In stories with secondary characters, the second figure often exists solely to ask prompt questions or validate the protagonist's epiphany. They lack their own pressure or agenda, failing to create a true "relationship as crucible."
+*   **Costless Epiphanies:** Closures that arrive via a sudden realization without a corresponding sacrifice. If a character changes their worldview without losing something (safety, status, a cherished illusion), the arc feels unearned.
+
+**Performance Boundaries**
+The writing excels when **competence collides with helplessness**. Characters who are highly skilled at one specific thing (repairing clocks, decoding languages) are forced into situations where that skill is both their only tool and insufficient for the emotional problem at hand. This generates organic tension. The writing breaks when characters are **passive observers** of magical phenomena. If a protagonist simply watches a ghost, listens to a speech, and then feels "healed," the story collapses into vignette. Agency is the dividing line: the character must make a choice that forecloses other possibilities, even if that choice is simply to stay still when every instinct screams to run.
+
+**Signature Moves and Blind Spots**
+*   **The "Quiet Professional":** A pervasive habit of casting protagonists as solitary craftspeople (archivists, watchmakers, gardeners). While atmospheric, this can lead to a lack of interpersonal friction.
+*   **Metaphor Overloading:** A tendency to let lyricism drown out psychological realism. When a character's internal monologue becomes a dense thicket of similes, the immediate pressure of the scene dissolves.
+*   **The "Soft" Ending:** Many stories default to a gentle, contemplative fade-out. While valid, this often misses the opportunity for a sharper, more decisive "snap" of closure where a value hierarchy is violently rearranged.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Simultaneous Contradiction:** The protagonist wants two mutually exclusive things (e.g., to protect a memory vs. to survive the present) in the *same beat*, not sequentially.
+*   **Visible Foreclosure:** The final action clearly destroys a potential future. We see the path they *didn't* take wither away because of the choice they made.
+*   **Physicalized Cost:** The price of the decision is registered in the body—trembling hands, exhaustion, a change in breathing rhythm—proving the stakes were real.
+
+**Revision Levers and Keepers**
+*   **Keep:** The sensory specificity of the "professional lens." If a character is a baker, let them describe heartbreak in terms of dough and heat.
+*   **Keep:** The use of tactile talismans (keys, stones, shards) to ground abstract emotions.
+*   **Keep:** The pacing of "Earned Stasis," allowing characters to settle into a new, harder reality rather than fixing everything.
+
+*   **Change:** Hunt down every instance of "realized," "understood," or "felt." Replace the mental verb with a physical action or a sensory detail that implies the realization.
+*   **Change:** If a secondary character is present, give them a conflicting goal. Make them an obstacle to the protagonist's comfort, not a midwife to their epiphany.
+*   **Change:** Review the climax. Does the character pay a price? If they gain insight for free, rewrite the scene to demand a sacrifice—of pride, of a treasured object, or of a comforting lie.

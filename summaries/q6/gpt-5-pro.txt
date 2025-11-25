@@ -1,2 +1,45 @@
 gpt-5-pro.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+# Question 6: Voice & Point of View – Editorial Brief
+
+**Executive Insight**
+The cohort demonstrates exceptional command of **lyric-vocational voice**, where narrative identity is constructed through a specific trade or obsession (e.g., clockmaking, archiving, deep-sea diving). The most successful pieces (Tracks A and C) achieve a “perceptual signature” where the narrator’s lexicon filters every observation—light is read as data, silence as weight, and memory as texture. Reader impact is highest when this lyricism **modulates under pressure**: the best stories tighten their syntactic rhythm during crisis (short, percussive clauses) and expand during reflection, rather than maintaining a static “high poetic” drone. Closure reliably lands when early metaphorical patterns (e.g., threading, tasting, mapping) evolve into literal or emotional resolution without slipping into expository summary.
+
+**Strength Profile**
+*   **Distinct Perceptual Signature:** Narrators filter sensory input through their profession. A glazier sees the world in “stress lines” and “cooling rates”; a musician hears “intervals” in conversation. This creates immersive, character-specific worldbuilding without info-dumps.
+    *   *Micro-quotes:* “frost is a quiet cartographer,” “breath sparking like tin shavings,” “mouth wore river stones.”
+*   **Rhythmic Modulation:** High-scoring pieces vary sentence length to mirror mental states. Long, sinuous sentences capture reverie or ritual, while staccato fragments mimic panic or decisive action.
+*   **Lexical Consistency:** Diction remains tightly bound to the focalizer’s plausible vocabulary. A mechanic uses “torque” and “seize” even when describing heartbreak; a botanist uses “graft” and “wilt.”
+*   **Purposeful Compression:** Elision is treated as a stylistic device taught early (e.g., omitting dialogue tags or transitional mechanics) rather than a defect, paying off in clean, resonant closure.
+    *   *Micro-quotes:* “riverbeds left in the air,” “silence has weight.”
+
+**Weakness Profile**
+*   **Register Uniformity:** The most common failure in strong pieces is a relentless “high lyric” mode that never breaks. When a character faces mortal danger, the prose remains as ornate and meditative as it was in the opening, flattening the sense of urgency.
+*   **Academic/Abstract Drift:** Narrators occasionally slip into “workshop register” or therapy-speak, using terms like *intersubjective*, *conceptual repricing*, or *contextual clues* that clash with their established sensory idiom.
+*   **Voice Convergence:** Dialogue often sounds identical to the narration. Characters speak in perfectly formed aphorisms (“Exile is a corridor...”) that mirror the narrator’s internal monologue, erasing distinction between speakers.
+*   **Metaphor Saturation:** In weaker moments, figurative density obscures physical causality. When actions are described solely through metaphor (e.g., “gravity braided the room”), the reader loses track of what is physically happening.
+*   **Filter Verb Clusters:** Use of “I felt,” “I saw,” and “I realized” occasionally spikes in middle sections, distancing the reader from immediate sensation right when immersion is most needed.
+
+**Performance Boundaries**
+This writing excels when the **prose behaves as character**. The syntax itself should perform the narrator’s state of mind—fracturing when they are confused, looping when they are obsessive, and stabilizing when they find resolve. The writing breaks when it prioritizes **“poetic sound” over focalization**. If a rough-hewn scavenger starts using words like *ephemeral* or *luminescent* without cause, or if a high-stakes action scene is rendered in slow, lulling anaphora, the voice detaches from the dramatic moment, becoming an authorial overlay rather than an embodied experience.
+
+**Signature Moves & Blind Spots**
+*   **The Synesthetic Professional:** A signature habit of crossing sensory wires based on vocation (e.g., a musician who “hears” color, a chef who “tastes” lies).
+*   **The Collective “We”:** Frequently used to establish a communal baseline before zooming in on a singular focalizer; usually stable, though sometimes risks generalizing emotion.
+*   **The Lyric Elision:** Skipping technical explanations in favor of metaphorical outcomes.
+*   **Blind Spot:** **The Aphoristic Dialoguist.** Characters often deliver thematic thesis statements in conversation rather than pursuing natural, subtext-laden goals.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Rhythmic Mimicry of Thought:** The sentence structure physically enacts the narrator’s psychology (e.g., a logical character using "if/then" structures under stress; an anxious character using comma splices).
+*   **POV Modesty:** The narrator strictly limits inference to what they can know. Instead of omnisciently stating another’s feelings, they observe physical tells (“his hands opened like a ledger”).
+*   **Costly Closure:** The voice does not explain the ending; it embodies the change through a shift in lexicon or rhythm that recalls the opening pattern but alters it.
+
+**Revision Levers & Keepers**
+*   **Keep:**
+    1.  **Vocational Metaphors:** Continue anchoring imagery in the character’s trade (tools, materials, processes).
+    2.  **Patterned Elision:** Maintain the habit of skipping mundane transitions if the pattern is established in the first paragraph.
+    3.  **Subtextual Dialogue:** Protect lines where characters talk *around* the truth rather than stating it.
+
+*   **Change:**
+    1.  **Rough Up the Rhythm:** In the climax, deliberately break the “pretty” cadence. Use fragments, repetition, or blunt declarations to signal pressure.
+    2.  **Audit for Abstraction:** Search for abstract nouns (e.g., *possibility, transformation, dynamic*) and replace them with sensory details specific to the POV.
+    3.  **Differentiate Dialogue:** Ensure the supporting character has a distinct vocabulary or sentence length from the narrator to prevent "voice echo."

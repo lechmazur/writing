@@ -1,2 +1,44 @@
 gemini-3-pro-preview.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Editorial Brief: Plot, Structure & Causality (Q2)**
+
+**Executive Insight**
+The corpus demonstrates a high proficiency in establishing and maintaining a coherent **Drive Lens**, with the majority of 600–800 word stories successfully adhering to Track A (single continuous scene). The central differentiator between competent execution (Band 7) and exceptional resonance (Band 9) is the application of the **Cost Proof Test** at closure. While most pieces achieve a legible “Decisive Change” or “Resonant Reconfiguration,” the lower-performing tier relies on linear procedurals where success feels inevitable or symmetric—problems are solved without friction. The upper tier distinguishes itself by forcing the protagonist to pay a visible, on-page price (a forfeited option, a destroyed artifact, or an irrevocable social rupture) to secure the ending. Mastery here lies not in the complexity of the plot, but in the tangibility of the sacrifice required to resolve it.
+
+**Strength Profile**
+*   **Swift Orientation:** Writers consistently anchor *who*, *where*, and *when* within the first 120 words, often establishing the inciting constraint (e.g., oxygen limits, approaching storms) immediately.
+*   **Lens Consistency:** Stories rarely drift between modes. Whether operating under a **Causal** chain (because/therefore) or an **Accumulative/Textural** build (density/pattern), the internal logic remains stable from start to finish.
+*   **Legible Closure Units:** Endings are distinct. Writers frequently land **Conceptual Repricing** or **Charged Poise**, successfully reweighting the story’s premise rather than just stopping the action.
+*   **Micro-Quotes:**
+    *   Cost embodied physically: "chest heaving" or "trembling fingers."
+    *   Reconfiguration of stakes: "heavier than any lie."
+    *   Finality of change: "sealed the map of his grief."
+
+**Weakness Profile**
+*   **Symmetric Satisfaction:** A recurring anti-pattern where the protagonist solves the problem perfectly with no residual scar or trade-off. The ending restores the status quo (Soft Reset) rather than reconfiguring it.
+*   **Linear Procedurals:** Stories that move from *Problem* $\to$ *Method* $\to$ *Solution* without a **Meaningful Tightening**. These narratives lack a mid-scene complication or reversal that forces the protagonist to adapt their tactics.
+*   **Abstract Cost:** Closure where the price paid is stated intellectually ("he felt the weight of history") rather than dramatized physically or socially. If the cost cannot be pointed to on the page, the emotional resonance evaporates.
+*   **Convenient Magic:** Resolutions that rely on tools or abilities introduced solely to solve the climax (e.g., a specific frequency that instantly fixes a machine), bypassing causal friction.
+
+**Performance Boundaries**
+The writing excels when it embraces **persistent constraints**. Stories where a physical limit (a fading battery, a rising tide, a single bullet) shapes every tactical choice generally land in the high bands because the constraint forces a non-obvious resolution. The writing breaks when it relies on **unearned aptitude** or **coincidence**. If a character resolves the central conflict simply because they are "good at their job" or because an external event (e.g., an eclipse) happens on schedule without their influence, the structure flattens into a vignette rather than a dramatic arc.
+
+**Signature Moves and Blind Spots**
+*   **The Artifact Repair:** A frequent habit of mirroring internal healing through the repair of a physical object (clock, robot, toy). This works well for **Resonant Reconfiguration** but risks becoming formulaic if the repair process lacks setbacks.
+*   **The Atmospheric Pivot:** Reliance on sensory shifts (fog clearing, silence falling) to signal closure. While effective under an **Accumulative** lens, it often disguises a lack of causal agency.
+*   **Blind Spot:** Underestimating the "Tightening." Many stories skip the moment where the plan goes wrong, moving straight to the solution.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Irreversible State Change:** The final image proves the world or the character cannot return to the opening state (e.g., a bridge is destroyed, a secret is shouted).
+*   **Physicalized Cost:** The price of the ending is stamped on the protagonist’s body or immediate environment (e.g., a burned hand, a shattered tool) rather than just their thoughts.
+*   **Lens Payoff:** If the story teaches a specific pattern (e.g., "entropy increases"), the ending pays it off with a climactic beat that rigorously obeys that rule.
+
+**Revision Levers and Keepers**
+*   **Keep:**
+    1.  **Early Anchoring:** Maintain the habit of establishing the scene and stakes within the first paragraph.
+    2.  **Single-Scene Scope:** Protect the Track A focus; avoiding time jumps preserves tension.
+    3.  **Thematic Consistency:** Continue aligning the resolution method with the established tone (lyrical solutions for lyrical problems).
+
+*   **Change:**
+    1.  **Sharpen the Midpoint:** Insert one specific failure or complication halfway through that forces the protagonist to abandon their first plan.
+    2.  **Concretize the Cost:** Rewrite endings to ensure the protagonist loses something tangible (an object, a relationship, a physical capacity) to gain the resolution.
+    3.  **Eliminate "Magic Keys":** Replace solutions based on sudden, convenient items with solutions that repurpose elements established in the first 200 words.

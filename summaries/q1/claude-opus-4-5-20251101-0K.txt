@@ -1,2 +1,46 @@
 claude-opus-4-5-20251101-0K.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+Here is a synthesis of the editorial feedback for Question 1, focusing on Characterization and Motivation under the Global Scope Defaults.
+
+### Executive Insight
+The defining struggle in this batch is the tension between **dramatized interiority** and **diagnostic summarization**. The strongest pieces (9.0+) anchor character motivation in specific vocational habits—archivists, clockmakers, weavers—where the internal conflict is “metabolized” through concrete micro-choices (e.g., a hand trembling while calibrating a machine) rather than explained via introspection. A recurring pattern of success is **Earned Stasis**: characters who do not necessarily change their outer circumstances but recommit to a burden or duty after a visible, costly struggle. However, a significant portion of the work relies on “diagnostic label-speak”—where the narrator acts as a therapist, labeling emotions (e.g., "she felt a luminous regret") rather than allowing the reader to feel them through sensory details. For the reader, this creates a glass wall; they understand the character’s blueprint but do not feel the heat of their choices.
+
+### Strength Profile
+*   **Vocational Filtering:** The most distinct voices filter perception through a specific trade or craft. Characters don’t just see the world; they measure it like a tailor, listen to it like a tuner, or catalog it like an archivist.
+    *   *Micro-quote:* “fingers trailing rust and salt”
+    *   *Micro-quote:* “catalogued it like she catalogued Sumerian verb forms”
+*   **Micro-Choices under Pressure:** High-scoring stories use small physical actions to reveal value hierarchies. A character hesitating to burn a letter reveals more than three paragraphs of backstory about why the letter matters.
+*   **Contradictory Impulses:** The best interiority shows simultaneous, opposing drives in a single beat—wanting to flee while stepping forward, or weeping while working with steady hands.
+    *   *Micro-quote:* “terror and peace existed simultaneously”
+*   **Earned Stasis/Renunciation:** Many successful arcs end not with a victory, but with a costly acceptance. The character forecloses a “happy” or “easy” path to maintain their integrity.
+
+### Weakness Profile
+*   **Diagnostic Label-Speak:** This is the most pervasive anti-pattern. Narrators frequently summarize complex emotional states with abstract adjectives or therapeutic phrasing, especially at peak moments.
+    *   *Signals:* “perceptively calm,” “luminous skeptic,” “fortified vulnerability,” “confidently uncertain.”
+*   **Frictionless Competence:** Protagonists often solve problems too easily. When a character is hyper-competent and faces no internal doubt or external failure, they become a function of the plot rather than a person.
+*   **The "Sudden Epiphany":** Resolutions often hinge on a character simply "realizing" or "understanding" the theme in the final paragraph, rather than being forced into a realization by a hard choice or consequence.
+    *   *Signals:* “She understood then,” “He realized with sudden clarity.”
+*   **Abstract Cost:** Characters often make sacrifices that are stated but not felt. Giving up a memory or a future potential feels weightless unless we see the immediate, visceral sting of that loss on the page.
+
+### Performance Boundaries
+The writing excels when **motivation is externalized through objects and setting.** When a character’s internal conflict is mapped onto a broken clock they are fixing or a garden they are tending, the story works. The writing breaks when it **retreats into the mind to explain itself.** If the narrative pauses the action to deliver a paragraph-long thesis statement on the nature of grief or memory, the tension evaporates. The boundary is the difference between *showing* a character struggling to hold a cup because they are shaking (embodied) and *telling* us they are "overcome with anxiety" (diagnostic).
+
+### Signature Moves & Blind Spots
+*   **The "Luminous" Crutch:** The word "luminous" (and variations like "radiant," "shimmering") is overused to describe emotional breakthroughs, often substituting for specific sensory details.
+*   **The Archetypal Professional:** Characters are frequently defined by high-concept jobs (Soul-Keepers, Time-Weavers). While this provides good texture, it can lead to "stock" personalities where the job title replaces personality traits.
+*   **The Passive Observer:** Too many protagonists spend the story watching a magical event unfold and then feeling a feeling about it, rather than driving the action through active decisions.
+
+### High-Band Signals (≈ 8.8+)
+*   **Simultaneity of Impulse:** The character wants two mutually exclusive things in the exact same moment, and the prose captures the friction (e.g., reaching for a weapon while wishing for peace).
+*   **Irreversible Foreclosure:** The ending choice creates a permanent change in the character's world or self-conception. They cannot go back to who they were on page one.
+*   **Tactile Closure:** The story ends with a concrete physical sensation or action that grounds the thematic resolution (e.g., the weight of a key, the cold of the snow), avoiding abstract summary.
+
+### Revision Levers and Keepers
+**Keep:**
+1.  **Occupational Lenses:** Continue filtering descriptions through the character’s specific expertise (e.g., a musician hearing the "pitch" of the wind).
+2.  **Tactile Anchors:** Maintain the use of physical objects (lockets, tools, stones) to ground emotional shifts.
+3.  **Ambivalent Endings:** Protect resolutions that prioritize "earned endurance" or complex acceptance over happy endings.
+
+**Change:**
+1.  **Excise Labels:** Search for adjective-noun pairings that diagnose emotion (e.g., "quiet desperation," "brittle hope") and replace them with an action or physical sensation.
+2.  **Dramatize the Epiphany:** Cut sentences starting with "She realized" or "He understood." Force the character to *do* something that proves they understand, rather than thinking it.
+3.  **Sharpen the Cost:** Ensure the final choice hurts. If a character gives something up, show the moment of hesitation and the pain of release, not just the aftermath.

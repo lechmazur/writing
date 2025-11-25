@@ -1,2 +1,50 @@
 glm-4-6.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Editorial Brief: Question 7 (Prose & Line-Level Craft)**
+
+**Executive Insight**
+The defining characteristic of high-performing stories on this axis is **information density paired with propulsion.** The most successful pieces do not merely describe; they multitask. A single sentence in the upper bands will simultaneously anchor the setting, characterize the protagonist, and advance the narrative clock (e.g., “fingertips tracing the delicate patterns embroidered by dawn's light”). Conversely, the most common failure mode is **inflation**: the accumulation of “paraphrase loops” where a second sentence merely restates the first in different words, or “synonym churn” where multiple adjectives crowd a noun without adding precision. In the 600–800 word range, there is no room for scaffolding; every line must bear weight. The difference between a competent score and an exceptional one often lies in the closure beat: does the final paragraph retreat into abstract summary, or does it land a concrete image that recharges the story’s central motif?
+
+**Strength Profile**
+*   **High Information Density:** The strongest lines perform double or triple duty. They avoid “filler” transitions by embedding action within description.
+    *   *Micro-quote:* “roots snaking like veins through skeletal remains”
+*   **Coherent Figurative Systems:** Metaphors stick to a single, logical vehicle (e.g., weaving, tides, or circuitry) rather than mixing images.
+    *   *Micro-quote:* “shattered light into a million dancing prisms”
+*   **Rhythmic Variety:** Sentence structures shift to match emotional pacing—long, flowing clauses for observation; staccato fragments for high-pressure realization.
+*   **Tactile Closure:** The ending relies on physical objects or sensations rather than abstract moralizing.
+    *   *Micro-quote:* “leaving the bell to its silent vigil”
+
+**Weakness Profile**
+*   **Paraphrase Loops:** Adjacent sentences that convey identical information, stalling momentum.
+    *   *Signal:* “The silence was heavy. A heavy silence filled the room.”
+*   **Template Cadence:** A robotic rhythm created by repeating sentence structures, particularly “The [Noun] [Verb]” or “He [Verb]” openers across 3+ lines.
+    *   *Signal:* “He looked... He saw... He felt...”
+*   **Overwriting & Purple Prose:** Stacking modifiers or metaphors until the image collapses under its own weight.
+    *   *Signal:* “terrestrially cosmic display,” “scintillatingly somber”
+*   **Filter-Verb Stacks:** Filtering sensory details through the character’s perception rather than stating them directly, distancing the reader.
+    *   *Signal:* “He felt the cold,” “She noticed the light,” “He realized.”
+*   **Text Artifacts:** Unedited remnants that break immersion, such as bracketed word counts, generation glitches, or untranslated characters (e.g., “touching distance缩小”).
+
+**Performance Boundaries**
+The writing excels when it trusts the reader to infer emotion from concrete imagery ("Show, Don't Tell"). Performance breaks when the author steps in to explain the metaphor they just used, creating “scaffolding” that clutters the page. A story flips from strong to weak when the **closure beat**—the final 50 words—abandons the established physical reality for vague thematic summaries (e.g., “He finally understood that love was the answer”). High-band prose maintains its concrete grip until the very last period.
+
+**Signature Moves and Blind Spots**
+*   **The "Prompt Echo":** Many writers mechanically repeat distinctive phrases from the prompt (e.g., “daringly methodical,” “gentle persistence”) without varying the context, creating an artificial, checklist-like feel.
+*   **The "Adjective Pile-Up":** A habit of using two or three weak adjectives (e.g., “soft, gentle, quiet light”) instead of one precise verb.
+*   **The "Abstract drift":** Moving from specific details (a cracked watch face) to high-level abstractions (the nature of time) without earning the leap, often resulting in “register drift” into academic or therapeutic diction.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Zero Scaffolding:** No sentences exist solely to move characters from room to room or explain a previous line; transitions are seamless and causal.
+*   **Pattern-Taught Imagery:** Figurative language is introduced early (e.g., a "weaving" motif) and pays off at the climax without needing explanation.
+*   **Clean Closure:** The final sentence resolves the narrative arc through a specific image or action that re-contextualizes the opening, avoiding summary.
+
+**Revision Levers and Keepers**
+
+**Keep:**
+1.  **Strong Verbs:** Retain verbs that convey specific motion or state (e.g., “splintered,” “anchored,” “bled”) to drive propulsion.
+2.  **Concrete Nouns:** Preserve specific objects (e.g., “quartz,” “sextant,” “vellum”) that ground the story in a tangible reality.
+3.  **Varied Syntax:** Protect the mix of simple, compound, and complex sentences that creates a natural, "breathable" reading rhythm.
+
+**Change:**
+1.  **Prune Paraphrase Loops:** Identify pairs of sentences that say the same thing. Cut the weaker one or merge them to increase density.
+2.  **Cut Filter Verbs:** Search for “felt,” “heard,” “saw,” “knew.” Rewrite the sentence to make the sensation direct (e.g., change “He heard the wind howl” to “The wind howled”).
+3.  **Eliminate Template Cadence:** Check paragraph openings. If three consecutive sentences start with the same subject or structure (e.g., “She…”), vary the syntax to restore rhythm.

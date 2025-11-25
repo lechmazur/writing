@@ -1,2 +1,45 @@
 gpt-5.1-medium.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**1. Executive Insight**
+The primary differentiator between competent (Band 7–8) and exceptional (Band 9) prose in this cohort is **information density** paired with **zero scaffolding**. High-scoring submissions achieve propulsion because nearly every sentence performs multiple functions simultaneously—advancing plot, deepening characterization, and establishing atmosphere—without needing a "setup" or "explanation" sentence. Lower-scoring entries frequently suffer from **paraphrase loops**, where a strong image is immediately followed by a sentence restating its meaning in abstract terms (e.g., showing a character trembling, then stating they were afraid). Success tracks closely with the ability to sustain a coherent figurative logic (pattern-teaching metaphors early and paying them off at closure) while maintaining a rhythm that passes the read-aloud ear test. When writing fails here, it is often due to "template cadence"—repetitive sentence structures that create a monotonous drumbeat—or decorative overwriting that obscures causality in high-pressure beats.
+
+**2. Strength Profile**
+*   **Multi-Tasking Syntax:** The strongest lines consistently do double or triple duty. A description of a setting often reveals a character’s internal state and advances the timeline in one breath.
+    *   *Micro-quote:* "glass panes were missing like teeth" (conveys ruin + POV voice).
+    *   *Micro-quote:* "ticket stubs like molted scales" (conveys object + decay).
+*   **Coherent Figurative Systems:** High-band stories maintain strict control over metaphor vehicles, ensuring they align with the story’s physical reality (e.g., nautical metaphors in a sea story) rather than mixing vehicles.
+*   **Rhythmic Modulation:** Effective prose varies sentence length to match emotional beats—long, accumulative sentences for observation, collapsing into staccato fragments during crisis or realization.
+*   **Tactile Abstraction:** Successful pieces ground abstract concepts (time, memory, silence) in specific, manipulatable objects (clocks, jars, ash).
+    *   *Micro-quote:* "silence... like limescale" (grounds abstract in tactile).
+
+**3. Weakness Profile**
+*   **Paraphrase Loops:** A pervasive issue where the writer presents an image and then immediately explains it, or repeats the same beat with synonym churn. This dilutes density and stalls propulsion.
+    *   *Signal:* "She felt isolated. The loneliness was a wall." (Redundant second clause).
+*   **Template Cadence:** Runs of identical sentence openings (often "He [verb]..." or "The [noun]...") appearing in clusters of three or more. This creates a mechanical, algorithmic rhythm that deadens the reader's ear.
+*   **Filter-Verb Stacks:** Excessive use of "he felt," "she saw," "he realized" in high-pressure beats. This distances the reader from the immediate sensory experience.
+*   **Decorative Overwriting:** In mid-range stories, figurative language often clusters densely without advancing the scene ("purple prose"). Metaphors pile up—"bruised light," "shivering hush"—obscuring the actual action or cause-and-effect.
+*   **Register Drift:** Characters or narration slipping into "therapy-speak" or academic diction ("conceptual repricing," "somatic markers") that clashes with the established voice.
+
+**4. Performance Boundaries**
+The writing excels when it trusts the image to carry the weight of meaning. It breaks when it insults the reader’s intelligence by explaining the image immediately after presenting it. A story flips from a high 8 to a 9 when it removes the "scaffolding"—the transitional phrases like "It was then he realized" or "She began to"—and simply presents the action or realization directly. Conversely, perfectly functional prose drops into the 6s or 7s when **figurative density** becomes opaque; if the reader has to pause to decipher the physics of a metaphor (e.g., "fog rolled like a slow thought"), propulsion dies.
+
+**5. Signature Moves and Blind Spots**
+*   **The "Like" Addiction:** A reliance on simile constructions ("like a [noun]") to end sentences. While individually effective, they often appear in clusters, creating a repetitive syntactic artifact.
+*   **The "Hush" Motif:** An over-reliance on words like "hush," "luminous," "bruised," and "trembling." These often appear as stock atmospheric markers rather than specific descriptors.
+*   **Abstract Closure:** Ending the story with a summary of themes or emotions rather than a recharged concrete image.
+*   **Mixed Metaphors:** Combining incompatible vehicles in a single beat (e.g., "a river of silence woven into a wall"), which muddles the visual logic.
+
+**6. High-Band Signals (≈ 8.8+)**
+*   **Zero Paraphrase Loops:** The text never repeats a beat; every sentence adds new information (temporal, spatial, or emotional) to the one before it.
+*   **Pattern-Taught Payoff:** Figurative language introduced in the first third (e.g., a "loom" metaphor) is reintroduced at the closure to resolve the arc, showing structural intentionality.
+*   **Rhythmic Authority:** The prose stands up to the "read-aloud" test, with sentence variety that feels dictated by the character’s heart rate or the scene’s tension, not by grammatical accident.
+
+**7. Revision Levers and Keepers**
+*   **Keep:**
+    *   **Concrete Anchors:** Continue grounding abstract themes in specific, tactile objects (keys, shards, seeds).
+    *   **Strong Verbs:** Maintain the preference for active verbs over modifier-heavy descriptions.
+    *   **Rhythmic Variety:** Preserve the oscillation between long, flowing sentences and short, punchy fragments.
+
+*   **Change:**
+    *   **Cut the Echo:** mercilessly delete the second sentence in any pair where sentence B merely restates sentence A in different words (Paraphrase Loop check).
+    *   **Prune Filters:** Search for "felt," "saw," "heard," and "realized." Remove them to place the reader directly in the sensory experience (e.g., change "He heard the bell ring" to "The bell rang").
+    *   **Unify Metaphors:** Scan high-pressure beats for mixed metaphors. Ensure all figurative language in a single paragraph draws from the same semantic well (e.g., if using ocean metaphors, don't suddenly switch to architecture).

@@ -1,2 +1,43 @@
 glm-4-6.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+# Editorial Brief: Characterization & Motivation (Q1)
+
+### Executive Insight
+The cohort demonstrates high competence in establishing clear, vocation-driven motivations, often grounding characters in tactile, professional rituals that serve as effective anchors for interiority. The most successful pieces utilize "Earned Stasis"—where a character chooses to endure or accept a burden after a struggle—rather than forcing a radical transformation that feels unearned at this word count. However, the central limitation across the board is a reliance on **diagnostic label-speak**: sophisticated adjectival phrases that *name* a character’s complexity (e.g., "furiously tranquil," "carefully reckless") rather than dramatizing contradictory impulses acting simultaneously under pressure. While the "drive" is consistent, the "lens" often fogs with abstract self-analysis during peak beats, reducing the visceral cost of the final choice.
+
+### Strength Profile
+*   **Occupational Embodiment:** The writing excels when character interiority is filtered through a specific trade or skill. Whether it is a clockmaker, weaver, or archivist, the strongest beats occur when emotions are translated into physical actions specific to that job.
+    *   *Signals:* "fingers stained with aging paper," "red sounded like cracking ice," "breath misting the air."
+*   **Tactile Anchoring:** Motivation is consistently stabilized by interaction with key objects (talismans, tools, fragments). These objects successfully externalize internal states, allowing characters to "hold" their grief or purpose without needing dialogue.
+*   **Earned Stasis:** The narrative logic frequently lands on a credible resolution where the protagonist renounces a grand cure or escape in favor of a difficult, principled endurance. This feels proportional to the short length and often reads as more mature than a sudden epiphany.
+*   **Consistent Motivation:** Characters rarely suffer from drift; their "want" is established early and dictates their movement through the scene, providing a strong spine for the narrative.
+
+### Weakness Profile
+*   **Diagnostic Label-Speak:** Instead of showing a character torn between safety and risk, the text often shortcuts the struggle by applying an oxymoronic label to the protagonist's nature (e.g., "bravely conflicted," "slyly heartfelt," "chaotically precise"). This summarizes the complexity rather than enacting it.
+*   **Sequential vs. Simultaneous Conflict:** Characters tend to feel one emotion, then reflect, then feel another. True depth requires contradictory impulses to act *simultaneously* (e.g., the hand trembles to hold on while the mind commands to let go).
+*   **The Competence Trap:** Protagonists are often too good at what they do. Their "flaws" are often framed as virtues (e.g., caring too much, being too meticulous). Without a genuine blind spot or a moment of incompetence under pressure, the stakes flatten.
+*   **Abstracted Epiphanies:** Climax beats frequently rely on realized concepts ("he understood that silence was a weapon") rather than embodied costs. The character *thinks* their way out of the crisis rather than *acting* their way out through a painful trade-off.
+*   **Relational Inertia:** When secondary characters appear, they often function as mirrors or props rather than distinct wills that apply pressure. They rarely force the protagonist to change tactics or status.
+
+### Performance Boundaries
+The writing excels when the protagonist is alone or with a non-verbal pressure source, channeling emotion through physical process (e.g., repairing a device, climbing a tower). In these modes, the sensory details carry the emotional weight effectively. The writing breaks down when it attempts to perform high-level psychological complexity through introspection. When the narrative pauses the action to diagnose the protagonist's state using therapy-adjacent language ("processing his trauma," "validating her existence"), the tension evaporates. The work is strongest when it trusts the physical action to imply the psychological state.
+
+### Signature Moves & Blind Spots
+*   **The "Adverb + Adjective" Crutch:** A recurring habit of using two modifiers to force nuance (e.g., "warmly inquisitive," "steadily adaptive"). This signals a lack of trust in the action to convey the trait.
+*   **The Tactile Ritual:** A signature strength is opening with a character performing a repetitive, soothing action that is interrupted by the inciting incident. This reliably establishes baseline interiority.
+*   **The "Smooth Glide" Arc:** Characters often move from doubt to certainty without a messy middle. They rarely make a wrong choice that compounds the problem; they simply hesitate, then do the right thing.
+
+### High-Band Signals (≈ 8.8+)
+*   **Irreversible Micro-Choices:** The character makes a small physical decision (dropping a key, burning a letter) that permanently forecloses a path. The cost is immediate and visible.
+*   **Somatic Contradiction:** The body betrays the mind (e.g., a character resolved to leave who cannot stop their hand from gripping the doorframe). The conflict is biological, not just intellectual.
+*   **Reframed Worldview:** The ending doesn't just solve the plot problem; it fundamentally alters how the character interprets their environment (e.g., silence is no longer empty, but pregnant).
+
+### Revision Levers and Keepers
+**Keep:**
+1.  **The Vocation Lens:** Continue filtering descriptions through the character's specific expertise (e.g., a musician hearing the world as pitch).
+2.  **The Tactile Anchors:** Maintain the focus on small, charged objects that the characters manipulate to manage anxiety.
+3.  **The Earned Stasis:** Protect endings where the character chooses to endure or bear witness; do not force happy transformations.
+
+**Change:**
+1.  **Cut Diagnostic Labels:** Search for "adverb + adjective" pairings describing personality. Delete them and replace with a specific action that proves the trait.
+2.  **Dramatize the Cost:** Ensure the final choice hurts. If a character gains peace, what did they have to sacrifice (pride, safety, a relationship) to get it? Make that loss visible on the page.
+3.  **Inject Irrationality:** In the middle third, force the character to act on a flaw or a fear in a way that is counter-productive. Let them be wrong before they are right.

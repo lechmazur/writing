@@ -1,2 +1,41 @@
 gemini-3-pro-preview.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The cohort demonstrates a high proficiency in **Occupational Interiority**: grounding character perspective in specific vocations (archivists, clockmakers, glass-blowers) to generate unique sensory filters. When this works, motivation moves beyond generic desire into tactile, trade-specific compulsion. However, the central differentiator between competent drafts and elite fiction in this batch is the presence of **contradictory impulses acting simultaneously in scene.** Mid-range stories tend to feature linear competence—a character faces a problem and solves it with professional rigor—whereas high-band stories force the character to wrestle with a flaw or a competing desire *while* solving the problem. Closure is generally strong, favoring "Earned Stasis" (endurance) or Renunciation, but reader impact depends entirely on whether the final cost is viscerally embodied or merely conceptually stated.
+
+**Strength Profile**
+*   **Vocational Lenses:** Characters rarely perceive the world generically; they see it through their trade. A glazier reads "fractures in time," a musician hears "dissonance in the architecture." This creates automatic, specific interiority.
+*   **Tactile Anchoring:** Emotion is frequently grounded in interaction with props. Characters manage anxiety by filing gears, polishing lenses, or tracing ridges on a coin. This effectively externalizes internal states without dialogue.
+*   **Earned Stasis:** The writing excels at the "Renunciation/Endurance" arc. Characters often end not by defeating a villain, but by accepting a difficult burden or foreclosing a safer path.
+*   **Micro-Choices:** The strongest beats occur when characters make small, irreversible physical moves that signal a shift in values (e.g., "unbending the nib," "snapping the compass shut").
+*   **Micro-quotes:** "shivering not from the cold," "logically emotional," "trembling of his heart," "symphony played in a minor key."
+
+**Weakness Profile**
+*   **Diagnostic Label-Speak:** A pervasive tendency to summarize complex emotions using therapeutic or essayistic language during peak action (e.g., "processed fear as a variable," "defense mechanism against chaos"). This intellectualizes the crisis and kills tension.
+*   **Frictionless Competence:** Too many protagonists act as flawless functionaries. They identify a metaphysical problem and solve it with expert precision, lacking the **blind spots**, hesitation, or irrationality that make a character human under pressure.
+*   **Asserted vs. Dramatized Motivation:** Motivations are often declared in exposition ("His motivation was singular and obsessive") rather than revealed through a struggle against a competing impulse.
+*   **Abstract Cost:** While characters often make sacrifices, the "cost" is frequently theoretical (loss of a memory, spiritual weight) rather than a visceral, bodily consequence felt on the page at the moment of closure.
+*   **Static Secondary Characters:** When a second character appears, they often function as a prop or a mirror rather than a **relationship crucible** that applies active pressure or forces a status shift.
+
+**Performance Boundaries**
+The writing excels when it commits to **somatic degradation under stress**—when a character’s hands shake, their vision blurs, or their professional veneer cracks due to fear or desire. It breaks when it retreats into **competence porn** or **emotional arithmetic**, where characters calculate the correct moral action and execute it without sweating. The threshold for the highest band is the **simultaneity of conflict**: the character must want to save the archive *and* burn it down, or love the ghost *and* need to banish it, in the same breath. Stories that resolve these tensions sequentially (first fear, then courage) score lower than those that hold them in tension (courage *because of* and *despite* terror).
+
+**Signature Moves & Blind Spots**
+*   **The Tactile Relic:** Using a small object (watch, coin, shard) to focus a scene. Effective, but sometimes over-relied upon as a substitute for active choices.
+*   **The Silent Expert:** Protagonists are often solitary professionals correcting a cosmic error. This creates atmosphere but often precludes the friction of dialogue or status dynamics.
+*   **The "Quietly" Adverb:** A habit of modifying actions to signal profundity ("quietly defiant," "quietly persistent"), which often tells the reader how to feel rather than showing the action's weight.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Contradictory Impulses in Scene:** The character takes an action that serves their goal while their body or interiority screams the opposite (e.g., "trembling hands" while "steadying the aim").
+*   **Foreclosure with Visible Cost:** The ending doesn't just stop; it kills a potential future. We see exactly what the character can *never* do again because of the choice they just made.
+*   **Degradation of Logic:** Under peak pressure, the character’s orderly professional thoughts fragment into sensory impressions or raw instinct, validating the stakes.
+
+**Revision Levers**
+**Keep:**
+1.  **Vocational specificity:** Continue filtering description through the character’s job/skill set.
+2.  **Tactile focus:** Keep grounding high-concept stakes in small, physical objects.
+3.  **Single-POV intimacy:** The tight focus on one consciousness works well for this length.
+
+**Change:**
+1.  **Purge Diagnostic Labels:** Search for words like "process," "analyze," "mechanism," "paradox," and "motivation" within interior monologue. Replace them with the *sensation* of those states (e.g., heat, nausea, lightness).
+2.  **Introduce Hesitation:** In the climax, insert a beat where the protagonist almost fails, chooses the wrong tool, or considers running away. Break the smooth line of competence.
+3.  **Physicalize the Cost:** If a character sacrifices a memory or a feeling, show the physical reaction (a gasp, a stumble, a sudden coldness) rather than just stating the loss.

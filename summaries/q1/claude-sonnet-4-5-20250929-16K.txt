@@ -1,2 +1,44 @@
 claude-sonnet-4-5-20250929-16K.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**1. Executive Insight**
+The defining variable for Question 1 in this cohort is the distinction between **embodied contradiction** and **diagnostic summary**. The most successful stories (Tracks A and B dominating) do not merely state a character’s motivation; they dramatize it through "micro-choices" where professional competence clashes with personal grief or limitation. High-scoring pieces consistently ground interiority in a specific occupational lens (e.g., a glazier reading light, a musician hearing silence), ensuring that emotional shifts are filtered through a unique worldview rather than generic feeling. Conversely, lower-scoring entries tend to rely on "label-speak"—articulating emotions via therapeutic terminology—or resolve conflicts through frictionless epiphanies rather than costly trade-offs. The critical differentiator is **visible cost**: does the final stance foreclose a meaningful alternative path, or does it merely affirm a pre-existing virtue?
+
+**2. Strength Profile**
+*   **Occupational Interiority:** Characters consistently filter perception through their trade, grounding abstract themes in tactile reality. Whether it is a mapmaker reading "topography of trauma" or a glazier seeing "frozen liquid still dreaming of flow," this habit prevents generic interiority.
+*   **Tactile Micro-Choices:** Agency is best displayed not through grand speeches but through small, physical commitments—pocketing a shard, burning a letter, or leaving dust on a palm. These gestures effectively externalize hierarchy of values under pressure.
+*   **Earned Stasis:** Many stories succeed by dramatizing endurance rather than radical change. The decision to *remain* in a difficult role (the "keeper," the "witness") often reads as more earned than a sudden transformation, provided the cost of that stasis is felt on the page.
+*   **Micro-quotes:**
+    *   "foxglove regret"
+    *   "grief, blue as drowning"
+    *   "hands knew the grammar of grief"
+    *   "quietly persistent"
+
+**3. Weakness Profile**
+*   **Diagnostic Label-Speak:** A pervasive reliance on abstract, therapeutic language to summarize emotional states rather than showing them. Phrases like "learning to process trauma," "internal architecture," or "lotus-hearted ache" often appear at peak beats, flattening the visceral impact of the scene.
+*   **Frictionless Competence:** Protagonists often execute their tasks with such high proficiency that they face no internal resistance. When a character is "calmly inventive" or "uncommonly serene" without a counter-pressure testing that state, the narrative lacks a crucible.
+*   **Sequential vs. Simultaneous Conflict:** Weaker stories alternate between emotions (first fear, then courage) rather than holding contradictory impulses in the same moment (e.g., the compulsion to flee *while* stepping forward).
+*   **The Passive "Witness":** In several pieces, the protagonist observes a magical or emotional event but makes no active choice that alters the outcome, reducing agency to mere presence.
+*   **Thin Relational Crucibles:** Secondary characters frequently function as sounding boards or symbols rather than distinct agents applying pressure. When relationships are not "crucibles" forcing a shift in status or stance, the protagonist’s arc feels solitary and safe.
+
+**4. Performance Boundaries**
+The writing excels when **flaw and competence are entangled**. The best characters are those whose professional strengths (e.g., an archivist’s obsession with preservation) become the very source of their internal conflict (e.g., the inability to let go of pain). The writing breaks when **interiority becomes explanatory**. When a character explicitly analyzes their own growth ("she realized her fear was actually hope"), the dramatic tension dissolves. High performance requires that the *reader* deduce the change through the character's altered behavior, while the character remains immersed in the immediate, sensory problem.
+
+**5. Signature Moves and Blind Spots**
+*   **The "Quietly [Adjective]" Trait:** A recurring habit of defining characters as "quietly rebellious," "quietly determined," or "quietly authoritative." While often effective for tone, it can become a shorthand that avoids dramatizing *loud* or messy internal conflict.
+*   **The Artifact as Anchor:** Nearly every story anchors emotion to a physical object (a watch, a compass, a shard of glass). This is a generally positive signature move that grounds high-concept premises.
+*   **The "Epiphany by Landscape":** A blind spot where characters resolve deep internal dilemmas simply by looking at a piece of scenery (a storm, a ruin, a star) which conveniently mirrors their soul, rather than wrestling with a difficult decision.
+
+**6. High-Band Signals (≈ 8.8+)**
+*   **Foreclosed Paths:** The final choice clearly eliminates a viable alternative (e.g., destroying the work to save the memory, or vice versa), creating a sense of irreversible consequence.
+*   **Simultaneous Contradiction:** The protagonist exhibits two opposing drives in the same beat (e.g., a hand trembling with fear while gripping a tool with precision).
+*   **Cost Legibility:** The narrative explicitly acknowledges what is lost—safety, anonymity, professional standing, or illusion—in exchange for the resolution.
+
+**7. Revision Levers and Keepers**
+*   **Keep:**
+    1.  **Occupational/Sensory Lenses:** Continue filtering world-building through the specific trade or trauma of the protagonist.
+    2.  **Tactile Anchors:** Maintain the focus on physical objects (keys, shards, tools) as vessels for internal shifts.
+    3.  **Earned Stasis:** Protect resolutions that value endurance and witnessing over forced, happy-ending transformations.
+
+*   **Change:**
+    1.  **Excision of Diagnostics:** Scan for and remove terms like "processed," "trauma," "validation," or "closure" in interior monologue. Replace with sensory descriptions of the body’s reaction.
+    2.  **Pressurize the Micro-Choice:** Ensure the climax involves a decision where the character hesitates. If they act instantly and correctly, introduce a beat of temptation to do the wrong thing.
+    3.  **Activate Secondary Characters:** If a second character is present, have them interrupt, misunderstand, or physically block the protagonist, rather than simply nodding or receiving wisdom.

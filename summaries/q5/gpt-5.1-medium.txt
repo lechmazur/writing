@@ -1,2 +1,39 @@
 gpt-5.1-medium.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The corpus demonstrates an exceptionally high proficiency in thematic integration, routinely clearing the rubric’s **9+ quick test**. The defining characteristic of this cohort is **Conceptual Repricing**: the ability to introduce a motif (a broken clock, a seed, a map) early, pressurize it through narrative action, and then “reweight” it in the final paragraph to offer a resonant, non-literal answer to the central dramatic question. Rather than resolving plots with binary outcomes (success/failure), these stories frequently resolve via a shift in perspective where the protagonist accepts a complex, often costly new truth. This sophistication allows concept-heavy premises (archives of silence, emotional commerce, memory deletion) to land with visceral emotional aftereffects rather than abstract philosophizing. The writing falters only when it distrusts this machinery, stepping in to explicitly articulate a thesis that the imagery has already proven.
+
+**Strength Profile**
+*   **Thematic Embodiment in Particulars:** Themes are rarely floating abstractions; they are calcified into specific objects or systems. Trust is a "lacquered instrument," memory is "scars becoming compasses."
+*   **Resonant, Non-Literal Closure:** Endings consistently avoid stating a moral. Instead, they provide an image that answers the story's question obliquely.
+    *   *Micro-quote:* "smudges creeping across paper"
+    *   *Micro-quote:* "lacquer on a cracked instrument"
+    *   *Micro-quote:* "future assembling itself"
+*   **Subtext via Gesture:** Emotional shifts are signaled through physical interaction with the setting rather than internal monologue. A character lowers a blade, touches a cold wall, or hesitates over a map, carrying the thematic weight of "mercy" or "memory" without naming it.
+*   **Complex Recontextualization:** The stories excel at taking a negative concept (ruin, silence, loss) and reweighting it by the end into a necessary burden or a form of stewardship, creating the rubric-mandated "conceptual cost."
+
+**Weakness Profile**
+*   **Thematic Echo / Ventriloquism:** A recurring friction point where a character explicitly speaks the story’s theme in dialogue, often using prompt-adjacent language. Lines like "Shared wisdom... was the courage to let other people's echoes rewrite your own" or "Love... was the original archival method" risk flattening subtext into a lecture.
+*   **Didactic Final Summary:** While the final *images* are strong, the sentences immediately preceding them sometimes summarize the epiphany ("He understood then that..."), violating the show-don't-tell preference for closure.
+*   **Over-Articulation of Metaphor:** Occasionally, the writing connects the dots too aggressively, explaining *why* a metaphor works (e.g., explaining that a map represents life choices) rather than letting the parallel exist implicitly.
+*   **Abstract Labeling:** The use of "diagnostic" or abstract phrasing ("psychological safety," "intersubjective understanding") in narrative summary can momentarily break the spell of the scene.
+
+**Performance Boundaries**
+The writing excels when it commits to **implication over assertion**. Success is found when the "conceptual cost" of the ending is embedded entirely in an action—planting a seed in ash, leaving a door unlocked, accepting a flawed map. The writing breaks or dips into lower bands when it attempts to ensure the reader "gets it" by inserting a summary sentence or having a wise mentor character recite the moral. The boundary line is the difference between *enacting* an epiphany (the character makes a choice that proves they have changed) and *reporting* an epiphany (the character thinks about how they have changed).
+
+**Signature Moves and Blind Spots**
+*   **The "Archive" Trope:** A heavy reliance on libraries, museums, jars, and collections as the primary engine for thematic exploration. While often handled well, it risks feeling like a default setting for exploring memory.
+*   **The "Renamed World" ending:** A habit of concluding by renaming the central conflict (e.g., silence becomes "music," loss becomes "space," grief becomes "geography"). This is a strong move ("Conceptual Repricing") but can feel formulaic if the renaming is abstract rather than concrete.
+*   **Blind Spot:** A fear of ambiguity. While the endings are "non-literal," the lead-up often ensures the reader knows exactly which emotion to feel, sometimes sacrificing the productive confusion of a truly complex moral dilemma.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Cost Legibility:** The protagonist pays a price for their thematic realization (e.g., accepting permanent separation to gain understanding), and this cost is felt, not just stated.
+*   **Closure via Reframed Motif:** A specific object introduced in the first third returns in the final sentence with an inverted or deepened meaning (e.g., a tool for breaking becomes a tool for mending).
+*   **Subtextual Dialogue:** Characters speak about the immediate task (fixing a clock, drawing a map) while clearly negotiating the thematic conflict (forgiveness, agency), without ever code-switching into abstract philosophical debates.
+
+**Revision Levers and Keepers**
+*   **Keep:** The instinct to ground themes in specific trades, crafts, and mechanisms (glassblowing, mapmaking, clockwork). This "workmanlike" approach to theme is the writing's greatest asset.
+*   **Keep:** The commitment to "quiet" or "hushed" endings. The refusal to use melodramatic climaxes in favor of internal shifts is working.
+*   **Keep:** The use of "Conceptual Repricing" at the end. Continue reweighting the premise (e.g., reframing "exile" as "sanctuary").
+*   **Change:** Cut any sentence in the final paragraph that begins with "He realized," "She understood," or "It was not X, but Y." Trust the image to convey the realization.
+*   **Change:** Audit dialogue for "Thematic Echo." If a character says a line that could serve as the story's logline or essay thesis, rewrite it to be more oblique or situational.
+*   **Change:** Prune abstract nouns (resilience, redemption, clarity) from the final third of the story. Replace them with the concrete particulars (the ash, the ink, the open hand) that represent them.

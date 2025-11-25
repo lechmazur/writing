@@ -1,2 +1,46 @@
 kimi-k2-thinking.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Editorial Brief: Plot, Structure & Causality (Q2)**
+
+**Executive Insight**
+For the 600–800 word scope, the dominant successful pattern is the **Accumulative/Textural drive lens**. Writers excel when they treat the story as a density chamber—layering sensory motifs, ritual actions, and recurring images to build pressure—rather than attempting a sprawling linear plot. The highest-scoring pieces (9.0+) marry this lyric intensity with the **Cost Proof Test**: closure is not just a realization, but a **Conceptual Repricing** or **Resonant Reconfiguration** where the protagonist’s options are visibly narrowed or altered on the page. Success hinges on whether the ending *dramatizes* a change in stance (e.g., physically abandoning a tool, accepting a scar) or merely *summarizes* a thematic epiphany. When writers fail to anchor orientation early or rely on "soft resets" (magical fixes without sacrifice), the narrative dissolves into abstract vignette rather than story.
+
+**Strength Profile**
+- **Immediate Anchoring:** Strong pieces consistently establish who, where, and when within the first 30–60 words (e.g., “tidal island,” “subbasement,” “hour before sunrise”), satisfying the Orientation Test immediately and allowing the rest of the word count to build pressure.
+- **Object-Driven Closure:** The most effective closures externalize internal shifts onto physical props. The breaking of a disc, the sealing of a bottle, or the dimming of a lantern serves as tangible proof of the **Decisive Change**.
+- **Coherent Lenses:** High-scoring stories declare their mode early. If a story is Accumulative, it teaches the reader to look for patterns (e.g., recurring "hush" or "static") rather than plot twists, and pays that pattern off at the climax.
+- **Micro-Quotes:**
+    - *“brittleness spreading”* (tangible cost)
+    - *“map settled into skin”* (irreversible change)
+    - *“silence... a canvas”* (conceptual repricing)
+    - *“seven more lies”* (quantified moral cost)
+
+**Weakness Profile**
+- **Summary Mode:** A frequent failure is slipping into synopsis to bridge gaps (e.g., “In the weeks that followed,” “She spent days”), violating the single-scene or tight-shard default. This flattens causal tension and distances the reader from the decisive moment.
+- **Costless Closure (Symmetric Satisfaction):** Endings where the protagonist gains wisdom, magic, or resolution without forfeiting anything. If a character heals the world and walks away smiling with no resource spent or path foreclosed, the closure is deemed invalid.
+- **Orientation Debt:** Stories that drift past the ~120-word mark without grounding the reader in a specific spacetime context. This often correlates with "white room" dialogue or disembodied introspection that fails to trigger Q3 caps.
+- **Convenience Causality:** Solutions that arrive via coincidence or unearned "magic feathers"—a stranger appearing to explain the plot, or an object functioning perfectly on the first try without prior setup or struggle.
+- **Abstract "Felt" Cost:** Relying on phrases like "the weight of the past lifted" or "she felt lighter" without a correlative physical action or consequence.
+
+**Performance Boundaries**
+The boundary between a competent mid-range story (6.0–7.5) and a high-band piece (8.5+) lies in the **legibility of cost**. Mid-range stories often end with a successful ritual or a realized idea, but the character’s status quo is merely enhanced, not reconfigured. High-band stories force a trade-off: the protagonist gains the magic but loses their anonymity; they save the town but lose the artifact. The writing breaks when it attempts to solve external plot problems (e.g., a war, a plague) with internal realizations, severing the link between cause and effect. It excels when the internal realization *forces* an external action that cannot be undone.
+
+**Signature Moves and Blind Spots**
+- **The "Magic Hush":** A pervasive habit of using silence, stillness, or "hush" as a climax. While atmospherically consistent, it often masks a lack of actual narrative resolution.
+- **The Patterned Reprise:** Writers frequently use a "Rule of Three" structure (attempt 1, attempt 2, success) which works well for Causal lenses but can feel mechanical if the stakes don't escalate between attempts.
+- **The "Soft Reset":** Ending a story by returning the character to their starting point, unchanged but "ready." This creates circularity rather than the required spiral of change.
+
+**High-Band Signals (≈ 8.8+)**
+- **Persistent Constraint:** A limitation established early (e.g., blindness, a ticking clock, a physical disability) that is never magically cured but shapes the final tactical choice.
+- **On-Page Forfeiture:** The closure involves a visible act of letting go—dropping a compass, burning a letter, sealing a door—that proves the internal shift.
+- **Lens Fidelity:** The story ends in the same mode it began. A story starting with Causal logic (problem solving) does not drift into lyric abstraction to escape a plot corner; it solves the problem with causal tools.
+
+**Revision Levers and Keepers**
+*   **Keep:**
+    1.  **Tactile Anchors:** Continue grounding abstract concepts in specific objects (shards, gears, seeds) to maintain textural density.
+    2.  **Early Orientation:** The habit of grounding the reader in the first paragraph is a major asset; protect this efficiency.
+    3.  **Pattern Teaching:** The use of recurring motifs to train the reader how to interpret the ending is strong and should be preserved.
+
+*   **Change:**
+    1.  **Dramatize, Don't Summarize:** Convert any paragraph starting with "Over the next few days" or "Time passed" into a specific, pressurized moment or a distinct shard.
+    2.  **Sharpen the Cost:** Review the final paragraph. If the cost is described emotionally ("she felt sad"), change it to a physical foreclosure (she throws the key into the river).
+    3.  **Test Causality:** Ensure the climax is triggered by the protagonist's active choice or specific trait, not by an external arrival (a stranger, a storm, a sudden dawn) that happens *to* them.

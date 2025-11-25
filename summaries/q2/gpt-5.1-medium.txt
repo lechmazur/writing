@@ -1,2 +1,44 @@
 gpt-5.1-medium.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The submitted stories demonstrate a sophisticated command of the **Accumulative/Textural** drive lens, consistently favoring density and resonance over linear plot mechanics. Rather than relying on high-velocity causal turns, this writing excels at layering sensory details, recurring motifs, and deepening internal stakes until the narrative pressure forces a shift. The vast majority of pieces adhere to **Track A (Defaults)**, mastering the single continuous scene within the 600–800 word scope. Orientation is a standout strength; readers are almost invariably grounded in *who, where, and when* within the first 120 words. While Closure reliably lands, the distinction between a strong score (8.0s) and an exceptional one (9.0+) hinges entirely on the **Cost Proof Test**. The highest-performing stories ensure the protagonist pays a visible, irreversible price—social, physical, or emotional—on the page, whereas mid-band stories often settle for a "soft reset" or a conceptual realization without a dramatized forfeiture.
+
+**Strength Profile**
+*   **Immaculate Orientation:** The writing habitually anchors the reader immediately. Whether in a "sunken orchard greenhouse" or a "static-filled radio station," the spatial and temporal coordinates are established by the second or third sentence, waiving penalties and allowing for rapid immersion.
+*   **Coherent Accumulation:** The stories excel at teaching a pattern early (e.g., a ritual, a recurring sound, a specific manual task) and intensifying it. The climax rarely feels random; it feels like the inevitable saturation point of the established pattern.
+*   **Object-Driven Interiority:** Abstract emotions are consistently grounded in tangible artifacts—broken clocks, shards of glass, maps, jars. These props serve as causal anchors, tracking the protagonist's internal shift.
+*   **Micro-Quotes of Note:**
+    *   "wrecked and waterlogged" (cost of becoming an instrument)
+    *   "deciduous vows" (reframing commitment)
+    *   "remade hush like contraband" (subversive silence)
+    *   "smudges creeping across paper" (methodological shift)
+
+**Weakness Profile**
+*   **Soft Costs:** A recurring failure mode in the 7.0–8.0 range is closure that claims transformation without exacting a price. Characters often achieve "peace" or "understanding" without losing anything concrete. A character might "accept the mystery" without the narrative dramatizing the pain of that acceptance.
+*   **Convenient Convergence:** Causality sometimes relies on "fable logic" where the environment responds too cooperatively to the protagonist's internal state (e.g., a storm clears exactly when a realization hits, or a stranger arrives with the exact key needed) rather than the protagonist forcing the world to yield.
+*   **Summary Bridges:** In an attempt to cover too much temporal ground, the writing occasionally slips into summary ("In the weeks that followed...") midway through the text. This dilutes the pressure of the single scene and violates the immediacy required for high-band texture.
+*   **The Explanatory Coda:** Some stories land the image but then explain the theme in a final sentence ("And then I knew that memory was a burden..."), deflating the "Charged Poise" by resolving the tension for the reader rather than letting them feel it.
+
+**Performance Boundaries**
+The writing crosses the threshold from competent to exceptional when it swaps **Conceptual Repricing** for **Decisive Change**—or fuses them. When a story merely "re-understands" a problem (e.g., realizing a prison is actually a library), it scores well. But when that re-understanding forces the protagonist to commit an irreversible physical act (burning a letter, breaking a seal, stepping off a ledge), the score vaults into the 9s. The writing breaks when it relies on "dream logic" to resolve plot holes—using surrealism as an excuse for loose causality (e.g., props teleporting or abilities appearing just in time to solve the climax).
+
+**Signature Moves and Blind Spots**
+*   **The "Charged Poise" Ending:** The most common closure type is bringing the protagonist to the brink of a decision or a realization and freezing the frame. This works beautifully when the stakes are clear but feels incomplete if the options aren't mutually exclusive.
+*   **Silence as a Character:** "Silence," "hush," and "static" are treated as physical substances that can be braided, broken, or collected. This creates strong atmosphere but can lead to abstraction if not anchored by concrete nouns.
+*   **The Reluctant Archivist:** A signature archetype is the lonely keeper of a dying place (lighthouse, library, greenhouse) who must decide whether to preserve the past or let it go.
+*   **Blind Spot:** External Antagonism. The stories rarely feature active, present-tense antagonists who push back. Conflict is almost always internal or environmental, which limits the "tightening" opportunities in Q2.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Legible Forfeiture:** The ending contains a sentence where a specific option is foreclosed. (e.g., "He forecloses the path of safe neutrality.")
+*   **Persistent Constraint:** A physical limit introduced early (a dwindling air supply, a broken leg, a vow of silence) shapes the final tactical choice.
+*   **Lens Consistency:** If the story starts as a Causal mystery, it ends with a Causal solve; if it starts as Accumulative texture, it ends with a Resonant Reconfiguration. High-band stories do not swap drives mid-stream.
+
+**Revision Levers and Keepers**
+*   **Keep:**
+    1.  **Early Anchoring:** Continue identifying *Who, Where, When* in the first paragraph. It is the foundation of the high scores.
+    2.  **Object Focus:** Continue using tactile props (keys, seeds, maps) to externalize internal shifts.
+    3.  **Lyric Precision:** Protect the sentence-level cadence that allows "Accumulative" structures to feel propulsive.
+
+*   **Change:**
+    1.  **Harder Costs:** Revise endings to ensure the protagonist loses something concrete (a relationship, a safe harbor, a tool) to gain their realization.
+    2.  **Dramatize, Don't Summarize:** Cut mid-story summary transitions ("Days passed..."); replace them with a single, intensified moment of waiting or working.
+    3.  **Active Opposition:** Introduce minor friction from the environment or secondary characters that forces the protagonist to *adjust* their plan, rather than just executing it.

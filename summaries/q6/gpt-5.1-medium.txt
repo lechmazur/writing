@@ -1,2 +1,42 @@
 gpt-5.1-medium.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The defining characteristic of this cohort is the successful execution of the **Perceptual Signature** within a stable Single-POV (Track A). Writers are consistently filtering narrative reality through a specific professional or traumatic lens—archivists seeing the world as "misfiled," divers feeling silence as "pressure," and musicians reading light as "intervals." This creates a high-definition texture where the prose itself functions as characterization. The writing largely succeeds because it teaches the reader a specific lyrical lexicon early (e.g., identifying magic via technical jargon or sensory synesthesia) and sustains that logic through to closure. However, the widespread reliance on elevated, "fable-like" registers occasionally leads to **Committee Voice**, where dialogue and narration blur into a uniform, poetic hum, reducing the friction necessary for high-stakes drama. The strongest pieces create cost by breaking this rhythm under pressure; the weaker ones simply maintain a beautiful, static hush.
+
+**Strength Profile**
+*   **Perceptual Signature:** The narration almost never relies on generic observation. The world is strictly defined by the focalizer’s trade or obsession.
+    *   *Micro-quotes:* "gravity braided matter into pure equation"; "read spines the way other people read faces"; "checksum scars."
+*   **Rhythmic Modulation:** Syntax mimics physical action. Sentences elongate during reflection or observation and fracture into staccato beats during physical crisis or decision.
+    *   *Micro-quotes:* "time folded...like a custodian turning a page"; "sound and silence weigh the same."
+*   **Lexical Consistency:** Writers expertly blend technical jargon with lyricism without breaking immersion. We see "thermal blooms," "declination rings," and "isostatic rebound" used as emotional metaphors.
+*   **Purposeful Elision:** Backstory and world-building mechanics are often compressed or omitted in favor of immediate sensory experience, a pattern taught early that pays off in a clean, resonant closure.
+*   **Clean Focalization:** Head-hopping is virtually non-existent. Even when handling multiple characters, the narrative stays strictly bound to the protagonist’s inference and sensory limits.
+
+**Weakness Profile**
+*   **Register Drift (Academic/Abstract):** In moments of peak realization, the voice often slips from embodied experience into essayistic summary or therapy-speak. Phrases like "intersubjective understanding" or "conceptual repricing" appear where sensory details should carry the weight.
+*   **The "Helpful Narrator":** The prose frequently over-explains a metaphor immediately after presenting it, distrusting the reader’s ability to parse the image.
+*   **Filter Verb Clutter:** Despite strong voice, there is a persistent reliance on distancing verbs ("she realized," "he felt," "he saw") in high-pressure beats where direct sensation would be more immediate.
+*   **Dialogue Convergence:** Characters often speak with the same elevated, aphoristic cadence as the narrator. A street urchin and a high priestess might both speak in perfectly grammatically complex metaphors, flattening voice distinction.
+*   **Lyric Stasis:** In weaker entries, the elevated "hushed" tone remains constant regardless of the action. A fight scene or a desperate escape reads with the same slow, meditative rhythm as a scene of reading a book.
+
+**Performance Boundaries**
+The writing excels when **metaphor functions as physics**—when a character’s specific way of seeing (e.g., a glazier seeing "sand convinced to stand still") solves the plot problem or defines the emotional cost. The writing breaks when it treats voice as **ornament**. When the lyricism becomes a decorative overlay rather than a perceptual tool, the story stalls; the prose becomes "purple" or "overwrought," and the ending feels like a rhetorical flourish rather than a dramatic consequence. The boundary is often marked by **specificity**: "the air smelled of ozone" works; "the air smelled of forgotten promises" risks abstraction unless the character is literally a merchant of promises.
+
+**Signature Moves & Blind Spots**
+*   **The Synesthetic Professional:** A pervasive habit of assigning sensory traits to abstract concepts based on the protagonist's job (e.g., an accountant "tasting" the math, a musician "seeing" the silence).
+*   **The "Compressed Climax":** Ending the story on a single, resonant image or a stillness (Charged Poise) rather than a kinetic resolution.
+*   **Blind Spot – Uniform Polish:** Writers are often afraid to let the characters sound messy, inarticulate, or ugly. The urge to make every sentence "beautiful" can rob scenes of necessary grit and friction.
+*   **Blind Spot – The Thesis Statement:** Characters delivering their internal arc as dialogue ("I am afraid that if I stop running, I will disappear") rather than acting it out.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Prose-as-Character:** The sentence structure itself mimics the character’s mental state (e.g., fragmented syntax for a fractured mind, looping clauses for an obsessive).
+*   **Subtextual Dialogue:** Conversations where the dialogue pursues a goal distinct from the narration, creating irony or tension between what is thought and what is said.
+*   **Earned Abstraction:** High-concept phrases or elisions that are only legible because the story has rigorously taught the reader the character’s specific internal dictionary.
+
+**Revision Levers & Keepers**
+*   **Keep:** The **Perceptual Signature**. Protect the specific metaphors derived from the character’s trade (glass, clocks, maps, codes). This is the engine of the voice.
+*   **Keep:** The **Rhythmic Variety**. Continue to use sentence length to control pacing—long for atmosphere, short for stakes.
+*   **Keep:** The **POV Discipline**. The strict adherence to single-focalizer limits is a major asset; do not dilute it with head-hopping.
+
+*   **Change:** **Cut Filter Verbs.** Search for "felt," "saw," "heard," and "realized." Rewrite the sentence to make the sensation the subject (e.g., change "He heard the bell ring" to "The bell rang").
+*   **Change:** **Roughen the Dialogue.** Review spoken lines to ensure they differ from the narration. Give characters distinct vocal tics, contractions, or registers that clash with the prose’s elegance.
+*   **Change:** **Prune the "Why."** Look for sentences that explain *why* a metaphor was used or *what* an emotion means. Cut them. Trust the image to land the feeling.

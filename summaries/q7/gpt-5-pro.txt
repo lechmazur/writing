@@ -1,2 +1,46 @@
 gpt-5-pro.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The central pattern for Question 7 in this cohort is **high-fidelity lyric density** that usually propels the narrative but occasionally suffocates it. The writing operates almost exclusively in a high-literary register where information density is exceptional; single sentences routinely perform triple duty, advancing world-building, emotional stakes, and thematic imagery simultaneously. This creates a rich, accumulative texture that excels in Tracks A and B (linear and mosaic), particularly in stories relying on atmosphere or ritual. However, the relentless commitment to figurative language—where nearly every noun is modified and every action is metaphorical—creates a specific vulnerability: **density saturation**. When the prose fails, it is rarely due to grammatical incompetence but rather "overwriting" and "paraphrase loops" where the writer restates a sensory detail in two or three adjacent metaphors rather than trusting the first. Closure reliability is extremely high, with final lines consistently recharging motifs established in the opening, but the "middle third" often suffers from rhythmic drag due to ornamental excess.
+
+**Strength Profile**
+*   **High Information Density:** The most consistent asset. Sentences rarely act as mere filler; they layer sensory data with causal progression.
+    *   *“Quills stitched from carnival tickets”*
+    *   *“The air turned cashier, folding every stray idea into ledgers”*
+    *   *“Teeth of iron confessing soil”*
+*   **Coherent Figurative Systems:** Metaphors generally stay within a unified domain (e.g., aquatic, sonic, or mechanical) rather than mixing vehicles.
+*   **Rhythmic Control:** Strong performance on the read-aloud ear test. Sentence lengths modulate effectively between long, breath-filled descriptions and shorter, percussive beats at decision points.
+*   **Anchored Closures:** Final lines almost always resolve by concrete image rather than abstract summary, often "recharging" a specific prop or phrase introduced early.
+
+**Weakness Profile**
+*   **Figurative Saturation (Overwriting):** In high-pressure beats, the prose often stacks similes to the point of obstruction. When a door opens, it "sighs," "confesses," and "yawns" in the same paragraph. This triggers the Density penalty, as the reader must wade through decoration to find the action.
+*   **Paraphrase Loops:** Adjacent sentences frequently restate the same concept without adding new pressure.
+    *   *Example:* Describing a silence as "heavy" in one sentence, then "weighted with unspoken words" in the next.
+    *   *Example:* Repeating "resonant hush" or "vibrant hush" as a refrain that becomes a stutter.
+*   **Template Cadence:** In procedural sequences (rituals, repairs), the prose slips into repetitive syntactic stems, particularly "I [verb]" or "He [verb]" structures across 3+ sentences.
+    *   *Signals:* "I took... I placed... I turned..." stacks that flatten the rhythm.
+*   **Register Drift:** Occasional intrusion of academic or abstract diction ("conceptual repricing," "intersubjective," "heuristically gentle") that clashes with the established sensory POV.
+
+**Performance Boundaries**
+This writing excels when it commits to **Accumulative** or **Circular** logic, where the repetition of imagery serves a ritualistic purpose and the high density mirrors the protagonist's internal state (e.g., an archivist, a watchmaker, a monk). It breaks when attempting high-velocity **Linear** action scenes. In moments requiring sharp, immediate causality (a fight, a sudden break, a flight), the prose’s refusal to drop the lyric register results in "purple" friction. The writing struggles to be simple; it fears that a plain sentence is a wasted sentence, leading to exhaustion in the middle third of the narrative.
+
+**Signature Moves and Blind Spots**
+*   **The "Recharged" Motif:** A habit of planting a specific image (a coin, a bell, a scar) in the first paragraph and returning to it in the final sentence with inverted meaning.
+*   **Simile Churn:** A blind spot where the writer uses "like" or "as" in 3+ consecutive sentences, creating a rhythmic tic.
+*   **Personification of the Inanimate:** Walls "breathe," gears "argue," and light "leans." Effective in moderation, but cloying when pervasive.
+*   **The "Noun of Noun" Construction:** Frequent use of phrases like "lullaby of conformity," "harvest of echoes," or "cathedral of breath."
+
+**High-Band Signals (≈ 8.8+)**
+*   **Zero Loops:** The narrative advances without circling back to re-describe a sensory detail already established.
+*   **Concrete Peaks:** High-pressure beats are rendered with strong verbs and nouns, dropping the heavy adjectival load to increase speed.
+*   **Integrated Patterning:** Figurative language is "taught" early (e.g., establishing a world where sound has mass) so that later metaphors read as literal physics rather than poetic flourish.
+
+**Revision Levers and Keepers**
+*   **Keep:**
+    1.  **Multi-tasking sentences:** Protect lines that bind setting, character, and action (e.g., "Rust resents salt").
+    2.  **Sonic rhythm:** The variation in sentence length is a major asset; preserve the musicality.
+    3.  **Concrete vocabulary:** Keep the specific nouns (calipers, amber, sextant) that ground the abstractions.
+
+*   **Change:**
+    1.  **Prune Similes:** Cut 50% of "like/as" constructions in the middle third to reduce drag.
+    2.  **Break Template Stems:** Revise any paragraph with three consecutive sentences starting with the same pronoun/noun structure.
+    3.  **Cut the Second Image:** If a sentence offers two metaphors for the same thing (e.g., "the light was a bruise, a purple stain"), delete the weaker one to sharpen impact.

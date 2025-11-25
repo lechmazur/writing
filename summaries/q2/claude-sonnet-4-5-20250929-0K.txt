@@ -1,2 +1,46 @@
 claude-sonnet-4-5-20250929-0K.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+
+The cohort demonstrates high competence in establishing and maintaining the **Accumulative/Textural** drive lens, frequently utilizing the 600–800 word scope to build sensory density rather than attempting sprawling linear plots. Most pieces successfully navigate the **Orientation Test**, anchoring the reader within the first paragraph. However, the critical friction point lies at the **Closure Gate**, specifically the **Cost Proof Test**. While many stories achieve a theoretical Resonant Reconfiguration or Conceptual Repricing, too many rely on "soft resets" or "symmetric satisfaction" where the protagonist’s internal shift is asserted without a corresponding on-page sacrifice or foreclosed option. The most successful pieces force a tangible trade-off—silence for speech, safety for exposure, a physical object broken or left behind—while weaker entries allow the protagonist to solve the problem via convenience, leaving the "cost" purely atmospheric.
+
+**Strength Profile**
+
+*   **Immediate Orientation:** The vast majority of pieces satisfy the Orientation Test by ~50–80 words, effectively grounding *who, where,* and *when* (e.g., "greenhouse roof had buckled," "abandoned spaceport repair bay"). This stability allows the Accumulative density to build without confusing the reader.
+*   **Coherent Drive Lenses:** Writers generally select a lane (Track A, usually single scene) and stick to it. We see very little mode-switching confusion; stories taught as textural explorations rarely jar the reader with sudden, unearned action-thriller pivots.
+*   **Resonant Reconfiguration:** The corpus excels at the "Cadence Shift" closure type. Endings frequently succeed in reweighting the story’s premise through a final image that charges prior motifs.
+    *   *Micro-quotes:* "Not preserved. Living." | "Conditions uncertain, recommend caution." | "The space between worlds tasted like goodbye."
+
+**Weakness Profile**
+
+*   **Failure of the Cost Proof Test:** Too often, closure is achieved through a realization that costs the character nothing. We see protagonists gain wisdom, magic, or peace without forfeiting a concrete resource, relationship, or option. The ending feels like a gift rather than a purchase.
+*   **Summary Bridges over Causal Gaps:** In Causal-lens stories, the pivotal action often happens in summary (e.g., "Over the next few weeks, she worked...") rather than in a dramatized scene. This creates a "soft reset" where the difficulty of the change is elided.
+*   **Convenience and Coincidence:** Solutions frequently arrive via "magic keys" found at the perfect moment or "expert mentors" who explain the theme in dialogue, removing the burden of agency from the protagonist.
+*   **Symmetric Satisfaction:** Endings where the problem is solved perfectly (the ghost is freed *and* the girl is happy *and* the town is saved) lack the jagged edge of literary closure. The rubric demands that the status quo be *reconfigured*, not merely tidied.
+
+**Performance Boundaries**
+
+The threshold between competent (7.0–8.5) and exceptional (9.0+) writing in this cohort is defined by **resistance**. Competent stories present a problem and solve it through the protagonist's inherent skills or a discovered tool, resulting in a linear line of success. Exceptional stories introduce a **Persistent Constraint** or a **Meaningful Tightening** that forces the protagonist to abandon their original plan or identity. When the external world bends easily to the protagonist's will, the score caps at the mid-8s. When the protagonist must break something valuable (an heirloom, a vow, a safety protocol) to achieve the reconfiguration, the story clears the 9.0 bar.
+
+**Signature Moves and Blind Spots**
+
+*   **The "Epiphany Object":** A pervasive habit of ending the story with the protagonist holding a small object (shard, seed, key, stone) that symbolizes the theme. When this object has a history and a cost (e.g., the broken needle), it works; when it appears just to be held, it is a prop.
+*   **The "Understood" Shortcut:** A blind spot where the narrative states "She finally understood..." instead of showing the action that proves understanding. This violates the "show, don't tell" aspect of the Cost Proof Test.
+*   **Atmosphere as Substitute for Pressure:** Relying on "hush," "silence," and "twilight" to suggest profundity when the actual stakes are low.
+
+**High-Band Signals (≈ 8.8+)**
+
+*   **Irreversible Physicality:** Closure is marked by a physical change in the world that cannot be undone (e.g., deleting the database, burning the letter, the ice melting).
+*   **Foreclosed Options:** The narrative explicitly shows a path the character can no longer take.
+*   **Tightened Causal Chain:** In Causal pieces, every "because" leads to a "therefore" without reliance on luck or off-stage help.
+
+**Revision Levers and Keepers**
+
+*   **Keep:**
+    *   **Anchoring:** Continue the habit of establishing the scene immediately.
+    *   **Scope Discipline:** The single-scene structure (Track A) is serving these ideas well; avoid expanding into multi-month montages.
+    *   **Textural Density:** The use of recurring sensory motifs (light, sound, dust) to build unity.
+
+*   **Change:**
+    *   **Dramatize the Pivot:** Locate the sentence where the character changes their mind/tactics and ensure it is a specific *action*, not a summary of time passing.
+    *   **Tax the Victory:** If the character succeeds, take something away from them in the final paragraph. Apply a specific deduction to their inventory, relationships, or future options.
+    *   **Eliminate "Explain-Everything" Dialogue:** Cut characters who arrive solely to interpret the plot for the protagonist. Let the protagonist misinterpret and correct themselves through failure.

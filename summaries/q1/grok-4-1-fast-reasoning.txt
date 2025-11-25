@@ -1,2 +1,37 @@
 grok-4-1-fast-reasoning.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The central tension in this cohort lies between **embodied agency** and **diagnostic labeling**. The most successful narratives ground character motivation in tactile, high-pressure micro-choices—where a character’s hesitation or reckless lunge reveals their hierarchy of values more truthfully than their internal monologue. However, a pervasive reliance on "adverb-adjective" tags (e.g., *“bravely conflicted,” “quietly driven,” “carefully reckless”*) frequently short-circuits genuine dramatization. When writers trust the somatic evidence of a character’s struggle—sweat, trembling hands, the specific handling of a tool—the motivation lands with visceral impact. When they revert to summarizing emotional states via therapy-speak or poetic abstraction, the psychological reality flattens into archetype. For Q1, the difference between a competent mid-band piece and a high-band standout is almost always the presence of **simultaneous contradictory impulses** acting in the scene, rather than sequential contemplation resolving into a tidy epiphany.
+
+**Strength Profile**
+*   **Tactile Micro-Choices:** The writing excels when interiority is filtered through interaction with physical objects. Whether it is *“tracing the fractures”* of a stone, *“aligning the shell to the f-hole,”* or *“gripping the rail,”* these moments successfully externalize internal states without needing exposition.
+*   **Coherent Professional Identities:** Characters often possess specific vocations (clock-menders, archivists, map-makers) that color their perception. When the narrative lens stays strictly bound to these skill sets (e.g., a glazier reading stress lines in glass), the voice remains distinct and grounded.
+*   **Earned Stasis:** Resolutions often land well when they embrace endurance over cure. Many stories effectively dramatize a character accepting a difficult status quo (e.g., *“foreclosing the path of return”*), which reads as a mature, earned cost rather than a fairy-tale fix.
+*   **Somatic Anchoring:** Stronger pieces avoid generic emotional labels by focusing on involuntary bodily reactions—*“breath fogging the glass,”* *“callused fingers,”* or *“pulse syncing with the machine.”*
+
+**Weakness Profile**
+*   **Diagnostic Label-Speak:** A recurring failure mode is the use of clinical or thematic labels to define emotion in peak beats. Phrases like *“somatic markers,”* *“encrypted compassion,”* or *“emotional numbness”* appear in moments of crisis, distancing the reader precisely when immersion is required.
+*   **The "Adverb-Adjective" Crutch:** Interiority is often summarized via two-word tags (*“steadily adaptive,” “sensibly eccentric,” “virtuously mischievous”*) repeated as leitmotifs. These labels tell the reader how to interpret the character rather than letting the character’s contradictory actions prove the trait.
+*   **Epiphany Over Struggle:** Too often, complex internal conflicts are resolved through sudden realization rather than a high-stakes trade-off. Characters move from doubt to certainty without a visible *“micro-choice under pressure”* that forces them to sacrifice one value for another.
+*   **Abstracted Cost:** While motivation is usually clear, the *cost* of the final choice is frequently intellectual or atmospheric rather than visceral. Characters renounce abstract concepts (e.g., *“renouncing silence”*) rather than concrete assets, safety, or relationships.
+
+**Performance Boundaries**
+The writing excels when it forces characters to make decisions that degrade their competence or safety—when a perfectionist breaks a tool, or a hider steps into the light. It breaks when it allows characters to succeed through their defining traits without friction (e.g., the "adaptable" character adapts perfectly; the "intuitive" character divines the answer instantly). High performance requires the character's greatest strength to become a liability under pressure, forcing a clumsy, desperate adaptation rather than a smooth execution of skills.
+
+**Signature Moves and Blind Spots**
+*   **The "Gentle Artisan" Archetype:** A heavy preference for protagonists who are quiet menders, weavers, or archivists. While atmospheric, this often leads to passive interiority where characters observe the plot rather than driving it.
+*   **The Simultaneous-Sequential Gap:** Writers often present conflicting emotions sequentially (first fear, then resolve) rather than simultaneously (shaking while stepping forward). True depth comes from the friction of holding both states in the same beat.
+*   **Voice Convergence:** In dialogue scenes, characters often speak in the same elevated, lyric register, eroding individual distinctiveness.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Irreversible Foreclosure:** The ending is defined not by what is gained, but by what is permanently lost or abandoned (e.g., *“foreclosing the path of return with visible cost”*).
+*   **Somatic Contradiction:** The body betrays the mind. A character declares confidence while their hands perform a nervous ritual; a pacifist’s grip tightens on a weapon.
+*   **Occupational Distortion:** The character’s worldview distorts reality in a way specific to their trauma or trade (e.g., seeing a relationship solely as a *“fractured equation”* or a *“failed graft”*).
+
+**Revision Levers and Keepers**
+*   **Keep:** The focus on specific, tactile objects (relics, tools, maps) as anchors for memory and emotion.
+*   **Keep:** The willingness to end on "Earned Stasis" or endurance rather than forced happiness.
+*   **Keep:** The grounding of motivation in professional or craft-based expertise.
+
+*   **Change:** Hunt down and explode every "Adverb + Adjective" character tag (e.g., *“carefully reckless”*). Replace the label with an action that proves the contradiction.
+*   **Change:** Ensure the climax involves a micro-choice where the character *hesitates* or *fails* before succeeding. Competence must be challenged to feel earned.
+*   **Change:** Scrub diagnostic language from interiority. Replace *“he felt a surge of resilience”* with the specific sensory detail of that resilience (e.g., *“he locked his knees and steadied the tremors”*).

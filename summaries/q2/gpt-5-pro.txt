@@ -1,2 +1,40 @@
 gpt-5-pro.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The dominant narrative strategy across this corpus is the **Accumulative/Textural** drive lens, where narrative pressure builds through increased sensory density, recursive imagery, and ritualistic repetition rather than linear, high-velocity plot turns. Success in this mode depends entirely on whether the accumulated weight forces a **Resonant Reconfiguration** or **Conceptual Repricing** at the closure. The strongest pieces do not “solve” the central conflict (e.g., a broken clock, a flooded city, a silence ban) but fundamentally alter the protagonist's relationship to it, landing on a **Charged Poise** where the cost of this new understanding is visceral and on-page. When this fails, the narrative dissolves into atmospheric drift, offering a "soft reset" where the mood shifts but nothing is irrevocably spent or foreclosed. The vast majority of successful submissions adhere to **Track A (Defaults)**—a single continuous scene with perhaps one embedded memory shard—though successful **Track B (Mosaic)** entries teach their fragmented pattern within the first 25% to avoid disorientation penalties.
+
+**Strength Profile**
+*   **Resonant Closure:** High-performing stories consistently land closure via a specific image that re-weights the narrative’s premise. Rather than tying up loose ends, they crystallize a new status quo.
+    *   *“The storehouse is breath”*
+    *   *“Hush learns to listen”*
+    *   *“Map stitched inside”*
+*   **Object-Driven Causality:** The best pieces use physical objects (broken lenses, cracked bells, drying ink) to anchor the lyric mode. These objects function as causal hinges; their repair, destruction, or release dictates the plot progression, preventing the story from floating into abstraction.
+*   **Immediate Orientation:** Despite high-concept settings (underwater libraries, soundless citadels), strong drafts anchor *who, where,* and *when* within the first ~80 words, establishing the rules of the world before distorting them.
+*   **Legible Transitions:** In Track B submissions, transitions between shards are marked by distinct sensory shifts (e.g., moving from a memory of fire to the tactile reality of ash), maintaining causal continuity.
+
+**Weakness Profile**
+*   **Soft Resets & No-Cost Endings:** The most frequent failure mode is closure that resolves tension without extraction. Characters “accept” their situation or “find peace” without sacrificing an option, resource, or belief. This often manifests as a sudden emotional shift unsupported by prior action (e.g., the “symmetric satisfaction” where everyone leaves happy).
+*   **Orientation Drift:** Stories that delay concrete anchoring past the ~120-word mark often fail to recover. When the setting remains “a vague place of mist” until the midpoint, the reader cannot gauge the stakes of the ending.
+*   **Magic-Bullet Solutions:** In fantasy/sci-fi settings, weaker stories introduce a new magical rule in the final paragraph to resolve the conflict (e.g., a song that magically fixes a broken machine), breaking the causal chain established early on.
+*   **Atmospheric Stasis:** Narrative drive stalls when the density of description increases without a corresponding tightening of options. The story accumulates motifs but never forces the protagonist to make a choice that narrows their future path.
+
+**Performance Boundaries**
+The boundary between a competent mid-band score (6.0–7.5) and a high-band score (8.5+) is the **Cost Proof Test**. Mid-band stories often end with a thematic summary or a stated emotion (“I finally felt free”). High-band stories dramatize the price of that freedom through a concrete forfeiture—a door left permanently locked, a tool thrown into the sea, a relationship severed to save a duty. When a story fails to manifest this cost on the page, it caps at 7.5 regardless of lyrical beauty. Conversely, stories that introduce a persistent constraint early (e.g., a limited oxygen supply, a crumbling wall) and force the protagonist to navigate it all the way to the end consistently score in the 9s.
+
+**Signature Moves and Blind Spots**
+*   **The “Keeper” Archetype:** A pervasive habit is casting the protagonist as a custodian (archivist, lighthouse keeper, clock winder). This enables strong Accumulative structures but often creates a blind spot regarding active agency; protagonists tend to *witness* change rather than *cause* it.
+*   **Sensory Substitution:** Writers frequently swap visual descriptions for auditory or tactile ones (listening to light, tasting silence). When disciplined, this creates unique texture; when overused, it obscures basic mechanical causality.
+*   **The Twilight Setting:** A massive overrepresentation of stories set at dusk, twilight, or in fog. While atmospheric, this often correlates with “soft focus” plotting where hard edges and hard choices are obscured.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Charged Poise:** The final beat isn't a full stop but a held breath—a moment of suspension where the protagonist stands committed to a new, difficult path (e.g., holding a door open despite the cold).
+*   **Coherent Lens:** The drive lens (usually Accumulative/Textural) is unambiguous. Every metaphor and plot beat serves to thicken the specific thematic tension (e.g., silence vs. noise) without wandering into unrelated subplots.
+*   **Visible Forfeiture:** The character leaves something behind on the page. It’s not just an internal realization; they walk away from the map, break the key, or burn the letter.
+
+**Revision Levers and Keepers**
+*   **Keep:** The focus on sensory and object-oriented storytelling. This grounds high-concept premises in tactile reality.
+*   **Keep:** The single-scene or tight two-shard structure. This scope creates natural pressure and prevents narrative sprawl.
+*   **Keep:** The use of “Conceptual Repricing” at the end. Reframing the problem is often more satisfying in short fiction than mechanically fixing it.
+
+*   **Change:** **Dramatize the Cost.** Locate the exact sentence where the character pays a price for the resolution. If it’s not there, force them to break something, lose something, or leave something behind.
+*   **Change:** **Tighten the Midpoint.** Ensure the accumulation of detail leads to a *narrowing* of options. By the 60% mark, the protagonist should have fewer choices than when they started, not more.
+*   **Change:** **Anchor Earlier.** If the setting is high-concept (e.g., a city where memories are currency), establish the concrete physical rules in the first paragraph. Don't let the premise float.

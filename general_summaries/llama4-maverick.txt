@@ -1,64 +1,67 @@
 llama4-maverick.txt
 1) Executive profile  
 
-Llama 4 Maverick reliably produces clear, oriented, single-POV stories that favor Track A defaults: one continuous scene, 1–2 focal characters, a stable emotional weather, and an Accumulative/Textural drive lens. It handles atmosphere, motif, and surface coherence with ease; you nearly always know who is on the page, where you are, and what the protagonist wants in broad terms. Setting, sensory detail, and a vocational lens (musician, cartographer, archivist, etc.) interlock smoothly enough that scenes feel lived-in rather than schematic. Closure usually arrives on time and thematically “points back” to the stated goal.
+Across Q1–Q8, Llama 4 Maverick is a consistently clear, scene-oriented storyteller with strong control over orientation, mood, and thematic throughline, but it habitually undercuts dramatic impact by avoiding concrete cost, pressured choice, and specific, embodied contradictions. Most stories run on Track A—single POV, one main scene, accumulative/textural drive—with occasional valid Track B mosaics that stay legible. Within those lanes, the writing is coherent and rarely confusing: who/where/when is usually taught early, POV is stable, settings are vivid, and the closing image almost always connects back to the opening stake or motif.
 
-The consistent limitation is cost and pressure. Across Q1–Q8, stakes tend to remain abstract or internal, escalation is largely textural rather than tactic-driven, and final turns are declared in realization-heavy language rather than dramatized through micro-choices that visibly foreclose options. Characters are gentle, competent, and rarely forced into contradiction; settings are evocative but more backdrop than trap; plots accumulate meaning but seldom narrow paths. Voice and prose are competent but template-generic, especially at emotional peaks, with filter-verb stacks and paraphrase loops softening impact. The cumulative effect for readers is a pleasant, atmospheric experience whose closures feel tidy rather than earned, moving rather than wounding.  
+Reader impact, however, is capped by how often closure is asserted rather than earned. Motivations are clear, but protagonists are “thoughtful observers under little stress,” guided by abstract wants (“make peace with the world,” “decode the rhythm of repair”) that are not rigorously tested by conflict, environment, or relationship pressure. The prose and structure reliably deliver resonance in mood—a hush, a softened ache, a realization—but not in consequence. Cost is “ambient, not felt”: few scenes force the character to foreclose a live option, lose something concrete, or visibly pay for their insight.  
 
-Track B mosaics and occasional structural risks do appear, but even there the lens remains coherent and orientation is sound; what’s missing is often the one pressured turn where environment, flaw, and choice collide and leave a mark.
+The house style is poetic, reflective, and accumulative. Motifs and settings are carefully patterned, voices are lyrically consistent, and thematic closure often circles back with earnest symmetry. When all of this lines up with a slightly more pressurized decision or a genuinely reweighted image, stories feel quietly powerful. When not, they read as polished vignettes: pleasant, swappable, and low-risk, with closure landing conceptually rather than viscerally.
 
 ---
 
 2) Portfolio map  
 
-Q1 Character — Mixed · Clear wants, gentle competence; change rarely costs anything  
-Q2 Plot/Causality — Mixed · Accumulative structure; closure lands, but cost often gestural  
-Q3 Setting — Mixed · Vivid, selective detail; environment seldom constrains choices  
-Q4 Conflict/Stakes — Fragile · Pressure deepens atmospherically, not via forced trade-offs  
-Q5 Theme/Subtext — Mixed · Strong motifs; final paragraphs often slip into moralizing  
-Q6 Voice/POV — Mixed · Stable single POV; lyric but generic, filter-heavy under stress  
-Q7 Prose/Line-level — Mixed · Good imagery; paraphrase loops, template stems, abstractions  
-Q8 Originality/Ingenuity — Mixed · Fresh syntheses; arcs and closures stay “safely” generic  
+Q1 Character — Mixed · Clear drives, but low contradiction and visible cost  
+Q2 Plot/Causality — Mixed · Accumulative structure; closure often lacks concrete price  
+Q3 Setting — Mixed · Vivid atmosphere; rarely constrains or drives tactical choice  
+Q4 Conflict/Stakes — Fragile · Stakes stay abstract; escalation and cost underdramatized  
+Q5 Theme/Subtext — Mixed · Strong motifs; frequent final-paragraph moralizing or “thematic echo”  
+Q6 Voice/POV — Mixed · Stable single POV; generic “workshop-mystical” register under pressure  
+Q7 Prose/Line-level — Mixed · Concrete images, but paraphrase loops and filter stacks in climaxes  
+Q8 Originality/Ingenuity — Mixed · Fresh syntheses; arcs and closures remain “safely” generic  
 
 ---
 
 3) Signature moves  
 
-- Anchoring protagonists in a specific vocation or sensorium—“methodical historian,” musician, cartographer—so “her actions align with her scholarly purpose.”  
-- Accumulative patterning: recurring motifs (tapestry fragment, inkwell, frost) that “charge the final image” with thematic weight.  
-- Clean, early orientation with economical, POV-filtered setting: fog, ruins, greenhouses, archives evoked in a few, pointed strokes.  
-- Micro-choices via tactile engagement—“fingers itched to probe the tapestry,” rotating feathers, tuning instruments—to embody motivation.  
-- Lyrical, imagistic closure beats—“the chronic hush is tempered, not erased”—that attempt to reweight the emotional field without breaking scene unity.  
+- Anchoring characters in vocations or sensibilities that color perception—“methodical historian,” “musician’s tuning forks,” “emotion heat-map”—creating a believable operating mode.  
+- Accumulative, motif-driven structure: patterns of “silence and revival,” recurrent objects (tapestry fragments, inkwells, pearls) that “recur, constraining focus” and attempt to charge the final image.  
+- Purposeful sensory worldbuilding: “thick with the scent of damp earth,” “drift-ice marina,” “greenhouse decay” create lived-in, economical settings tied to mood.  
+- Lyrical, imagistic endings—“final image of the pearl’s ‘latent radiance’,” “the chronic hush is tempered, not erased”—that aim to reweight the story non-literally.  
+- Quiet, introspective conflict arcs where agency shows up as attentional endurance, gentle adaptation, or renunciation, rather than confrontation.  
+- Moments where theme is beautifully embedded: “Theme of memory, absence, and repair interweave, and the ‘trust breaking’ motif reweights into a tool for healing.”
 
 ---
 
 4) Failure modes  
 
-- **Closure without visible cost:** Endings assert peace, clarity, or purpose (“sense of peace,” “her heart swelled with peace”) without an on-page forfeiture, broken bridge, or irreversible renunciation; “no meaningful choice or renunciation occurs with visible cost.”  
-- **Abstract, diagnostic interiority at peak beats:** Crises are narrated through therapy-speak and labels—“vulnerability is power,” “compulsive need to document”—instead of crisis-mode thought or conflicted action.  
-- **Plateaued escalation:** Conflict “accumulates texturally but lacks a meaningful cadence shift that narrows options or forces a trade-off”; midpoints drift into repetition rather than tactical tightening.  
-- **Setting as ornament, not agent:** Micro-setting objects and rich environments are “primarily as backdrop rather than active pressure on decisions”—they recur symbolically but never actually box the protagonist in.  
-- **Template voice and line-level artifacts:** Filter-verb stacks (“she felt,” “she knew”), repetitive stems (“As she…”, “The [noun] [verb]…”), and paraphrase loops (“sense of calm… deep calmness”) flatten rhythm and urgency, especially in the final third.  
-- **Thematic echo / moralizing:** Final paragraphs often restate the moral or prompt—“The love you seek is within…”—undercutting earlier subtext and earning explicit penalties.  
+- **Closure without cost:** Endings that declare “sense of peace,” “knew she would return,” or similar realizations without any on-page forfeiture, lost opportunity, or altered tactic. The rubric’s “cost proof” sentence is routinely missing.  
+- **Abstract/diagnostic peaks:** Climactic beats slip into therapy-speak or generalized labels—“vulnerability is power,” “profound beauty,” “testament to human spirit”—instead of crisis-mode thought, gesture, or dialogue.  
+- **Flat escalation:** Stories “accumulate texturally but lack a meaningful cadence shift that narrows options or forces a trade-off,” circling imagery or emotion rather than tightening stakes after midpoint.  
+- **Characters shielded from pressure:** Protagonists’ flaws are “superficially flawed or ‘safe’,” and secondaries stay as supports rather than obstacles; “the other character... functions as a prop, not a pressure source.”  
+- **Setting as ornament:** Even vivid environments “never constrain choices or enable specific tactics—it remains scenic backdrop rather than active pressure,” so place does not force or foreclose decisions.  
+- **Line-level artifacts in final third:** Paraphrase loops (“sense of calm… deep calmness”), template cadences (“As she…”, “The [noun] [verb]…”), and filter-verb clusters (“she felt,” “she began to”) proliferate right when closure needs compression and specificity.  
+- **Thematic Echo endings:** Final paragraphs that restate the moral or prompt—“‘The love you seek is within…’ This Thematic Echo replaces earned, resonant image with a stated moral”—blunting subtext and ambiguity.  
+- **Safety-middle originality:** Inventive surfaces (“collecting absences,” “corridor echo cartographer”) that function as labels; core arcs (“artist rediscovers inspiration,” “family legacy accepted”) could be transplanted to generic settings “without affecting the story’s logic.”
 
 ---
 
 5) When it shines / when it breaks  
 
-This model shines when a story’s core can be built through texture: a single character engaged in a focused task within a resonant environment, where motifs and professional lens do the heavy lifting. In those pieces, setting is vivid, the protagonist’s goal is legible, and the accumulative drive lens feels apt rather than evasive. Theme then emerges quietly from recurring images and a final, non-literal gesture; subtext breathes in the silences, and the story reads as a polished vignette with emotional afterglow.
+This model shines when the story’s natural strengths—lyric texture, motif patterning, vocational lenses, and clear orientation—are coupled with even a single, specific, pressured decision that reweights the closing image. If the environment or micro-setting object is allowed to act as an actual lever (blocking a path, demanding sacrifice), or a protagonist must visibly give something up to stand in their final stance, the existing craft quickly feels elevated: theme emerges from action, setting becomes agent, and the closure image genuinely “answers” the opening stake without explanation.
 
-It breaks when the material demands genuine conflict or ethical dilemma—any situation that requires a protagonist to choose between two goods or two losses. Under pressure, the prose retreats into abstract reassurance, closure is achieved by realization rather than loss, and the world stops short of exerting real force. Narrative devices that might add bite—antagonists, hard clocks, dangerous landscapes, real social exposure—are either absent or defanged. The same happens at the sentence level: just when the line should sharpen and compress, it widens into paraphrase or platitude. The result is a body of work that feels consistently competent yet rarely unforgettable.
+It breaks when the narrative trusts atmosphere and reflection to do the work of drama. Whenever stakes remain abstract, antagonists and settings stay polite, and emotional beats are handled via repetition and diagnostic labels, stories flatten into meditations. In those cases, even strong images and inventive premises can’t overcome the sense of swappability: another gentle, competent protagonist in another softly glowing space could undergo the same frictionless realization with the same ending line.
 
 ---
 
 6) Keep vs. adjust  
 
 • Keep  
-- The vocational / poetic lens that grounds each protagonist’s way of seeing and choosing; it’s the main engine of specificity and originality.  
-- The skill with concrete, selective sensory detail—especially tactile micro-actions—that anchors otherwise abstract themes.  
-- The commitment to structural and tonal coherence: once a drive lens (Accumulative, textural) is chosen, it’s usually sustained cleanly through closure.  
+- The commitment to profession- or obsession-driven lenses that give each protagonist a coherent way of seeing and noticing.  
+- Economical, POV-filtered sensory scene-setting that orients quickly and builds atmosphere without bloat.  
+- Use of recurring images/objects to tie opening stakes to closing gestures, aiming for non-literal, motif-charged endings.
 
 • Adjust  
-- **Build visible cost into closure:** In the final third, require at least one on-page decision that forecloses a plausible path or sacrifices a valued object/relationship; ensure a single sentence/image can serve as “cost proof.”  
-- **Replace label-speak with embodied contradiction:** Strip diagnostic phrases from peak beats and instead show simultaneous, conflicting impulses through action, dialogue, and physical hesitation.  
-- **Tighten line-level pressure:** Systematically excise paraphrase loops and filter-verb clusters, vary sentence openings, and let key motifs return in sharpened, image-forward lines rather than summaries—especially in the last paragraph.
+- In the final third, force at least one concrete, protagonist-driven choice that forecloses a plausible path and shows its cost on the page—through action, loss, or altered relationship, not just thought.  
+- Strip out label-heavy and moralizing language from peaks and endings; replace “felt a sense of peace,” “vulnerability is power,” or poster-ready morals with specific physical reactions, dialogue, or images that let readers infer meaning.  
+- Make setting and micro-setting do tactical work: revise key beats so environment or objects genuinely constrain options, complicate tactics, or exact a price, ensuring that closing images are not just pretty but causally loaded.

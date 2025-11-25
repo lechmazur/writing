@@ -1,2 +1,41 @@
 claude-sonnet-4-5-20250929-0K.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The submitted cohort demonstrates a consistently high standard of line-level craft, characterized primarily by **high information density**. Sentences rarely idle; instead, they perform "double or triple duty," simultaneously advancing world-building, character interiority, and atmospheric pressure. This efficiency is critical for the 600–800 word constraint, allowing complex Track A and B narratives to land with resonance. However, the primary barrier preventing strong entries (7.5–8.5) from reaching the exceptional band (9.0+) is the presence of **micro-loops and scaffolding**. Writers frequently trust the image in one sentence, only to paraphrase or explain it in the next ("paraphrase loops"). Additionally, there is a recurring tendency toward "lyrical overwriting" in peak beats—stacking abstract modifiers (e.g., "luminous," "hushed," "fractal") rather than relying on the concrete verbs that established the scene. When the prose trusts its own density, the closure lands with inevitable force; when it explains itself, propulsion stalls.
+
+**Strength Profile**
+*   **High Information Density:** The strongest consistent trait. Writers efficiently compress backstory and setting into active clauses (e.g., "brass had oxidized to a green patina that reminded him of everything the water had taken").
+*   **Coherent Figurative Systems:** Metaphors generally obey the physical logic of the story’s world. We see consistent, pattern-taught vehicles (e.g., light/glass/refraction or roots/earth/memory) rather than mixed metaphors.
+*   **Rhythmic Variety (Read-Aloud Test):** Most pieces pass the ear test. Sentence lengths modulate effectively, using longer, flowing syntax for reflection and staccato fragments for high-pressure realizations.
+*   **Strong Opening Anchors:** Opening lines frequently succeed in grounding voice and stakes immediately ("The canyon held its breath under a tapestry of stars").
+
+**Weakness Profile**
+*   **Paraphrase Loops:** The most common deduction. A strong image is presented, then immediately restated in abstract terms.
+    *   *Example:* "The gallery wasn't vanishing... it had never been complete. They'd all chosen to see wholeness where fragments existed." (Restating the insight drains tension).
+*   **Lyrical Overwriting & Labeling:** In high-pressure beats, writers often resort to abstract adjective-noun clusters rather than action. Terms like "luminous regret," "auroral sorrow," or "quietly explosive" appear as decorative labels that distance the reader from the raw sensory experience.
+*   **Template Cadence:** Runs of identical sentence stems (e.g., "She [verb]... She [verb]...") appear in about 20% of entries, creating a mechanical drumbeat that flattens momentum.
+*   **Scaffolding at Closure:** The final paragraph often summarizes the theme ("She understood now that...") rather than trusting the final image to carry the weight.
+
+**Performance Boundaries**
+The prose excels when it remains **anchored in physical process**. Descriptions of manual tasks—repairing clocks, grinding glass, pruning orchards—are uniformly excellent, utilizing strong verbs and specific nouns that naturally generate subtext. The writing breaks down when it attempts to describe **abstract emotional states directly**. When writers shift from "showing" the work to "telling" the epiphany, the register often drifts into academic or therapeutic diction ("cognitive dissonance," "synaptic plasticity," "adaptive survival instincts") that clashes with the established voice. The prose fails the "9+ quick test" exactly when it stops trusting the concrete details it has already established.
+
+**Signature Moves and Blind Spots**
+*   **The "Luminous" Tic:** There is a pervasive over-reliance on words like *luminous, fracture, hush, crystalline,* and *amber*. While evocative, they risk becoming "synonym churn" when used repeatedly to force an atmospheric tone.
+*   **The Recharged Motif:** A highly effective signature move is the return to an opening image at the closure, re-contextualized by the narrative arc (e.g., a coin, a seed, or a sound).
+*   **Prompt-Force Artifacts:** Specific phrasing sometimes feels mechanically inserted (e.g., "carefully inventive," "quietly savvy"), creating rhythmic stumbles or register breaks.
+
+**High-Band Signals (8.8+)**
+*   **Zero Loops:** The narrative relies on absolute economy. No sentence restates the previous one; every beat is new information.
+*   **Embodied Abstraction:** High-scoring entries render complex concepts through physics and action (e.g., "sound folded back upon itself," "ink bleeding into strange new patterns") rather than adjectival labeling.
+*   **Propulsive Closure:** The ending is delivered through a charged image or action that resolves the rhythmic cadence, without a "summary sentence" explaining the moral.
+
+**Revision Levers and Keepers**
+
+**Keep:**
+*   **Multitasking Sentences:** Continue writing lines that layer setting, character state, and plot momentum simultaneously.
+*   **Metaphorical Consistency:** Maintain the discipline of using figurative language that aligns with the story’s specific material reality (e.g., using geological metaphors for a miner character).
+*   **Rhythmic Modulation:** Preserve the instinct to vary sentence length to match the emotional temperature of the scene.
+
+**Change:**
+*   **The "Second Sentence" Cut:** Systematically review every paragraph. If the second sentence merely explains the first, cut it. (Fixes Paraphrase Loops).
+*   **Filter Verb Pruning:** In peak emotional beats, remove "she felt," "he realized," "she saw." State the sensory reality directly to increase immediacy.
+*   **Adjective/Adverb Purge:** Scan for abstract modifier stacks ("powerfully gentle," "haunted euphoria"). Replace them with a concrete verb or a specific sensory detail that proves the quality.

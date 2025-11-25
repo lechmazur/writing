@@ -1,2 +1,43 @@
 gpt-5-pro.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The defining characteristic of high-performing stories in this cohort is the successful transmutation of abstract motivation into **embodied interiority**. The most compelling protagonists do not merely think about their dilemmas; they process them through a specific occupational or sensory lens (e.g., an archivist reading “dust patterns,” a glazier “tipping light”). This grounding prevents the narrative from drifting into "diagnostic label-speak" or therapy-adjacent summary. Success correlates strongly with **Track A (Single-POV)**, where the narrative camera remains locked inside a singular, flawed psyche under pressure. High-scoring pieces consistently pass the "9+ quick test" by dramatizing **contradictory impulses acting simultaneously in scene**—meaning the protagonist wants two incompatible things (e.g., to hoard a memory vs. to release a burden) and must make a micro-choice that forecloses one path with visible emotional or physical cost. When closure fails, it is almost always because the protagonist experiences an epiphany without paying a price, resulting in a thematic statement rather than a lived alteration.
+
+**Strength Profile**
+*   **Occupational Perception:** Motivation is filtered through unique skill sets, creating a consistent internal logic. Characters view the world as "geometries of feeling" or "gradients of decay" rather than using generic emotional descriptors.
+*   **Embodied Contradiction:** The best interiority manifests physically before it is articulated intellectually. Panic is "ribs fencing with themselves"; hesitation is a hand "remembering the shape of a latch."
+*   **Micro-Choices Under Pressure:** Authors excel at using small, tactical decisions (e.g., untying a knot, suppressing a cough, misfiling a ledger) to reveal a hierarchy of values.
+*   **Micro-quotes:**
+    *   "ribs fencing with themselves"
+    *   "grief runs me the way water wears a channel"
+    *   "throat moves when futures test their weight"
+    *   "hands still tasting of salt and metal"
+
+**Weakness Profile**
+*   **Diagnostic Label-Speak:** A pervasive tendency to summarize complex emotional states using abstract nouns (e.g., "a joyful sorrow," "she felt a sudden clarity"). This often occurs in peak beats, flattening the dramatic climax into an intellectual essay.
+*   **Passive Observation:** Protagonists who function as "lyrical cameras." They witness magic, ghosts, or ruins with great poetic detail but fail to exert agency. They end the story exactly as they began, having risked nothing.
+*   **Frictionless Relationships:** Secondary characters often serve as supportive sounding boards rather than "crucibles." If a second character appears, they must apply pressure that forces the protagonist to reveal a flaw or modify a tactic.
+*   **Competence Without Cost:** Characters who solve the central problem through sheer skill without facing a blind spot or making a sacrificial trade-off. This results in "tidy resolutions" that lack the grit of earned change.
+
+**Performance Boundaries**
+The threshold between a competent (6.0–7.5) and an exceptional (8.5+) story lies in the **dramatization of the cost of change**. Mid-range stories often feature protagonists who realize a truth and change their minds; top-tier stories feature protagonists who resist the truth until a specific, high-pressure moment forces them to abandon a cherished safety mechanism. When a character’s flaw (e.g., a need for control, a fear of being seen) actively complicates their attempt to solve the plot, the story succeeds. When the character acts with perfect emotional calibration, the narrative tension dissolves into atmospheric summary.
+
+**Signature Moves and Blind Spots**
+*   **The "Quiet Caretaker" Archetype:** A dominant habit is casting protagonists as archivists, curators, or tenders of lost things. While this allows for rich textural writing, it often traps the writer in a passive mode where the character observes rather than acts.
+*   **The Lyric Shortcut:** Writers often substitute a beautiful metaphor for a hard psychological turn. A character might "braid the light" instead of confronting their father, evading the conflict through poetics.
+*   **Retrospective Filtering:** Narrators frequently analyze their emotions in the past tense ("I realized later that I was angry") rather than inhabiting the confusion of the moment ("My hand shook, refusing the pen").
+
+**High-Band Signals (≈ 8.8+)**
+*   **Simultaneity of Impulse:** The protagonist feels fear and desire in the same beat, and this contradiction causes a physical reaction (e.g., a stutter, a stumble, a dropped object).
+*   **Earned Stasis/Renunciation:** The ending does not always require a massive external change; often, the highest scores go to characters who choose to *endure* or *renounce* something, provided the decision carries a heavy, visible cost (e.g., remaining in exile to protect a secret).
+*   **Causal Micro-Chain:** The final action is the inevitable result of three or four smaller choices made earlier in the text, proving the resolution is character-driven, not plot-imposed.
+
+**Revision Levers and Keepers**
+*   **Keep:**
+    1.  The specific **occupational/sensory lenses** (e.g., describing a room via acoustics, light, or structural integrity).
+    2.  **Tactile anchoring** of memory (using objects/relics to ground backstory).
+    3.  **Voice distinctiveness** in single-POV tracks.
+
+*   **Change:**
+    1.  **Scrub Diagnostic Labels:** Locate every instance of abstract emotional naming (sadness, realization, acceptance) in the final third and replace it with a physical action or sensory perception.
+    2.  **Pressurize the Crucible:** If a secondary character is present, rewrite their dialogue/action to directly challenge the protagonist’s current tactic or belief. Make them an obstacle, not a helper.
+    3.  **Tax the Competence:** Identify the protagonist’s greatest skill and force a situation where that skill is insufficient or actively detrimental, compelling them to improvise a new, costlier solution.

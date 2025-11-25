@@ -1,2 +1,42 @@
 claude-sonnet-4-5-20250929-0K.txt
-Error: Error code: 400 - {'error': {'message': 'Your input exceeds the context window of this model. Please adjust your input and try again.', 'type': 'invalid_request_error', 'param': 'input', 'code': 'context_length_exceeded'}}
+**Executive Insight**
+The cohort demonstrates a high proficiency in establishing character interiority through professional lenses—weavers, mapmakers, and archivists whose specific trades color their perception—but frequently struggles to dramatize genuine internal friction at the moment of decision. The strongest pieces (Track A) anchor motivation in a “perceptual signature” where the character’s flaw and talent are identical (e.g., a hyper-observant analyst who cannot stop dissecting her own grief). A recurring limitation in the mid-band is the tendency to resolve internal conflict through “diagnostic label-speak”—articulating the psychological shift in abstract terms rather than enacting it through a micro-choice that carries visible cost. While closure almost always lands mechanically, it often feels *gifted* by the narrative rather than *paid for* by the protagonist’s renunciation of a deeply held safety.
+
+**Strength Profile**
+*   **Occupational Interiority:** Characters consistently filter the world through their specific expertise. Interiority is rarely generic; it is textured by the tools and habits of the protagonist’s trade (e.g., glassblowing, decoding, gardening).
+*   **Tactile Grounding:** Writers excel at embodying emotion in small, repetitive physical actions rather than facial expressions. Anxiety is rarely just "fear"; it is a specific engagement with an object.
+*   **Micro-Choices:** The best characterization occurs in silent beats where a character hesitates, pockets an object, or changes a tool setting.
+*   **Micro-quotes:**
+    *   “preprocessing reality”
+    *   “fingers stained green”
+    *   “burn of star-flower fragrance”
+    *   “gravity loosen its claim”
+
+**Weakness Profile**
+*   **Diagnostic Label-Speak:** Emotional peaks are frequently flattened by therapeutic summaries inserted into the narration (e.g., “she felt a wave of unresolved attachment” or “her defensive formations”). This explains the feeling instead of embodying it.
+*   **Frictionless Competence:** Protagonists are often too good at their jobs. They execute rituals or solve puzzles without the “blind spots and limits” that lead to compounding mistakes. Success feels inevitable rather than wrestled.
+*   **Sequential vs. Simultaneous Conflict:** Characters often feel one emotion, then resolve it, then feel the next. High-band scoring requires *contradictory impulses acting simultaneously* (e.g., the desperate need to flee coexisting with the paralyzed compulsion to watch).
+*   **Costless Renunciation:** The final choice often frames a change in perspective as a victory without acknowledging what was lost. If a character chooses connection, the loss of their protective solitude is rarely felt as a painful forfeiture on the page.
+
+**Performance Boundaries**
+The writing excels when it commits to a “relationship as crucible,” even if the second character is an antagonist or a brief encounter. When a secondary character applies pressure that targets the protagonist's specific insecurity, the resulting choice feels electric and earned. The writing breaks when it relies on “unearned epiphanies”—moments where the character suddenly understands the theme of the story because the word count required a resolution, rather than because prior causality forced them into a corner where only that understanding could save them.
+
+**Signature Moves and Blind Spots**
+*   **The Quiet Professional:** A tendency to write stoic, solitary figures (archivists, sentinels) whose internal lives are rich but whose external actions are passive until the very end.
+*   **The Atmospheric Mirror:** Using weather or setting to do the heavy lifting for internal state, sometimes replacing active character agency.
+*   **The “Soft” Epiphany:** Resolving tension through a realization of beauty or connectedness rather than a hard-won trade-off.
+*   **Blind Spot:** Assuming that *understanding* a flaw is the same as *overcoming* it. Characters often diagnose themselves perfectly in the middle of a crisis, which reads as authorial intrusion.
+
+**High-Band Signals (8.8+)**
+*   **Contradictory Impulses in Scene:** The character wants two mutually exclusive things (e.g., to destroy the artifact and to worship it) in the same beat, and the physical action taken is a compromise that leaves a scar.
+*   **Earned Stasis or Renunciation:** The ending explicitly forecloses a path. We see not just what the character has chosen, but the alternative life they can no longer live, creating a “felt cost.”
+*   **Perceptual Bias:** The narrative voice is so tightly bound to the character’s worldview that the description of the setting reveals their internal state without needing to state it.
+
+**Revision Levers and Keepers**
+*   **Keep:** The specific occupational details. The way a clockmaker sees time or a chemist smells fear is the strongest asset here.
+*   **Keep:** The focus on “micro-choices.” Small actions (pocketing a key, leaving a letter unsealed) are carrying the weight of the narrative effectively.
+*   **Keep:** The restraint in dialogue. Characters rarely over-explain their feelings to one another, which maintains tension.
+
+*   **Change:** Audit the climax for "therapy-speak." Remove any sentence where the character names their own psychological condition (e.g., "realizing her trauma") and replace it with a physical reaction or choice.
+*   **Change:** Introduce a "compounding mistake." Have the protagonist’s competence fail them once in the middle third, forcing them to improvise or reveal a flaw.
+*   **Change:** Sharpen the "visible cost" at the end. Ensure the final image includes a reminder of what was sacrificed to achieve the resolution (e.g., the shaking hand, the empty shelf, the closed door).
