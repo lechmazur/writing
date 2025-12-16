@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Cohere Command A
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.8)
-    The theme of gradual transformation emerges through repeated imagery (dust, decay, growth) and the greenhouse-as-metaphor, avoiding overt thesis statements until the final beat. However, "the dust had stripped away the needless drama of her life, leaving only what mattered" in the closing lines tips into direct thematic summary. The butterfly's materialization offers symbolic resonance but no non-literal answer to a dramatic question—it illustrates the theme rather than complicating it. Subtext in early beats (neutron-star collapse mirroring greenhouse decay) is present but underexploited.
-
   * grade_story_wc_1.txt (grade=6.7)
     Theme—finding purpose in fragments and pauses—emerges from Elara's art (capturing fleeting light) and her investigation (tracing ephemeral frost patterns). The ledger strip as symbol of resilience is somewhat on-the-nose but rooted in action. The final image of stars reflected in glass creations and "drifting resonance" gestures toward thematic closure, yet the epiphany ("purpose could be found even in the pauses") is stated rather than enacted through a difficult choice. No overt moralizing, but the thematic answer feels anticipated rather than discovered.
 

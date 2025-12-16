@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=GPT-5.1 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.1)
-    Dominant stake is signaled early: shift from explosive-event research to gradual-change methodology. Pressure tightens when Lena explains the device and its contrast to her prior work; Amir's questioning forces her to articulate cost ("maybe warning is nothing but paying attention early enough"). The final beat—"her datasets would look to others like nothing but smudges"—crystallizes the professional risk and acceptance. One meaningful deepening (flood lesson → dust methodology → acceptance of obscurity) with visible cost (career legibility, dramatic results). Under the Accumulative lens, escalation reads as density increase and cadence shift that reweights the dominant stake.
-
   * grade_story_wc_1.txt (grade=7.9)
     Dominant stake: discovering the would-be killer's identity and deciding whether to confront him. Pressure tightens when the ledger's date matches the explosion night and the ghost ink reveals arrows, narrowing options to one path. Agency is clear—walking the pass is a choice to pursue rather than retreat—and the cost (leaving safety, accepting danger) is visible. The escalation is primarily accumulative rather than a sharp causal reversal, and the antagonist remains off-page, which limits the visceral test of the stake. Strong, but one notch below exceptional due to the absence of a live confrontation or complication that forces a trade-off in the moment.
 

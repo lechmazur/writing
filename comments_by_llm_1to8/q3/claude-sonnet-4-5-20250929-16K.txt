@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Claude Sonnet 4.5 Thinking 16K
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.4)
-    The greenhouse functions as micro-setting that constrains and charges every choice: broken panels admit wind that redistributes dust nightly, waterlogged netting frames the butterfly wing discovery, ceiling joists host improbable tomatoes. Sensory detail is selective and POV-filtered (crystallized salt, fine powder catching light). The final image—dust on Mara's palms—is charged by prior material and forecloses her impulse to clean/control. Spatial choreography tracks cleanly across all moves.
-
   * grade_story_wc_1.txt (grade=7.6)
     The canyon under stars provides concrete sensory anchors (warm stone, silver shadows, frost retreat at dawn) that are filtered through Elena's glass-artist lens ("light could become trapped and transformed"). The frost patterns function as micro-setting, constraining her investigative method by modeling how "invisible streams beneath the surface" guide her reading of the ledger gaps. The kiln's "heat capacity" detail seeds the patron's mapping. Minor gap: the patron's monthly visits and cash payments are told rather than shown through a recalled micro-interaction that would have grounded his presence more vividly.
 

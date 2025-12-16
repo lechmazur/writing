@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Grok 4.1 Fast Reasoning
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.2)
-    Elena's interiority relies heavily on abstract philosophical statements rather than embodied contradiction under pressure. Her epiphany about "needless drama" reads as label-speak—"her grand theories, once dramatic quests for cosmic secrets, felt overwrought"—without specific micro-choices that reveal competing impulses. The turn from ambitious researcher to humble observer is asserted through summary rather than dramatized through conflicted action. Wingless butterflies "but alive" gestures at cost, but the choice to harvest dust is never shown as a difficult trade-off that forecloses another path.
-
   * grade_story_wc_1.txt (grade=4.2)
     Elara's motivation ("to discover purpose in the pauses") is stated rather than dramatized through contradictory impulses. Her "steadily adaptive" trait functions as a label applied repeatedly without visible trade-offs or genuine struggle; she succeeds at every turn without foreclosing options or paying embodied costs. Internal experience remains abstract—"her will reshaping like cooling glass"—and emotional states are summarized rather than shown through contradictory action. The survival choice at the end feels inevitable rather than earned by prior vulnerability or error.
 

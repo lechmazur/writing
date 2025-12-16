@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=GLM-4.5
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.1)
-    Core premise (scientist finds meaning in small post-disaster renewal) is widely used template material without fresh transformation. Emotional arc could run unchanged with different names and setting. The "cosmic researcher learns humility from nature" trajectory is familiar and executed without specific, non-obvious synthesis. Authentic particulars (neutron star research, butterfly wing dust patterns) are present but underused; they ornament rather than generate inevitable turns. No bold structural or perspectival risk; the piece chooses safe, median philosophical resolution.
-
   * grade_story_wc_1.txt (grade=3.9)
     The core premise—artist investigates conspiracy through her craft—is a familiar template. The frost-reading method appears without prior grounding and feels ornamental rather than integrated. The charcoal smuggling / rare minerals connection is explained rather than discovered through specific, verifiable detail. Emotional specificity is low; the arc could be transplanted to any artist-investigator frame without loss.
 

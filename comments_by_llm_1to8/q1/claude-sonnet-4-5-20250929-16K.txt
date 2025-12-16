@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Claude Sonnet 4.5 Thinking 16K
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    Mara's interior life is character-particular and embodied through her professional lens: the neutron-star metaphor shapes how she perceives collapse and transformation. Her trajectory from control to acceptance is earned through concrete observation—photographing dust patterns daily, noticing the butterfly. The final renunciation (leaving dust on her palms) carries visible cost, foreclosing her prior impulse to preprocess and sterilize. Minor weakness: the mother's cancer and control issues are told rather than dramatized, slightly softening the inheritance arc.
-
   * grade_story_wc_1.txt (grade=7.8)
     Elena's internal journey from seeking narrative meaning in survival to accepting "meaning...accumulated like condensation" is earned through concrete sensory engagement (frost patterns, canyon wall warmth). The "steadily adaptive" trait manifests in scarred hands that "still knew how to shape molten glass," showing endurance with cost. Minor weakness: the patron's mapping feels slightly convenient in hindsight rather than seeded with micro-choices that would have revealed Elena's blindness earlier. The final decision to testify and rebuild carries visible cost—returning to the city, facing investigators—and forecloses the retreat into canyon silence.
 

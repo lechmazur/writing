@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=GLM-4.6
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.6)
-    The storm-damaged greenhouse is vividly rendered with sensory specificity (condensation, wet earth, shattered lilies, fractured dome). Spatial choreography is clear: Elara kneels, opens the cedar box, traces patterns on pot and stone, stands to look through the dome. The greenhouse constrains her work to a sanctum and charges the final image when she looks out at distant neutron stars, reinforcing the contrast between cosmic violence and quiet healing. Micro-setting detail (cracked terracotta, mossy stone) actively supports her dust-work method.
-
   * grade_story_wc_1.txt (grade=6.4)
     The canyon setting provides atmospheric grounding ("stars stitching the ink-black sky," "crystalline air"), and the greenhouse frost functions as a micro-setting element that reveals the ledger's code, directly enabling the middle turn. However, spatial choreography inside the workshop is vague (we never see Kaelen handle tools or navigate space concretely), and the mineshaft supplies information rather than constraining a tactical choice. The frost pays off at closure by teaching Kaelen "the language of silence," but environment does not pressure the final artistic decision—Kaelen's stance shift feels internally motivated rather than spatially constrained.
 

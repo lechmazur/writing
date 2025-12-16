@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=Cohere Command A
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.6)
-    The dominant stake—understanding gradual transformation—never tightens into a trade-off or dilemma. Elara experiments across weeks without obstacles, setbacks, or costs; each pattern "grows more complex" without friction. The butterfly's appearance resolves nothing the protagonist risked or renounced. Coincidence (dust autonomously reconstructs a creature) replaces protagonist agency at closure. No on-page reversal narrows options or forces a choice that forecloses a path.
-
   * grade_story_wc_1.txt (grade=6.2)
     The dominant stake—recovering her apprentice and exposing the rival guild—is signaled early and sustained. The investigation tightens once (ledger → frost → caches → grotto revelation), but the escalation is linear discovery rather than a choice that narrows options or imposes visible cost. The resolution is deferred to future action ("she would use..."), so agency at closure is a plan rather than a present forfeiture or renunciation. Coincidence does not resolve, but the kiln and ledger discoveries feel convenient rather than hard-won.
 

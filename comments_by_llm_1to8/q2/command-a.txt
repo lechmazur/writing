@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=Cohere Command A
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.8)
-    The closure—a butterfly materializing from dust—lands as a symbolic flourish rather than a Decisive Change or Resonant Reconfiguration with legible cost. No before/after is traceable in Elara's options or stance; she observes beauty emerge but makes no choice that forecloses a path. The piece teaches an Accumulative lens through repeated dust-pattern experiments, yet the ending skips escalation and delivers a convenient resolution that the protagonist does not earn through agency. Orientation is clear early, preventing penalties there, but the lens remains decorative rather than pressure-building.
-
   * grade_story_wc_1.txt (grade=6.4)
     Drive lens reads as Causal with accumulative texture. Orientation anchors (who/where/when) appear early enough. The closure unit—Elara discovering the ledger's full truth and her apprentice's location—lands on the page, but the cost remains vague ("renewed determination" and future plans rather than a present forfeiture or stance shift). The because/therefore chain is present (ledger → frost patterns → caches → grotto → truth) but the final beat summarizes consequence ("she would use...") instead of dramatizing a choice that forecloses a path now.
 

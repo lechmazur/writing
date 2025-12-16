@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Gemini 2.5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.3)
-    POV is stable third-limited with consistent psychic distance. Aris's perceptual signature is distinct: he sees "vectors of change," "radio wave data," "elegant equation." Diction remains character-particular (neutron stars, chitin, Cattleya) without register drift. The prose modulates appropriately under pressure (short sentences at the orchid moment). Minor slip: "kindled humility" in the penultimate paragraph edges toward elevated summary, though the gesture that follows grounds it.
-
   * grade_story_wc_1.txt (grade=8.2)
     Perceptual signature is consistent: an artist's eye that sees "crystalline geometry," "lacework of ice," "fractal beauty," filtering all observation through form and light. POV distance remains stable third-limited; no head-hopping. Diction ("luminous," "maw of blackened brick," "drifting resonance") suits an artist-narrator without register drift. Purposeful compression in the week-long search montage ("One symbol corresponded…Another matched…") accelerates without losing clarity. Minor: "steadily adaptive" and "drifting resonance" phrases feel slightly elevated for peak stress moments, though voice texture holds.
 

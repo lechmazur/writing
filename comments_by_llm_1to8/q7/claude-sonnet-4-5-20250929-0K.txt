@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Claude Sonnet 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.0)
-    Information density is high: most lines advance character, atmosphere, or thematic resonance. Sentence rhythm varies effectively, shorter fragments during observation ("The butterflies were gone, of course") expanding into longer analytical cadences during microscope work. Two minor issues prevent higher scoring: "kindled humility, warm and unfamiliar" edges toward abstract label rather than staying concrete, and "had been real, had been beautiful, had mattered in its moment" repeats structure for emphasis but borders on overdetermination. No loops or major artifacts; clarity remains strong throughout.
-
   * grade_story_wc_1.txt (grade=7.0)
     Line-level craft is solid: varied syntax, concrete imagery, no major loops. Opening and closing beats carry thematic charge. However, a few phrases feel overwritten for their moment: "luminous glass artist, known throughout the territory" front-loads exposition, and "drifting resonance of regret" stacks metaphor during a gunpoint scene. The phrase "scorched testament" appears twice in similar constructions, creating minor redundancy. The summary transition ("The stars had faded to grey when she walked back…") compresses the climax into tell, reducing immediacy.
 

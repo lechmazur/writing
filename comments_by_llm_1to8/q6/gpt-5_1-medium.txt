@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=GPT-5.1 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.3)
-    POV remains stable in close third, filtered through Lena's scientific and post-trauma perspective. Perceptual signature is consistent: metaphors drawn from astrophysics ("gravity braided matter into pure equation"), sensory detail skewed toward tactile and visual cues relevant to her work. Dialogue feels natural and goal-driven; Amir's "this is very you right now" and Lena's "mistaking fireworks for truth" carry subtext about her transformation. Diction stays within her lexicon; no register drift. A few scaffold phrases ("as always, as if he had arrived by accident at his own life") approach generic character summary but do not flatten the scene.
-
   * grade_story_wc_1.txt (grade=8.3)
     POV is stable first-person with a distinct perceptual signature: technical glass-work diction ("kiln," "anneal," "rods over a flame") filters perception and metaphor. Psychic distance modulates purposefully, tightening during memory beats and opening during the canyon's "resonance." One minor slip: "thin and bright, blowing through me like glass rods over a flame" edges toward elevated lyricism that momentarily overshoots the grounded voice, though it remains legible. No head-hopping, no filter-verb stacks, and the elision of the antagonist's name is purposeful. Rhythmic control under pressure is strong, meeting the 9+ test with one hairline slip in register.
 

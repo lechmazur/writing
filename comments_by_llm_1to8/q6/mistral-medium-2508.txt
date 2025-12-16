@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Mistral Medium 3.1
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.1)
-    Single-POV narration is stable; perceptual signature (scientific precision meeting lyric metaphor: "neutron star's crust," "prismatic ghosts") is consistent. Psychic distance modulates purposefully from embodied action (kneeling, sprinkling dust) to reflection. One recurring friction: elevated diction occasionally strains against the immediacy of scene—"preprocessed reality in ways he was only beginning to grasp," "the honest work of watching things fall apart"—reading more authorial than character-particular under pressure. Free indirect style is clean; no filter-verb stacks or head-hopping. The final paragraph's syntax ("Like butterfly wings. Like the first breath.") risks precious patterning but remains voice-motivated.
-
   * grade_story_wc_1.txt (grade=7.1)
     Single POV with stable third-person-limited distance and a distinct perceptual signature (artist's eye, light/fracture metaphors). Diction is purposeful and voice-consistent. However, several lines compress into lyric abstraction under pressure ("the pauses were where the truth lived") rather than maintaining concrete sensory texture. Free indirect style is mostly clean. No dialogue present. Sentence rhythm modulates effectively with emotional beats, though occasional elevated register ("drifting resonance") slightly exceeds the established lexical range in peak moments.
 

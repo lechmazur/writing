@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=GLM-4.5
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.6)
-    Theme of decay/renewal and cosmic/terrestrial connection emerges through concrete images (butterfly wing dust, spiral galaxies, seedling through concrete). However, thematic assertions dominate the final third: "not in distant stars, but in the gradual change," "true calling: to witness and honor." The piece tells its theme repeatedly rather than allowing particulars to accumulate into resonance. The final paragraph moralizes explicitly, replacing earned insight with summary. Subtext is minimal; most meaning is stated directly.
-
   * grade_story_wc_1.txt (grade=4.6)
     Theme is stated rather than earned: "the artist must become the art, transforming pain and fear into something beautiful and true" is meta-commentary. The frost patterns are symbolic convenience introduced late without prior grounding. The ledger and glass art connection is explained rather than dramatized. The final paragraph moralizes ("she had always believed that art could change the world") instead of offering a resonant image.
 

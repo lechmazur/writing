@@ -1,0 +1,47 @@
+deepseek-v32-exp.txt
+**1) Executive Insight**
+The decisive factor separating competent prose (6.0–7.5) from exceptional craft (8.8–9.5) is **information density versus redundancy**. High-scoring pieces achieve a "multi-tasking" line quality where sensory detail, character interiority, and narrative propulsion occur simultaneously. Lower-scoring entries invariably suffer from **paraphrase loops** and **template cadence**: they state an idea, immediately restate it in slightly different words, and rely on repetitive syntactic stems (e.g., "She felt... She saw... She knew...") that deaden rhythm. Crucially, the **Patterned-Artifact Penalty Pack** dictates the ceiling: if synonym churn, scaffolded summaries, or clustered filter verbs touch the **closure beat**, the story is automatically disqualified from the 9+ band. The most frequent failure mode is a final paragraph that summarizes the theme abstractly ("She realized that hope was a choice") rather than trusting a concrete image to carry the emotional weight.
+
+**2) Strength Profile**
+*   **Multi-Tasking Sentences:** Strong lines fuse world-building with psychological stakes. Instead of listing attributes, they embed them in action.
+    *   *Micro-quote:* "glass humming pavilion" (combines setting, sound, and function)
+    *   *Micro-quote:* "cracked casing a testament to years of salt and service"
+*   **Rhythmic Modulation:** High-band stories vary sentence length to match scene pressure—long, fluid clauses for atmospheric buildup, and sharp, staccato fragments for high-stakes action.
+*   **Coherent Figurative Systems:** Metaphors align with the story’s physical logic rather than mixing vehicles. A story about a watchmaker uses mechanical metaphors; a story about the sea uses tidal ones.
+*   **Concrete Nouns over Adjectives:** The best descriptive work relies on specific nomenclature (e.g., *halite*, *scrimshaw*, *caliper*) rather than modifying generic nouns with abstract adjectives (*mysterious object*, *strange glowing*).
+
+**3) Weakness Profile**
+*   **Paraphrase Loops:** Adjacent sentences often restate the same concept without adding new information or pressure. This "stutter" kills momentum.
+    *   *Evidence:* "The chronic hush remained... now it was a backdrop." / "Her motivation was clear: to plant resilience."
+*   **Template Cadence:** Runs of three or more sentences with identical syntactic openings, usually Subject-Verb or Participle-Subject-Verb. This creates a droning, algorithmic rhythm.
+    *   *Evidence:* "He reached… He held… He stepped… He felt… He threw…"
+*   **Synonym Churn:** Rotating through near-synonyms for the same atmosphere or emotion within a single paragraph, creating the illusion of density while actually spinning wheels.
+    *   *Evidence:* "hush" / "silence" / "quiet" / "stillness" repeated in close proximity.
+*   **Abstract Summary at Closure:** Ending on a diagnostic label or moral lesson rather than a recharged image. This triggers the "closure scaffold" penalty.
+    *   *Evidence:* "She had found beauty in the difficult." / "He was forever changed."
+*   **Filter-Verb Stacks:** Clusters of "she felt," "he saw," "she noticed" in high-pressure beats, creating distance between the reader and the sensory experience.
+
+**4) Performance Boundaries**
+The writing excels when it trusts **implication over explanation**. High-performing texts allow the physical action (e.g., a clock stopping, a seed sprouting) to carry the thematic weight. The writing breaks, triggering severe deductions (−1.2 to −1.7), when it engages in **Scaffolding**: explicit sentences that tell the reader what a symbol means or why a character is acting ("This was her way of coping," "Her mission was simple yet profound"). When these explanatory bridges appear in the final third, the narrative collapses from an immersive experience into a summary report, capping the score at 8.8 regardless of prior brilliance.
+
+**5) Signature Moves and Blind Spots**
+*   **The "Luminous" Crutch:** Writers frequently over-rely on words like *luminous*, *ethereal*, *gossamer*, and *tapestry* to signal "literary" tone, often resulting in purple prose that obscures concrete detail.
+*   **Thematic Labeling:** A habit of inserting the prompt’s abstract requirement (e.g., "combative tenderness," "resilient hope") as a raw noun phrase rather than dramatizing it.
+*   **The "Look Back" Ending:** A tendency to end stories with a character looking back at the scene and summarizing their internal growth, rather than performing a final, irreversible action.
+*   **Patterned-Artifact Blindness:** Writers often fail to notice they have used a distinctive phrase (e.g., "fractured grace," "bronze quiet") three or four times, turning a potential motif into a repetitive irritant.
+
+**6) High-Band Signals (≈ 8.8+)**
+*   **Closure via Image:** The final sentence resolves the narrative arc through a concrete object or action that recharges earlier motifs without explaining them.
+*   **Zero Filter in Crisis:** High-pressure beats (climax, realization) contain zero filter verbs; the sensory data hits the reader directly.
+*   **Pattern-Taught Metaphor:** Figurative language in the final third is not new; it harvests metaphoric seeds planted in the opening (e.g., a "weaving" metaphor introduced early pays off in the climax without needing setup).
+
+**7) Revision Levers and Keepers**
+*   **Keep:**
+    *   **Specific Vocab:** Preserve technical or setting-specific nouns (e.g., *sextant*, *mycelium*, *ledger*) that ground the world.
+    *   **Rhythmic Breath:** Maintain the expansion and contraction of sentence length that mirrors the character’s physiological state (panic vs. calm).
+    *   **Sensory Anchors:** Keep tactile and olfactory details (smell of ozone, grit of sand) that bypass abstract filters.
+
+*   **Change:**
+    *   **The Paragraph Cut Test:** Delete any paragraph (especially the penultimate or final one) that merely summarizes what the reader has already witnessed. If the story stands without it, keep it cut.
+    *   **De-Looping:** Scan for adjacent sentences that share key nouns or verbs. If sentence B does not add a new *causal* beat or *sensory* detail, cut it or merge it into sentence A.
+    *   **Filter Purge:** In the story’s climax, remove every instance of "felt," "saw," "heard," and "realized." Rewrite the sentence to make the object of the perception the subject (e.g., change "She heard the glass break" to "The glass shattered").

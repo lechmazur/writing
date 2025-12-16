@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=GPT-5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    The neutron star researcher's voice is highly specific and consistent, filtering the greenhouse through scientific habits ("preprocesses reality into gradients," "timing a pulsar"). Motivation to "strip needless drama" is embodied in concrete choices: marking salvageable panes, prioritizing green-hearted orchids, drafting a report over sermonizing. The botanist remains lightly sketched but functional. Internal contradiction is present but subtle—the researcher claims to avoid drama yet finds poetic resonance everywhere—and could press harder at closure.
-
   * grade_story_wc_1.txt (grade=6.8)
     The glass artist POV is consistent and embodied through craft metaphors ("breath settle into the valley's long exhale," "steady as cooling glass"). Interior texture remains stable but the protagonist's agency is muted—most of the story is retrospective reconstruction rather than live decision-making under pressure. The final choice to create and distribute "Scorched Testament" is told summarily rather than dramatized with competing impulses. Micro-choices that reveal hierarchy of values are absent; the narrator processes the discovery smoothly without visible internal friction.
 

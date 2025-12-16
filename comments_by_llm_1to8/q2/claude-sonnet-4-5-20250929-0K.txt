@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=Claude Sonnet 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.4)
-    Accumulative/Textural lens holds throughout. Orientation anchors cleanly in opening lines (greenhouse, three weeks post-flood, Helena among the wreckage). The closure—documenting seventeen scale types and deciding to begin again—reconfigures the opening stakes: she sought incremental beauty but discovers that transformation persists even in decay, with cost legible in her acceptance of cyclical loss ("More water, more damage, more opportunities"). One meaningful deepening occurs when she moves from mourning lost butterflies to seeing "what she'd missed while the butterflies lived," narrowing her stance from possession to witnessing.
-
   * grade_story_wc_1.txt (grade=6.4)
     Orientation anchors promptly (canyon, post-explosion, luminous glass artist). The Drive Lens reads as Causal with a situational accent: Vera follows ledger → finds cache → confronts Galloway. However, the climactic reversal—Galloway's capitulation and binding—occurs in summary ("Galloway bound and following, his ledgers and location traded for clemency"), deflating the closure beat. The cost is asserted but not dramatized: we don't see the negotiation, the physical struggle, or the moment of his choice, only its aftermath.
 

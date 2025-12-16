@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Claude Opus 4.1 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.1)
-    The greenhouse is vividly particularized (cracked glass, mud-caked benches, rot smell) and constrains Elena's choices by offering an alternative research site. Butterfly dust accumulation creates micro-environments that explain plant survival, directly shaping her documentation method. The damaged structure charges the final image when contractors arrive and find her notes predicting structural failures. Spatial choreography remains clear across visits, and sensory detail is purposeful rather than catalog-like.
-
   * grade_story_wc_1.txt (grade=7.6)
     Canyon frost, charred paper, and the kiln environment are rendered with concrete sensory detail and constrain Marina's choices (she fled here for concealment, frost teaches her about safe transformation). The frost patterns at dawn directly charge the final image and her pivot to harmless luminescence. Spatial choreography is clear throughout, and the setting's isolation enables both the revelation and the staged-death conceit. Minor: the "vast darkness punctured by stars" leans slightly toward postcard phrasing, but the recurring ice-crystal motif and its linkage to glass structure elevate the score.
 

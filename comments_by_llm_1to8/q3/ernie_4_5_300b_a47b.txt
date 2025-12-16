@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Baidu Ernie 4.5 300B A47B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.2)
-    The storm-damaged greenhouse supplies vivid, purpose-driven detail (fogged spectacles, moth-eaten fern, snapped bamboo stake, silt-clogged drains) filtered through Elara's scientific vocabulary. Spatial choreography is clean, and the chrysalis lodged in the drainage pipe constrains her monitoring routine. The final symposium setting is generic—no environmental feature shapes the talk or the botanist's approach—keeping Q3 from the high band.
-
   * grade_story_wc_1.txt (grade=7.2)
     The canyon setting is vivid and specific—"bowl of indigo," "moss-slick rocks," frost as prisms—and the frost patterns directly enable the retracing action, constraining Lirael's method. The crevice and chamber provide spatial progression that shapes the discovery sequence. The glass shard as micro-setting object charges the final revelation, and the canyon's "quiet intervals" echo thematically at closure, though the ending shifts to an imagined studio rather than deepening the present canyon pressure.
 

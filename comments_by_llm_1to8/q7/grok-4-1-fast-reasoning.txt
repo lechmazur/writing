@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Grok 4.1 Fast Reasoning
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.6)
-    Severe template-cadence and paraphrase-loop issues pervade the text. "Preprocesses reality" appears in seven lines with near-identical syntax, creating both a conceptual loop and a rhythmic stall. Adjacent sentences restate without adding pressure: "the dust catalyzing a slow etch that peeled away distortions. Reflections sharpened, preprocesses reality by filtering chaos into clarity." Stock metaphors cluster: "heart kindled humility," "truth emerges in patience," "decay's gentle hand." The phrase "needless drama" is repeated four times as a thematic shorthand rather than varied through specifics. Many sentences begin with participial phrases or "The," flattening rhythm. Information density is low in the middle third, where exposition summarizes the dust's effects rather than showing resistant material or failure. The final paragraph—"Her story, like the stars, humbled to its core"—is a thesis statement that tells theme rather than charging the image.
-
   * grade_story_wc_1.txt (grade=4.7)
     The prose suffers from pervasive template cadence and phrase recycling: "steadily adaptive" (3×), "drifting resonance" (4×), "scorched testament" (3×), and synonym loops around "pauses" and "luminous." Stock metaphors recur without reweighting ("cooling glass," "frosting... with delicate veils"). Figurative density is high throughout without pattern-teaching or payoff, and several beats paraphrase adjacent content (e.g., paragraphs on frost patterns repeat the alignment mechanic). Filter-verb stacks ("she would retrace," "she saw," "she traced") dull immediacy in key discovery beats. These artifacts touch the closure sequence, triggering the −1.7 penalty and disallowing 9+ globally.
 

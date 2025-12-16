@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Llama 4 Maverick
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.6)
-    Theme (gradual change, patterns underlying reality) is overtly stated rather than emerging from dramatized events: "reality preprocesses itself," "accumulated dust patterns," "intricate web of connections." The final paragraph moralizes ("the world...was always in a state of becoming") instead of offering a resonant, non-literal answer. Repeated abstractions ("subtle, incremental steps," "intricate beauty") replace scene-driven discovery. No earned insight arises from conflict; Maria's meditation at the end is indistinguishable from her meditation at the start.
-
   * grade_story_wc_1.txt (grade=4.8)
     Theme ("purpose in pauses," legacy, stillness as crucible) is stated rather than emergent from concrete action. The final image—standing in dawn light, "world…a source of peace"—offers a tidy moral summary instead of a resonant, non-literal answer. Thematic Echo appears throughout ("to discover purpose in the pauses," "drifting resonance") and peaks in the final third with explicit thesis statements: "she felt an overwhelming desire to discover purpose in the pauses" and "the pauses would forever be a source of inspiration." The ledger strip and frost could anchor specificity but remain symbolic conveniences introduced to harvest thematic points.
 

@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Claude Opus 4.1 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.6)
-    POV remains stable third-limited on Elena with consistent psychic distance. Diction occasionally drifts into elevated register during reflective passages ("preprocessing reality without mathematics as an intermediary," "requests for patient, humble observation") that feel more authorial than character-particular. The perceptual signature—physicist noticing gravitational lensing in dust patterns, stellar formation in mold—is specific and voice-motivated. No dialogue on the page to assess naturalism or subtext. Purposeful compression in the resignation beat is efficient, but the final paragraph's "The butterfly dust shows us how" shifts from Elena's idiom to didactic closure.
-
   * grade_story_wc_1.txt (grade=7.7)
     Third-person limited POV is stable and well-controlled; Marina's perceptual signature (glass artist's eye for "microscopic structures," attention to frost patterns) is distinct and consistent. Psychic distance modulates purposefully, tightening during the ledger revelation and opening slightly during reflective beats. Diction remains within her register (technical but accessible), and the voice carries rhythmic control under pressure. Minor: a few phrases ("steadily adjusting to each revelation") edge toward summary rather than embodied perception. No dialogue is present, so those bullets do not apply.
 

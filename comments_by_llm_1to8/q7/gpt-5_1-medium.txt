@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=GPT-5.1 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.9)
-    Rhythm varies purposefully; opening and closing images are strong. Information density is high in the device-building beats and the dialogue exchange. Minor template cadence appears in reflective beats ("Supernovae, mergers, gamma-ray bursts, they had all been..."; "So she wired... set slow shutters... and wrote code...") but does not obscure causality. A paraphrase loop near midpoint: "She wanted to understand a universe where causes accreted like silt" followed closely by "Instead of simulating millennia..." revisits the same contrast without added pressure. No clarity loss at closure; propulsion remains steady.
-
   * grade_story_wc_1.txt (grade=7.6)
     Information density is high, with most lines advancing character, atmosphere, or discovery. Sentence openings vary and rhythm modulates with scene pressure. Two deductions: (1) "steadily adaptive" appears twice in identical phrasing, a paraphrase loop that costs −0.2; (2) several lines in the middle third ("I realized then," "Now it held my questions," "Tonight I walked") open with temporal markers in a template cadence, costing −0.4. No major figurative muddle, but "thin and bright, blowing through me like glass rods over a flame" mixes vehicle and tenor in a way that briefly obscures sense. Clarity and propulsion remain strong overall, but these artifacts prevent entry to the high 8s.
 

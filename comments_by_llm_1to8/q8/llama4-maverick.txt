@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Llama 4 Maverick
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=3.7)
-    Core premise—scientist finds philosophical meaning in post-disaster debris—is a widely used template executed without transformation. The neutron star / butterfly wing pairing offers a fresh juxtaposition, but the piece never dramatizes the synthesis; it remains ornamental. Emotional arc is absent (Maria contemplates at start, contemplates at end), so the transformation test fails. The connection between neutron stars and greenhouse decay is asserted ("principles...were not so different") but never shown through specific action or choice. Risk-averse: no bold structural or perspectival move heightens stakes.
-
   * grade_story_wc_1.txt (grade=4.5)
     The premise—artist seeks ancestral legacy via cryptic ledger—is template-familiar and not transformed through specific lived detail or non-obvious moral calculus. The "hidden message encoded in charcoal marks" and "frost patterns as hidden language" are stock symbolic conveniences. No fresh inflection: the arc (disorientation → discovery → peace) follows a median path without risk or particularity. The transformation test fails: swapping "glass artist" and "charcoal ledger" for any craft and artifact leaves the emotional arc unchanged.
 

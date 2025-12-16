@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=Claude Sonnet 4.5 Thinking 16K
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.1)
-    Drive lens: Accumulative/Textural—pressure builds through iterative observation and pattern accumulation, culminating in a Resonant Reconfiguration (Charged Poise) when Mara leaves dust on her palms. Orientation anchors cleanly by the opening paragraph (who, where, when). The closure unit reconfigures her relationship to purity and control with felt cost: she relinquishes her professional impulse to strip chaos. One meaningful deepening occurs through the twenty-eight days of observation, narrowing her stance from salvage to acceptance. Causality remains coherent under the accumulative lens.
-
   * grade_story_wc_1.txt (grade=8.2)
     Drive lens: Accumulative/Textural. The story accumulates through layered images (glass/light, frost/water, fire/ash) that converge at the ending to reweight Elena's survival from providential to ordinary. Orientation anchors quickly (canyon, stars, three weeks post-fire). Closure achieves Resonant Reconfiguration: Elena's realization that she was "simply geography" loosens her chest, and the decision to return with the ledger reweights her artistic practice ("pieces about survival and emptiness"). Cost is conceptual—the loss of a comforting narrative—but legible in "something loosened" and the shift from seeking silence to choosing action. One meaningful deepening suffices at this length.
 

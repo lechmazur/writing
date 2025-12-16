@@ -34,51 +34,57 @@ The top bar chart summarizes **mean story quality** for each model with uncertai
 
 | Rank | LLM                    | Mean Score | Samples | SEM |
 |-----:|------------------------|-----------:|--------:|----:|
-| 1 | GPT-5 Pro | 8.474 | 2797 | 0.0158 |
-| 2 | GPT-5.1 (medium reasoning) | 8.438 | 2797 | 0.0134 |
-| 3 | GPT-5 (medium reasoning) | 8.434 | 2797 | 0.0162 |
-| 4 | Kimi K2-0905 | 8.331 | 2797 | 0.0199 |
-| 5 | Gemini 3 Pro Preview | 8.221 | 2797 | 0.0170 |
-| 6 | Gemini 2.5 Pro | 8.219 | 2797 | 0.0169 |
-| 7 | Mistral Medium 3.1 | 8.201 | 2797 | 0.0185 |
-| 8 | Claude Opus 4.5 (no reasoning) | 8.195 | 2797 | 0.0172 |
-| 9 | Claude Sonnet 4.5 Thinking 16K | 8.169 | 2797 | 0.0176 |
-| 10 | Claude Sonnet 4.5 (no reasoning) | 8.112 | 2797 | 0.0179 |
-| 11 | Qwen 3 Max Preview | 8.090 | 2797 | 0.0233 |
-| 12 | Claude Opus 4.1 (no reasoning) | 8.067 | 2797 | 0.0198 |
-| 13 | Kimi K2 Thinking | 7.686 | 2797 | 0.0286 |
-| 14 | Grok 4.1 Fast Reasoning | 7.566 | 2797 | 0.0297 |
-| 15 | Baidu Ernie 4.5 300B A47B | 7.505 | 2797 | 0.0252 |
-| 16 | GLM-4.6 | 7.452 | 2797 | 0.0285 |
-| 17 | GLM-4.5 | 7.119 | 2797 | 0.0315 |
-| 18 | GPT-OSS-120B | 7.030 | 2797 | 0.0336 |
-| 19 | Cohere Command A | 6.794 | 2797 | 0.0302 |
-| 20 | Llama 4 Maverick | 5.777 | 2797 | 0.0304 |
+| 1 | GPT-5.2 (medium reasoning) | 8.511 | 2796 | 0.0145 |
+| 2 | GPT-5 Pro | 8.474 | 2796 | 0.0158 |
+| 3 | GPT-5.1 (medium reasoning) | 8.438 | 2796 | 0.0134 |
+| 4 | GPT-5 (medium reasoning) | 8.434 | 2796 | 0.0162 |
+| 5 | Kimi K2-0905 | 8.331 | 2796 | 0.0199 |
+| 6 | Gemini 3 Pro Preview | 8.221 | 2796 | 0.0170 |
+| 7 | Gemini 2.5 Pro | 8.219 | 2796 | 0.0169 |
+| 8 | Mistral Medium 3.1 | 8.201 | 2796 | 0.0185 |
+| 9 | Claude Opus 4.5 (no reasoning) | 8.195 | 2796 | 0.0172 |
+| 10 | Claude Sonnet 4.5 Thinking 16K | 8.169 | 2796 | 0.0176 |
+| 11 | Claude Sonnet 4.5 (no reasoning) | 8.112 | 2796 | 0.0179 |
+| 12 | Qwen 3 Max Preview | 8.091 | 2796 | 0.0233 |
+| 13 | Claude Opus 4.1 (no reasoning) | 8.068 | 2796 | 0.0197 |
+| 14 | Kimi K2 Thinking | 7.687 | 2796 | 0.0286 |
+| 15 | Mistral Large 3 | 7.595 | 2796 | 0.0215 |
+| 16 | Grok 4.1 Fast Reasoning | 7.567 | 2796 | 0.0297 |
+| 17 | Baidu Ernie 4.5 300B A47B | 7.506 | 2796 | 0.0252 |
+| 18 | GLM-4.6 | 7.452 | 2796 | 0.0285 |
+| 19 | Deepseek V3.2 Exp | 7.159 | 2796 | 0.0322 |
+| 20 | GLM-4.5 | 7.120 | 2796 | 0.0315 |
+| 21 | GPT-OSS-120B | 7.030 | 2796 | 0.0336 |
+| 22 | Cohere Command A | 6.794 | 2796 | 0.0302 |
+| 23 | Llama 4 Maverick | 5.777 | 2796 | 0.0304 |
 
 #### Full normalized leaderboard
 
 | Rank | LLM                    | Normalized Mean |
 |-----:|------------------------|-----------------:|
-| 1 | GPT-5 Pro | 0.728 |
-| 2 | GPT-5 (medium reasoning) | 0.691 |
-| 3 | GPT-5.1 (medium reasoning) | 0.618 |
-| 4 | Kimi K2-0905 | 0.614 |
-| 5 | Gemini 3 Pro Preview | 0.441 |
-| 6 | Gemini 2.5 Pro | 0.437 |
-| 7 | Mistral Medium 3.1 | 0.435 |
-| 8 | Qwen 3 Max Preview | 0.408 |
-| 9 | Claude Opus 4.5 (no reasoning) | 0.403 |
-| 10 | Claude Sonnet 4.5 Thinking 16K | 0.377 |
-| 11 | Claude Sonnet 4.5 (no reasoning) | 0.302 |
-| 12 | Claude Opus 4.1 (no reasoning) | 0.286 |
-| 13 | Kimi K2 Thinking | -0.027 |
-| 14 | Grok 4.1 Fast Reasoning | -0.129 |
-| 15 | Baidu Ernie 4.5 300B A47B | -0.306 |
-| 16 | GLM-4.6 | -0.312 |
-| 17 | GLM-4.5 | -0.665 |
-| 18 | GPT-OSS-120B | -0.734 |
-| 19 | Cohere Command A | -1.113 |
-| 20 | Llama 4 Maverick | -2.455 |
+| 1 | GPT-5.2 (medium reasoning) | 0.757 |
+| 2 | GPT-5 Pro | 0.743 |
+| 3 | GPT-5 (medium reasoning) | 0.706 |
+| 4 | GPT-5.1 (medium reasoning) | 0.631 |
+| 5 | Kimi K2-0905 | 0.629 |
+| 6 | Gemini 3 Pro Preview | 0.453 |
+| 7 | Gemini 2.5 Pro | 0.449 |
+| 8 | Mistral Medium 3.1 | 0.448 |
+| 9 | Qwen 3 Max Preview | 0.421 |
+| 10 | Claude Opus 4.5 (no reasoning) | 0.415 |
+| 11 | Claude Sonnet 4.5 Thinking 16K | 0.389 |
+| 12 | Claude Sonnet 4.5 (no reasoning) | 0.313 |
+| 13 | Claude Opus 4.1 (no reasoning) | 0.298 |
+| 14 | Kimi K2 Thinking | -0.019 |
+| 15 | Grok 4.1 Fast Reasoning | -0.121 |
+| 16 | Mistral Large 3 | -0.291 |
+| 17 | Baidu Ernie 4.5 300B A47B | -0.302 |
+| 18 | GLM-4.6 | -0.308 |
+| 19 | Deepseek V3.2 Exp | -0.602 |
+| 20 | GLM-4.5 | -0.664 |
+| 21 | GPT-OSS-120B | -0.735 |
+| 22 | Cohere Command A | -1.120 |
+| 23 | Llama 4 Maverick | -2.488 |
 
 
 #### Element integration only (9A–9J)
@@ -193,43 +199,59 @@ Coverage: each story is evaluated by seven independent LLM graders. Each prompt 
 
 ### Worst‑50 per‑LLM exclusion (top 15)
 
-| LLM | Old Rank | Old Mean | New Rank | New Mean | ΔRank |
-|-----|---------:|---------:|---------:|---------:|------:|
-| GPT‑5 Pro | 1 | 8.443 | 1 | 8.515 | 0 |
-| GPT‑5 (medium reasoning) | 2 | 8.398 | 2 | 8.467 | 0 |
-| GPT‑5.1 (medium reasoning) | 3 | 8.380 | 3 | 8.451 | 0 |
-| Kimi K2‑0905 | 4 | 8.312 | 4 | 8.408 | 0 |
-| Gemini 3 Pro Preview | 5 | 8.206 | 5 | 8.271 | 0 |
-| Gemini 2.5 Pro | 6 | 8.199 | 6 | 8.270 | 0 |
-| Mistral Medium 3.1 | 7 | 8.171 | 7 | 8.240 | 0 |
-| Claude Opus 4.5 (no reasoning) | 8 | 8.161 | 8 | 8.234 | 0 |
-| Claude Sonnet 4.5 Thinking 16K | 9 | 8.143 | 9 | 8.226 | 0 |
-| Qwen 3 Max Preview | 10 | 8.083 | 10 | 8.157 | 0 |
-| Claude Sonnet 4.5 (no reasoning) | 11 | 8.079 | 11 | 8.156 | 0 |
-| Claude Opus 4.1 (no reasoning) | 12 | 8.052 | 12 | 8.126 | 0 |
-| Kimi K2 Thinking | 13 | 7.697 | 13 | 7.840 | 0 |
-| Grok 4.1 Fast Reasoning | 14 | 7.610 | 14 | 7.696 | 0 |
-| Baidu Ernie 4.5 300B A47B | 15 | 7.487 | 15 | 7.575 | 0 |
+| LLM Full | Old Rank | Old Mean | New Rank | New Mean |
+|----------|---------:|---------:|---------:|---------:|
+| GPT-5.2 (medium reasoning) | 1 | 8.49 | 1 | 8.55 |
+| GPT-5 Pro | 2 | 8.44 | 2 | 8.51 |
+| GPT-5 (medium reasoning) | 3 | 8.40 | 3 | 8.47 |
+| GPT-5.1 (medium reasoning) | 4 | 8.38 | 4 | 8.45 |
+| Kimi K2-0905 | 5 | 8.31 | 5 | 8.41 |
+| Gemini 3 Pro Preview | 6 | 8.21 | 6 | 8.27 |
+| Gemini 2.5 Pro | 7 | 8.20 | 7 | 8.27 |
+| Mistral Medium 3.1 | 8 | 8.17 | 8 | 8.24 |
+| Claude Opus 4.5 (no reasoning) | 9 | 8.16 | 9 | 8.23 |
+| Claude Sonnet 4.5 Thinking 16K | 10 | 8.14 | 10 | 8.23 |
+| Qwen 3 Max Preview | 11 | 8.08 | 11 | 8.16 |
+| Claude Sonnet 4.5 (no reasoning) | 12 | 8.08 | 12 | 8.16 |
+| Claude Opus 4.1 (no reasoning) | 13 | 8.05 | 13 | 8.13 |
+| Kimi K2 Thinking | 14 | 7.70 | 14 | 7.84 |
+| Grok 4.1 Fast Reasoning | 15 | 7.61 | 15 | 7.70 |
+| Mistral Large 3 | 16 | 7.54 | 16 | 7.63 |
+| Baidu Ernie 4.5 300B A47B | 17 | 7.49 | 17 | 7.58 |
+| GLM-4.6 | 18 | 7.45 | 18 | 7.56 |
+| Deepseek V3.2 Exp | 19 | 7.18 | 19 | 7.30 |
+| GLM-4.5 | 20 | 7.13 | 20 | 7.24 |
+| GPT-OSS-120B | 21 | 7.05 | 21 | 7.14 |
+| Cohere Command A | 22 | 6.77 | 22 | 6.86 |
+| Llama 4 Maverick | 23 | 5.75 | 23 | 5.86 |
 
-### Leave‑one‑grader‑out re‑rank (max change, top 15)
+### Leave‑one‑grader‑out re‑rank (max change)
 
 | LLM | Old Rank | Old Mean | Worst ΔRank | New Rank (worst) | New Mean (worst) | Removed grader |
 |-----|---------:|---------:|------------:|------------------:|-----------------:|----------------|
-| Qwen 3 Max Preview | 11 | 8.088 | -3 | 8 | 8.383 | Claude Sonnet 4.5 (no reasoning) |
-| Gemini 2.5 Pro | 6 | 8.218 | 3 | 9 | 8.366 | Claude Sonnet 4.5 (no reasoning) |
-| GPT‑5.1 (medium reasoning) | 2 | 8.437 | 2 | 4 | 8.603 | Claude Sonnet 4.5 (no reasoning) |
-| Mistral Medium 3.1 | 7 | 8.199 | -2 | 5 | 8.433 | Claude Sonnet 4.5 (no reasoning) |
-| Claude Opus 4.5 (no reasoning) | 8 | 8.194 | -2 | 6 | 8.177 | Kimi K2‑0905 |
-| Gemini 3 Pro Preview | 5 | 8.219 | 2 | 7 | 8.176 | Kimi K2‑0905 |
-| GPT‑5 (medium reasoning) | 3 | 8.433 | -1 | 2 | 8.626 | Claude Sonnet 4.5 (no reasoning) |
-| GPT‑5 Pro | 1 | 8.473 | 1 | 2 | 8.476 | GPT‑5.1 (low reasoning) |
-| Kimi K2‑0905 | 4 | 8.329 | -1 | 3 | 8.604 | Claude Sonnet 4.5 (no reasoning) |
-| Claude Sonnet 4.5 Thinking 16K | 9 | 8.168 | 1 | 10 | 8.365 | Claude Sonnet 4.5 (no reasoning) |
-| Claude Opus 4.1 (no reasoning) | 12 | 8.066 | -1 | 11 | 7.944 | DeepSeek V3.2 Exp |
-| Claude Sonnet 4.5 (no reasoning) | 10 | 8.111 | 1 | 11 | 8.317 | Claude Sonnet 4.5 (no reasoning) |
-| Baidu Ernie 4.5 300B A47B | 15 | 7.503 | -1 | 14 | 7.456 | Kimi K2‑0905 |
-| Grok 4.1 Fast Reasoning | 14 | 7.564 | 1 | 15 | 7.454 | Kimi K2‑0905 |
-| Kimi K2 Thinking | 13 | 7.684 | 0 | 13 | 7.980 | Claude Sonnet 4.5 (no reasoning) |
+| Qwen 3 Max Preview | 12 | 8.088 | -3 | 9 | 8.383 | Claude Sonnet 4.5 (no reasoning) |
+| Gemini 2.5 Pro | 7 | 8.218 | 3 | 10 | 8.367 | Claude Sonnet 4.5 (no reasoning) |
+| GPT-5.1 (medium reasoning) | 3 | 8.437 | 2 | 5 | 8.603 | Claude Sonnet 4.5 (no reasoning) |
+| Mistral Medium 3.1 | 8 | 8.199 | -2 | 6 | 8.433 | Claude Sonnet 4.5 (no reasoning) |
+| GPT-5 Pro | 2 | 8.472 | -1 | 1 | 8.594 | Gemini 3 Pro Preview |
+| GPT-5.2 (medium reasoning) | 1 | 8.509 | 1 | 2 | 8.587 | Gemini 3 Pro Preview |
+| GPT-5 (medium reasoning) | 4 | 8.433 | -1 | 3 | 8.626 | Claude Sonnet 4.5 (no reasoning) |
+| Kimi K2-0905 | 5 | 8.329 | -1 | 4 | 8.604 | Claude Sonnet 4.5 (no reasoning) |
+| Gemini 3 Pro Preview | 6 | 8.219 | 1 | 7 | 8.397 | Claude Sonnet 4.5 (no reasoning) |
+| Claude Opus 4.5 (no reasoning) | 9 | 8.193 | -1 | 8 | 8.385 | Claude Sonnet 4.5 (no reasoning) |
+| Claude Sonnet 4.5 Thinking 16K | 10 | 8.167 | 1 | 11 | 8.365 | Claude Sonnet 4.5 (no reasoning) |
+| Claude Sonnet 4.5 (no reasoning) | 11 | 8.110 | 1 | 12 | 8.317 | Claude Sonnet 4.5 (no reasoning) |
+| Claude Opus 4.1 (no reasoning) | 13 | 8.066 | -1 | 12 | 7.944 | Deepseek V3.2 Exp |
+| Grok 4.1 Fast Reasoning | 16 | 7.564 | -1 | 15 | 7.920 | Claude Sonnet 4.5 (no reasoning) |
+| Mistral Large 3 | 15 | 7.593 | 1 | 16 | 7.804 | Claude Sonnet 4.5 (no reasoning) |
+| Baidu Ernie 4.5 300B A47B | 17 | 7.503 | -1 | 16 | 7.456 | Kimi K2-0905 |
+| Kimi K2 Thinking | 14 | 7.684 | 0 | 14 | 7.980 | Claude Sonnet 4.5 (no reasoning) |
+| GLM-4.6 | 18 | 7.450 | 0 | 18 | 7.761 | Claude Sonnet 4.5 (no reasoning) |
+| Deepseek V3.2 Exp | 19 | 7.156 | 0 | 19 | 7.474 | Claude Sonnet 4.5 (no reasoning) |
+| GLM-4.5 | 20 | 7.117 | 0 | 20 | 7.460 | Claude Sonnet 4.5 (no reasoning) |
+| GPT-OSS-120B | 21 | 7.026 | 0 | 21 | 7.428 | Claude Sonnet 4.5 (no reasoning) |
+| Cohere Command A | 22 | 6.792 | 0 | 22 | 7.079 | Claude Sonnet 4.5 (no reasoning) |
+| Llama 4 Maverick | 23 | 5.775 | 0 | 23 | 6.029 | Claude Sonnet 4.5 (no reasoning) |
 
 
 ## Do Graders Agree?
@@ -495,6 +517,7 @@ For the prior editions’ full leaderboards and the list of “old” grader LLM
 
 
 ## Updates 
+- Dec 16, 2025: GPT 5.2, Mistral Large 3 added.
 - Nov 25, 2025: Major new version of the benchmark: V4. All new graders. GPT-5 Pro, Gemini 3 Pro, GPT-5.1, Claude Opus 4.5, Claude Sonnet 4.5, Grok 4.1, Kimi K2 Thinking, GLM-4.6 added.
 - Sep 23, 2025: Grok 4 Fast Reasoning added.
 - Sep 9, 2025: Major new version of the benchmark: V3. See the section "What’s new in V3"

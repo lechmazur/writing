@@ -1,0 +1,19 @@
+grade_story_wc_123.txt
+<question>1</question><grade>3.8</grade><comment>Character interiority relies heavily on diagnostic labels ("calm resolve," "meticulous") rather than embodied emotion. The protagonist's immediate trust of the antagonist ("intuited her honesty") represents perfect emotional calibration that bypasses necessary struggle and character-specific skepticism. Motivation is stated explicitly ("to nurture integrity") rather than dramatized through difficult choices.</comment>
+<question>2</question><grade>3.5</grade><comment>The story fails the on-page closure requirement, relying on a summary ending ("In the following days...") that explains the resolution rather than dramatizing a decisive moment with cost. Causality is weak, with key plot points driven by "intuition" rather than evidence or logical progression. The climax resolves instantly through a single line of dialogue, lacking necessary narrative pressure.</comment>
+<question>3</question><grade>4.5</grade><comment>The setting functions as a generic backdrop with standard descriptors ("cool air," "dim sky") rather than an active constraint. While the atmosphere is established, the environment does not pressure the character's choices or tactics. The "quiet courtyard" is a static stage rather than a lived-in space that shapes the conflict.</comment>
+<question>4</question><grade>3.0</grade><comment>The central conflict evaporates immediately upon confrontation; the antagonist reveals herself as an ally, removing the pressure without requiring a tactic shift or trade-off. There is no visible or felt cost to the protagonist's decision to collaborate, as the text explicitly frames it as a gain without sacrifice ("deepen, not dilute"). Escalation is non-existent as the threat dissolves into instant cooperation.</comment>
+<question>5</question><grade>3.1</grade><comment>The theme is delivered through explicit moralizing ("Elara learned that integrity could flourish in communion") rather than emerging from the narrative arc. The ending reduces the complexity of the situation to a tidy lesson, lacking ambiguity or resonance. The thematic statement in the final paragraph replaces earned insight with a summary lecture.</comment>
+<question>6</question><grade>3.6</grade><comment>The narrative voice is stiff and disrupted by the mechanical insertion of specific phrases ("progressed laterally," "credibly curious") that feel alien to the POV's natural lexicon. These insertions break immersion and create a disjointed rhythm. The tone is consistent but monotonous, lacking modulation during moments of supposed high tension.</comment>
+<question>7</question><grade>3.5</grade><comment>The prose relies heavily on "telling" rather than "showing" (e.g., "methodical mind pieced together"), distancing the reader from the action. Repetitive sentence structures (Noun-Verb openings) and the forced repetition of specific phrases ("layered tranquility," "intuit") create a mechanical cadence. Causality often occurs in summary within the narration rather than in the scene.</comment>
+<question>8</question><grade>3.4</grade><comment>The premise combines standard dystopian tropes (rogue zones, secret experiments) with a convenient "misunderstanding" plot resolution. The "storm recorder" concept is the only unique element but is underutilized, serving merely as a plot device to confirm data. The execution lacks risk or fresh synthesis of its elements.</comment>
+<question>9 A</question><grade>6.2</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>5.0</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>2.8</grade>
+<question>9 F</question><grade>1.2</grade>
+<question>9 G</question><grade>4.2</grade>
+<question>9 H</question><grade>4.5</grade>
+<question>9 I</question><grade>3.0</grade>
+<question>9 J</question><grade>1.5</grade>

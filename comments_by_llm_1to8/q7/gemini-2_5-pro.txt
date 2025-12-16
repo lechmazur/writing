@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Gemini 2.5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.1)
-    Rhythm varies purposefully; sentence openings shift. Information density is high: the dust functions as covering, lens, and final barrier. No paraphrase loops or template cadence. Minor figurative density in the opening ("alien equation," "physical weight") is voice-consistent and does not obscure. The final beats are clean and propulsive. One small slip: "the gesture feeling less like cleaning and more like a quiet prayer" uses a simile where a concrete action might have landed harder, but it does not dull closure.
-
   * grade_story_wc_1.txt (grade=8.0)
     Rhythm varies purposefully: short crisis beats ("She didn't enter; she didn't need to") contrast with longer reflective passages. Information density is high—most lines advance both plot and theme. No loops or scaffold. Minor figurative density in opening paragraph ("ghost-heat," "maw," "fragile, cooling vessel") clusters metaphors but remains coherent. Template risk: "She learned…She sought…" parallel stems in paragraph 3, though brief and voice-motivated. Closure sentence ("The canyon was no less quiet, but now its silence was a conversation she finally understood") avoids overwriting and lands the thematic turn cleanly.
 

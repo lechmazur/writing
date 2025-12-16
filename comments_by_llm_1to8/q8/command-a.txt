@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Cohere Command A
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.7)
-    The core premise—scientist discovers transformative power in butterfly dust—follows a familiar template (decay → renewal via symbolic object). The neutron-star background is a surface detail that does not transform the material; swapping her profession to botanist or chemist would require minimal edits. The dust's quasi-magical properties (responding to thoughts, reconstructing a butterfly) are presented without constraint or cost, reducing conceptual rigor. The ending delivers expected symbolism (butterfly = resilience) without a fresh inflection or non-obvious turn.
-
   * grade_story_wc_1.txt (grade=5.4)
     The glass-artist-as-investigator using frost patterns to decode a smuggler's ledger offers a fresh synthesis. However, the emotional arc—survivor seeking truth and rescue—is familiar, and the plot beats (hidden caches, shadowy antagonist, captive apprentice) follow a recognizable template. The "luminous glass that captures moonlight" and "bioluminescent grotto" feel ornamental rather than integral to the moral calculus or final choice. Risk is present in the premise but not in execution; the resolution defers to future action, avoiding a bold on-page stance.
 

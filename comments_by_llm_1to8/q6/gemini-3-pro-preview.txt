@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Gemini 3 Pro Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.6)
-    POV is stable third-limited with clean focalization through Elias's scientific lens. Perceptual signature is strong: "preprocessed the reality," "wireframe of its future state," "topography of loss." Diction mostly fits his background, though "kindled humility" and "quiet grace" feel slightly elevated for peak stress moments. Psychic distance modulates purposefully as objectivity cracks. No dialogue to assess. The prose reflects his analytical mind through syntax choices, though a few phrases ("sodden island of wreckage") drift toward lyric register without full voice-motivation.
-
   * grade_story_wc_1.txt (grade=7.1)
     POV is stable third-limited with a distinct perceptual signature (glass artist noticing temperature, viscosity, thermal layers). Diction is controlled and mostly character-specific. However, elevated phrases—"hyper-aware survival mechanism," "drifting resonance," "fragile timeframe"—slightly drift from the immediate sensory register under peak stress. Free indirect style is clean; no head-hopping. Rhythm modulates with pressure, accelerating toward the frost discovery. The prose stays within Elara's lexicon except for the occasional abstract noun cluster that reads slightly externalized.
 

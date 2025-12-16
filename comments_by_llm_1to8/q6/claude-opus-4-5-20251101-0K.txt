@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Claude Opus 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.2)
-    Third-person limited POV maintains consistent distance and perceptual signature (scientific analogies, attention to micro-structures). Diction remains stable in Mira's professional lexicon ("spectral analyses," "chitin," "stellar cores") without unmotivated register shifts. The mother's voice in quoted memory carries distinct idiom. Psychic distance modulates purposefully (closer during physical discoveries, wider for cosmic parallels). Minor friction: "To strip needless drama from grief, her therapist had said" reads slightly expository, though it sets up the story's thematic contradiction. No head-hopping; focalization stays clean.
-
   * grade_story_wc_1.txt (grade=7.1)
     POV remains stable third-limited throughout with consistent distance. Perceptual signature is character-specific: Elena notices temperature shifts, light behavior, and pattern mathematics through her glass-artist lens. Diction occasionally drifts elevated ("the pause she had sought revealed itself not as emptiness but as the space where transformation happened") in ways that feel imposed rather than voice-organic to a working artist under stress. Psychic distance modulates purposefully from close embodiment ("She began to retrace the symbols") to wider reflection without head-hopping.
 

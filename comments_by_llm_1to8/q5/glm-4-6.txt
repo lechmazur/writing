@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=GLM-4.6
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    Theme emerges organically from the contrast between violent cosmic cataclysms and patient, local healing; the butterfly dust embodies transformation and fleeting beauty without overt moralizing. The final image—wiping dust as "a silent prayer for a world allowed to heal at its own pace"—offers a resonant, non-literal answer to the central question of how to restore order after chaos. Minor weakness: the explicit phrase "her work was their antithesis: quiet, slow, and deeply personal" edges toward statement rather than pure implication, but the overall effect remains thematically coherent.
-
   * grade_story_wc_1.txt (grade=7.4)
     Theme emerges organically from the contrast between creation and destruction, with the smuggler's failed protective gesture mirroring Kaelen's own artistic struggle. The final image—glass embedding ash and sorrow—offers a resonant, non-literal answer to the question of purpose without moralizing. "Finding its own drifting resonance" feels slightly echo-y of the "drifting resonance" tone element, flirting with self-reference, but the core synthesis (luminous testimony vs. pure light) reweights prior material cleanly. The frost-as-language motif constrains one middle choice and charges the ending, avoiding token symbolism. Subtext operates in the juxtaposition of "scorched testament" and "fleeting art of pressure and temperature."
 

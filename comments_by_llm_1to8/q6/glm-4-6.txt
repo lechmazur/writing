@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=GLM-4.6
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.2)
-    POV distance is stable third-limited with Elara's scientific and philosophical vocabulary coloring perception. Perceptual signature is consistent: she notices fractal patterns, galaxy spirals, and cosmic parallels. However, register occasionally drifts into expository abstraction ("the core concept of her existence was gradual change") that sounds less like lived interiority and more like authorial summary. Psychic distance remains controlled, but the voice sometimes loses embodied immediacy in favor of thematic explication.
-
   * grade_story_wc_1.txt (grade=7.1)
     POV remains stable third-limited throughout; psychic distance is consistent and controlled. The perceptual signature is artist-specific: "luminous glass rods," "molten glass," "feathery spiral matched an unfamiliar rune." Diction occasionally drifts into elevated register under pressure ("settling into him not like a weight, but like light"), which reads slightly above the focalizer's lived urgency in that beat. No dialogue appears, so naturalism and subtext bullets do not apply. Purposeful compression in the mineshaft discovery beat ("swept the ash…into a special crucible") maintains momentum. Free indirect style is clean; no head-hopping or filter-verb stacks.
 

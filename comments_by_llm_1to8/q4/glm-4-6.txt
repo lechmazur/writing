@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=GLM-4.6
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.9)
-    The dominant stake—guiding reality toward "humble grace" through gradual decay—is signaled early and sustained. One meaningful deepening occurs when Elara applies her method to Mr. Gable's grief, showing her philosophy in specific action. However, no on-page reversal or tightening narrows options; her work proceeds without obstacle, cost, or complication. The final image reconfigures meaning but does not foreclose a path or demonstrate a trade-off. Agency is present but unchallenged.
-
   * grade_story_wc_1.txt (grade=6.9)
     The dominant stake—discovering purpose after the attack—signals early and tightens once when the ledger/frost patterns force Kaelen to retrace the smuggler's steps, narrowing his options from passive mourning to active investigation. The mineshaft revelation (smuggler as protector, not criminal) deepens understanding and transforms Kaelen's artistic intention. Closure involves a renunciation with visible cost: embedding ash means abandoning pure luminosity for testimony. The reversal from "attack as silencing" to "gesture of creation" reshapes stakes, but the escalation remains cognitive rather than embodied—Kaelen faces no on-page tactical obstacle or live decision friction during the investigation itself.
 

@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Claude Sonnet 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    Helena's interiority is concrete and character-specific throughout: preprocessing through spreadsheets and decade catalogs, then transferring that methodology to the butterfly scales. The final choice to begin again with caterpillars in spring carries visible cost—accepting impermanence and her own pattern-making limits. Internal contradiction operates clearly: she chose butterflies to escape analysis, yet the flood strips that pretense and she returns to what she knows, now with "kindled humility." Minor deduction for the slightly over-articulated "preprocessed reality" framing, but the trait shapes on-page choices consistently.
-
   * grade_story_wc_1.txt (grade=6.8)
     Vera's motivation is clear—survival and truth-seeking—and her glass-artist expertise shapes her perception (frost as "nature's glass"). However, the final choice feels undercooked: Galloway's surrender happens off-page, robbing the confrontation of earned cost. The "steadily adaptive" trait is told more than shown in micro-choices under pressure, and the interior monologue about glass and patience reads as thematic packaging rather than embodied thought during a gunpoint standoff.
 

@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Baidu Ernie 4.5 300B A47B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.8)
-    Elara's shift from cosmic detachment to greenhouse humility is signaled, but her interior life remains largely summary-level ("she'd begun preprocessing reality through a different lens"). The monarch chrysalis sequence offers one micro-choice beat (monitoring it daily), yet the final symposium choice to present dust patterns lacks visible cost or contradiction—colleagues' confusion doesn't foreclose a path on the page. Interiority leans toward thesis statement ("Decay isn't an event, it's a language") rather than embodied pressure, and the protagonist's renunciation of institute expectations feels declared rather than dramatized with trade-offs.
-
   * grade_story_wc_1.txt (grade=5.8)
     Lirael's internal experience is vivid and embodied in moments ("her breath fogging the air," fingers brushing the ledger), but her core motivations remain abstract—"purpose in the pauses" is asserted more than dramatized through contradictory impulses. The glass-artist backstory provides texture but doesn't create on-page friction; her decision to retrace the smuggler's steps lacks a visible cost or trade-off that would elevate the choice. The final epiphany about "marking time" feels delivered rather than earned through struggle, and the promised future (teaching others, crafting panels) summarizes instead of crystallizing a present renunciation.
 

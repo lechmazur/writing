@@ -1,0 +1,19 @@
+grade_story_wc_180.txt
+<question>1</question><grade>3.2</grade><comment>Characterization relies heavily on direct labeling ("endearingly feisty," "stubborn") rather than demonstrating traits through action or difficult choices. Interiority is summarized ("ghost of their bond") rather than embodied in specific, contradictory impulses. The protagonist's feistiness is asserted but not dramatized; her actions—working quietly and waiting—contradict the label.</comment>
+<question>2</question><grade>3.4</grade><comment>The narrative structure collapses into summary with the transition "Weeks passed," dissipating tension and violating the immediate scene scope. Closure is a "symmetric satisfaction" where the conflict resolves via a coincidence (the daughter's return) rather than a costly, earned decision by the protagonist. The ending lacks the required felt or conceptual cost.</comment>
+<question>3</question><grade>5.1</grade><comment>The setting concept (orchard in cathedral rafters) is vivid and imaginative ("blooming apples and decaying stone"), providing a strong atmospheric backdrop. However, the setting remains static and does not constrain the protagonist's tactical options or force a trade-off. It serves as scenery rather than an active pressure cooker for the conflict.</comment>
+<question>4</question><grade>2.7</grade><comment>Escalation is virtually absent; the protagonist faces no active opposition in the present moment, and the obstacle dissolves through a fortuitous discovery (the journal). The resolution arrives via external agency (Lyra's return) rather than the protagonist overcoming a resistance, resulting in low pressure and zero on-page cost.</comment>
+<question>5</question><grade>2.4</grade><comment>The theme is delivered through explicit moralizing ("love and knowledge persist," "vows... require release") rather than subtext or action. The ending falls into the "Thematic Echo" anti-pattern, summarizing the lesson for the reader instead of allowing resonance to emerge from the dramatic particulars.</comment>
+<question>6</question><grade>3.7</grade><comment>The voice is distant and expository, often summarizing emotional states ("softened Elara's heart") instead of inhabiting the character's perception. The prose lacks a distinct perceptual signature, leaning on generic descriptors that flatten the narrative distance.</comment>
+<question>7</question><grade>3.5</grade><comment>The prose suffers from "keyword stuffing," mechanically repeating prompt terms ("feisty determination," "feisty spirit," "accidental revelation," "accidental wisdom") in a way that creates artificial rhythm and tells rather than shows. Information density is low due to the reliance on summary and scaffolding sentences ("Elara decided to persist").</comment>
+<question>8</question><grade>4.1</grade><comment>While the core concepts (quartz-eye mender, cathedral orchard) are evocative, the plot execution follows a generic "estrangement healed by gift" template with a tidy, risk-free resolution. The story lacks a fresh inflection or subversion of the trope, settling for a safe, sentimental ending.</comment>
+<question>9 A</question><grade>7.4</grade>
+<question>9 B</question><grade>7.2</grade>
+<question>9 C</question><grade>7.5</grade>
+<question>9 D</question><grade>1.2</grade>
+<question>9 E</question><grade>2.1</grade>
+<question>9 F</question><grade>5.4</grade>
+<question>9 G</question><grade>5.8</grade>
+<question>9 H</question><grade>4.5</grade>
+<question>9 I</question><grade>4.8</grade>
+<question>9 J</question><grade>1.5</grade>

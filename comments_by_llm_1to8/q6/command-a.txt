@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Cohere Command A
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.1)
-    Third-person limited POV remains stable with no head-hopping. Diction is controlled but drifts toward elevated abstraction ("quiet architect," "bridge between the microscopic and the macroscopic") that sits uneasily with the concrete greenhouse setting. Perceptual signature is present—Elara notices patterns and scientific parallels—but her neutron-star expertise never inflects her syntax or metaphor choice in a character-specific way. No dialogue; all interiority. Psychic distance stays consistent, avoiding filter-verb stacks.
-
   * grade_story_wc_1.txt (grade=6.9)
     Third-person limited POV remains stable with no head-hopping. Perceptual filter is consistent (glass-artist metaphors: "natural tapestry," "fleeting beauty of moments"). Diction occasionally drifts into elevated register ("scorched testament," "drifting resonance") that feels writerly rather than character-rooted. No dialogue to evaluate. Elara's way of noticing is selective and metaphor-driven, but the voice doesn't modulate meaningfully under pressure—the final paragraph's tone matches the opening despite the stakes rising.
 

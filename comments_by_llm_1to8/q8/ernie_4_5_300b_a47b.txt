@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Baidu Ernie 4.5 300B A47B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.3)
-    The neutron-star-researcher-studies-post-flood-greenhouse frame offers a fresh synthesis, yoking astrophysics vocabulary to botanical decay. The dust-as-stellar-debris conceit is specific and motivated by Elara's lens. However, the arc—scientist humbled by chaos, finds new dataset, earns interdisciplinary respect—follows a familiar redemption template. The chrysalis spiral pattern is a purposeful inflection, yet the symposium botanist's affirming question resolves tension rather than deepening it, reducing narrative risk.
-
   * grade_story_wc_1.txt (grade=5.4)
     The frost-pattern navigation method offers a fresh tactical angle, and the glass-artist lens provides specific filtering. However, the core arc—survival → purpose discovery via hidden map → return to create art—follows a familiar template (trauma → symbolic object → reaffirmed vocation) without a non-obvious moral calculus or turn. The smuggler remains a cipher whose attempt is setup only, and the final teaching/exhibition plan feels genre-conventional for artist-recovery narratives, reducing the sense of inevitable synthesis.
 

@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=GPT-OSS-120B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.9)
-    Third-person limited POV is stable, and Mara's perceptual filter (neutron-star researcher attending to decay) is consistent. Diction remains character-specific without head-hopping. However, the prose occasionally elevates into abstract register ("preprocess reality," "chorus of disturbances") that feels slightly academic rather than embodied under greenhouse-tending pressure. No dialogue appears; the voice modulates with observation but lacks rhythmic tightening at peak moments.
-
   * grade_story_wc_1.txt (grade=6.1)
     Third-person limited POV remains stable with no head-hopping. Perceptual signature is present but generic ("trembling," "steady," "drifting resonance") without character-particular texture. Diction drifts into elevated, abstract register ("scorched testament," "steadily adaptive," "purpose she had been seeking") that feels authored rather than filtered through Elya's lived experience under pressure. Psychic distance stays consistent but the prose lacks rhythmic modulation that would reflect her emotional arc.
 

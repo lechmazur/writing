@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Baidu Ernie 4.5 300B A47B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.6)
-    Elara's perceptual filter (waveform of a dying pulsar, accretion disks) is distinct and consistent. Psychic distance is stable. Dialogue at the symposium ("Your dust patterns—they're like tree rings") advances plot and carries subtext about interdisciplinary validation. Under peak pressure (institute call, symposium presentation), diction remains controlled. However, the narration occasionally slips into expository interiority ("She'd spent decades reducing celestial phenomena to numbers, but here, the numbers resisted") that tells rather than shows resistance through failed calculations or mismatched data.
-
   * grade_story_wc_1.txt (grade=6.9)
     The prose voice is consistent and lyric—"bowl of indigo," "liquid swirls," "drifting resonance"—with a distinct perceptual signature filtering the canyon through glass-artist metaphors. POV remains stable throughout with no head-hopping. However, the diction occasionally drifts into elevated register ("cartographer of hidden things," "etch her existence into the world's quiet intervals") that feels more authorial than character-particular, and the final paragraph's summary mode ("she'd learned," "she'd teach") dilutes the present-tense immediacy established earlier.
 

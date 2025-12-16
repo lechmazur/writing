@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=Gemini 3 Pro Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    Drive lens: Accumulative/Textural. The story teaches a pattern of observational deepening (shattered glass → orchid → butterfly wing → dust → single flake) that reweights Elias's stance from inoculation against grief to acceptance of inevitable ends. Orientation is clear by the opening sentence. The closure unit is a Resonant Reconfiguration (Earned Stasis meets Charged Poise): the fingertip transfer and exhale crystallize a new relationship to fragility with felt cost ("heavy burden...carried...with newfound, quiet grace"). One meaningful deepening occurs when the preprocessed overlay falters, forcing a recalibration. Cost is legible in the relinquished telescope and the acceptance of terrestrial study.
-
   * grade_story_wc_1.txt (grade=7.4)
     The closure lands on-page as Charged Poise: Elara discovers the frost-free tracks and begins walking with visible cost (three days of cold, bruised fingers, the destroyed workshop). The inferred lens is Accumulative/Textural—sensory particulars and the temperature-memory concept deepen until the final image reweights her stance from paralysis to purposeful pursuit. Orientation is clear early (canyon, after arson, night to dawn). One meaningful tightening occurs when the frost reveals the invisible tracks, narrowing her options from blind flight to guided pursuit. The cost is legible but slightly abstract; pointing to "bruised fingers" and "stiff joints" provides felt consequence, yet the story could sharpen the moment of forfeiture (what she gives up by following this path) for a stronger 8+ claim.
 

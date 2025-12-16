@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=GLM-4.6
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.1)
-    Prose is generally clear and rhythmically varied, with strong concrete images (iridescent dust, cracked terracotta, fractured dome). Minor scaffold artifacts appear: "The core concept of her existence was gradual change" reads as exposition rather than dramatization, and "This work cultivated a kindled humility within her" uses abstract summary. Paraphrase loop in the opening: "the decay felt orderly, almost reverent" is immediately followed by "she found solace in the slow quietude." Information density is high overall, but a few lines restate rather than advance.
-
   * grade_story_wc_1.txt (grade=7.8)
     Rhythm varies naturally; sentence openings shift across beats. Information density is high: most lines advance character, discovery, or atmosphere without scaffolding. One minor paraphrase loop: "He understood now. His purpose was not found in the grand unveiling, but in the pauses where the frost forms" restates the earlier motivation without added pressure (−0.2). No template cadence, synonym churn, or filter-verb stacks. Figurative language ("ghosts and scorched earth," "stars stitching," "truth settling…like light") remains controlled and legible, though the final "settling like light" metaphor borders on stock. Clarity and propulsion are strong; the Text Artifact Screen flags no major scaffold.
 

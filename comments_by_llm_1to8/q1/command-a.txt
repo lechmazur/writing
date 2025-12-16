@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Cohere Command A
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.2)
-    Elara's motivation ("to strip away the needless drama") is stated rather than dramatized through conflicting choices under pressure. Her professional background as a neutron star researcher feels ornamental—no specific astronomical knowledge constrains her greenhouse experiments. The butterfly's materialization at the end reads as wish-fulfillment rather than a choice that forecloses a path with visible cost. Interior voice relies on abstract phrasing ("quiet architect," "kindled humility") rather than embodied contradiction.
-
   * grade_story_wc_1.txt (grade=5.8)
     Elara's motivation ("discover purpose in the pauses") is stated rather than dramatized through conflicting impulses. Her "steadily adaptive" trait functions as a label without visible cost—she simply decides to retrace the smuggler's route without internal friction. The apprentice's captivity is discovered off-page and doesn't force a meaningful choice or renunciation with felt consequence in the text. Interiority relies on stock phrasing ("renewed determination," "mind racing with plans") rather than character-particular thought under pressure.
 

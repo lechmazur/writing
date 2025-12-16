@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=GLM-4.5
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=3.9)
-    No dominant stake is tested on the page. The piece declares Elena's motivation ("to strip needless drama") but never dramatizes a moment where that desire conflicts with another pressure or cost. No reversal, tightening, or deepening occurs within the narrative window; all transformation happened before the story opens. The final paragraph's summary ("she had found what she had been searching for") confirms the absence of live escalation. Coincidence does not apply; the problem is that nothing happens.
-
   * grade_story_wc_1.txt (grade=3.6)
     The dominant stake—discovering why someone wants her dead—is signaled early but never tested on the page. The "realization" about mineral smuggling is delivered as exposition rather than through a reversal that narrows options. No on-page tightening or deepening alters tactics; the frost investigation is summarized without pressure. Agency is absent; Lena observes and concludes rather than choosing under constraint. No visible cost accompanies her resolve to "face whatever challenges lay ahead."
 

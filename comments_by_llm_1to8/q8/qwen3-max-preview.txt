@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Qwen 3 Max Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.3)
-    The neutron-star-to-butterfly-dust synthesis is specific and non-obvious; the piece commits fully to the conceit and follows its implications through career pivot and pedagogical shift. Transformation test: the emotional arc depends on this exact pairing of cosmic scale and micro-particulars. Risk: sustained metaphorical equivalence without ironic distance could feel precious, but the piece grounds it in concrete interferometer work and dust geometries. Proximity check: no close echoes detected. The "I found them here" closure line risks sentiment but is earned by prior pattern work. Freshness is conceptual rather than plot-based, fitting the accumulative lens.
-
   * grade_story_wc_1.txt (grade=5.2)
     The premise—artist heals in canyon by studying frost patterns and embedding them in glass—reads as template artist-in-wilderness recovery without a non-obvious turn. The ledger-as-escape-route revelation is late and unmotivated by prior causal work. Emotional specificity is replaced by generic epiphany language ("survival was not triumph"; "purpose in the pauses"). The frost-to-ledger synchrony is coincidence rather than transformation earned through choice. The final gift economy is asserted rather than tested against a competing want.
 

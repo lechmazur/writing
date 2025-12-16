@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=GLM-4.5
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.1)
-    The storm-damaged greenhouse is established early and provides vivid anchoring detail (broken glass, cracked terracotta, water-stained walls). Micro-setting touches—butterfly wing on pot, seedling through concrete—are selective and purposeful. However, the environment does not constrain any on-page choice or meaningfully charge the final image; Elena moves through space observing rather than navigating obstacles that alter tactics. Spatial choreography remains coherent but passive.
-
   * grade_story_wc_1.txt (grade=5.1)
     The canyon setting is described lyrically ("vast tapestry of stars," "ancient rock walls") but never constrains a choice or alters tactics. The glass plates and frost are introduced as method but remain decorative; no spatial choreography grounds their placement or Lena's movements around them. The micro-climate detail is told rather than used. The setting does not charge the final image.
 

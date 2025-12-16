@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=Grok 4.1 Fast Reasoning
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.8)
-    The piece anchors who/where/when adequately within the first few paragraphs (Elena, greenhouse, post-flood). Closure attempts Resonant Reconfiguration via the published findings and return to the greenhouse, but the cost is conceptual rather than felt on the page—no specific professional or personal opportunity is visibly foreclosed. The causal chain from dust observation to spectrometer rig to publication is summarized in compressed transit rather than dramatized through resistant material or failure, weakening the because/therefore linkage at the climactic turn. The final image—"reality preprocesses into peace"—reprises the dust metaphor but remains abstract, lacking a concrete sensory anchor that reweights prior stakes.
-
   * grade_story_wc_1.txt (grade=5.8)
     The story signals who/where/when by the opening lines. A Decisive Change occurs (Elara transforms the ledger into art and becomes "canyon's guardian"), but the cost is conceptual rather than viscerally felt on the page; no prior path is visibly foreclosed. The Drive Lens reads Accumulative/Textural (pauses, frost patterns, luminous motifs recur), yet the closure lacks a cadence shift or density break that reweights the dominant stake with undeniable pressure. The ledger's secondary discovery and the confrontation occur off-stage or in summary, weakening causal linkage at the climax.
 

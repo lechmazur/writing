@@ -1,0 +1,19 @@
+grade_story_wc_290.txt
+<question>1</question><grade>3.2</grade><comment>Characterization relies entirely on diagnostic labels ("claustrophobic," "prudently adventurous") rather than dramatized behavior. Emotional states are summarized ("Elara felt immobilized... by awe") instead of embodied, and the internal conflict is resolved via assertion rather than a costly on-page choice.</comment>
+<question>2</question><grade>3.5</grade><comment>The narrative reads as a synopsis or outline rather than a fully realized story, lacking scenic density and causal friction. The resolution is an "explain-everything" ending where a keeper explicitly delivers the solution, dissolving tension without protagonist agency or cost.</comment>
+<question>3</question><grade>3.8</grade><comment>The setting is abstract and generic ("walls shifted," "floors curved") with little sensory specificity beyond visual warping. The environment feels like a placeholder for the concept of "spatial mutiny" rather than a lived-in space that constrains the protagonist's tactical choices.</comment>
+<question>4</question><grade>2.9</grade><comment>Stakes are declared but never felt; the "spatial mutiny" is a background inconvenience rather than an active pressure. The resolution comes too easily through a deus ex machina (the keeper), resulting in zero meaningful escalation or felt cost.</comment>
+<question>5</question><grade>2.4</grade><comment>Theme is delivered through explicit moralizing and summary statements ("Elara's story was one of courage and discovery") rather than emerging from subtext. The ending reduces the narrative to a tidy lesson, violating the rule against sermonizing.</comment>
+<question>6</question><grade>3.1</grade><comment>The voice is distant and summary-heavy, lacking a distinct perceptual signature or proximity to the character's experience. There is no modulation of distance during key moments; the narrative remains consistently detached.</comment>
+<question>7</question><grade>2.6</grade><comment>Severe keyword stuffing creates a mechanical rhythm; full phrases like "blueprint drafting compass point" and "spatial mutiny" are repeated endlessly (4-7 times each) without variation. This results in heavy "template cadence" and scaffold artifacts that obstruct immersion.</comment>
+<question>8</question><grade>2.8</grade><comment>The story synthesizes the prompt elements in a literal, checklist fashion without transforming them into a fresh narrative. The execution relies on generic fantasy tropes (the chosen one finding a key) without subversion or specific insight.</comment>
+<question>9 A</question><grade>5.2</grade>
+<question>9 B</question><grade>5.5</grade>
+<question>9 C</question><grade>4.1</grade>
+<question>9 D</question><grade>2.1</grade>
+<question>9 E</question><grade>2.5</grade>
+<question>9 F</question><grade>6.2</grade>
+<question>9 G</question><grade>3.8</grade>
+<question>9 H</question><grade>2.8</grade>
+<question>9 I</question><grade>4.0</grade>
+<question>9 J</question><grade>1.8</grade>

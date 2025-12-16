@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=GPT-5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.1)
-    The storm-damaged greenhouse is vividly particular: silt-white benches, brine-drinking orchids, bronze butterfly dust along fractures. Spatial choreography is clean (panes, vents, potting table, puddles). The dust functions as micro-setting, constraining interpretation (reading which vents failed) and charging the final image (children steering by windows). Sensory hierarchy reflects the researcher's professional lens. One minor slip: "drowned notebooks" are introduced late and feel more thematic than spatially grounded in the moment.
-
   * grade_story_wc_1.txt (grade=7.2)
     Canyon setting is vivid and purposeful: starlight navigation, morning frost as cartographer, the hidden metal door, and the basalt kiln all constrain the search and shape the discovery. Sensory detail is selective and filtered through the glass artist's lens ("ferned pane," "throat clogged with fused sand"). The kiln's physical state—scarred, unbroken, requiring a traveler flame—directly enables the closure action. Spatial choreography remains clear across the night walk, dawn study, and chamber entry.
 

@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=GPT-5 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    Mara's interiority is concrete and embodied through her scientific reflex meeting practical repair, showing contradictory impulses (researcher vs. sweeper) acting simultaneously. The progression from "flamboyant fireworks at data" to patient dust-tracing demonstrates earned change through prior causality. Micro-choices—pinning plastic, placing the slide, distributing tasks—reveal hierarchy of values with visible cost (abandoning drama for incremental progress). Minor weakness: some interiority edges toward abstraction ("preprocesses reality by habit") but recovers through immediate sensory anchors.
-
   * grade_story_wc_1.txt (grade=6.8)
     The glass artist's motivation (discovering purpose in pauses) operates largely through reflection and metaphor rather than dramatized conflict of competing impulses. The teacher's rival as antagonist remains off-stage; the protagonist's plan to expose him through frost-patterns and the canyon's testimony feels more allegorical than psychologically urgent. Embodied emotion appears in scattered gestures (kneeling, breath held, glass rod singing), but the interiority often defaults to elevated abstraction ("purpose lived in pauses because pauses were doors"). The final choice—fusing the ledger into a window for frost-translation—arrives without visible internal resistance or cost that forecloses another path on the page.
 

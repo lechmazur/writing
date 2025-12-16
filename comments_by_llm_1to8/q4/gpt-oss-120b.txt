@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=GPT-OSS-120B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.4)
-    The dominant stake (understanding how butterfly dust preprocesses reality through gradual change) is signaled early. Weeks of controlled observation offer a single meaningful deepening, but escalation remains low-key: humidity shifts and crack widening are narrated without tension or a moment when Mara's hypothesis faces genuine threat. Agency is present in her choice to trust the unseen influence, yet the cost remains abstract and the tightening mild.
-
   * grade_story_wc_1.txt (grade=5.9)
     Dominant stake (rebuild her art and discover purpose) is signaled early. The ledger-guided journey provides one meaningful deepening when she finds the luminous shards, but escalation is passive: discoveries happen to her rather than being forced by her choices under mounting cost. No live option is foreclosed; the narrative accumulates glass-making steps without pressure that narrows tactics or imposes a visible trade-off at closure.
 

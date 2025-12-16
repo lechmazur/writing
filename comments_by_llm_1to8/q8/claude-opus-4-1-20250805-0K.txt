@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Claude Opus 4.1 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.4)
-    The core premise—physicist finds meaning in post-flood greenhouse decay—offers a fresh juxtaposition, but the emotional arc (career-to-calling conversion) follows a recognizable template without sharp transformation. The butterfly dust as research method is specific, yet the piece telegraphs its thematic destination early and delivers it without surprise. The "academic discovers humble truth in nature" frame is familiar; the neutron-star/butterfly-wing contrast is the freshest inflection, but it's stated more than dramatized in charged action.
-
   * grade_story_wc_1.txt (grade=7.2)
     The uranium-glass premise is specific and less common than generic artist-inheritance plots, and the pivot to frost patterns as a teaching device offers a fresh angle on transformation. The staged-death-via-arson frame adds ingenuity, and Marina's choice to warn rather than profit or destroy distinguishes her from stock protagonists. However, the "poisoned legacy versus safe beauty" binary is somewhat familiar, and the frost-as-metaphor arrival feels slightly convenient. The piece commits fully to its premise and follows implications (she will live in hiding, learn from transient forms), earning solid originality without radical risk.
 

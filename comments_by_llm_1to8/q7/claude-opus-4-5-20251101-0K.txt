@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Claude Opus 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.9)
-    Rhythm varies purposefully; information density is high (most lines do double work linking setting, memory, and theme). Figurative language (dust as time's archive, neutron stars as grief analogue) remains coherent and voice-motivated. Minor loop: "Dust accumulated everywhere—in greenhouse corners, in the spaces between galaxies, in the crevices of human hearts where grief settled and slowly transformed" borders on thematic restatement after prior dust motifs, though the tricolon structure charges the closure approach. No template cadence or filter-verb stacks in peak beats. Syntax varies; sentence openings shift across paragraphs.
-
   * grade_story_wc_1.txt (grade=6.4)
     Multiple paraphrase loops diminish momentum: "beauty existed independent of those transactions" is restated as "beauty's survival despite the hands that tried to own it"; "someone steadily adaptive" echoes the earlier attribute declaration. The phrase "scorched testament" appears three times with slight variations but without clear escalation of meaning. Figurative density is high throughout ("stars...their resonance drifted through her still, harmonizing") without always serving pressure. Template cadence appears in several "She [verb]" constructions. Information density is generally strong but scaffold phrases like "the space where transformation happened" read abstract.
 

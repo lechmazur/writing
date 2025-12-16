@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Claude Sonnet 4.5 Thinking 16K
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.2)
-    Perceptual signature is distinct and consistent: Mara notices "distinct striations," "pulsar data," "mathematical models"—the lens of a physicist applied to organic decay. Psychic distance remains stable; no head-hopping. Diction control under pressure is strong: "preprocessing reality," "needless drama," "cosmos itself" stay character-bound. The prose modulates appropriately—compressed syntax in peak observation beats, reflective rhythm when she contemplates neutron stars. Free indirect style is clean throughout.
-
   * grade_story_wc_1.txt (grade=8.3)
     Third-person limited with tight Elena focalization; perceptual signature is glass-artist specific ("thought of glass—always glass," frost as "luminous quality"). Psychic distance modulates purposefully: close during hand/scar moments, slightly elevated during the frost-watching passage to allow accumulative rhythm. The teacher's aphorism ("purpose in the pauses") risks exposition but is framed as recalled lesson applied in scene. No dialogue; the patron's questions are summarized rather than quoted, a minor missed opportunity for subtext. Diction stays consistent (studio, kiln, molten) with one slight register lift at "drifting resonance" in the final line, which reads voice-motivated (lyric closure) rather than drift.
 

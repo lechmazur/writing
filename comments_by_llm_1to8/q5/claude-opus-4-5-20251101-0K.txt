@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Claude Opus 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.7)
-    Theme (gradual transformation across scales, from stellar to cellular to emotional) emerges from concrete particulars: neutron star compression, butterfly wing decay, dementia's "quieter flood," sediment settling. The final image—walking "into a world still drying, still recovering, still patiently teaching her humility"—offers a resonant, non-literal answer without stated moral. The mother's phrase "preprocesses reality" seeds early and returns reweighted at closure. No thematic echo in the ending; the orchid provides embodied persistence rather than thesis. Subtext operates in silences (the decision to pocket one slide) and shifting dust patterns.
-
   * grade_story_wc_1.txt (grade=6.9)
     Theme of beauty's independence from commodification emerges through concrete particulars (canyon frost, glass furnace warmth, decoded ledger). The final image of "seeds of light planted deep in her luminous, surviving heart" borders on explicit metaphor but remains grounded in prior glass-artist imagery. The line "beauty existed independent of those transactions, wild and unchained as canyon frost at dawn" states theme somewhat directly rather than letting the ending image fully carry it. The scorched-testament motif recurs purposefully but the thematic resonance occasionally tips toward assertion over dramatized insight.
 

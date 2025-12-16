@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=GPT-5 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.1)
-    The synthesis of astrophysics and greenhouse repair through "accumulated dust patterns" is specific and non-obvious, earning high originality. The trope of scientist-learns-humility is transformed via concrete tools (broom, slide, lens, plastic sheet) and the dual timescales (flood/star) create fresh tension. Risk: the extended cosmic metaphor could flatten into allegory, but particulars (butterfly-wing angles, nitrogen decay, pulsar microsecond widening) anchor universals. Proximity check passes; no famous-line echoes detected. The piece commits fully to its premise without retreat, though the final notebook entry edges toward thematic summary.
-
   * grade_story_wc_1.txt (grade=7.3)
     The synthesis of glass craft, forensic frost-reading, and canyon as witness offers a specific, non-obvious frame. The ledger-as-window concept and the choice to let natural phenomena testify rather than confront directly feel purposeful and grown from the protagonist's occupation. However, the glass-artist-as-metaphor-for-resilience and the mentor's-rival-as-arsonist remain familiar templates. The frost-translation method and canyon acoustics provide fresh texture, and the annealed midpoint choice resists binary resolution. Risk-taking in lyric compression heightens coherence without obscuring the closure effect, warranting a modest within-band lift.
 

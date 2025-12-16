@@ -1,0 +1,41 @@
+mistral-large-2512.txt
+# Editorial Brief: Theme & Subtext (Q5)
+
+**Executive Insight**
+The cohort divides sharply on this axis based on a single variable: trust in the reader. High-performing stories allow themes to emerge as the inevitable exhaust of conflict and concrete action—what the rubric calls "organic emergence." In these pieces, the central question (e.g., "How do we mourn without erasing?") is answered non-literally through a final image or choice that reweights prior material (Conceptual Repricing). Lower-scoring stories destroy their own resonance by explicitly articulating the theme, often in the final paragraph. When a character or narrator states the lesson directly ("He realized that hope was not a destination, but a journey"), the subtext collapses into a sermon. The most consistent path to the 9-band is ensuring the protagonist’s internal arc is inextricable from the thematic question, resolved through a specific, costly action rather than a realization.
+
+**Strength Profile**
+*   **Object-Driven Resonance:** The strongest pieces anchor abstract themes in physical objects that evolve. A "jade tear" shifts from relic to conduit; a "broken clock" shifts from trash to a symbol of resistance. This avoids abstraction.
+*   **Conceptual Repricing:** High-scoring endings often return to a motif introduced early but invert its meaning based on the story's events (e.g., a "canyon" shifting from a barrier to "also a choice").
+*   **Subtextual Gesture:** Emotion is conveyed through physical response rather than internal monologue. A character presses a hand to a cold glass pane rather than thinking about isolation.
+*   **Quotes of Note:**
+    *   "canyon... also a choice"
+    *   "silence had a language"
+    *   "tending is not owning"
+    *   "grief as tide, not monument"
+
+**Weakness Profile**
+*   **Thematic Echo:** This is the most prevalent failure mode. Characters articulate the story’s thesis in dialogue that mirrors prompt language (e.g., "Resilience wasn't about resisting change—it was about bending with it"). This triggers immediate penalties.
+*   **Final-Paragraph Sermonizing:** Stories frequently land a strong final image but then tack on a summary sentence explaining *why* it matters (e.g., "And in that silence, she found her answer").
+*   **The "X was not Y, but Z" Construction:** A recurring stylistic tic where the narrative explicitly defines the theme (e.g., "Silence was not absence, but presence"; "It wasn't a prison, but a cocoon"). This structures the theme as a lecture rather than an experience.
+*   **Abstract Labeling:** Relying on conceptual jargon ("synaptic plasticity," "encrypted compassion," "spatial mutiny") instead of dramatizing those concepts through scene pressure.
+
+**Performance Boundaries**
+The boundary between a 7 and a 9 is often defined by what is *deleted*. A story scores in the 7s when it dramatizes a complex theme but feels the need to ensure the reader "gets it" via summary or internal monologue. It crosses into the 8s and 9s when those explanations are excised, leaving only the "Charged Poise" of the final image. If the insight exists solely in the reader's mind after the story ends, the score is high. If the insight is printed on the page, the score drops. Ambiguity is a strength here; stories that resolve into tidy binaries (Technology=Bad, Nature=Good) fail to achieve the "meaningful ambiguity" required for the highest bands.
+
+**Signature Moves & Blind Spots**
+*   **The Wise Mentor:** Many stories utilize a secondary character (grandmother, ghost, keeper) whose sole purpose is to deliver thematic aphorisms. This reduces the protagonist’s agency in earning the insight.
+*   **The Magic Fix:** Resolving thematic tension through a supernatural event (a glow, a hum, a sudden bloom) rather than a difficult human choice. This bypasses the "earned wisdom" requirement.
+*   **Atmosphere over Action:** Relying on "hush," "silence," and "resonance" as aesthetic markers without grounding them in a specific narrative cost.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Irreducible Complexity:** The ending offers a solution that acknowledges loss or cost (e.g., "peace... at the cost of self"). The protagonist gains something but loses something else, preventing a tidy moral.
+*   **The Non-Literal Answer:** The final beat responds to the story's central question with an image or action that implies the answer without stating it (e.g., planting a seed in winter answers "is hope foolish?" without saying "yes").
+*   **Recurrent Constraints:** Motifs don't just reappear; they constrain the character's options or force a realization, accumulating pressure rather than just signaling "theme."
+
+**Revision Levers & Keepers**
+*   **Keep:** Recurring physical motifs (clocks, seeds, lenses) that change state or ownership by the end.
+*   **Keep:** Endings that leave the protagonist in a state of active decision or realization without summarizing it.
+*   **Change:** Delete any sentence in the final paragraph that begins with "He realized," "She understood," or "It was a reminder that." Let the preceding image speak.
+*   **Change:** Rewrite dialogue where characters explain the magic system or moral philosophy to one another; replace with conflict over a specific object.
+*   **Change:** Remove the "X was not Y, but Z" sentence structures. Show the "Z" through action.

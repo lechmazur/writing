@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=Gemini 2.5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.4)
-    Orientation is clear by the opening paragraph. The piece follows an Accumulative/Textural lens: Aris's repeated observations through the dust-coated pane accumulate density until the orchid moment reweights his stance. The closure—wiping the pane clean and reaching for the shovel—is a Resonant Reconfiguration (Charged Poise) with felt cost: he must abandon the filtered comfort and join the messy process. The single meaningful deepening (orchid transfer → connection → action) is sufficient for this length and the cost is legible on the page.
-
   * grade_story_wc_1.txt (grade=8.4)
     Closure lands as Resonant Reconfiguration (Charged Poise): Kaelen chooses creation over exposure, sealing the ledger in glass with frost patterns etched around it—a decisive renunciation of vengeance that forecloses reporting the smugglers, with the conceptual cost made visible in "the silence that followed" becoming "a conversation she finally understood." Drive lens is Accumulative/Textural: the week-long frost-reading sequence accumulates density, then the kiln-lighting reweights prior fire-terror into creation-wisdom. Orientation anchors (glass artist, canyon, post-fire) arrive by line 3. One meaningful deepening: the ledger's discovery→frost-pattern recognition→cave location→final artwork progression tightens stakes from survival to purpose.
 

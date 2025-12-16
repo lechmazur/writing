@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=GLM-4.5
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.8)
-    No on-page closure event occurs; the piece is a static meditation on transformation already completed before the narrative window opens. The "after the flood" timeframe places all decisive change in backstory—Elena has already shifted focus, already found her calling. The final paragraph explicitly summarizes theme ("she had found her true calling") rather than allowing image or action to reconfigure meaning. Drive lens reads as attempted Accumulative/Textural, but no density increase, pattern break, or cadence shift reweights stakes; the piece loops thematic assertions without escalation or cost visible on the page.
-
   * grade_story_wc_1.txt (grade=3.8)
     Orientation Test penalty applies: who, where, and when remain vague past 120 words; the canyon is unanchored spatially and the temporal window ("three weeks ago," "previous night," "now") creates confusion rather than pressure. The closure unit—leaving the canyon with resolve—lacks visible cost; the decision is declared rather than earned through on-page causality. The drive lens is ambiguous: the piece gestures toward causal (ledger investigation) but delivers summary and thematic statement instead of because/therefore linkage. Cost proof test fails: no sentence at the ending shows a legible price paid.
 

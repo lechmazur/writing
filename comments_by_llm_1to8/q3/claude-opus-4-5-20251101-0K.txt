@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Claude Opus 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.4)
-    The storm-damaged greenhouse constrains on-page choices: shattered door, collapsed shelving, and broken roof panels guide Mira's movements and discoveries. The surviving orchid in the final beat charges the closure image with defiant persistence. Sensory detail (sediment crunch, "smell of drowned things," iridescent wing scales in broken light) is vivid, selective, and filtered through Mira's scientific attention. Spatial choreography remains clear across kneeling, lifting slides, standing. The micro-setting (glass slides as portable archive) functions as purposeful constraint.
-
   * grade_story_wc_1.txt (grade=7.6)
     The canyon setting constrains choices through cold ("steadily adaptive to the cold, adjusting her cloak"), and the frost formations function as micro-setting that enables the cipher breakthrough. Dawn's arrival ("sun crested the canyon rim, light poured down like molten gold") charges the final transformation with environmental pressure. Sensory hierarchy reflects Elena's glass-artist priorities (light, temperature, crystalline patterns). Spatial choreography remains clear throughout the descent and climb.
 

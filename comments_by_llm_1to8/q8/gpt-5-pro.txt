@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=GPT-5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.7)
-    The neutron-star-researcher-as-greenhouse-restorer synthesis is non-obvious and sustained through lived detail (forensic meteorology, pulsar timing, spin-down vocabulary). The dust-as-map conceit is specific and irreplaceable. Emotional truth—accepting half-light rather than vowing heroic recovery—resists the template redemption arc. Conceptual integrity: the "gradual change" premise is followed rigorously into tactics, structure, and tone. Risk: the accumulative/lyric design without a decisive confrontation could feel static, but here it heightens stakes by making patience itself the crucible. Transformation test passes: swap the greenhouse for another setting and the emotional arc collapses.
-
   * grade_story_wc_1.txt (grade=6.6)
     The synthesis of glass art, smuggling ledger, hidden kiln, and a mentor's secret refuge is specific and non-obvious. The "scorched testament" as both ruin-inscription and final artwork title offers a fresh doubling. Emotional progression—from survivor to maker reclaiming purpose—avoids generic resilience templates through craft-specific detail (kiln throat, negative space as route). One derivative element: the mentor-reveals-hidden-knowledge frame is familiar, though the glass/breath encoding adds originality. The piece commits fully to its premise without retreat.
 

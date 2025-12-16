@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=GPT-5 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.4)
-    The greenhouse as micro-setting constrains multiple choices: broken panes frame clouds "like equations," punctured roof requires plastic sheeting, silt patterns guide sweeping strokes. The butterfly-wing dust functions as both tool and recurring object, charging the final image when it resettles. Sensory detail is filtered through scientific POV (vortices, topography, angles) without catalog excess. The algae, tomatoes-to-filaments, and compost barrels layer texture that reflects urgency and decay. Spatial choreography remains clear across all moves.
-
   * grade_story_wc_1.txt (grade=7.4)
     The canyon as setting constrains the protagonist's method (frost on stone, silence as witness) and charges the final image with recurring motifs (cliffs answering thought, canyon listening). Sensory detail is selective and purposeful (sand chilling bones, wind thickening and thinning, frost filigree matching ledger edges), filtered through the glass artist's craft-based perception. The stone "whose surface gleamed like cooled crown glass" concretely ties setting to the character's idiom and enables the frost-reading action, meeting the 9+ gate for environment shaping tactics and charging the closure.
 

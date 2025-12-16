@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Qwen 3 Max Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.6)
-    Theme emerges from the dust-to-cosmos synthesis: "decay as iterative refinement" enacted through Elira's shift from neutron stars to butterfly scales. The piece resists moralizing—reviewers dismiss her, she smiles, no thesis is declared. The final exchange ("I found them here, in the dust") reweights prior material without stating a lesson. Subtext operates in her choice to stop wearing gloves, inviting children, and renaming damage as evolution. The kindled-humility weeping is earned by prior observation, not asserted. Minor slip: "Poetry, after all, was just physics with fewer equations and more awe" edges toward stated theme but remains character-filtered.
-
   * grade_story_wc_1.txt (grade=6.4)
     Theme emerges from image (frost, ledger, glass) rather than thesis, but the final paragraph moralizes directly: "Purpose, she realized, wasn't a destination—it was the act of retracing." The protagonist's arc is inextricable from the thematic question, yet the answer is stated rather than embodied in a non-literal final image. Frost patterns and ledger tracings constrain her medium and accumulate resonance, but the closing epiphany flattens the prior accumulation into neat summary. The piece invites reflection yet hedges with explanation.
 

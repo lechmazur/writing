@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=Llama 4 Maverick
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=3.8)
-    No closure unit is present: Maria begins examining dust, reflects on patterns, and ends still reflecting with no decisive change, resonant reconfiguration, or conceptual repricing that creates a before/after with cost. The piece follows an accumulative lens but fails to deliver the required tightening or deepening—pressure never escalates, and the final image merely restates the opening meditation. Orientation is adequate (who/where/when established early), but the absence of on-page closure with felt cost is disqualifying. The lens (accumulative/textural) is held but never pays off with a cadence shift or pattern break that reweights the stake.
-
   * grade_story_wc_1.txt (grade=5.1)
     Orientation anchors (who, where, when) arrive promptly, but the piece lacks a legible drive lens—neither causal linkage nor accumulative pattern is taught by midpoint, creating drift between lyric description and vague discovery. The ending offers a Resonant Reconfiguration (the artist claims new purpose), but cost remains asserted rather than dramatized: no visible forfeiture, no option foreclosed on the page. The ledger strip discovery and frost observation do not narrow tactics or change knowledge in a way that alters her stance with felt consequence.
 

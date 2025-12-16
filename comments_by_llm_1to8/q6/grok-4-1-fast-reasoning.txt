@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Grok 4.1 Fast Reasoning
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.3)
-    POV remains stable third-limited on Elena, and perceptual signature is consistent (scientific observation filtered through personal stakes). However, diction frequently drifts into academic register that feels imposed rather than voice-motivated: "preprocesses reality by etching subtle grooves," "accumulated dust patterns, preprocesses reality by diffracting spectra." The phrase "preprocesses reality" appears seven times, reading as a conceptual placeholder rather than Elena's lived idiom. Dialogue is absent. Psychic distance is mostly steady, but moments like "her drive to strip needless drama from the universe's violent stories undimmed" read as narrator commentary rather than Elena's in-the-moment thought, and the phrase "kindled humility" is repeated as a thematic tag rather than embodied perception.
-
   * grade_story_wc_1.txt (grade=5.6)
     POV remains stable third-limited. Voice carries a lyric register ("drifting resonance," "frosting the canyon floor with delicate veils") that is consistent but edges into elevated diction not always grounded in Elara's embodied urgency. No dialogue appears. Perceptual signature is present but generic—filtered through her glass-artist lens without idiosyncratic biases. Psychic distance is controlled, yet the prose occasionally slips into expository summary ("she saw her own life reflected") that tells rather than dramatizes insight.
 

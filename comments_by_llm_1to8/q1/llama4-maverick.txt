@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Llama 4 Maverick
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.2)
-    Maria remains a passive observer throughout, with no contradictory impulses or decisions that foreclose paths. Her interiority consists almost entirely of abstract philosophical musings ("reality preprocesses itself") without embodied emotion or micro-choices under pressure. The final paragraph offers no earned change—she simply continues contemplating, with no visible cost or renunciation. Therapy-speak pervades ("kindled humility," "recognition that her own understanding was limited") without dramatic grounding.
-
   * grade_story_wc_1.txt (grade=4.2)
     The glass artist remains a vessel for abstraction rather than a character with contradictory impulses acting in scene. Interiority consists of label-only feelings ("sense of disorientation," "sense of clarity") and stock bodily clichés without embodied particularity. The final "smile" and discovered purpose arrive without prior causal struggle—no micro-choices reveal a hierarchy of values under pressure. Therapy-speak ("discover purpose in the pauses") and diagnostic self-awareness pervade peak moments where embodied cost should dominate.
 

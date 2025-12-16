@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=GPT-5 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.6)
-    Rhythm varies naturally with strong propulsion in sweeping and pinning beats. Information density is high: most lines layer action, atmosphere, and thematic resonance. Two friction points lower the score: (1) Paraphrase loop between "proceeded through accumulated dust patterns" (line 9) and "through accumulated dust patterns their hands learned" (line 23)—same phrase, restated concept, −0.3. (2) Template cadence in cosmic parallels: "a neutron star spins… not a melodrama but an accumulation" echoes "recovery is not a rescue but a rehearsal"—parallel "not X but Y" structure across three instances without taught pattern, −0.4. No filter-verb stacks or register drift. Figurative language (spiral, topography, vanes) serves clarity. Closure image is clean.
-
   * grade_story_wc_1.txt (grade=6.4)
     Sentence rhythm varies and figurative language (glass hears, frost writes, wind braids with stars) coheres under the lyric mode taught early. However, density suffers from paraphrase loops: "purpose lived in pauses because pauses were doors" restates the stated motivation without added pressure. Template cadence appears in mid-section runs ("I knelt...I told...I read...I pressed...I laid...I retraced...I rose"). Stock metaphors cluster without fresh specificity ("black sun," "dust of soot as tiny drought" strains). The closure beat avoids these patterns, keeping it above the artifact cap, but mid-section redundancy and elevated abstraction trigger −0.6 in this category.
 

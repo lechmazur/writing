@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=GPT-OSS-120B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.4)
-    Theme (humility, gradual change, the power of small disturbances) emerges organically from the greenhouse's transformation and Mara's shift from supernova scale to dust scale. The final whisper—"We are all dust, rearranged, learning, decaying, and still growing"—borders on explicit moralizing but is grounded in the weeks of observation. The dust and greenhouse decay serve as concrete particulars that support the theme without becoming purely symbolic tokens.
-
   * grade_story_wc_1.txt (grade=6.2)
     Theme (purpose found in pauses, survival as testament) emerges through frost/glass/ledger motifs and the canyon's resonance. The final image attempts non-literal answer via glass singing under starlight, but the execution tilts toward direct assertion ("she found the purpose she had been seeking") rather than letting particulars speak. Thematic statements in the final paragraph ("purpose lived not in grand gestures but in the quiet pauses") flatten what could have remained resonant.
 

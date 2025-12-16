@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Qwen 3 Max Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.9)
-    Information density is high; most lines advance observation or reweighting. Rhythm varies purposefully (short declaratives at turns: "She wept then," "It was evolving"). Minor loop: "not from sorrow, but [X]" appears twice ("not from sentiment, but for structure" / "not from sorrow, but kindled humility"), creating template echo. Paraphrase slip: paragraphs on dust self-organization restate "not coincidence" / "self-organized" without added pressure. No major clarity loss, but these artifacts touch the closure third, preventing 9+ eligibility globally per Q7 artifact rules. Figurative language (fractal spirals, living aurora) is coherent and motivated by POV.
-
   * grade_story_wc_1.txt (grade=5.8)
     Multiple paraphrase loops and synonym churn weaken propulsion: "not triumph—it was subtraction" / "Subtract the noise"; "Not coincidence. / Synchrony"; "Not to hide, but to heal. / Not to forget, but to transform." Template cadence runs across the middle section ("No grand declarations. / No forced epiphanies. / Only the quiet accumulation…"). Stock metaphors appear without fresh inflection ("canyon taught her"; "purposes isn't a destination"). Information density is low in the visitor passage, which summarizes rather than dramatizes. Filter verbs and abstract nouns ("purpose," "meaning," "resonance") recur without concrete anchors in peak beats. These artifacts touch the closure image, triggering caps.
 

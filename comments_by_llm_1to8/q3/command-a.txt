@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Cohere Command A
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.4)
-    The storm-damaged greenhouse is established early with sensory detail (broken glass, brackish water, skeletal frame) and recurs across beats. However, the environment does not meaningfully constrain Elara's experiments—she sprinkles dust freely without resource limits or spatial friction. The butterfly dust vial functions as a micro-setting object but its mechanics remain vague; we never see how shattered glass or damp soil alters her tactics. The setting charges the final image thematically but does not pressure the protagonist's choices.
-
   * grade_story_wc_1.txt (grade=6.1)
     The canyon, campfire, frost patterns, and bioluminescent grotto are vivid and sensorially grounded. However, the setting functions primarily as backdrop; the frost guides Elara's investigation but doesn't constrain her choices or impose a tactical cost. The grotto's kiln appears as revelation rather than obstacle. Spatial choreography is clean and the mood is consistent, but environment doesn't shape the final image or narrow options at closure.
 

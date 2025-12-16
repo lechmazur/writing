@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=GLM-4.6
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.4)
-    The synthesis of neutron-star research with post-flood healing through butterfly-dust patterns is fresh and purposeful, grounding cosmic abstraction in tactile micro-action. The premise commits fully to its logic without hedging. However, the emotional arc follows a familiar contemplative template: solitary protagonist finds peace in patient, ritualized work without complication or resistance. The risk level is moderate; bolder pressure on Elara's certainty or an on-page cost to her method would lift the piece into higher originality.
-
   * grade_story_wc_1.txt (grade=6.6)
     The core synthesis—using frost patterns as a cipher to decode a ledger—offers a fresh, specific method that feels particular to this artist and setting. The smuggler-as-protector reversal avoids the expected criminal-empire reveal. However, the broader arc (traumatized artist discovers hidden truth, transforms grief into art) follows a familiar template without a bold transformation of stakes or moral calculus. The ending gesture (embedding ash in glass) is visually specific but thematically predictable given the setup. No proximity echoes of famous lines; voice and subject cohere. Risk-taking is moderate: the frost-cipher method elevates the piece, but the emotional throughline remains within median safety.
 

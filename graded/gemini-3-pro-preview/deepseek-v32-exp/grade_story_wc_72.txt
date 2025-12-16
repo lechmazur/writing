@@ -1,0 +1,19 @@
+grade_story_wc_72.txt
+<question>1</question><grade>3.2</grade><comment>The protagonist is an abstract vessel for plot points rather than a character with embodied interiority. The attribute "incisively kind" is applied as a repeated label rather than demonstrated through difficult interaction or cost. The emotional arc—from certainty to nuance—is stated in summary ("Its certainty fractured") rather than dramatized through conflicting desires or resistance.</comment>
+<question>2</question><grade>3.5</grade><comment>The narrative relies on mechanical transitions ("This led to another revelation," "Each discovery unfolded rapidly") rather than causal pressure. The closure is a utopian resolution where the protagonist fixes everything instantly with no resistance or sacrifice, resulting in unearned stasis. The "secret" functions as backstory summary rather than an inciting incident that forces a hard choice.</comment>
+<question>3</question><grade>4.1</grade><comment>The setting is descriptive ("iridescent coral," "drifting seaweed") but functions largely as decoration rather than a source of constraint or pressure. While the "structural weakness" in the stonework is mentioned, the environment yields to the protagonist’s will without friction. The "forgotten" nature is told rather than felt through the atmosphere.</comment>
+<question>4</question><grade>2.8</grade><comment>There are no functional stakes or active opposition; the statue wants to understand, immediately finds the means, and succeeds without cost. The transition to "welcoming nuance" is frictionless, lacking the "visible or felt cost" required for a higher score. The conflict is purely internal and resolved by simple affirmation.</comment>
+<question>5</question><grade>2.5</grade><comment>The theme is delivered through heavy-handed exposition ("The statue realized that welcoming nuance meant...") and explicit moralizing about duality (poison/remedy). Instead of allowing meaning to emerge from action, the text lectures the reader on how to interpret the symbols, flattening potential resonance.</comment>
+<question>6</question><grade>3.6</grade><comment>The narrative voice is distant and explanatory, heavily relying on filter verbs ("sought," "decided," "learned," "realized") that distance the reader from the immediate experience. There is no distinct perceptual signature; the voice sounds like a summary of a story rather than the story itself.</comment>
+<question>7</question><grade>2.2</grade><comment>Severe repetition artifacts degrade the prose; specific phrases like "cascading revelations," "incisively kind," and "structural weakness" appear 3–4 times each in a short space, creating a mechanical, looping cadence. The density of "telling" (explaining thoughts rather than showing action) halts narrative momentum.</comment>
+<question>8</question><grade>3.8</grade><comment>While the core image of an underwater statue is decent, the execution relies on standard tropes of magical restoration and ancient libraries without a fresh twist. The prompt elements feel checklist-inserted rather than organically synthesized, leading to a formulaic "fix-it" narrative.</comment>
+<question>9 A</question><grade>8.5</grade>
+<question>9 B</question><grade>7.8</grade>
+<question>9 C</question><grade>1.5</grade>
+<question>9 D</question><grade>1.2</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>5.2</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>6.0</grade>
+<question>9 I</question><grade>6.8</grade>
+<question>9 J</question><grade>1.5</grade>

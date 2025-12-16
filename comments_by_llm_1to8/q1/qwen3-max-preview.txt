@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Qwen 3 Max Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.8)
-    Elira's interior world is concretely established through her professional lens and shift to dust-pattern observation. Her motivation ("to strip needless drama") is told but then dramatized through precise micro-choices in the greenhouse—sleeping beside the slide, stopping glove use, inviting schoolchildren. The weeping moment and final realization earn the arc, though the internal contradictions remain largely conceptual rather than enacted under immediate pressure. Backstory is extensive (~25%) but anchored to present perception and primes the closure cleanly.
-
   * grade_story_wc_1.txt (grade=6.8)
     The protagonist's interiority is heavily laden with reflection and epiphany ("Survival, she had learned, was not triumph—it was subtraction"), yet micro-choices under pressure are absent; she simply executes a foregone conclusion. The "visitors came, eventually" passage shifts to external summary without dramatizing a single interaction or decision that tests her stance. The final gift-giving is asserted as character truth rather than earned through on-page conflict between want and cost. Embodied contradiction is replaced by thesis-statement interiority.
 

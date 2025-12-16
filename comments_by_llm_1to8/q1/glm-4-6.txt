@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=GLM-4.6
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.8)
-    Elara's motivation is clearly articulated—stripping needless drama through patient intervention—and her philosophy is embodied in concrete action (tracing dust patterns). However, the interiority leans heavily toward exposition rather than contradictory impulses in scene; she never doubts her method or confronts a genuine internal conflict. The choice to help Mr. Gable feels preordained rather than a struggle that forecloses another path. Embodied emotion is present but muted; the "familiar, faint thrum" remains abstract.
-
   * grade_story_wc_1.txt (grade=6.8)
     Kaelen's arc from grand artist to someone seeking "purpose in the pauses" reads as a clean interior shift, and the final choice to embed ash in glass carries visible cost (abandoning pure luminosity). The "steadily adaptive" trait is told rather than shown through contradictory impulses in scene; we see methodical clearing and patient waiting, but no moment where adaptation conflicts with another value under pressure. The smuggler backstory provides context but remains inert—Kaelen never grapples with complicity or guilt, only receives information. Interiority leans toward poetic summary ("truth settling into him not like a weight, but like light") rather than embodied contradiction at the peak beat.
 

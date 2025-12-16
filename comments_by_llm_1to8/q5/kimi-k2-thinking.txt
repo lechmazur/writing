@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Kimi K2 Thinking
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    Theme emerges organically from the interplay of scientific method and natural decay without overt statement. The recurring dust motif (butterfly scales, watermarks, spores) accumulates and shifts meaning at the ending when Elena sees the radio telescope's decay patterns as equally valid. The final image of parking beneath the pocked dish and going inside to "begin again" offers a resonant answer to the central question—how to preprocess reality—without moralizing. Minor slip: "the lesson of a flood that taught her to stop looking for drama in the silence between the stars" edges toward explicit thematic summary in the penultimate section.
-
   * grade_story_wc_1.txt (grade=6.1)
     Theme (purpose in pauses, resilience/light vs. darkness) emerges from the glass artistry and canyon setting, and the vessel creation offers a concrete embodiment. However, the final paragraphs lean toward thematic echo: "his story would shine on," "beacon of truth," "drifting resonance...purpose could be forged" approach summary statement rather than letting the image resonate. The "scorched testament" as call-to-action and the vessel as "testament to resilience" are close to symbolic convenience, introduced late and harvested for theme without deep character friction.
 

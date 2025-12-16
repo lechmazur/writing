@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Kimi K2-0905
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.1)
-    The synthesis—mapping butterfly-wing scales onto neutron-star decay to measure catastrophe as gradual change—is specific and non-obvious, emerging from Mara's dual expertise. The greenhouse's "slow collapse" paralleling her emotional arc feels earned rather than imposed. Risk-taking: the piece commits fully to its scientific-lyric premise without retreat, using synchrotron convergence as the turning image. Minor derivativeness: the "scientist finds personal meaning in professional work" frame is familiar, but the butterfly-dust calibration and the PSR J1748-2446ad overlay provide fresh texture. Transformation test passes: swap names or fields and the story loses its specificity.
-
   * grade_story_wc_1.txt (grade=6.6)
     The premise—a glass artist fleeing a studio fire with a smuggler's ledger, retracing a route to find purpose—offers a specific synthesis of occupation, survival, and thematic inquiry that avoids stock templates. The transformation of the ledger from map to "permission to step off the path" and the studio plan (hosting quiet hours to study frost) provide non-obvious emotional turns. However, the glass-artist-as-fugitive frame and the contemplative desert journey echo familiar meditation-on-purpose narratives without sufficient lived detail to make the premise feel indispensable. The obsidian-as-payment moment and the bus arrival lean on convenience rather than fresh logic. The piece demonstrates thoughtful engagement with its lyric mode and commits to its premise, yet the conceptual vocabulary ("drifting resonance," "steady adaptive," "scorched testament") risks sounding generic when repeated without evolving meaning.
 

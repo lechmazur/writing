@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=Grok 4.1 Fast Reasoning
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.1)
-    The dominant stake—recovering Elena's pulsar research through the dust patterns—is signaled early and remains coherent. However, escalation is summarized rather than dramatized: "Day by day, the mirrors' clouded surfaces decayed gradually" compresses what should be a pressure-filled process into a passive observation. No reversal tests Elena's commitment; the dust works as hypothesized without resistance, and the climactic publication ("Reviewers marveled") is told rather than shown. Agency is present in Elena's decision to gather dust and rig the spectrometer, but these choices do not foreclose a visible alternative or carry an on-page cost—wingless butterflies survive, her data is refined, and success arrives without friction.
-
   * grade_story_wc_1.txt (grade=5.1)
     The dominant stake (exposing the smuggler network / finding purpose) is signaled early but never tightens into a forced trade-off. Elara encounters no live obstacles after the opening attack; the ledger's secrets unfold without resistance, and the final confrontation is resolved in a single summary sentence with no visible cost or tactical adaptation. Coincidence (frost patterns align "eerily" with ledger gaps) enables discovery rather than protagonist agency under pressure. No persistent constraint shapes her choices or the final image.
 

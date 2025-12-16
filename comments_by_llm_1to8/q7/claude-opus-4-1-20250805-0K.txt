@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Claude Opus 4.1 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.3)
-    Prose is generally clear and propulsive, but several beats loop thematically without advancing pressure: "She'd spent years studying objects so dense…" and "Now she understood that sometimes the lightest touch…" restate the neutron-star/butterfly contrast. Template cadence appears in the middle section: "Each day revealed…" / "Each particle of wing dust became…" / "The butterflies continued their work, and she continued hers…" The final paragraph stacks three summary-reflective sentences that paraphrase the ending's meaning rather than trusting the image. No major grammar or logic errors; information density is moderate but could tighten.
-
   * grade_story_wc_1.txt (grade=7.3)
     Prose is mostly clean with good sentence variety and momentum. Information density is high (ledger, uranium, arson, frost lessons) without bloat. Minor issues: "Her father's increasing fatigue. The strange beauty…" employs fragmented catalog rhythm that recurs in reflective beats, and "steadily adjusting" is slightly abstract. "The canyon walls echoed her footsteps, a drifting resonance…" borders on elevated diction but stays voice-plausible for a glass artist. No major loops or scaffolding; clarity holds throughout. The final paragraph's "drifting resonance" and "adaptive, patient, eternally seeking light" inch toward purple but do not obscure the closure image.
 

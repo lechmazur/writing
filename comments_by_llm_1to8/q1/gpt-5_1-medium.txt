@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=GPT-5.1 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    Lena's motivation is embodied through concrete choices—requisitioning the greenhouse, building the device, writing code—and her internal shift from "drama" to "quiet quakes" is earned by the flood experience. The device-building and filter arrangement show agency under pressure. Interiority occasionally drifts toward abstraction ("appetite for drama," "kindled humility") but most beats anchor in sensory detail and micro-choices. Amir's presence tests her stance without forcing a full relationship arc, appropriate for this length.
-
   * grade_story_wc_1.txt (grade=7.8)
     The protagonist's interiority is consistently specific and embodied ("I circled the ruins of my old life like a moth who remembers"), with micro-choices that reflect a hierarchy of values shaped by trauma. Internal conflict is present—hurrying versus pausing, flame versus caution—and actions align with stated motives. The recovery arc and adaptive stance are credible, but the man with black-stained hands is recalled without enough on-page contradiction or tension to fully dramatize blind spots; the realization feels largely retrospective rather than forcing a present mistake.
 

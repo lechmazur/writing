@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Kimi K2 Thinking
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.8)
-    Elena's interiority is concrete and her perceptual bias (converting phenomena to data patterns) is consistent throughout. The core tension between stripping away drama and finding meaning in gradual change drives her micro-choices in the greenhouse. However, the final realization feels somewhat summarized rather than earned through embodied contradiction—she observes, reflects, and concludes without a moment where conflicting impulses force a visible cost. The butterfly dust gesture reads as symbolic closure rather than a choice that forecloses a live option.
-
   * grade_story_wc_1.txt (grade=5.2)
     Kael's initial survival and wound establish stakes, but his interior life is rendered through stock phrasing ("newfound clarity," "quiet resolve") rather than contradictory impulses acting in scene. The discovery of the father's furnace and inheritance feels declared rather than earned through micro-choices that reveal hierarchy of values. Agency at closure—shaping the glass vessel—reads as solitary craft without visible cost or a path foreclosed; the walk toward horizon with "luminous shard" and "quiet promise" substitutes lyric assertion for embodied consequence.
 

@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=GLM-4.5
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.7)
-    Severe paraphrase loops across multiple paragraphs: lines 11–12 (decay everywhere/promise of new life), lines 13–14 (same forces/different scale), lines 19–20 (decay not ending/destruction precedes creation) restate identical ideas. Template cadence runs through reflection: "Elena realized," "Elena knew," "Elena felt." Stock metaphors accumulate: "cathedral," "talisman," "cycle anew." Figurative density is high without pattern-teaching or payoff. Information density is low; most sentences perform thematic summary rather than advancing situation or choice. Apply −1.2 for loops and template stems touching multiple beats; artifacts appear throughout final third, disallowing 9+ globally.
-
   * grade_story_wc_1.txt (grade=4.1)
     Paraphrase loops are pervasive: "seeking solace in the profound silence" / "the quiet canyon under the stars had become her sanctuary" restate without adding pressure. Template cadence runs through the frost-examination passage with repeated "seemed to" and "certain patterns" stems. Stock metaphors ("force of physical blow," "vast tapestry of stars") and elevated diction ("drifting resonance," "scorched testament") cluster without pattern-teaching. Artifacts touch the closure beat ("carrying the drifting resonance of the stars within her"), triggering the elevated deduction and global 9+ disqualification.
 

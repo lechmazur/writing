@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Baidu Ernie 4.5 300B A47B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.9)
-    Sentence openings vary; rhythm modulates with scene needs. Information density is high in the spectrometer and chrysalis beats. Two paraphrase loops appear: "Her work usually involved parsing the faint hum of collapsing stars, but here, amidst the wreckage, she'd begun preprocessing reality through a different lens" echoes the opening's "traded sterility for chaos" formulation, and the double articulation of humility ("humility gnawed at her" / "kindled a humility she'd lost") within one paragraph (−0.3). No filter-verb stacks or template cadence runs. Clarity and momentum are maintained.
-
   * grade_story_wc_1.txt (grade=6.2)
     The opening establishes vivid imagery and momentum, and many lines carry double duty (frost as map, shard as hologram). However, the piece suffers from elevated-diction density in high-pressure beats ("scorched testament," "drifting resonance," "etched her existence") that reads ornamental rather than propulsive, applying roughly −0.5. The final paragraph loops thematically—restating the "pauses" and "hidden maps" concepts without advancing pressure—and several sentences in the chamber discovery beat use parallel "the ledger/the shard" stems that create template cadence, adding −0.3 for cumulative line-level debt.
 

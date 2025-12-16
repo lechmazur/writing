@@ -1,0 +1,19 @@
+grade_story_wc_64.txt
+<question>1</question><grade>4.8</grade><comment>The protagonist's specific capability to decode complex tapestry ciphers appears conveniently without setup, breaking believability ("competence convenience"). The "blithe" trait is explicitly stated but contradicted by the somber, heavy narrative voice, creating a "tell vs. show" dissonance that flattens the character.</comment>
+<question>2</question><grade>5.5</grade><comment>Causality suffers from a "magic decoder" solution where the cipher is solved instantly via an unexplained skill ("counting graves"). The instruction to "bury the ledger" leads to them immediately *finding* it already buried, creating a confusing temporal/logical loop regarding the dead husband's actions and the message's intent.</comment>
+<question>3</question><grade>8.4</grade><comment>Atmosphere is the story's anchor, with vivid sensory details ("brass dulled by kisses," "smell of smoke and lavender") effectively grounding the cobalt silo and cemetery. The setting actively shapes the mood, though the "velveteen gloom" leans slightly into purple description.</comment>
+<question>4</question><grade>5.8</grade><comment>The stakes are primarily retrospective (understanding the husband's death) rather than active pressure in the scene. The "inspector listens" threat is introduced late and resolved instantly by the discovery, lacking a sense of escalating risk or hard trade-offs for the protagonist.</comment>
+<question>5</question><grade>7.5</grade><comment>The theme of hidden intentions and protection ("shapes like roots") is resonant and interwoven with the imagery. The emotional conclusion—shifting from grief to understanding the husband's sacrifice—lands well, even if the plot mechanics leading to it are thin.</comment>
+<question>6</question><grade>7.4</grade><comment>The narrative voice is distinct, lyrical, and consistent, maintaining a gothic, contemplative tone. However, the high register sometimes distances the reader from the immediate action, and the "blithe" label feels misaligned with the narrator's actual internal texture.</comment>
+<question>7</question><grade>7.8</grade><comment>Prose is polished and dense with imagery, avoiding scaffold loops. Some metaphors border on overwriting ("statue rubbed warm," "velveteen gloom"), but the line-level craft generally supports the atmospheric intent without hindering readability.</comment>
+<question>8</question><grade>6.8</grade><comment>The synthesis of a cemetery gardener, a salt silo, and a tapestry cipher is creative, though the "cipher in the needlepoint" trope feels slightly derivative of puzzle-box genres. The execution is specific enough to feel fresh, despite the logical conveniences.</comment>
+<question>9 A</question><grade>4.2</grade>
+<question>9 B</question><grade>8.2</grade>
+<question>9 C</question><grade>6.5</grade>
+<question>9 D</question><grade>7.1</grade>
+<question>9 E</question><grade>8.0</grade>
+<question>9 F</question><grade>7.5</grade>
+<question>9 G</question><grade>8.4</grade>
+<question>9 H</question><grade>5.5</grade>
+<question>9 I</question><grade>6.8</grade>
+<question>9 J</question><grade>6.0</grade>

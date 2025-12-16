@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Claude Sonnet 4.5 Thinking 16K
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.0)
-    Clarity and momentum are high; information density is strong (most sentences advance character or atmosphere). Read-aloud rhythm varies purposefully, and figurative language (neutron-star metaphor, dust as geological record) coheres without muddle. Minor deductions: "pure function, pure essence" in paragraph five is a brief paraphrase loop; "needless drama" recurs without added pressure. The closure beat remains untouched by these slips, and no template cadence or filter-verb stacks appear.
-
   * grade_story_wc_1.txt (grade=7.9)
     Information density is high: most sentences advance character (scarred hands), investigation (ledger gaps), or atmosphere (frost retreat). Rhythm varies—short declaratives at the reveal ("She was simply geography"), longer accumulative sentences during the frost passage. Minor loop: "steadily adaptive" appears in paragraph one and late-story interiority without functional change. The metaphor strand (glass/light/frost) is coherent and pays off, though "silver shadows" is near-cliché. No major artifacts. The final sentence risks overwriting with three similes stacked ("like breath, like the hum of cooling glass, like everything that continues"), but the parallelism reads purposeful (lyric closure) rather than muddle.
 

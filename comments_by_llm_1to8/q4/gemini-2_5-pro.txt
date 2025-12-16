@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=Gemini 2.5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.0)
-    The dominant stake—Aris's need to impose order on chaos—is signaled early and tightens through his repeated returns to the dust-lens. The orchid observation deepens the conflict by forcing him to confront the emotional truth he sought to eliminate. The final act (wiping the pane, seeking the shovel) is protagonist-driven with visible cost: he forecloses his safe observer role. One meaningful tightening is sufficient for this length under the Accumulative lens.
-
   * grade_story_wc_1.txt (grade=8.3)
     Dominant stake: discovering why smugglers attacked, signaled when she finds the ledger in paragraph 2. Escalation under Accumulative lens: initial hand-shaking at replacement kiln→deliberate watching→frost-pattern recognition→week of dawn alignments→cave discovery, each beat narrowing options and raising knowledge-cost. Agency-driven tightening: her choice to "hold it against the frost patterns" and retrace the path (not report immediately) forecloses safety, with visible cost in the walk-back realization "They had thought she'd seen their route." Final choice to seal the ledger rather than expose the smugglers trades justice for art, paying the price on-page by lighting the kiln "for the first time in months."
 

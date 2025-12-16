@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=GLM-4.5
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.9)
-    POV remains stable third-person limited with no head-hopping. However, diction frequently drifts into abstract register inconsistent with on-page perception: "kindled humility," "preprocesses reality," "Resonant Reconfiguration" (implied by structure). Narrative distance is consistent but emotionally remote; Elena's interiority reads as philosophical summary rather than embodied thought under pressure. Perceptual signature is generic—she "marvels," "realizes," "smiles"—without character-specific filtering. No dialogue present to evaluate.
-
   * grade_story_wc_1.txt (grade=5.3)
     POV distance is stable and third-person limited throughout. Diction occasionally drifts into elevated register ("luminous glass artist," "drifting resonance") that feels imposed rather than character-particular. Filter verbs ("seemed to speak," "seemed to form") stack in the frost examination passage, dulling immediacy. Perceptual signature is generic; Lena's way of noticing does not reflect her craft or crisis in specific, biased ways.
 

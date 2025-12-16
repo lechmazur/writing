@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Claude Sonnet 4.5 Thinking 16K
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.6)
-    The synthesis of astrophysics and greenhouse decay is specific and non-obvious; the neutron-star metaphor is extended with care rather than ornament. Transformation test passes: swapping names/places would lose the researcher's perceptual filter. Minor limitation: the "mother's control → daughter's inheritance" arc, while executed cleanly, follows a recognizable template. The dust-patterns-as-data frame and the impossible butterfly offer fresh inflection that lifts the piece above median originality.
-
   * grade_story_wc_1.txt (grade=7.4)
     The glass-artist-as-investigator synthesis is fresh—her kiln knowledge makes her both victim and key. The frost-as-model for seeing gaps is specific and non-obvious. However, the arson-with-hidden-evidence premise leans on familiar crime-fiction scaffolding (ledger, monthly patron, cash payments), and the "wasn't about her" reveal is a known beat. The story transforms this through thematic depth (survival meaning, adaptive practice) and the lyric frost/glass braiding, lifting it above template. Risk-taking in the accumulative structure and quiet ending is solid but not bold enough to reach high 8s.
 

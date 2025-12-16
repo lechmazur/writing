@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=Baidu Ernie 4.5 300B A47B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.4)
-    The piece establishes who/where/when within the opening paragraph and tracks an Accumulative lens: dust accumulation → spectrometer analysis → chrysalis emergence → symposium presentation. Closure reads as Resonant Reconfiguration (Elara's professional identity reweighted by the botanist's cross-referencing question), but the cost remains oblique—ignoring the institute's demand is mentioned without visible consequence, and "evolved her" asserts transformation rather than landing it in a final image with undeniable pressure. The drive lens holds, yet the ending feels summarized rather than charged on the page.
-
   * grade_story_wc_1.txt (grade=6.4)
     The piece establishes orientation adequately (canyon, dawn, Lirael kneeling) and follows a clear Accumulative lens: frost patterns → crevice → chamber → shard revelation → thematic resolution. However, the closure lacks a decisive on-page cost; Lirael's shift from survival hollowness to purposeful teaching is narrated as future intent rather than a present action that forecloses a path. The ledger and shard provide discovery beats, but the final paragraph summarizes her new direction rather than dramatizing a charged choice or renunciation with felt pressure.
 

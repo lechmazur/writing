@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Grok 4.1 Fast Reasoning
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.7)
-    The synthesis of neutron-star research and butterfly-wing dust offers a fresh conceptual hook, and the storm-damaged greenhouse as a site for improvised science is a specific, non-obvious setting. However, the premise quickly becomes illustrative: dust simplifies leaves, then mirrors, then data in parallel demonstrations that do not escalate or complicate. The emotional arc—from ambitious to humble—follows a familiar redemption template without a sharp inflection. The prose relies on prompt-derived vocabulary ("preprocesses reality," "gradual change," "kindled humility") in ways that read as scaffolding rather than organic voice, and the climactic publication success arrives without resistance or trade-off, lowering the sense of earned surprise.
-
   * grade_story_wc_1.txt (grade=5.3)
     The core premise—glass artist uses ledger and frost to track smugglers—offers a fresh synthesis of elements, but execution leans on familiar beats: lone artist survives attack, discovers hidden network, becomes guardian. The "pauses in the ledger" conceit is conceptually interesting yet remains abstractly stated rather than transformed through lived detail or non-obvious moral calculus. The transformation of peril into art at the end is symbolically tidy without a risky or unexpected inflection. Specificity in frost mechanics elevates slightly, but the arc follows a median template without bold structural risk.
 

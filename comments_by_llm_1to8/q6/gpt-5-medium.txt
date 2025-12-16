@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=GPT-5 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.9)
-    POV is stable single third-person limited with strong perceptual signature: scientific idiom ("preprocessing," "pulsar glitches," "calibration") filters all observation. Psychic distance modulates purposefully, tightening during dust-tracing and opening for cosmic parallels. Diction occasionally edges into elevated register during non-peak beats ("kindled humility gathered around her like steam") but remains legible and voice-motivated. Dialogue is minimal and functional; neighbors are "apologetic and laughing" without individuation, acceptable at this length. Minor slip: "a faint brown whisper" and "earthy arithmetic" verge on decorative metaphor but advance mood without obscuring cause.
-
   * grade_story_wc_1.txt (grade=7.1)
     Single-POV distance remains stable with a lyric, heightened register consistent throughout ("the canyon listens," "stars felt like witnesses"). Perceptual signature is craft-specific (glass hears better than it sees, kiln carries color, annealed answer). The elevated diction ("luminous glass artist who had outlived my own molten mistakes," "a tiny drought of soot") fits the reflective mode but occasionally drifts into abstraction ("pauses were doors") that dilutes immediacy. No head-hopping; the experimental compression and patterned repetition (breath, glass, frost) are taught early and sustained. Filter verbs ("I felt that push again") are sparse and voice-motivated.
 

@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Llama 4 Maverick
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.1)
-    The storm-damaged greenhouse is described vividly in the opening and returns intermittently, but it never constrains a choice or charges the final image—Maria moves through it without the environment altering her options. Sensory detail is present ("scent of damp earth," "grimy panes") but remains decorative. The butterfly wing and dust function as thematic objects rather than spatial pressures. Micro-setting standard is not met; the environment supplies atmosphere but no tactical friction.
-
   * grade_story_wc_1.txt (grade=5.8)
     The canyon setting anchors space and time cleanly, and sensory details (frost patterns, starlight, crisp air) are vivid and purposeful. However, the environment never constrains a choice or supplies a resource that affects outcome—frost "guides" her walk but does not alter tactics or charge the final image with concrete pressure. Micro-setting potential (body, ledger strip as tool) remains ornamental; the strip is unrolled and pondered but does not impose spatial or tactile friction that shapes her decisions.
 

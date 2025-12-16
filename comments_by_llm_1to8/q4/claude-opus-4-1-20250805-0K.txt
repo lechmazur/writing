@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=Claude Opus 4.1 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.2)
-    The dominant stake—Elena's pursuit of patient observation over aggressive analysis—is signaled early and tightens when she resigns, but that choice occurs off-page in summary ("submitted her resignation"). No on-page reversal dramatizes the tension between career security and greenhouse discovery; the supervisor's accusation is reported dialogue, not a scene that tests commitment. The contractors' arrival provides a late complication, but Elena's stance crystallization (remaining in her corner) is told rather than shown with visible cost in the moment.
-
   * grade_story_wc_1.txt (grade=7.9)
     The dominant stake—whether to destroy the ledger or use it to prevent further poisoning—is signaled early and tightens when Marina realizes the glow was radiation. Her decision to warn the remaining suppliers is a clear choice with visible cost: she forfeits her old life and the insurance payout, accepting presumed death. The escalation is causal (ledger revelation narrows options) and the final walk into the canyon forecloses return. Pressure coheres under the Causal lens; coincidence does not resolve. One meaningful tightening (uranium discovery) alters tactics and stakes cleanly.
 

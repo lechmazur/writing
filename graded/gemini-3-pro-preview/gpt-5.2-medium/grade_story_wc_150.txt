@@ -1,0 +1,19 @@
+grade_story_wc_150.txt
+<question>1</question><grade>5.6</grade><comment>Character motivation is stated via exposition ("hoped that digging... might lead her back") rather than dramatized through pressure. The pivotal realization occurs in summary ("admitted to herself"), which distances the reader from the emotional cost and reduces the complexity of her internal arc.</comment>
+<question>2</question><grade>6.3</grade><comment>The story relies heavily on narrative summary spanning weeks, violating the single-scene default and reducing the immediacy of the inciting incident and climax. While the closure is logically coherent, the reliance on synopsis prevents the cost from being viscerally felt on the page.</comment>
+<question>3</question><grade>8.6</grade><comment>The setting is the story's strongest asset, blending the archaeological and biological with vivid specificity ("ribs made pale trellises," "apples smelled faintly of incense"). The environment actively constrains the excavation and thematically mirrors the core concept of life growing from the dead.</comment>
+<question>4</question><grade>5.5</grade><comment>Conflict is present but muffled by the summary mode; obstacles like the tremor and Sava's opposition are resolved quickly in narration rather than through difficult, real-time tactical choices. The stakes are high conceptually but lack immediate, scene-level tension.</comment>
+<question>5</question><grade>5.4</grade><comment>The theme is coherent but delivered with a heavy hand, relying on explicit statements ("restoration was not a return... but a decision") rather than subtext. The mason's inscription acts as a thematic echo that states the thesis too directly, reducing resonance.</comment>
+<question>6</question><grade>7.0</grade><comment>The lyrical, fable-like voice is consistent and confident, suiting the subject matter well. However, the narrative distance remains high throughout, keeping the reader observing the character rather than inhabiting her perspective.</comment>
+<question>7</question><grade>7.4</grade><comment>Prose is polished and rhythmic with high information density. There are minor artifacts of prompt-adherence, such as the verbatim repetition of "purposeful wandering," but the line-level craft is generally strong and evocative.</comment>
+<question>8</question><grade>6.8</grade><comment>The synthesis of the catacomb orchard imagery with the restoration plot offers a fresh, visual take on a familiar literary trope. The specific combination of elements feels organic, even if the narrative arc itself is somewhat standard.</comment>
+<question>9 A</question><grade>5.0</grade>
+<question>9 B</question><grade>8.5</grade>
+<question>9 C</question><grade>8.0</grade>
+<question>9 D</question><grade>5.5</grade>
+<question>9 E</question><grade>8.0</grade>
+<question>9 F</question><grade>5.0</grade>
+<question>9 G</question><grade>9.2</grade>
+<question>9 H</question><grade>7.5</grade>
+<question>9 I</question><grade>7.0</grade>
+<question>9 J</question><grade>4.0</grade>

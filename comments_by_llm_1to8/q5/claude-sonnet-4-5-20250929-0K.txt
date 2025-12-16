@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Claude Sonnet 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.6)
-    Theme emerges organically through the neutron-star/butterfly pairing: both are evidence of catastrophe, both involve gradual transformation, both leave traces after the source has moved on. The final image—pulsars spinning in "perfect decay" like butterflies scattering across the universe—offers a resonant, non-literal answer to the question of how to live with loss and impermanence. No moralizing; the ending reweights the opening's "needless drama" desire by showing drama is inherent, and meaning persists in patterns. The "space between" reflection deepens rather than states.
-
   * grade_story_wc_1.txt (grade=6.9)
     Theme—transformation through patient understanding versus rushed violence—emerges organically from Vera's craft and the gunpowder reveal. The glass/fire motif recurs with purpose, and the final kiln lighting offers a resonant (if quiet) answer. However, Vera's speech to Galloway ("Glass demands patience… You're just burning without purpose") edges into thematic statement rather than dramatized insight. The ending image is evocative but slightly abstract, and the "steadily adaptive" framing feels authorial rather than emergent.
 

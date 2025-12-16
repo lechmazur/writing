@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Kimi K2 Thinking
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.9)
-    Sentence rhythm varies and information density is generally high. However, several paraphrase loops appear: "decay revealed itself through accumulated dust patterns" in paragraph 8 restates the concept already shown in paragraphs 4–7. The phrase "preprocesses reality" recurs four times without functional variation, creating template cadence. "Needless drama" appears three times in similar constructions. Apply −0.6 for loops and template stems. The final third maintains clarity and propulsion, preventing deeper penalties.
-
   * grade_story_wc_1.txt (grade=5.4)
     Template cadence and paraphrase loops pervade: "The canyon remained quiet, the stars above echoing his quiet resolve" / "quiet canyon under stars" / "In the quiet of his workshop"; "luminous glass artist" appears four times, "drifting resonance" three times, "scorched testament" four times without reweighted meaning each mention. Sentence stems repeat: "He [verb]" openings cluster in the final third. Stock phrases—"newfound clarity," "beacon of truth," "testament to resilience"—appear in closure beats, dulling specificity. The frost-to-ledger code and vessel-shaping lack concrete procedural detail, relying on summary ("shaped it into a vessel") rather than showing hand, heat, or material resistance.
 

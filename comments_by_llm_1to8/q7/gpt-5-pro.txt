@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=GPT-5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.9)
-    Information density is high; most lines layer image, action, and thematic weight ("The wings were once gentle, but the flood taught them to write"). Rhythm varies purposefully, balancing long reflective sentences with clipped declaratives in the triage passages. No paraphrase loops or template cadence. Figurative coherence is strong except for one mixed vehicle: "drumline of plastic and branches and patience" conflates percussion with endurance in a way that strains sense. Opening and closing lines charge the frame effectively. Minor deduction for density of metaphor in the final third—most sentences carry figurative weight, approaching but not crossing into overwriting.
-
   * grade_story_wc_1.txt (grade=6.9)
     Information density is high; most lines advance discovery, setting, or thematic layering. Rhythm varies purposefully, with longer lyric sentences in reflective beats and shorter units during the search. Two frictions: paraphrase loop in "It was not empty, just spacious, the kind of hush where a life can set without cracking. I breathed with it" restates stillness without adding pressure. Stock metaphor "leaned like folded wings" (crates) is decorative. Minor filter-verb reliance ("felt that memory tug," "felt my purpose gather") in peak beats slightly dulls immediacy. No severe artifacts, but these accumulate to prevent high-band entry.
 

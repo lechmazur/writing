@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=GPT-OSS-120B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.1)
-    Sentences are grammatically clean and information-dense, advancing Mara's hypothesis and the greenhouse's transformation without obvious loops. However, repeated stems ("She realized," "She wrote," "She whispered") and stock phrases ("kindled humility," "quiet power of stripped drama") create mild template cadence in the final third. The final paragraph's explicit thematic summary ("an experiment in humility, gradual change, and the quiet power of stripped drama") reads as scaffold that could be cut without loss.
-
   * grade_story_wc_1.txt (grade=5.7)
     Paraphrase loops and template cadence pervade: "She realized… She set out… She followed… She slipped… She understood… She watched… She knew." The final third recycles stems and restates theme through synonym churn ("drifting resonance," "steadily adaptive," "quiet pauses") without adding pressure. Stock metaphor strings ("scorched testament," "quiet canyon under stars," "gentle chorus") and therapy-speak ("purpose," "steady rhythm") dull the closure image. Artifacts touch the ending, triggering cumulative −1.7 in Q7 and disallowing 9+ globally.
 

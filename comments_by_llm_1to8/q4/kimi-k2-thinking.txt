@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=Kimi K2 Thinking
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.1)
-    Dominant stake is signaled early: Elena seeks to understand "the underlying mechanics" and strip needless drama from existence. One meaningful deepening occurs when the greenhouse "taught her otherwise," forcing a revision of her preprocessing method. Agency is renunciation—she will "let it live as memory" rather than document further—but this choice does not foreclose a live tactical option on the page; it summarizes a future stance. The cost (relinquishing her data-extraction approach) is legible but more conceptual than visceral.
-
   * grade_story_wc_1.txt (grade=5.6)
     Dominant stake (survival from smugglers vs. discovering father's legacy) is signaled early, but the piece never forces a trade-off between them. The frost-map discovery and furnace visit feel like serial reveals rather than escalating pressure; Kael's decision to create the glass vessel and leave with both ledger and shard avoids foreclosing a path. One tightening moment—realizing "his father's legacy was not in the charcoal trade, but in the glass"—reweights understanding but does not alter tactics or narrow options with visible cost on the page.
 

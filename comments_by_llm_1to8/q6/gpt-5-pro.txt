@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=GPT-5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.2)
-    Single POV with a distinct perceptual signature: the researcher notices vents, gradients, coherence, beats. Vocabulary is precise and voice-consistent ("lepidopteran air," "closed wild arithmetic"). Psychic distance is stable; free indirect style is clean. One dialogue exchange with the botanist is brief, functional, and voice-appropriate. Figurative language intensifies under pressure without obscuring clarity: "riverbeds left in the air," "butterflies taught to write." Minor note: the repeated "decay" and "slope" terms approach saturation in the final third but remain legible and purpose-driven rather than looped.
-
   * grade_story_wc_1.txt (grade=7.1)
     Single-POV first-person narration maintains consistent distance and a glass artist's perceptual signature: heat/cooling, breath/exhale, luminous/shadow. Diction stays within the artist's plausible lexicon, blending craft terms with lyric compression ("canyon listened," "frost is a quiet cartographer"). Purposeful elision of the "attempt" details in opening serves closure when the chamber reveals the mentor's refuge and the fire's true motive. One friction: the phrase "drifting resonance" appears twice verbatim (penultimate and final paragraphs), a minor template echo that slightly flattens the ending's texture.
 

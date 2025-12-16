@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Claude Opus 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.1)
-    The synthesis of astrophysics grief narrative through lepidopterist mother and post-flood greenhouse feels specific and earned, avoiding template bereavement arcs. The neutron star / butterfly scale parallel (both archives of transformation) is non-obvious and structurally motivated. Risk: sustained scientific register in an emotional scene could alienate, but here it defines Mira's coping mechanism. The "preprocesses reality" phrase transforms from unscientific dismissal to operational insight. Transformation test passes: swapping neutron stars for another profession would require full reimagining of the perceptual filter and thematic architecture.
-
   * grade_story_wc_1.txt (grade=6.6)
     The frost-as-cipher concept offers a fresh synthesis of natural pattern and human code. The glass-artist lens filtering survival and pattern-recognition feels specific rather than generic. The patron-as-information-smuggler twist is functional but the mechanism of his death ("his own poison somehow found his cup") reads convenient rather than inevitable. The transformation from approval-dependent to self-directed artist follows a familiar arc; the canyon frost provides the distinctive angle that elevates it above template.
 

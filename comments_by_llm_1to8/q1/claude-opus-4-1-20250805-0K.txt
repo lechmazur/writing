@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Claude Opus 4.1 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.8)
-    Elena's transition from neutron star research to greenhouse observation is motivated, but her interiority relies heavily on abstract parallels ("matter compressed beyond comprehension") rather than embodied contradiction. The resignation choice arrives without visible internal conflict—no scene shows her weighing career against discovery. Her colleagues are sketch figures used to contrast her stance rather than applying pressure, and the butterfly-dust epiphany feels declared rather than earned through micro-choices that foreclose options.
-
   * grade_story_wc_1.txt (grade=7.4)
     Marina's motivation to protect against her father's poisoned legacy is concrete and drives her final choice to warn others. The reflection on her father's illness and her years trying to replicate his glow earns the pivot to safe beauty, though the frost-as-teacher epiphany arrives slightly prepackaged. Internal contradiction surfaces when she wrestles with destroying versus using the ledger, and her decision to walk deeper into the canyon forecloses her old identity with visible cost. Embodied emotion is present but occasionally slips into abstracted phrasing ("recognition" as trembling cause).
 

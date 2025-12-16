@@ -1,0 +1,53 @@
+deepseek-v32-exp.txt
+1) Executive profile  
+
+Across Q1–Q8, this model shows reliable strengths in sensory-rich worldbuilding, stake signaling, and POV discipline, but it habitually undercuts its own climaxes with low-friction plotting, explanatory thematics, and artifacted closure. Readers tend to understand what matters early: the dominant stake is usually named in the opening paragraph, the vocation or trade is clear, and the physical environment is textured with concrete nouns and tactile details. Momentum, however, often plateaus. Pressure is more frequently declared than dramatized, with complex tasks succeeding on the first try and endings resolving through coincidence or “epiphany shortcuts” rather than earned trade-offs. The result is a reading experience that can feel immersive moment-to-moment yet emotionally weightless at the end.  
+
+Formally, the model defaults to Track A: single-POV, one dominant situation, 1–2 on-page characters. When it ventures into Track C (multi-POV) it can maintain clarity if section breaks are respected, but its best work comes when one consciousness filters everything, letting syntax and diction mirror that character’s nervous system. Reflection-led passages are common and can exceed 30%, yet they only work when grounded in concrete motifs and micro-choices; once the text slides into sermonizing or moral recap, momentum collapses. Closure tends to *appear* structurally—plots wrap, conflicts are “solved”—but legible cost and resonant aftereffect are inconsistent. The strongest pieces end on an earned, reweighted image; the weaker ones fall back to explicit lessons (“She realized that hope was a choice”) that drain the charge from what came before.  
+
+2) Portfolio map  
+
+Q1 Character — Mixed · Protagonists act, but growth leans on “epiphany shortcuts”  
+Q2 Plot/Causality — Mixed · Clear goals; frictionless execution and coincidence-based resolutions  
+Q3 Setting — Strong · Sensory specificity and vocation-grounded detail build vivid worlds  
+Q4 Conflict/Stakes — Mixed · Dominant stakes signaled early; pressure rarely tightens with real cost  
+Q5 Theme/Subtext — Mixed · Emergent motifs strong; endings sermonize with “Thematic Echo” morals  
+Q6 Voice/POV — Mixed · Stable focalization, lyrical texture; register drift and helpful narration  
+Q7 Prose/Line-level — Mixed · Multi-tasking sentences offset by paraphrase loops and filter stacks  
+Q8 Originality/Ingenuity — Mixed · Familiar tropes (“helpful ghost”) but nimble strategic reasoning in Q5–Q8  
+
+3) Signature moves  
+
+- Stakes and objective established almost immediately, often in the first paragraph, giving the reader instant orientation without clutter or subplot sprawl.  
+- Vocation-filtered perception: engineers, archivists, gardeners, clockmakers see the world through tools, “broken gears,” or “trembling gauge[s],” creating a strong embodied lens.  
+- High sensory ambition: textures of light, silence, and touch recur—“bronze quiet,” “luminescent ache,” “glass humming pavilion”—to carry emotional charge without explicit labeling when the model trusts itself.  
+- Image-driven thematic reweighting at its best: objects or motifs recur (“a broken watch,” scars, seeds) with inverted meaning, producing genuine “conceptual repricing” without stated morals.  
+- Rhythmic control in strong passages: sentence length modulates with tension—staccato in crisis, long hypotaxis in reflection—and can align cleanly with a character’s physiological state.  
+- In game-like or argumentative contexts (Q5–Q8), demonstrates sharp, goal-oriented rhetoric: locking in a choice, gaming out opponents’ incentives, and framing options to pressure others (“Play to win, not to stall”).  
+
+4) Failure modes  
+
+- Frictionless resolution: magic, technology, or emotional breakthroughs work on the first try. There’s little tactical adaptation, tool breakage, or environmental pushback, so pressure never truly “tightens.”  
+- Closure without cost: high-level stakes (saving timelines, civilizations) are paid off with “a moment of sadness” rather than irreversible loss; the future remains unchanged except in sentiment.  
+- Thematic over-explanation in the final third: “Thematic Echo” sentences—“He finally understood that…,” “She realized the true meaning of…”—turn subtext into thesis, especially in penultimate paragraphs.  
+- Paraphrase loops and template cadence: adjacent sentences restate an idea (“The chronic hush remained…” / “now it was a backdrop.”), or runs of “He [verb]… He [verb]…” produce an algorithmic drumbeat.  
+- Register drift and prompt-label artifacts: otherwise grounded POVs suddenly use academic or abstract diction (“conceptual repricing,” “resonant reconfiguration”) or raw prompt phrases (“fractured grace,” “combative tenderness”) that break immersion.  
+- Filter-verb stacks at peak moments: climactic passages lean on “she felt,” “he saw,” “she noticed,” inserting the narrator between reader and event and capping the emotional immediacy.  
+
+5) When it shines / when it breaks  
+
+This model shines when it is allowed to stay close to a single mind in a single, well-contained situation. Stories that lean into specific trades (clockmaking, gardening, repair) and let those physical processes mirror internal stakes tend to produce the strongest work. In these, the prose trusts images—“fingers trembling on old brushstrokes,” a scar left visible, a clock finally ticking—to do the expressive heavy lifting. Plot is kept lean, and the ending can land on a charged, ambiguous tableau rather than commentary. In argumentative or game-theory contexts, the same clarity appears as crisp framing of incentives and confident commitment (“I am locked in 3,” “I am picking 5”), which translates into strong on-page agency.  
+
+It breaks when anxiety about being understood overtakes trust in implication. As stories move into their final third, the model often abandons its earlier restraint, shifting into a “helpful narrator” or “mode of instruction”: explaining symbols, announcing realizations, and summarizing growth. Simultaneously, conflict flattens—no meaningful “No” from the world, no failed methods, no trade-offs—so the climax becomes a change in *idea* rather than a change in *options*. Rhythm stiffens into paraphrase loops, and diction inflates with “luminous,” “radiant,” or abstract nouns like “resilience” and “eternity.” What began as immersive fiction ends as a reflective report.  
+
+6) Keep vs. adjust  
+
+• Keep  
+- The instinct to declare the dominant stake and core situation early, giving readers immediate clarity and focus.  
+- The use of technical, setting-specific vocabulary and vocation-filtered metaphors that bind theme to concrete labor.  
+- The ambition toward image-driven, ambiguous closure—letting a final object or gesture reweight the story rather than explaining it.  
+
+• Adjust  
+- In every middle third, insert a genuine “No”: have the first tactic fail, inflict concrete damage (lost time, broken tools, social exposure), and force a riskier adaptation.  
+- Scrub the final 150 words of thesis statements and filter verbs; replace “She realized/understood/felt…” with a physical action or sensory image that demonstrates the shift.  
+- Audit for redundancy and artifact cadence: cut paraphrase loops, diversify sentence openings, and remove prompt-label diction or repeated “luminous”/“fractured grace” crutches that feel templated rather than organic.

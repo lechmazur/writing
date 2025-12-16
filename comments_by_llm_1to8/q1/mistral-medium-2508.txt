@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Mistral Medium 3.1
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.8)
-    Elias is rendered through concrete particulars—his vial ritual, his patient mapping—and the final sabbatical email offers a motivated choice that forecloses academic theatrics. However, the interiority relies heavily on metaphoric abstraction ("neutron star researcher… understood decay as a kind of poetry") rather than embodied contradiction under pressure. The shift from performance to witness reads as declared insight more than dramatized struggle; we're told he "understood" and "recognized" rather than shown contradictory impulses colliding in scene. The final renunciation has causal grounding but the cost feels conceptual rather than viscerally felt on the page.
-
   * grade_story_wc_1.txt (grade=6.8)
     Liora's motivation is clear and her internal state is rendered concretely through physical action (tracing frost, folding the ledger). The brother revelation provides genuine contradiction and cost. However, the final renunciation ("She didn't need the ledger anymore") arrives through assertion rather than a dramatized choice that forecloses options with visible struggle. Interiority occasionally drifts toward label-speak ("the illusion that purpose was something you could melt and mold") without embodied contradiction acting in the moment.
 

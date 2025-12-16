@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Mistral Medium 3.1
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.6)
-    The storm-damaged greenhouse is vividly particular—"jagged panes… like broken teeth," "skeletal remains," rotting compost—and the flood's aftermath constrains Elias's work (no more grant theater, only patient observation). The setting recurs across beats and charges the final image: broken glass rattling as he steps out, embodying his acceptance of unraveling. Spatial choreography is clean (kneeling in soil, desk, evening exit). Minor: occupational neutron-star detail is decorative rather than tactically integrated; the greenhouse's decay does all the substantive work.
-
   * grade_story_wc_1.txt (grade=7.6)
     The canyon and frost constrain and charge the entire arc: frost patterns mirror her glass work and provide the discovery mechanism; the narrowing canyon walls guide her path. Sensory detail is purposeful and filtered through her artist's eye. The body and ledger function as micro-setting, shaping the final release. The frost returns in the closing image, reweighting her perception from maker to listener, and the environment actively participates in the closure beat.
 

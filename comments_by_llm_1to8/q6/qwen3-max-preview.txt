@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Qwen 3 Max Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.1)
-    Third-person limited with stable distance; Elira's perceptual signature (neutron-star models, fractal spirals, micro-vibrations) is distinct and scientist-specific. Diction is controlled and purpose-driven ("preprocesses reality," "temporal lens") without unmotivated register drift. No dialogue on the page; the final quoted exchange is brief and voice-consistent. Occasional filter verbs ("she believed," "she theorized," "she realized") are voice-motivated and do not dull immediacy. One register slip: "kindled humility" in narration reads slightly elevated for the moment, though it may be intentional tonal modulation at the turn.
-
   * grade_story_wc_1.txt (grade=6.2)
     POV is stable third-limited with a lyric-textural voice that leans toward elevated diction ("drifting resonance of memory and land entwined"). Perceptual signature is glass-artist-focused (molten medium, frost filigree), yet under peak revelation the voice remains uniform rather than modulating with urgency. The prose often tells interiority ("She wanted to discover purpose") instead of trusting image. No dialogue appears. Sentence rhythm is controlled but tends toward parallelism that becomes template-like in the middle third ("Not backward… but forward"; "Not to hide… but to heal").
 

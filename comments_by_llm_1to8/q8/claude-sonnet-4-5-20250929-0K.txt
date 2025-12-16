@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Claude Sonnet 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.4)
-    The neutron-star/butterfly synthesis is fresh and earns its parallels through specific detail rather than forcing metaphor. The transformation of a hobby-for-presence into a lesson about evidence-after-catastrophe feels inevitable in hindsight. However, the scientist-learning-from-nature frame is familiar, and the piece doesn't fully escape the "analytical person discovers emotional truth through loss" template. The execution elevates the premise through specificity (androconial scales, pulsar timing data), but the emotional arc follows a recognizable path. Risk-taking is moderate rather than bold.
-
   * grade_story_wc_1.txt (grade=6.5)
     The glass-artist protagonist and the gunpowder-smuggling plot offer a fresh synthesis, and the frost-reading method is a specific, earned detail. However, the emotional arc—artist confronts violent conspiracy, wins through moral suasion—follows a familiar template. Galloway's capitulation without visible struggle or cost undercuts the premise's boldness. The piece commits to its vision but retreats from full risk at the confrontation, choosing thematic summary over dramatized stakes.
 

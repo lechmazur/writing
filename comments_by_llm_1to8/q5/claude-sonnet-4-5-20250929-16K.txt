@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Claude Sonnet 4.5 Thinking 16K
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.3)
-    Theme—transformation need not be violent; endings contain beginnings—emerges organically from dust patterns, butterfly powder mixing with silt, and Mara's realization that neutron stars represent "something between" death and life. The final image (dust on palms, patient story on skin) answers the central question without stating a moral. Minor slip: "the beautiful mess of becoming" in the penultimate paragraph edges toward thematic echo, though it remains grounded in prior observation and does not fully sermonize.
-
   * grade_story_wc_1.txt (grade=8.4)
     Theme emerges through glass-as-metaphor (holding/releasing light, existing "between states") applied to survival without becoming thesis statement. The frost image—delicate networks revealing "invisible streams beneath the surface"—returns with reweighted meaning at closure, modeling both investigative method and thematic insight about accumulated rather than revealed meaning. "To discover purpose in the pauses" is voiced by the teacher but dramatized through Elena's ledger analysis (gaps, not data). The "loosening" moment resists tidy epiphany—she rejects providence narratives—and the final image ("everything that continues after the fire goes out") charges closure without moralizing. Minor slip: "steadily adaptive" appears twice as phrase, risking label-speak, though it's anchored in scarred hands and glass-shaping knowledge.
 

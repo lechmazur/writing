@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=GPT-5.1 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.4)
-    The storm-damaged greenhouse is handled tactilely across beats: bent door, cracked pots, leaking roof, cucumber vines, damp tide line on brick. Setting constrains her method (gaps in roof admit dust and light; she tapes plastic "not to seal them perfectly, but to narrow the variables"). The flood's residue—iodine smell, milk-brown river—charges the ending image: the place "remembers the water" and so will her model. Spatial choreography is clear; micro-setting (filter lattice, shattered panes) drives her experimental design.
-
   * grade_story_wc_1.txt (grade=8.4)
     The canyon functions as both stage and constraint: it "held the blast, bending the heat upward," directly affecting survival and shaping the protagonist's return. The ruined furnace, ledger strip, and frost patterns are handled tactically and charge the final image. Spatial choreography is coherent (foundation → narrow pass), and sensory detail is selective and filtered through the glass artist's POV ("stars trembled like glass waiting for the kiln"). The setting constrains the protagonist's choice to walk the ignored pass, meeting the 9+ gate test.
 

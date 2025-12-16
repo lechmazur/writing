@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Claude Opus 4.1 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.9)
-    Theme—decay as instruction, patience over drama—emerges organically from butterfly dust patterns and greenhouse transformation. The final notebook entry "Decay is not drama. It is instruction" states the thesis explicitly rather than letting the image resonate, dropping the score. The piece resists tidy morals elsewhere (colleagues' "theatrical mourning" vs. Elena's quiet documentation), and the contrast between neutron star density and butterfly-wing lightness offers a non-obvious thematic synthesis. One structural strength: the theme integrates with the core concept (gradual change) without feeling imposed.
-
   * grade_story_wc_1.txt (grade=8.1)
     Theme emerges organically from the uranium/frost opposition: beauty born from poison versus beauty from patience and time. The frost patterns teaching "transformation… from nothing but time, cold, and patience" is purposeful without becoming a thesis statement, and the final image (ice glow, canyon echo of ending/beginning) reweights prior material with resonance. Marina's arc—from chasing her father's glow to discovering safe luminescence—answers the thematic question non-literally. Subtext operates in her realization that his protectiveness was rooted in knowledge of the poison, and the staged death carries weight beyond plot convenience.
 

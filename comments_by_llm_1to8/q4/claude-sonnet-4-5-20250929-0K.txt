@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=Claude Sonnet 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.2)
-    Dominant stake signaled early: recovering what remains of the butterfly collection, which deepens to recovering meaning from loss. The tightening occurs when Helena realizes "the flood had done the stripping" she'd sought, forcing a shift from control to acceptance. Her agency is endurance with visible cost: she catalogs what's left, commits to repairs and a new cycle, accepting that "transformations happen whether you documented them or not." One meaningful pressure point—realizing the scales hold information even as dust—reweights her relationship to gradual change under the Accumulative lens.
-
   * grade_story_wc_1.txt (grade=6.2)
     The dominant stake—Vera's survival and uncovering the conspiracy—is signaled early. The tightening from observation (charred ledger strip) to discovery (gunpowder cache) to confrontation follows a coherent arc. However, the peak conflict deflates: Galloway's gun and his regret are introduced, then Vera delivers a thematic monologue, and the resolution is summarized. No visible trade-off or on-page cost at the confrontation; the "clemency" deal happens off-stage, undercutting escalation.
 

@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Gemini 2.5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    Aris's interiority is concrete and his motivation—stripping drama from chaos—is embodied in repeated actions (sitting, observing through the pane). The turn from scientific detachment to "profound sense of connection" is dramatized through the orchid-to-weed water transfer, earning the shift. Minor slip: the final epiphany ("The drama was not an overlay; it was the process itself") edges toward diagnostic label-speak, though the preceding image anchors it. The choice to pick up the shovel forecloses his observer stance with visible cost.
-
   * grade_story_wc_1.txt (grade=7.8)
     Kaelen's motivation to "discover purpose in the pauses" is consistently embodied through her choice to abandon glass-making for observation, then decisively return to the kiln with transformed intent. Internal contradiction appears when she both fears fire and uses it to seal her final piece, with the shift earned by the frost-cipher discovery. The ledger's violence→frost's serenity arc constrains her final choice to create rather than report, forecloses revenge with visible cost. Minor: the "steadily adaptive" trait is told more than dramatized in micro-choices under pressure.
 

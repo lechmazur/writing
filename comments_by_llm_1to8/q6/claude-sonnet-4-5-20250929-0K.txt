@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Claude Sonnet 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.3)
-    POV remains stable in close third, filtered through Helena's analytical lens: "overlapping shingles of chitin" and "decay curves she plotted for rotating stellar remnants" root perception in her profession. Psychic distance modulates purposefully—tightest during microscope work, pulling back for the walk home. One minor slip: "The comparison wasn't frivolous" feels like authorial reassurance rather than Helena's thought. Otherwise, perceptual signature is consistent, vocabulary matches her expertise without lecturing, and the rhythm slows appropriately during documentation, quickens at the ending's release.
-
   * grade_story_wc_1.txt (grade=7.3)
     Third-person limited POV is stable and anchored in Vera's perceptual signature: she reads frost as glass, sees "drifting resonance" in Galloway's face. Diction is controlled and voice-consistent, with elevated but apt phrasing ("tapestry of stars," "liquid fire to solid light"). Dialogue is sparse but purposeful, and Galloway's lines carry subtext. One mild register slip: "drifting resonance of regret" reads slightly ornamental for the moment's tension, but the prose remains clean and propulsive overall.
 

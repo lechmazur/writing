@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Grok 4.1 Fast Reasoning
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.4)
-    The storm-damaged greenhouse is vividly rendered with specific details (shattered glass, twisted metal, toppled orchid bench, flood residue on mirrors) that ground the setting. The environment enables Elena's discovery (butterflies on surviving fronds, mirrors for the spectrometer) and thus constrains her improvised research path, meeting the 9+ gate requirement of setting shaping choice. However, spatial choreography becomes vague during the spectrometer construction and data refinement sequences, and the "makeshift lab in town" at the end is a placeholder that dilutes the greenhouse's prior specificity. Sensory detail is mostly visual; the "scent of rot" and "humid air" appear early but do not modulate with Elena's emotional state or guide later choices.
-
   * grade_story_wc_1.txt (grade=6.4)
     The canyon setting and frost mechanics are vividly rendered and integrated into Elara's investigation. The luminous glass shards function as a micro-setting element that constrains tactics (blinding the smugglers). However, spatial choreography during the final confrontation is vague—"they fled or fell"—and the kiln's transformation into an "installation" lacks concrete detail that would charge the final image. Sensory hierarchy is present but the canyon itself does not evolve causally with prior events.
 

@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=GPT-OSS-120B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.8)
-    Mara's shift from chasing supernovas to studying butterfly dust in a ruined greenhouse is legible, and the final whisper to the vines offers mild embodiment. However, the interior voice leans heavily on abstract reflection ("lesson in humility," "kindled humility") rather than contradictory impulses acting simultaneously under pressure. The change feels thematically declared more than earned through on-page micro-choices that foreclose paths with visible cost.
-
   * grade_story_wc_1.txt (grade=5.8)
     Elya's core motivation is established (rebuilding through retracing patterns), but her agency reads as passive observation rather than choice-driven action. The "steadily adaptive" trait and emotional states are asserted through abstract labels ("trembling," "steady," "purpose") rather than embodied contradiction under pressure. Interior life remains generic and lacks the particularized perception or micro-choices that would elevate characterization; the final "smile" and discovery of purpose feel unearned by prior struggle.
 

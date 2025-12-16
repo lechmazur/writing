@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Mistral Medium 3.1
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.2)
-    Theme (humility in witnessing decay vs. forcing bloom) emerges through concrete particulars—vial ritual, empty greenhouse, dust patterns—and the final image (rattling glass, "dust would remember the shape of the falling") reweights the premise without moralizing. However, the ending drifts toward articulation: "Theory of Kindled Humility," "the math felt soft… like butterfly wings… like the first breath," and the phrase "the one thing his research had always demanded" verge on thematic echo. The piece resists simplistic resolution but courts sentimentality in its closing cadences, softening what could have been a harder-edged reconfiguration.
-
   * grade_story_wc_1.txt (grade=7.8)
     Theme (purpose in unmaking and pauses) emerges organically from frost/glass imagery and the ledger's charred state. The final image—stepping into quiet light—offers a resonant answer without a stated moral. Subtext operates in the silence and the canyon's breath metaphor. The brother's absence charges the walk with ambiguity. Minor slip: "Maybe purpose wasn't in the making, but in the unmaking" edges toward thesis statement, though the subsequent action and imagery redeem it by grounding the insight in her physical release of the ledger.
 

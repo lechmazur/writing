@@ -1,9 +1,6 @@
 # Comments for Question 2, LLM=GPT-5.1 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.2)
-    The piece follows an Accumulative/Textural lens: Lena assembles the device, explains her shift from catastrophe to gradual change, and the final image of "smudges creeping across paper" reweights her research stance with felt cost (lost simulations, rejected drama). Orientation anchors early (greenhouse, flood aftermath, neutron star researcher). The closure is Resonant Reconfiguration (Charged Poise): she commits to a methodology that "remembers" causes, foreclosing her former appetite for explosive events. Cost is conceptual and professional—choosing obscurity over spectacle—and legible in the final paragraph.
-
   * grade_story_wc_1.txt (grade=8.1)
     Drive lens: Accumulative/Textural with a situational inflection at closure. The piece accumulates pressure through sensory resonance, memory fragments, and the ledger's gradual revelation, culminating in a Charged Poise where the protagonist steps toward confrontation with visible cost (leaving the ruined furnace behind, accepting the hunt). The "ghost ink brightening" and arrows provide a tightening that narrows options. Orientation anchors arrive cleanly by ~100 words. One slip: the canyon's "breathing" and "echo" mechanisms are impressionistic and not fully causal, but the closure effect remains legible and the cost—stepping into danger with calm resolve—is undeniable.
 

@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Mistral Medium 3.1
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.7)
-    The synthesis of neutron-star researcher and post-flood greenhouse is specific and non-obvious; the dust-as-revelation mechanic offers a fresh angle on decay-as-creation. Elias's sabbatical choice feels earned in hindsight. However, the core emotional arc—academic renouncing performance for authentic witness—is a familiar template in literary fiction, and the piece does not transform it through risky structural choices or a non-obvious moral calculus. The "Theory of Kindled Humility" and closing lyricism lean toward gentleness rather than bold specificity. Solid synthesis, but the emotional territory and resolution trend toward the literary middle.
-
   * grade_story_wc_1.txt (grade=6.4)
     The synthesis of glass artist and smuggler's ledger is specific, and the frost-as-text conceit offers a fresh angle. However, the emotional arc (artist discovering purpose through loss and release) follows a familiar template. The brother reveal adds stakes but remains abstract since he never appears. The ledger drop and walk into light feel earned in hindsight but lack a bold risk or turn that redefines the premise. Specificity in craft detail (glass work, frost patterns) elevates the piece above generic execution, yet the resolution into quiet acceptance is well-trodden territory.
 

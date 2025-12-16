@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Gemini 2.5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.9)
-    The butterfly-dust-as-lens is a fresh synthesis that feels earned. The orchid-to-weed water transfer offers a non-obvious angle on decay and renewal. The piece transforms the "scientist learns to feel" template through specific, verifiable detail (polycarbonate, chitin scales, Cattleya). Risk-taking is modest but coherent; the ending resists easy sentiment. Proximity check: no echoes of famous lines.
-
   * grade_story_wc_1.txt (grade=7.9)
     The frost-as-cipher concept is specific and non-obvious, transforming the familiar artist-recovery arc through the ephemeral-map mechanic. Smuggler violence+glass artist+canyon frost feels like an earned synthesis, not a template. The final choice to seal rather than expose subverts expected justice-arc resolution. Risk: lyric pacing and reflection-heavy middle could stall, but the week-long search sequence maintains momentum. Minor derivation: artist-finding-purpose-after-trauma is a common frame, though the frost-ledger mechanism and renunciation-of-vengeance closure offer fresh inflection.
 

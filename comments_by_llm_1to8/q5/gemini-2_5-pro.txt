@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Gemini 2.5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.6)
-    Theme emerges through concrete particulars: the butterfly dust as filter, the orchid-to-weed water transfer, the wiped circle as "quiet prayer." The final image (reaching for the shovel) offers a resonant, non-literal answer to the central question—how to engage with messy reality—without moralizing. The piece avoids thematic echo; Aris's realization is embodied in the water-flow observation. The ending reweights prior material (dust as lens → dust as barrier) with undeniable pressure.
-
   * grade_story_wc_1.txt (grade=8.6)
     Theme—transformation of violence into creation, terror into wisdom—emerges through the fire/ice dialectic without direct statement. The final artwork (charcoal symbols blurred, frost patterns etched) offers a non-literal answer: beauty survives by holding both destruction and serenity, neither erasing the other. Subtext in "the canyon was no less quiet, but now its silence was a conversation" reweights the opening's "indifferent" stars into meaningful dialogue. No thematic echo or moralizing; the ledger-in-glass image does the conceptual work. Earned insight arises from the week of dawn observation, not platitude.
 

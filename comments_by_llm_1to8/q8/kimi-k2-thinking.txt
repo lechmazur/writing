@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=Kimi K2 Thinking
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.4)
-    The synthesis of astrophysics researcher and personal grief via decay patterns is specific and non-obvious. The greenhouse as laboratory for understanding non-instrumental observation offers a fresh angle. However, the emotional arc—scientist learns to value messiness over data purity—follows a recognizable template without full transformation through lived detail. The mother's accusation of "turning every silence into a supernova" is vivid, but Elena's epiphany arrives more through reflection than through a non-obvious choice or turn that grows inevitably from prior particulars.
-
   * grade_story_wc_1.txt (grade=5.7)
     The glass artist + charcoal smuggling premise and the frost-as-map twist offer modest freshness, but the inheritance-in-hidden-furnace and artist-as-beacon-of-truth arc follow familiar templates. The emotional progression—survival → discovery → resolve to expose crime through art—is linear and unambiguous, avoiding the messy calculus of whether to flee, destroy the ledger, or confront the smugglers directly. The vessel creation, while thematically apt, arrives as symbolic closure rather than a risky choice with visible tradeoff. Specificity in glass technique or charcoal-trade mechanics could elevate; as written, the core turns feel median rather than inevitable.
 

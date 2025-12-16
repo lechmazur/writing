@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=GLM-4.5
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.2)
-    Elena's transformation is presented almost entirely through assertion and reflection rather than contradictory impulses acting in scene. The piece tells us she has "shifted" and found "kindled humility" without dramatizing the internal conflict that would make such a shift credible. Micro-choices are absent; she observes and reflects without facing competing pressures that would reveal hierarchy of values. The final "smile" registers as summary of emotional state rather than embodied response to stakes.
-
   * grade_story_wc_1.txt (grade=4.2)
     Lena's interior life is told rather than dramatized through contradictory impulses in scene. The trait "steadily adaptive" appears as a label without on-page micro-choices that embody it under pressure. Her epiphany about the mineral smuggling arrives through exposition rather than through a choice that forecloses options with visible cost. Emotional states are asserted ("trembled slightly," "newfound strength") rather than embodied in action.
 

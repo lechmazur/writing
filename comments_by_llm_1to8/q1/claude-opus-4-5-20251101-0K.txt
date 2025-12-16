@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Claude Opus 4.5 (no reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    Mira's interior contradiction—scientist seeking "practical" closure while finding emotional resonance—operates convincingly throughout. The embodied grief ("weight of something far more immediate pressing against her chest") and micro-choices (pocketing the slide, walking away) earn the final stance. Minor slip: the therapist's directive "strip needless drama from grief" reads slightly therapeutic-label-speak, though it's framed as reported speech and the story contradicts it through dramatized discovery. Character-particular perception (dust motes watched "with the same attention she usually reserved for spectral analyses") consistently filters the setting.
-
   * grade_story_wc_1.txt (grade=6.8)
     Elena's interiority is concrete and her micro-choices (settling onto stone, studying the ledger, comparing frost patterns) reveal priorities under pressure. The transformation from "artist who worked only for approval" to someone "steadily adaptive" is declared rather than fully dramatized through contradictory impulses in scene. The poisoning backstory anchors motivation but the patron's death ("his own poison somehow found his cup") reads convenient rather than causally earned through Elena's action. Internal conflict exists but operates more through reflection than simultaneous competing drives.
 

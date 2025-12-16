@@ -1,9 +1,6 @@
 # Comments for Question 4, LLM=Llama 4 Maverick
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=3.1)
-    No dominant stake is dramatized on the page. Maria's desire "to strip away the needless drama" and understand gradual change is declared but never tested—no decision point, no opposition, no cost. The piece lacks escalation: she examines dust, reflects, and continues examining with no meaningful tightening or reversal. Agency is absent; Maria observes and ponders without any choice that narrows options or forecloses a path. The lack of a credible on-page pressure point or turn prevents higher scoring under any lens.
-
   * grade_story_wc_1.txt (grade=4.6)
     The dominant stake ("discover purpose") is signaled early but remains abstract and never faces a concrete on-page test. No tightening narrows options: the ledger strip reveals "a hidden message," she decides to retrace steps, frost "guides" her, and clarity "emerges"—all passive receivership without agency-driven reversal or visible cost. Coincidence (frost patterns echoing the code) complicates without pressure, and the resolution ("she had finally found her way") is declared rather than earned by a choice that forecloses a path.
 

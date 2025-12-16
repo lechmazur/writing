@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Gemini 3 Pro Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.9)
-    Theme emerges through the concrete progression from neutron stars to butterfly scales, both governed by entropy. The parallel is specific enough to avoid platitude: "Even a neutron star...eventually cooled and faded. The butterfly's wing held the same narrative, written in a lighter font." The closing image of the fingertip transfer offers a non-literal answer to whether stripping drama erases significance. Minor penalty: "The universe continued to spin...bound by the same gentle, relentless laws" leans slightly toward thematic summary in the final paragraph, though the image work surrounding it keeps resonance intact.
-
   * grade_story_wc_1.txt (grade=7.8)
     Theme—invisible heat as testimony, purpose in pauses, adaptive perception—emerges organically from the glass-artist lens and the frost revelation. The final image (walking beside frost-free lines, "glass hardening into its final, unbreakable form") offers a resonant, non-literal answer without stating a moral. Subtext operates through the drifting wind and temperature metaphors. The "scorched testament" concept integrates cleanly. Minor deduction: "deepest motivation was to discover purpose in the pauses" edges toward thematic echo, though the surrounding particulars mostly earn it.
 

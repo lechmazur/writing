@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Gemini 2.5 Pro
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.2)
-    The greenhouse setting constrains Aris's choices: the dust-coated pane becomes the lens through which he observes, and removing it (wiping clean) is the final decisive gesture. Sensory detail is selective and purposeful (silt smell, humidity weight, mildew creep). The polycarbonate pane and its dust are micro-setting elements that charge the final image. Spatial choreography is clean throughout.
-
   * grade_story_wc_1.txt (grade=8.1)
     The canyon micro-setting constrains choice: shaded sentinel rock and river reeds supply ephemeral frost landmarks that Kaelen must read at dawn, forcing her retracing path and timing. The cobalt shard on the windowsill charges the climactic recognition beat when ice-lace echoes the ledger glyphs. Setting details—petrified wood curtain, tributary canyon—are filtered through her artist's eye and directly enable plot progression. Spatial choreography (kiln→window→sentinel rock→tributary→cave→studio) tracks cleanly across the week-long search.
 

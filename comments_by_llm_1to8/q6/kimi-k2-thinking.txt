@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Kimi K2 Thinking
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.3)
-    POV is stable third-limited with a distinct perceptual signature: Elena filters the greenhouse through scientific lexicon ("spectral patterns," "pure signal of decay"). Distance control is consistent. The text message exchange at the climax carries subtext and advances her internal shift. Minor register slips occur when the narration adopts abstract phrasing not quite rooted in Elena's scientist voice—e.g., "the kindled humility of having witnessed" reads slightly elevated for the immediate moment. Psychic distance shifts are purposeful and support emotional beats.
-
   * grade_story_wc_1.txt (grade=5.9)
     POV remains stable third-limited on Kael. Perceptual signature is present but generic: "luminous," "drifting resonance," "quiet resolve" recur without character-specific idiom. The prose carries elevated diction throughout ("luminous echo of his own artistry," "quiet canvas for creation") that fits a lyric mode but does not modulate under pressure—early canyon reflection and final workshop resolve share identical register. No dialogue. Purposeful compression is attempted in the two-shard structure, but filter verbs and summary statements ("He understood," "Kael felt," "He knew") dull immediacy in peak beats.
 

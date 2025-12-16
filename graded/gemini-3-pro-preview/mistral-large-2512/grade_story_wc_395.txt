@@ -1,0 +1,19 @@
+grade_story_wc_395.txt
+<question>1</question><grade>4.4</grade><comment>Lena is a functional archetype (the disillusioned believer) rather than a specific individual. Her motivation is delivered via summary ("She had once been like Elias") rather than dramatized experience, and her interiority relies on stock physical reactions ("pulse pounded," "breath caught") instead of specific psychological nuance. The transition from corporate drone to rebel is instant, lacking the friction of genuine dilemma.</comment>
+<question>2</question><grade>4.0</grade><comment>The narrative relies heavily on summary to bypass the actual investigation ("The deeper she dug... Then, one night, she found it"), effectively skipping the causal chain of discovery. The climax hinges on a "villain/victim monologue" video dump that explains the plot rather than revealing it through active struggle. The causality is "and then" rather than "therefore."</comment>
+<question>3</question><grade>4.5</grade><comment>The setting consists of generic cyberpunk descriptors ("hummed with quiet static," "digital graveyard") without a distinct sensory signature. The interface—how Lena actually manipulates the data—is vague ("sifting," "scanning"), missing an opportunity to ground the "memory keeper" role in concrete tools or constraints.</comment>
+<question>4</question><grade>4.2</grade><comment>Stakes are declared ("erasing existence") but not felt as immediate pressure in the scene; the antagonist is an abstract system that does not push back on the page. The danger is theoretical ("She knew she should stop") rather than visceral (e.g., a supervisor watching, access logs flagging), making the final choice feel weightless.</comment>
+<question>5</question><grade>3.5</grade><comment>The theme is explicitly lectured to the reader via Elias’s video ("They’re rewriting history"), leaving no room for subtext or inference. The story states its thesis ("The archive... was a battleground") rather than allowing it to emerge organically from the action.</comment>
+<question>6</question><grade>4.8</grade><comment>The voice is a standard third-person thriller narration that frequently slips into "telling" ("Lena was brightly attentive," "Lena’s motivation wasn’t just professional"). It lacks a unique perceptual filter, relying on the narrator to explain the character's state rather than showing it through voice-specific observation.</comment>
+<question>7</question><grade>4.3</grade><comment>The prose is functional but marred by significant cliché ("silence swallowed him whole," "labyrinth of server logs," "ghosts"). The prompt insertion "Lena was brightly attentive" is awkward and unmotivated by the immediate context, reading as a compliance patch rather than natural description.</comment>
+<question>8</question><grade>3.2</grade><comment>The premise of an archivist discovering a conspiracy to erase people is a familiar trope, executed here with standard genre furniture (grainy video warnings, mysterious numbers). There is no fresh twist or specific lived detail to elevate the concept above a stock outline.</comment>
+<question>9 A</question><grade>7.5</grade>
+<question>9 B</question><grade>6.0</grade>
+<question>9 C</question><grade>7.0</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>2.5</grade>
+<question>9 F</question><grade>6.0</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>5.0</grade>
+<question>9 I</question><grade>6.0</grade>
+<question>9 J</question><grade>5.5</grade>

@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Grok 4.1 Fast Reasoning
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.8)
-    Theme is stated rather than earned: "No more theatrics; truth emerges in patience" and "reality preprocesses into peace through decay's gentle hand" are direct moralizing that replaces scene pressure. The dust-as-simplification motif is intriguing but remains illustrative—butterflies, leaves, mirrors all demonstrate the same thesis without complication or counter-reading. The final image recycles the prompt's concept ("preprocesses reality") in near-identical language rather than offering a non-literal resonance. Subtext is minimal; every metaphor (neutron stars as "cataclysm birthed…steady spin," greenhouse as Elena's journey) is explained rather than implied, and the climactic moment—publishing her findings—tells us reviewers "marveled" without dramatizing the stakes or cost of that recognition.
-
   * grade_story_wc_1.txt (grade=4.9)
     The theme of "purpose in pauses" is stated explicitly multiple times rather than emerging from concrete particulars. The final paragraph moralizes: "Purpose in pauses: not emptiness, but the space where light adapts and endures." The ledger-into-glass transformation is visually apt but the conceptual link to the canyon's "fragile equilibrium" and Elara's art remains abstract. The piece gestures toward complexity but resolves into a tidy arc where all elements harmonize without friction or genuine ambiguity.
 

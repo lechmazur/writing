@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=Baidu Ernie 4.5 300B A47B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.8)
-    Theme—gradual change as entropic language—emerges organically from Elara's spectrometry work and the fern/chrysalis observations. The final line "evolved her" and the botanist's tree-ring analogy attempt a non-literal answer, but the piece leans toward thesis articulation ("Gradual change is the universe's only constant") rather than letting the dust spiral image speak alone. No overt moralizing in the final paragraph, yet the resolution feels conceptually tidy rather than resonant with ambiguity.
-
   * grade_story_wc_1.txt (grade=6.7)
     The theme of "purpose in the pauses" emerges consistently through the frost patterns, the shard's phrase, and Lirael's realization about her art, avoiding overt moralizing. The ledger-frost-shard sequence builds resonance through particulars, and the final image of glass panels etched with frost patterns reweights prior material thematically. However, the ending articulates the theme too directly ("not to create objects but to mark time"), reducing subtext, and the promised teaching feels additive rather than a non-literal answer earned by prior pressure.
 

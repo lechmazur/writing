@@ -1,9 +1,6 @@
 # Comments for Question 8, LLM=GPT-OSS-120B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.2)
-    The premise—neutron-star researcher applies astrophysical patience to butterfly dust in a post-flood greenhouse—offers a fresh juxtaposition. However, the narrative arc (scientist finds humility through small-scale observation) follows a familiar template, and the hypothesis that dust "preprocesses reality" is more asserted than dramatized with non-obvious consequences. The specificity of the greenhouse microcosm and the dust catalyst provide texture, but the emotional resolution leans on familiar wisdom about gradual change.
-
   * grade_story_wc_1.txt (grade=5.4)
     Glass artist rebuilding after fire is a familiar template; the smuggler's ledger and frost patterns add decorative specificity but do not transform the recovery arc into something non-obvious. The story commits to its premise but the emotional and plot beats (loss → discovery → renewal) follow predictable contours. The transformation test fails: swap ledger for map, frost for ridges, glass for pottery, and the arc remains unchanged. No bold risk heightens stakes; the middle-ground path avoids difficult choices.
 

@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=GPT-5 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.7)
-    Theme (recovery as patient accumulation vs. dramatic rescue) emerges organically from greenhouse repair and pulsar research without statement. The butterfly-dust slide and the pulsar printout "hum the same patience," offering a resonant answer to the central question: how does one honor gradual change? The final image—dust resettling, world agreeing "to be read without being dramatized"—reweights prior material with conceptual cost (the surrender of heroic narrative). Subtext operates through juxtaposition (star/soil, explosion/decay) and the quiet refusal embedded in "not to mourn, but to strip." No moralizing; wisdom arises from concrete sweeping and slide-gazing.
-
   * grade_story_wc_1.txt (grade=7.6)
     Theme emerges organically from particulars: glass as metaphor for fragility and transformation, pauses as doorways, frost as truth-revealer. The core concept (scorched testament) integrates with the glass artist's annealing philosophy ("neither cold nor hot") without overt statement. The final image—letting frost translate the ledger, making the canyon testify—offers a resonant, non-literal answer to discovering purpose in pauses. The rival "would hear his laugh unspool from stone" provides dramatic irony without didacticism, and the ending avoids moralizing by staging revelation through the protagonist's craft rather than confrontation.
 

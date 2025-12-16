@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Mistral Medium 3.1
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=6.4)
-    Rhythm varies and sensory detail is vivid ("damp soil," "iridescent dust," "quiet pulse against his ribs"). Information density is generally high. However, paraphrase loops recur: the flood "stripped" drama / "washed that away"; "the dust didn't revive… it revealed" / "not growth. Recognition"; "collapse eventually… stars… he" sequence repeats the unraveling motif without added pressure. The final third stacks metaphoric fragments ("soft in his hands / like butterfly wings / like the first breath / like the beginning") that risk overwriting at the closure beat. Template cadence appears in "He understood now" / "He would call it" / "And for once" stems. Apply −0.6 for loops and −0.4 for closure-adjacent figurative density, totaling ~−1.0.
-
   * grade_story_wc_1.txt (grade=6.9)
     Prose is largely clear with varied syntax and purposeful compression. However, paraphrase loops appear: "the canyon held its breath" bookends without transformation; "purpose" and "pauses" recur in adjacent lines without added pressure. Template stems cluster in the final third ("She thought... She let... Then she walked..."). Figurative density is high throughout without consistent pattern-teaching, and some metaphors ("breath a ghost," "numbers glowed faintly") veer toward stock imagery. No major causality breaks, but momentum sags slightly under decorative layering in the middle and closing sections.
 

@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Llama 4 Maverick
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=4.9)
-    Paraphrase loops and synonym churn pervade: "gradual change" recurs across seven paragraphs without added meaning; "intricate patterns/web/beauty/dance" cycle redundantly. Template cadence appears in multiple paragraphs starting with "Maria's thoughts/research/work." Lines often restate rather than advance: "decay was not just a destructive force, but also a creative one" immediately followed by "shaping the contours of reality through the accumulated dust patterns." Stock metaphors ("intricate dance between chaos and order") and therapy-speak ("kindled humility") dull the final third. Information density is low; many sentences do only one job (describe theme) without propelling story or character.
-
   * grade_story_wc_1.txt (grade=4.9)
     Paraphrase loops and synonym churn pervade: "sense of disorientation" / "scorched testament" / "fragility and beauty" recur without added pressure; "stillness" and "pauses" are restated across multiple beats. Template cadence runs: "She felt…she felt…she knew…she felt" stacks across the final third. Stock metaphors ("world seemed to hold its breath," "crucible") and therapy-speak labels ("discover purpose in the pauses") dull peak beats. The Text-Artifact Screen triggers −0.8 for loops touching the closure paragraph, and register drift into abstract diction (e.g., "drifting resonance of her surroundings") adds −0.4.
 

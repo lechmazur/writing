@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=GPT-OSS-120B
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.1)
-    The storm-damaged greenhouse is vividly rendered with cracked glass, fractured beams, and evolving humidity gradients that shape Mara's observations. The dust vial is placed deliberately in sunlight, and the widening cracks provide fresh air—concrete environmental details that constrain choices. The setting functions as a microcosm that charges the final image of Mara stepping back, feeling "the tiny pulse of change beneath her boots."
-
   * grade_story_wc_1.txt (grade=6.7)
     Canyon, kiln, frost patterns, and charcoal mine are vividly rendered with sensory specificity ("glassy hush," "basalt floor," "black snow"). The frost patterns constrain Elya's path and the luminous shards charge the final image, satisfying the micro-setting test. However, the setting often serves as backdrop rather than active pressure; the canyon's "walls rose like glass towers" and similar descriptors lean decorative rather than choice-shaping in peak moments.
 

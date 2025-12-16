@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Gemini 3 Pro Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.1)
-    The storm-damaged greenhouse is anchored early with concrete details (shattered glass, collapsed beams, humid air, wet rot) and evolves through Elias's observation. The setting supplies the butterfly specimen, glass shard, wet leaf, and condensation—all of which constrain his focus and actions. Sensory selection reflects his scientific priorities (visual filters, macro lenses, stress fractures) and shifts as emotional distance collapses. The final image of fogged breath in damp air charges the closure beat. Spatial choreography is clean throughout; the environment is tactile and purpose-driven.
-
   * grade_story_wc_1.txt (grade=7.6)
     Setting constrains choice: the hard stone hides tracks, forcing Elara to wait for thermal revelation; the canyon's acoustic properties and temperature gradient are plot-active. Sensory detail is vivid and filtered through her glass-artist lens (molten silica, viscosity, ambient thermal layers). The frost patterns and residual wheel-heat function as micro-setting that charges the final image. Spatial choreography is clean throughout the single-scene window. The canyon does more than frame—it supplies the method of discovery.
 

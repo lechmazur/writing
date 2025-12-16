@@ -1,9 +1,6 @@
 # Comments for Question 6, LLM=Llama 4 Maverick
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.3)
-    Voice is consistent but generic, lacking a distinct perceptual signature—Maria's way of noticing reads like philosophical essay rather than character-particular thought. Diction drifts into academic register ("intricate patterns that governed the universe," "contours of reality") without grounding in immediate perception. Free indirect style is clean, but the narrator's texture is not specific to Maria as a neutron star researcher; her professional lens never shapes what she notices. Psychic distance is stable but the prose never modulates with pressure because no pressure exists.
-
   * grade_story_wc_1.txt (grade=5.4)
     Narrative stance is consistent and the piece maintains stable third-person limited focalization with no head-hopping. However, perceptual signature is generic—the artist notices in catalog fashion (canyon, frost, stars) without character-specific bias. Diction drifts into elevated register ("drifting resonance," "crucible," "ethereal light") that clashes with concrete scene action, especially during purported moments of discovery. Filter verbs and expository interiority ("she felt," "she knew") dull immediacy throughout, and the voice reads as committee consensus rather than a singular perspective.
 

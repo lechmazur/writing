@@ -1,9 +1,6 @@
 # Comments for Question 7, LLM=Cohere Command A
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=5.9)
-    Prose is grammatically clean and free of major loops, but multiple sentences rely on template stems: "It was as if the dust…" appears twice in close proximity, and "The dust wasn't just…" / "it was…" structures recur. Figurative language clusters without escalation: "quiet architect," "bridge between the microscopic and the macroscopic," "canvas for creation" stack in the fourth paragraph without advancing pressure. The final beat—"And in that moment, she understood"—is a tell-heavy epiphany that summarizes rather than dramatizes. Information density is moderate; some beats (e.g., the entire third paragraph on her motivation) paraphrase the premise without new pressure.
-
   * grade_story_wc_1.txt (grade=6.3)
     Prose is generally clear with varied sentence rhythm. Several paraphrase loops appear: "patterns...patterns," "purpose...purpose," "drifting resonance...drifting resonance" recur without reweighting. Template cadence in the final paragraph: "her art...her resilience...her sense" stacks parallel stems. Stock phrasing weakens peak beats: "renewed determination," "mind racing with plans," "her breath visible in the crisp air." Information density is moderate; some scaffolding ("Now, with her workshop...") front-loads context that could be woven into action. No outright causality breaks, but figurative language ("seemed to whisper," "seemed to mirror") hedges vividness.
 

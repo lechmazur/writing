@@ -1,9 +1,6 @@
 # Comments for Question 3, LLM=Qwen 3 Max Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.8)
-    The storm-damaged greenhouse is established early and functions as both setting and laboratory—broken panes, leaning beams, patched skylight all constrain Elira's movements and shape her interferometer setup. Micro-setting details (dew on dust-coated leaves, wind eddies, humidity gradients) drive observations and reweight the space from "damaged" to "evolving." The dust slide anchored on the east wall charges the final image with morning light. Sensory hierarchy reflects her scientist's attention (ozone, rot, pressure shifts) without catalog excess.
-
   * grade_story_wc_1.txt (grade=7.2)
     Canyon setting and frost patterns constrain the artist's medium and daily rhythm, anchoring the micro-setting effectively. Spatial choreography is clean (kiln, canyon floor, rocks), and the frost's crystalline filigree is filtered through the protagonist's craft-focused attention. The final image of glass sculptures "nestled among canyon stones" charges the ending by merging setting with purpose. Sensory selection leans heavily visual; other senses are underused in peak beats.
 

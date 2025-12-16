@@ -1,9 +1,6 @@
 # Comments for Question 1, LLM=Gemini 3 Pro Preview
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=7.2)
-    Elias's scientific detachment is embodied through his neural implant preprocessing and macro focus, creating a coherent lens that intensifies under pressure. The "spark of kindled humility" pivot feels somewhat told rather than fully dramatized through contradictory impulses acting simultaneously, though the fingertip touch at the end supplies a concrete micro-choice. Interiority is mostly specific ("watched the dust settle on a wet leaf, forming a topography of loss"), but the epiphany leans slightly toward summary. The transformation from cold objectivity to "quiet grace" is credible but could be more viscerally embodied in peak moments.
-
   * grade_story_wc_1.txt (grade=6.8)
     Elara's interiority is concrete and character-specific (glass artist perceiving through temperature and form), with micro-choices that reveal her adaptation from aesthetic to survival mode. The internal contradiction between fear and the need to understand is embodied through her trembling hands and her waiting for the right viscosity moment. However, key emotional shifts rely on slightly elevated diction ("hyper-aware survival mechanism," "deepest motivation") that edges toward telling rather than pure embodiment. The final resolve feels earned but the journey leans on reflective summary in places where a sharper micro-choice might have charged the closure beat more.
 

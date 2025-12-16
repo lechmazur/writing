@@ -1,9 +1,6 @@
 # Comments for Question 5, LLM=GPT-5.1 (medium reasoning)
 
 == Grader: Claude Sonnet 4.5 (no reasoning) ==
-  * grade_story_wc_0.txt (grade=8.6)
-    Theme (attention to slow causes vs. catastrophic events) emerges through particulars: gutters ignored, drainage postponed, neutron stars that "cool and crack and whisper." The device becomes a concrete answer to the thematic question without stating a moral. Lena's line "I want a model that remembers too" and the closing image of "smudges creeping across paper" offer a resonant, non-literal response. No final-paragraph moralizing; the river's indifference and her tape-checking pace embody the theme. Subtext operates in her joke about "preprocesses reality" and Amir's gentle test of her ideas.
-
   * grade_story_wc_1.txt (grade=8.6)
     Theme emerges organically from the glass artist's craft vocabulary and recovery arc: patience, heat, transformation, breakage, and annealing. The ledger as "scorched testament" and the canyon as kiln recur with shifting weight, culminating in the line "its dark mouth closing on the old story like glass returning to sand," which reweights prior material without stating a moral. The piece resists tidy resolution—survival is "a failed intention, postponed"—and the final image of walking toward the antagonist offers a resonant, non-literal answer to the question of purpose after trauma. No thematic echo or overt moralizing; the synthesis feels earned.
 
