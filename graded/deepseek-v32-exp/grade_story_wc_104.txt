@@ -1,0 +1,19 @@
+grade_story_wc_104.txt
+<question>1</question><grade>3.5</grade><comment>Characterization relies entirely on prompt labels ("chained liberator," "patiently strategic") rather than dramatized traits or choices. Elara lacks interiority, and her "struggle" against the guard is resolved without effort or doubt. There is no psychological depth or internal conflict to ground her actions.</comment>
+<question>2</question><grade>2.8</grade><comment>Causality is fundamentally broken; waiting for a distant wall to collapse before searching a local piano bench lacks logical linkage. The closure relies on unearned magic (immediate seed growth) that contradicts the established gritty tone, offering a "happy ending" with no visible cost.</comment>
+<question>3</question><grade>3.8</grade><comment>The setting consists of generic carnival tropes (faded banners, Ferris wheel) without specific sensory detail to create a distinct atmosphere. The "prize redemption center" is merely a named location that does not constrain the character's movement or tactics.</comment>
+<question>4</question><grade>3.0</grade><comment>Conflict is negligible; the sole antagonist is dispatched instantly with a single move, and the environmental obstacles resolve themselves (the wall falling). The stakes of "resilience" remain abstract because the protagonist pays no price for her victory.</comment>
+<question>5</question><grade>2.8</grade><comment>The theme is delivered through heavy-handed assertion ("sower of hope," "imbuing the earth with resilience") rather than subtext. The narrative explicitly states its moral multiple times, leaving no room for resonance or reader interpretation.</comment>
+<question>6</question><grade>3.5</grade><comment>The voice is melodramatic and lacks a distinct POV filter, reading more like a summary of a legend than an immediate experience. Emotional states are labeled ("tension," "unwavering hope") rather than evoked through voice or perception.</comment>
+<question>7</question><grade>2.5</grade><comment>Severe repetition artifacts degrade the prose; the phrase "staggering grace" is pasted in four times, and "impede" appears three times in clumsy constructions. The writing feels like a checklist of prompt words glued together without rhythmic variation or lexical care.</comment>
+<question>8</question><grade>2.5</grade><comment>The story relies on standard dystopian clichés and "video game logic" (finding an arrow that decodes a piano bench). There is no fresh synthesis or subversion of tropes; the execution follows a predictable, low-risk path.</comment>
+<question>9 A</question><grade>5.2</grade>
+<question>9 B</question><grade>5.5</grade>
+<question>9 C</question><grade>6.0</grade>
+<question>9 D</question><grade>2.2</grade>
+<question>9 E</question><grade>2.5</grade>
+<question>9 F</question><grade>5.8</grade>
+<question>9 G</question><grade>4.2</grade>
+<question>9 H</question><grade>4.5</grade>
+<question>9 I</question><grade>5.5</grade>
+<question>9 J</question><grade>1.5</grade>

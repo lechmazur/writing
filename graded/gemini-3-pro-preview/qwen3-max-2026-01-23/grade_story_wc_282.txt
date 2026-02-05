@@ -1,0 +1,19 @@
+grade_story_wc_282.txt
+<question>1</question><grade>5.4</grade><comment>Elara functions primarily as a vehicle for the concept rather than a conflicted agent; her motivation is stated ("burned with quiet intensity") rather than dramatized through difficult choices. She faces no internal contradictions or significant resistance, making her competence feel inevitable rather than earned. The emotional arc is linear and lacks the texture of genuine struggle.</comment>
+<question>2</question><grade>6.3</grade><comment>The narrative follows a clear linear structure, but the causality relies heavily on the "factually mystical" premise, which bypasses logical pressure. The closure—completing the map and hiding the fossil—is a Resonant Reconfiguration, but the lack of prior obstacles makes the resolution feel like a procedural completion rather than a hard-won victory.</comment>
+<question>3</question><grade>7.8</grade><comment>The setting is the story's strongest asset, with specific, grounded details like "treated kelp-paper," "whalebone brush," and the "damp contour" of the caves. The environment effectively constrains the protagonist’s method and mood, though the "bioluminescent algae" is a somewhat standard trope.</comment>
+<question>4</question><grade>4.6</grade><comment>Conflict is virtually absent; there is no antagonist, time pressure, or internal doubt to force a tightening of options. The climax (the floating leaf) occurs smoothly upon "focusing her intent," lacking a moment where the outcome is in doubt or a price must be paid to succeed.</comment>
+<question>5</question><grade>5.3</grade><comment>The theme is delivered through explicit exposition ("This fossil was the ultimate transitional object," "lesson in graceful passage") rather than emerging from the action. The narrative tells the reader exactly how to interpret the symbols, reducing potential resonance to didactic summary.</comment>
+<question>6</question><grade>6.8</grade><comment>The voice is consistent, reverent, and atmospheric, suiting the meditative pace. However, it occasionally slips into overwrought sentimentality ("voice of the unknown," "impossible grace") that distances the reader from the immediate sensory experience.</comment>
+<question>7</question><grade>5.9</grade><comment>The prose is generally competent but marred by a significant dangling modifier at the climax ("Focusing her heat-mapping intent..., the fossil began to float") and clichés like "tears traced clean paths." The phrasing "factually mystical" reads as awkward and forced, likely due to prompt adherence.</comment>
+<question>8</question><grade>6.5</grade><comment>The central concept of "heat-mapping emotions" is inventive and fresh, offering a unique lens on the post-apocalyptic genre. However, the execution relies on safe, low-stakes vignettes and "magical" validation rather than pushing the concept into riskier narrative territory.</comment>
+<question>9 A</question><grade>9.0</grade>
+<question>9 B</question><grade>9.5</grade>
+<question>9 C</question><grade>4.5</grade>
+<question>9 D</question><grade>3.0</grade>
+<question>9 E</question><grade>9.0</grade>
+<question>9 F</question><grade>8.8</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>8.0</grade>
+<question>9 I</question><grade>7.5</grade>
+<question>9 J</question><grade>N/A</grade>

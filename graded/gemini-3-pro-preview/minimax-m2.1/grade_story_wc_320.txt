@@ -1,0 +1,19 @@
+grade_story_wc_320.txt
+<question>1</question><grade>5.5</grade><comment>Mara is a functional protagonist but lacks specific interiority; her emotions are labeled ("She wept") rather than embodied or earned by the immediate scene. Her epiphany feels abstract and unconnected to a defined internal struggle or flaw established early on.</comment>
+<question>2</question><grade>6.1</grade><comment>The narrative arc is coherent, moving from setup to resolution, but the causality is soft; the protagonist succeeds instantly upon "tuning" without resistance or trial-and-error. Closure is achieved through a Conceptual Repricing, but the lack of friction makes the ending feel inevitable rather than earned.</comment>
+<question>3</question><grade>6.5</grade><comment>The setting of the radio tower city is evocative and anchors the scene well, particularly the "swaying" hut. However, some elements rely on standard post-apocalyptic tropes, and the "hollywood star fragment" (uncapitalized in text) feels like an inserted prompt object rather than a natural part of the world.</comment>
+<question>4</question><grade>5.0</grade><comment>Conflict is minimal; the external signal offers no active resistance, and the internal obstacle is resolved by a sudden "flash of intuition." The stakes remain abstract because failure carries no visible cost or deadline pressure beyond the mention of perigee.</comment>
+<question>5</question><grade>4.8</grade><comment>The theme is explicitly summarized in the final paragraph ("In every ending... there was a beginning"), violating the show-don't-tell principle for resonance. This moralizing reduces the subtext to a surface-level statement.</comment>
+<question>6</question><grade>5.8</grade><comment>The narrative voice is generally consistent but marred by uncapitalized proper nouns ("hollywood") and occasionally purple phrasing ("crystalline connection"). The tone wavers between gritty sci-fi and abstract lyricism without fully integrating them.</comment>
+<question>7</question><grade>4.2</grade><comment>Two significant mechanical errors ("creaked and settle" instead of settled; "a understanding" instead of an) undermine the polish. The phrase "serenely electric" is used twice in a short space, creating a repetitive artifact that feels forced.</comment>
+<question>8</question><grade>5.3</grade><comment>The premise of a signal interpreter in a ruined world is a familiar trope, executed here with competence but little innovation. The execution follows a standard path to a safe, affirmative epiphany without subverting genre expectations.</comment>
+<question>9 A</question><grade>9.2</grade>
+<question>9 B</question><grade>8.5</grade>
+<question>9 C</question><grade>7.8</grade>
+<question>9 D</question><grade>3.5</grade>
+<question>9 E</question><grade>8.2</grade>
+<question>9 F</question><grade>6.8</grade>
+<question>9 G</question><grade>7.5</grade>
+<question>9 H</question><grade>6.5</grade>
+<question>9 I</question><grade>6.0</grade>
+<question>9 J</question><grade>3.8</grade>

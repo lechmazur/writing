@@ -1,0 +1,19 @@
+grade_story_wc_294.txt
+<question>1</question><grade>7.2</grade><comment>Character motivations are clear and the backstory (robber's son) effectively shapes Marcus's worldview and tactics. However, the dialogue feels slightly performative rather than natural, and Elena's rapid pivot minimizes the sense of internal struggle or deep resistance.</comment>
+<question>2</question><grade>7.8</grade><comment>The scene is structurally sound with a clear inciting incident (the offer) and a decisive closure (the choice to dissolve/restart). The drive lens (Causal/Persuasion) holds, though the turn relies heavily on a single metaphorical speech rather than escalating pressure.</comment>
+<question>3</question><grade>8.2</grade><comment>The setting is excellent; the circus train is not just a backdrop but an active tool in the argument ("iron skin," "ecosystem"). The specific details of the cars meaningfully ground the abstract business discussion.</comment>
+<question>4</question><grade>6.5</grade><comment>While the stakes (erasure vs. restart) are clear, the interpersonal conflict lacks heat; Elena yields to Marcus's metaphor with very little friction. The persuasion feels linear and lacks a moment where Marcus's goal is genuinely imperiled.</comment>
+<question>5</question><grade>7.0</grade><comment>The themes of territory and circular paths cohere well, but the delivery is heavy-handed ("My father used to say..."). The connection between highway robbery and venture capital is a strong concept that is stated more than dramatized.</comment>
+<question>6</question><grade>6.8</grade><comment>The narrative voice is consistent and polished, fitting the "polished calm" concept. However, the repetition of specific phrases ("dusky harmony" appearing three times) breaks the immersion and makes the voice feel algorithmic rather than organic.</comment>
+<question>7</question><grade>5.5</grade><comment>Significant text artifacts harm the score: the phrase "dusky harmony" is pasted in three times (voice, light, voice), and "perceptively calm" is used twice as a label. These repetitions read as forced keyword insertions rather than integrated prose, triggering the loop/artifact penalty.</comment>
+<question>8</question><grade>7.0</grade><comment>The synthesis of a startup exit negotiation with an abandoned circus train and a highway robber's legacy is fresh and specific. The execution is competent but held back by the formulaic insertion of prompt elements.</comment>
+<question>9 A</question><grade>7.5</grade>
+<question>9 B</question><grade>8.0</grade>
+<question>9 C</question><grade>6.0</grade>
+<question>9 D</question><grade>2.5</grade>
+<question>9 E</question><grade>8.5</grade>
+<question>9 F</question><grade>8.2</grade>
+<question>9 G</question><grade>8.5</grade>
+<question>9 H</question><grade>5.5</grade>
+<question>9 I</question><grade>7.0</grade>
+<question>9 J</question><grade>2.2</grade>

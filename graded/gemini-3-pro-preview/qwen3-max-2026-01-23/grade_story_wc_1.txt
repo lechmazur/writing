@@ -1,0 +1,19 @@
+grade_story_wc_1.txt
+<question>1</question><grade>4.5</grade><comment>Characterization relies heavily on diagnostic label-speak ("embodied her core attribute," "narrative of human consequence") rather than demonstrated action. The protagonist's resilience is asserted through adjectives rather than earned through a difficult, high-stakes choice in the moment. The internal state feels curated and abstract, lacking raw, embodied emotion.</comment>
+<question>2</question><grade>5.2</grade><comment>The narrative structure is static, consisting almost entirely of reflection triggered by looking at frost. While there is a conceptual shift (evidence to art), the causal link between the frost patterns and the ledger codes feels convenient and unearned. The closure relies on a future intention rather than an immediate, costly action on the page.</comment>
+<question>3</question><grade>5.1</grade><comment>The setting is described with heavy-handed personification ("stars that held their breath," "frozen scripture") that draws attention to the prose rather than the place. While the canyon provides a backdrop for reflection, it lacks tactile grit or environmental pressure that forces the character's hand.</comment>
+<question>4</question><grade>4.2</grade><comment>The immediate, life-threatening stakes (arsonists, pursuers) are dissolved by the narrative's "profound hush," lowering the tension to zero. The conflict shifts to a purely aesthetic decision, ignoring the visceral danger established in the backstory. The resolution feels safe and detached from the physical threat.</comment>
+<question>5</question><grade>3.8</grade><comment>The story explicitly lectures the reader on its theme in the final paragraph ("Purpose was not in the grand gesture..."). This creates a sermonizing effect where meaning is stated directly rather than emerging organically from subtext or action. The "narrative of human consequence" line is particularly expository.</comment>
+<question>6</question><grade>4.8</grade><comment>The voice is consistent but overly elevated and artificial, prioritizing poetic cadence over narrative immediacy. The filter is thick with authorial interpretation, creating distance between the reader and the character's sensory experience.</comment>
+<question>7</question><grade>3.9</grade><comment>The prose suffers from significant overwriting and "purple" descriptors ("visceral echo," "annealed spirit," "delicate cartography"). Adjective-noun pairings are relentless and often abstract, stalling momentum. The literal insertion of prompt phrases (e.g., "steadily adaptive resilience") results in clunky, unnatural sentences.</comment>
+<question>8</question><grade>4.5</grade><comment>While the specific combination of glass art and smuggling is promising, the execution falls into the familiar trope of an artist finding epiphany in nature after trauma. The resolution—transforming pain into art—is a standard move, handled here without a fresh or subversive angle.</comment>
+<question>9 A</question><grade>8.0</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>5.5</grade>
+<question>9 D</question><grade>2.0</grade>
+<question>9 E</question><grade>3.5</grade>
+<question>9 F</question><grade>7.0</grade>
+<question>9 G</question><grade>6.5</grade>
+<question>9 H</question><grade>7.0</grade>
+<question>9 I</question><grade>3.0</grade>
+<question>9 J</question><grade>4.0</grade>

@@ -1,0 +1,19 @@
+grade_story_wc_64.txt
+<question>1</question><grade>3.8</grade><comment>The protagonist is a passive observer defined by labels ("blithe spirit") rather than embodied action. His motivation is attributed to a sudden realization of destiny ("realized this was what he had been called to do") rather than character-driven desire or prior struggle. He faces no difficult choices, functioning merely as a vessel to decode the backstory.</comment>
+<question>2</question><grade>2.0</grade><comment>The narrative suffers a catastrophic structural failure with the inclusion of a meta-comment ("But the story must end... let me revise") and a verbatim restart of the ending. This breaks the causal chain and destroys the fictional frame, rendering the piece unpublishable. The plot is a linear progression of discovery without complication or earned resolution.</comment>
+<question>3</question><grade>4.8</grade><comment>Descriptions are atmospheric but occasionally redundant, such as the "velveteen gloom" containing shadows with the "texture of deep velvet." The setting, while visually distinct, does not constrain the character or force tactical changes; the gardener simply enters and interacts with the props without environmental pressure.</comment>
+<question>4</question><grade>2.6</grade><comment>The story lacks conflict, opposition, or stakes; the gardener descends and decodes a message with immediate success and no cost. There is no pressure, time constraint, or risk of failure to drive the narrative momentum. The resolution is a foregone conclusion from the moment of discovery.</comment>
+<question>5</question><grade>3.5</grade><comment>The theme is delivered through explicit summation ("intentions: not grand or political, but human and humble") rather than emerging organically from the action. The ending relies on moralizing to explain the significance of the tapestry, creating a lecture-like effect instead of resonant subtext.</comment>
+<question>6</question><grade>2.8</grade><comment>The narrative voice is shattered by the intrusion of the drafting note, which exposes the artificiality of the text. Prior to the break, the voice is consistent but distant; however, the failure to maintain the fourth wall makes the point of view incoherent.</comment>
+<question>7</question><grade>1.9</grade><comment>The text contains a fatal draft artifact ("But the story must end... let me revise") and a verbatim repetition of the final paragraph. These are disqualifying flaws for professional publication. Additionally, the prose relies on repetitive phrasing ("velveteen/velvet") that should have been edited out.</comment>
+<question>8</question><grade>3.0</grade><comment>The premise of a hidden chamber in a cemetery is a standard fantasy trope that is not elevated by specific, fresh details or a unique voice. The execution is marred by the structural breakdown, preventing any potential originality from landing.</comment>
+<question>9 A</question><grade>3.2</grade>
+<question>9 B</question><grade>5.5</grade>
+<question>9 C</question><grade>2.0</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>4.0</grade>
+<question>9 F</question><grade>6.2</grade>
+<question>9 G</question><grade>5.0</grade>
+<question>9 H</question><grade>0.2</grade>
+<question>9 I</question><grade>3.5</grade>
+<question>9 J</question><grade>2.5</grade>

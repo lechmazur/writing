@@ -1,0 +1,19 @@
+grade_story_wc_150.txt
+<question>1</question><grade>4.5</grade><comment>Characterization relies heavily on diagnostic labels ("warmly curious nature") rather than embodied traits or distinct voice. The protagonist functions primarily as a thematic vehicle, with emotions summarized ("heart shift with cautious enchantment") rather than demonstrated through complex reactions under pressure. The repetition of the attribute "warmly curious" feels artificial, reducing the character to a prompt-fulfillment mechanism.</comment>
+<question>2</question><grade>6.7</grade><comment>The narrative follows a clear accumulative arc with a legible Resonant Reconfiguration at closure, where the sundial connects the living and dead. However, the progression lacks causal friction; the protagonist finds exactly what she needs through "wandering" without meaningful setback, making the resolution feel convenient and inevitable rather than earned by specific tactics.</comment>
+<question>3</question><grade>7.5</grade><comment>The "catacomb orchard" is a vivid, gothic concept that anchors the story effectively, providing a strong visual texture of roots interlaced with bone. Specific details like the "skeletal architecture" and the sundial's "carved hours" ground the surreal setting, though the atmosphere occasionally drifts into heavy-handed solemnity.</comment>
+<question>4</question><grade>5.2</grade><comment>Stakes remain conceptual ("restore lost faith") and lack active opposition or immediate cost on the page. The excavation proceeds smoothly without forcing the protagonist to make difficult trade-offs, confront physical failure, or pay a price for her discovery, resulting in low narrative tension despite the heavy themes.</comment>
+<question>5</question><grade>5.8</grade><comment>The theme of "interrupted journeys" is coherent but delivered through explicit exposition ("Elara understood now... her ancestors had buried these") rather than subtext. The narrative often explains the symbolism of objects immediately upon discovery, treating the theme as a lecture rather than an emergent property of the action.</comment>
+<question>6</question><grade>5.4</grade><comment>The narrative voice is consistent but marred by the awkward integration of mandatory phrases ("hands moved warmly curious") that breaks grammatical flow and distinctness. These insertions read as artificial prompt-adherence rather than organic description, disrupting the psychic distance and immersion.</comment>
+<question>7</question><grade>5.0</grade><comment>Prose is dense and descriptive but suffers from clumsy phrasing ("across excavating a tomb," "hands moved warmly curious") and adjective stacking. The repetition of specific phrases to meet prompt requirements creates visible text artifacts that hinder readability and flow.</comment>
+<question>8</question><grade>6.3</grade><comment>The central conceit of a sundial measuring "diaspora time" rooted in ancestral bones is imaginative and poetic. While the execution relies on standard literary tropes of memory and return without significant risk-taking, the specific synthesis of the orchard and the timekeeper offers a fresh image.</comment>
+<question>9 A</question><grade>7.5</grade>
+<question>9 B</question><grade>8.8</grade>
+<question>9 C</question><grade>6.5</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>8.0</grade>
+<question>9 F</question><grade>4.0</grade>
+<question>9 G</question><grade>8.2</grade>
+<question>9 H</question><grade>5.5</grade>
+<question>9 I</question><grade>6.5</grade>
+<question>9 J</question><grade>2.5</grade>

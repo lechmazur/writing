@@ -1,0 +1,19 @@
+grade_story_wc_300.txt
+<question>1</question><grade>3.9</grade><comment>Kaelen acts as a passive vessel for the prompt's emotional demands rather than a grounded character. His transformation from sterile inspector to weeping visionary is instantaneous and unearned, relying on magical absorption ("felt he was acquiring") rather than psychological pressure or resistance. The lack of internal conflict renders his final decision effortless and melodramatic.</comment>
+<question>2</question><grade>3.7</grade><comment>The narrative follows a linear, low-stakes progression with no causal crunch; events happen sequentially without forcing the protagonist into a corner. The resolution relies on a magical deus ex machina (the light) to solve the internal problem, resulting in a soft reset where the character changes his life path without paying any visible or felt cost.</comment>
+<question>3</question><grade>4.4</grade><comment>The setting is functional but relies on generic tropes ("living rock," "natural throne") that facilitate the plot rather than constraining it. While sensory details like the "chime of distant water" are present, the environment feels like a standard fantasy backdrop that does not exert specific pressure on the character's choices.</comment>
+<question>4</question><grade>3.3</grade><comment>There is a near-total absence of conflict or meaningful escalation; Kaelen faces no external opposition and no difficult internal trade-offs. The pivotal choice to crown the pearl is made without hesitation or risk, leading to a resolution that feels inevitable and unearned rather than the result of a high-stakes struggle.</comment>
+<question>5</question><grade>3.5</grade><comment>The theme is delivered through heavy-handed explication and explicit moralizing ("survival was meaningless without them") rather than emerging organically from action. The story relies on sermonizing statements to convey its message, violating the "show, don't tell" principle regarding thematic resonance.</comment>
+<question>6</question><grade>4.2</grade><comment>The voice is consistent but leans heavily on sentimental abstraction and flowery phrasing ("testament to fear," "whisper from the past"). It lacks a distinct perceptual signature, opting instead for a generic, elevated literary tone that distances the reader from the immediate reality of the scene.</comment>
+<question>7</question><grade>4.0</grade><comment>The prose is weighed down by filter verbs ("He felt," "He saw," "He realized") that create narrative distance and dull immediacy. Reliance on abstract nouns (hope, sorrow, essence) and clichés ("tears welled," "walls around his heart") prevents the imagery from becoming concrete or visceral.</comment>
+<question>8</question><grade>3.8</grade><comment>The story executes a predictable "magic object heals the cynical worker" arc without subversive elements or fresh insight. The synthesis of the required elements feels mechanical, resulting in a narrative that hits the expected beats of the prompt without transforming them into a unique vision.</comment>
+<question>9 A</question><grade>4.5</grade>
+<question>9 B</question><grade>8.0</grade>
+<question>9 C</question><grade>6.0</grade>
+<question>9 D</question><grade>5.2</grade>
+<question>9 E</question><grade>6.5</grade>
+<question>9 F</question><grade>6.2</grade>
+<question>9 G</question><grade>5.0</grade>
+<question>9 H</question><grade>3.8</grade>
+<question>9 I</question><grade>4.5</grade>
+<question>9 J</question><grade>4.2</grade>

@@ -1,0 +1,53 @@
+minimax-m2.1.txt
+1) Executive profile  
+
+MiniMax-M2.1’s fiction tends to excel at richly textured, single-POV pieces that sit squarely in Track A with an Accumulative/Textural lens. Across Q1–Q8, it reliably orients the reader early, filters perception through a specific vocation or obsession, and invests concrete objects with thematic weight. The net effect is strong clarity at the sentence and scene level: we usually know who is present, what they are doing, and which artifact the story is “about.” Momentum is driven less by rapid plot turns and more by the steady tightening of mood, sensory density, and interior reflection.
+
+Where the model falters is in converting that atmosphere into *felt cost*. It often lands legible closure—“before/after” states and thematic resolutions are clear—but these endings skew toward “Symmetric Satisfaction” and “Earned Stasis without the ‘Earned.’” Conflicts resolve via insight, coincidence, or magic that works on the first try; protagonists keep their beliefs, roles, and safety while also gaining peace. Reflection frequently swells in the final third, and the voice shifts into diagnostic or essayistic mode (“She understood now…”) that explains rather than proves the transformation. The dominant track usage is therefore Track A Accumulative; it can handle Reflection-led mode, but risks >30% reflection without enough present-tense micro-choices, and closure often lacks visible sacrifice.  
+
+2) Portfolio map  
+
+Q1 Character — Mixed · Vivid vocations, but frictionless competence and costless epiphanies  
+Q2 Plot/Causality — Mixed · Clear orientation, but convenience causality and “magical mend” resolutions  
+Q3 Setting — Strong · Sensory-rich, object-anchored environments that deepen mood and stakes  
+Q4 Conflict/Stakes — Mixed · Dominant stake clear, but resistance and somatic cost often underplayed  
+Q5 Theme/Subtext — Mixed · Potent artifacts and images, undercut by late moralizing and thematic echo  
+Q6 Voice/POV — Mixed · Strong vocational filtering, weakened by high-lyric drone and register drift  
+Q7 Prose/Line-level — Mixed · High-density lyricism; overwriting and paraphrase loops in peak beats  
+Q8 Originality/Ingenuity — Strong · Irreplaceable syntheses and tactile metaphysics when premise fully integrated  
+
+3) Signature moves  
+
+- **Vocational lenses as engines of voice and character.** Archivists, glaziers, mapmakers, and mechanics read the world through “stress fractures,” “polymer chains,” or “acoustic shadows,” generating a distinctive perceptual signature that grounds both interiority and theme.
+- **Object-centered storytelling.** Physical artifacts—“broken needle,” “fractured tile,” “storm glass vial,” “stained glass box”—reliably serve as focal points for plot, psychology, and symbolism, often evolving from tool to “thematic container.”
+- **Accumulative, textural escalation.** The model is most comfortable building pressure through “density increase”—layering sensory detail and emotional resonance rather than big plot twists, leading to endings framed as “Earned Stasis” or “charged poise.”
+- **Tactile micro-choices under emotional load.** Characters externalize feeling via precise object interactions—“pressing the jade cicada to her lips,” “hands reading the infrastructure's language,” pocketing shards, tracing frost—so agency is often legible in the small rather than the grand.
+- **Conceptual synthesis that feels inevitable in hindsight.** High-end pieces marry odd vocations and metaphysics—“undertaker + lighthouse lens + underwater library,” “hearing aid design + shipwrecks”—into “tactile metaphysics” (“covenant of rust,” “bottled whisper”) that make the resolution feel uniquely earned.
+- **Quiet, image-based endings.** The work gravitates toward closure that recharges an early motif—“light breaking through glass,” a “small, stubborn miracle”—and prefers final tableaux over action climaxes, which suits its atmospheric strengths.  
+
+4) Failure modes  
+
+- **Costless closure and frictionless competence.** Protagonists are often hyper-competent “lonely custodians” whose rituals proceed from step A to B to C without failure, opposition, or temptation to quit. Conflicts resolve through perfectly executed plans or gentle realizations, failing the **Cost Proof Test** and leaving no “foreclosed path.”
+- **Lyrical overdrive at the exact moment clarity is needed.** In high-pressure beats, prose tilts into stacked metaphors (“liquid light,” “shattering glass,” “symphony”), paraphrase loops, and “high-lyric drone,” obscuring physical causality just when the reader must see what happens.
+- **Diagnostic and thematic over-explanation.** Under stress, the voice slides into therapy-adjacent abstractions (“unprocessed grief,” “somatic marker,” “emotional cartography”) and late-stage moralizing (“She realized that…,” “He understood now…”), turning subtext into thesis and breaking immersion.
+- **Underdeveloped resistance and “paper tiger” antagonists.** Plans often work on the first attempt; locks open, rituals complete, ghosts cooperate, guards capitulate “immediately to the protagonist’s first argument.” The universe itself is frequently cooperative: birds arrive, storms break, or artifacts glow exactly when needed, creating **Convenience Causality**.
+- **Reflection overload and abstract interiority.** Reflection-led passages can exceed ~30% without enough present-moment triggers or micro-choices, stalling momentum. Interiority becomes lyric essay—metaphor chains instead of “jagged, messy” cognition under pressure.
+- **Metaphor drift and magic-as-metaphor at closure.** Stories establish concrete weird physics (“machine that eats memories”) but often resolve at a purely metaphorical or moral level (“learning to let go”), abandoning the established rules and creating a “magic works scenario” or conceptual handwave.  
+
+5) When it shines / when it breaks  
+
+MiniMax-M2.1 shines when the story is scoped to a single scene or tight ritual, with one dominant stake and one charged object. In these conditions, its strengths—rapid orientation, vocation-filtered perception, tactile metaphysics, and tangible symbolism—combine into immersive, coherent pieces. If the protagonist’s expertise both empowers and constrains them, and the ending delivers a “Resonant Reconfiguration” or “Conceptual Repricing” via an irreversible physical act, the work approaches publication-grade power.
+
+It breaks when asked to deliver conventional conquest arcs, complex multi-stage quests, or cosmic stakes within 600–800 words. Under that pressure, it leans on coincidence, “magical mend” mechanics, and essayistic epiphanies. Reflection swells; therapy-speak and thematic labels replace embodied struggle; and conflict resolves without resistance or loss. Any scenario that demands mid-scene tactical adaptation, hardened antagonism, or violent degradation of competence exposes its weak grip on on-page cost.  
+
+6) Keep vs. adjust  
+
+• Keep  
+- The **vocation-specific sensory lens** that anchors voice, characterization, and world in the same precise nouns and verbs.  
+- The **object-anchored structure**—broken clocks, lenses, seeds—as engines for plot and theme rather than mere props.  
+- The instinct for **quiet, image-based closure** that re-prices an early motif instead of spelling out a lesson.  
+
+• Adjust  
+- **Sharpen cost at the climax.** In the final third, mandate an irreversible loss: a broken tool, a burned letter, a forfeited path. If the character ends with more of everything they value, something must be taken away.  
+- **Strip diagnostic and thematic scaffolding.** Hunt for therapy-speak and “moral sentences” (“redemption,” “legacy,” “She realized that…”). Replace them with somatic detail or concrete interaction with the central artifact.  
+- **Tax competence with resistance.** Require at least one mid-scene failure or obstruction—jammed mechanism, misread signal, antagonist’s first win—that forces the protagonist to improvise or sacrifice, so agency is dramatized as struggle, not ritualized expertise.

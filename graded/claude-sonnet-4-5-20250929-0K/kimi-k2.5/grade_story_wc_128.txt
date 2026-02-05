@@ -1,0 +1,36 @@
+grade_story_wc_128.txt
+<question>1</question><grade>5.2</grade><comment>Elias's motivations are declared rather than dramatized through contradictory impulses. The transformation from shrewd broker to philanthropist unfolds via summary and reflection rather than on-page choices under pressure. Interiority relies on elevated abstractions ("cautious exuberance," "whimsically attentive") rather than embodied, character-specific thought. The final choice to fund the grant lacks a visible tradeoff or cost that would demonstrate genuine internal conflict.</comment>
+
+<question>2</question><grade>4.8</grade><comment>The piece lacks a decisive change with felt cost. Elias moves from discovering the photo three weeks prior to establishing a foundation, but the entire arc is recounted in summary rather than dramatized with pressure. The closure image—Elias departing as "a steward of hidden grace"—moralizes rather than landing a reversal or reconfiguration with on-page cost. Orientation is delayed; "who, where, and when" remain abstract until paragraph two, and the timeline remains unclear throughout (−0.4 for orientation debt).</comment>
+
+<question>3</question><grade>6.1</grade><comment>The cliffside library under stars provides vivid sensory anchors (glass ceiling, constellations, salt air, spiral staircase). However, the setting remains ornamental; it does not constrain a choice or shape the closure. Spatial choreography is generally clear, though the relationship between harbor, cliffs, museum, and library could be tighter. The micro-setting (locket photo, catalog cards) appears but does not alter tactics.</comment>
+
+<question>4</question><grade>4.6</grade><comment>The dominant stake—Elias's desire to uplift silent contributors—is signaled but never tested on the page. No reversal or tightening occurs; the story moves linearly from discovery to decision without opposition or cost. The final act (initiating the grant) is recounted as fait accompli rather than dramatized under pressure. Agency is assertion, not choice with visible consequence.</comment>
+
+<question>5</question><grade>4.1</grade><comment>The theme of cycles of compassion is stated rather than earned through particulars. The final paragraph moralizes explicitly: "the finest cargo is the kindness we deliver to unintended destinations, and that compassion, like the tide, returns always to those who release it." This violates the requirement for non-literal resonance (−0.7). The locket photo recurs but without functional reweighting at closure.</comment>
+
+<question>6</question><grade>5.4</grade><comment>The prose maintains a consistent third-person limited stance with no head-hopping. However, diction drifts into elevated register ("cautious exuberance," "spiritual liberation," "unspoken beauty") that exceeds the focalizer's immediate perception during summary passages. Perceptual signature is generic; Elias notices abstractions ("fierce compassion," "invisible labor") rather than concrete, character-specific details. Dialogue with Clara is functional but brief.</comment>
+
+<question>7</question><grade>4.9</grade><comment>The prose suffers from paraphrase loops (e.g., paragraphs 10–11 restate the foundation concept without advancing pressure) and elevated diction that obscures immediacy ("whimsically attentive," "cycles of compassion," "vessels of gratitude"). Template cadence appears in repeated abstract noun phrases across beats (−0.6). Several sentences exceed their informational load with ornamental modifiers. The final paragraph stacks summary clauses rather than delivering a charged image.</comment>
+
+<question>8</question><grade>4.4</grade><comment>The premise—broker discovers misdirected envelope, befriends archivist, funds library—follows a familiar feel-good template without transformation through lived detail or non-obvious moral calculus (−1.0 for derivative premise). The locket photo as catalyst and the cliffside library are specific but do not reconfigure expectations. Risk-taking is absent; every beat satisfies genre expectations without friction.</comment>
+
+<question>9 A</question><grade>3.2</grade><comment>Elias is present throughout and his merchant identity is mentioned, but "shrewd" functions as a label rather than shaping on-page choices. The decision to fund the grant is recounted, not dramatized under pressure. His shrewdness does not constrain or enable a beat with visible cost.</comment>
+
+<question>9 B</question><grade>5.8</grade><comment>The locket photo appears in three beats: discovery, presentation to Clara, and final display. It triggers the arc but does not reweight meaning at closure; the final mention is static description. The photo's significance is told rather than charged through evolving use.</comment>
+
+<question>9 C</question><grade>3.6</grade><comment>"Cycles of compassion" is explicitly named and thematically echoed but does not shape on-page choices or tactics. The concept remains abstract; no causal loop or reciprocal action dramatizes the cycle with cost.</comment>
+
+<question>9 D</question><grade>2.8</grade><comment>"Whimsically attentive" appears as a label in two passages but does not constrain or enable a choice. The trait is asserted rather than demonstrated through contradictory impulses or a tradeoff under pressure.</comment>
+
+<question>9 E</question><grade>4.1</grade><comment>"Initiate" appears in the opening and closing frames (symphony ending, grant initiation) but the major turn is recounted in summary rather than dramatized. The action does not redefine options on the page; it could be swapped with "establish" or "launch" without structural change.</comment>
+
+<question>9 F</question><grade>5.3</grade><comment>The mistaken-address envelope appears in three beats: discovery, redirection intention, and presentation to Clara. It sparks the friendship but the mechanics are summarized ("three weeks prior"). The method does not shape middle attempts or constrain the closure choice.</comment>
+
+<question>9 G</question><grade>4.7</grade><comment>The library is vividly described and recurs across beats, but it does not pressure a choice or supply a resource that alters outcome. The setting functions as backdrop rather than tactical constraint. The glass ceiling and starlight charge atmosphere but do not change options.</comment>
+
+<question>9 H</question><grade>3.4</grade><comment>"After the symphony ends" anchors the frame and recurs as a ritual marker, but the timeframe does not tighten decisions. No live clock alters tactics; elapsed time remains vague and the night's work ("until midnight") is summarized without urgency.</comment>
+
+<question>9 I</question><grade>4.9</grade><comment>The motivation to uplift silent contributors is declared and repeated but not conflicted on the page. Elias's desire faces no friction or cost; the arc moves from intention to fulfillment without a dramatized choice between competing goods.</comment>
+
+<question>9 J</question><grade>3.1</grade><comment>"Cautious exuberance" is named twice but remains a static label. The tone does not modulate with pressure or charge the final image; emotional temperature stays uniform across summary beats.</comment>

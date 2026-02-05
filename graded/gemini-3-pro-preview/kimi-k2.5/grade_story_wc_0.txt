@@ -1,0 +1,19 @@
+grade_story_wc_0.txt
+<question>1</question><grade>8.4</grade><comment>Character interiority is distinct, contrasting cosmic scale with intimate decay effectively. The protagonist's shift in worldview is coherent, though the final transition to summary ("Weeks passed") slightly distances the reader from the immediate emotional cost of her decision.</comment>
+<question>2</question><grade>7.7</grade><comment>The accumulative structure builds well, but the closure relies on a summary time-jump rather than a scenic beat to prove the "conceptual repricing." The final state is explained rather than dramatized through a specific, high-pressure action in the present moment.</comment>
+<question>3</question><grade>9.0</grade><comment>The setting is vivid, textured, and thematically integrated. The imagery of the greenhouse's decay—water stains like equations, gradients of dust—effectively mirrors and forces the protagonist's internal shift.</comment>
+<question>4</question><grade>7.8</grade><comment>Stakes are clear (order vs. entropy), but the conflict resolves quietly in summary. A more active final choice (e.g., physically discarding the papers rather than just "no longer reaching") would have heightened the felt cost of her professional renunciation.</comment>
+<question>5</question><grade>8.6</grade><comment>The theme of finding grandeur in the miniature lands with strong resonance. The parallel between the butterfly's death and stellar collapse effectively anchors the story's conceptual reconfiguration.</comment>
+<question>6</question><grade>7.2</grade><comment>The narrative voice is generally precise and lyrical, but it is disrupted by a jarring tense error ("Once, she preprocesses") and missing articles ("dust from butterfly wing") that break the established rhythm and authority.</comment>
+<question>7</question><grade>6.4</grade><comment>High-quality imagery is marred by fatal grammatical artifacts likely caused by forcing prompt phrases ("Once, she preprocesses" mixes tenses; "dust from butterfly wing" lacks articles). These errors block immediate publishability despite the otherwise strong prose.</comment>
+<question>8</question><grade>8.3</grade><comment>A fresh, lyrical take on the scientist archetype. The juxtaposition of high-energy astrophysics with the slow, humid decay of the greenhouse creates a unique and memorable perspective.</comment>
+<question>9 A</question><grade>9.2</grade>
+<question>9 B</question><grade>9.0</grade>
+<question>9 C</question><grade>8.5</grade>
+<question>9 D</question><grade>5.8</grade>
+<question>9 E</question><grade>9.0</grade>
+<question>9 F</question><grade>8.5</grade>
+<question>9 G</question><grade>9.5</grade>
+<question>9 H</question><grade>7.5</grade>
+<question>9 I</question><grade>7.0</grade>
+<question>9 J</question><grade>6.5</grade>
