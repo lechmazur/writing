@@ -1,0 +1,41 @@
+claude-opus-4-6-16K.txt
+**Executive Insight**
+The defining characteristic of this batch is the mastery of **Perceptual Signature**. The most successful stories do not merely describe a setting; they filter the entire world through the specific professional or emotional lexicon of the focalizer. A glassblower does not just see light; she sees "refraction" and "thermal stress." An archivist sees "provenance" and "decay." This rigorous alignment between character identity and narrative voice is the primary driver of high scores (8.8–9.5+). The writing falters only when this lens slips—usually via **Register Drift**, where the character’s specific internal voice is hijacked by a generic, elevated "essayist" voice that summarizes themes (e.g., "conceptual repricing," "inadvertently profound") rather than inhabiting the moment. When the prose trusts the established perceptual filter to carry the emotional weight without explanatory scaffolding, the work achieves a professional, publishable standard.
+
+**Strength Profile**
+*   **Vocational Filtering:** The narrative voice consistently adopts the metaphoric language of the protagonist’s trade. A botanist notices "root spread," not just trees; a musician hears "harmonics," not just noise.
+*   **Rhythmic Modulation:** Sentence structures physically react to narrative pressure. Long, sinuous sentences are used for reflection, snapping into short, verbless fragments or crisp declaratives during crises.
+    *   *Micro-quote:* "The flash-paper drank the light."
+    *   *Micro-quote:* "Not a ghost. Not a memory."
+*   **Clean Psychic Distance:** The writing maintains a stable third-person limited (or first-person) stance, avoiding head-hopping even in scenes with multiple characters. Interiority is deep but disciplined.
+*   **Purposeful Compression:** Backstory and context are often woven into the narrative flow through lyric compression rather than expository dumps, taught early as a stylistic conceit.
+    *   *Micro-quote:* "time split open like a fig"
+
+**Weakness Profile**
+*   **Register Drift (The "Essayist" Intrusion):** At peak emotional beats, the narration sometimes abandons the character’s sensory experience to deliver a thematic summary in an academic or philosophical register. Phrases like "conceptual repricing," "transposed empathy," or "inadvertently profound" break the immersive spell.
+*   **Lyric Inertia:** A tendency to maintain a "hushed," "luminous," and "reverent" tone regardless of the action. This creates a monochromatic emotional texture where a fight for survival sounds as pretty as a morning coffee.
+*   **Filter Verb Clustering:** While generally clean, weaker sections rely on "she felt," "she realized," or "she understood" to signal epiphanies, distancing the reader from the direct sensation.
+*   **Over-explanation of Metaphor:** The narrative sometimes constructs a brilliant image and then immediately explains what it means, distrusting the reader’s ability to parse the perceptual signature.
+
+**Performance Boundaries**
+The writing **excels** in solitary, reflective modes involving experts (scientists, artisans, archivists) interacting with atmospheric settings. It thrives on "Accumulative" and "Textural" prompts where mood is primary. It **breaks** when attempting gritty, high-kinetic action or uneducated voices; the model’s default setting is "elevated lyricism," making it difficult to render raw panic, brutality, or simple confusion without dressing it up in poetic finery. Stories fail when the "perceptual signature" is abandoned for a generic "wise narrator" voice that preaches themes instead of dramatizing them.
+
+**Signature Moves & Blind Spots**
+*   **The "Noun as Definition" construct:** A habit of defining abstract concepts via concrete metaphors (e.g., "Silence was not absence; it was a weight").
+*   **Synesthetic Blending:** A frequent reliance on crossing senses (hearing light, tasting colors) to establish voice. Effective, but risks becoming a tic.
+*   **The "Luminous/Hush" Crutch:** An over-reliance on specific words—*luminous, hush, geometry, architecture, resin, amber*—to generate atmosphere, occasionally rendering different stories texturally indistinguishable.
+*   **The "Silent" Dialogue:** A blind spot where characters rarely speak, or dialogue is elided into summary. While often a valid stylistic choice, it can sometimes feel like an avoidance of voice differentiation.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Rhythmic Breakage:** The prose rhythm physically degrades or accelerates under stress (e.g., fluid syntax fracturing into staccato beats) without losing clarity.
+*   **Total Lexical Consistency:** Not a single word falls outside the character’s educational or professional background. An unlettered scavenger does not use the word "epistemology."
+*   **Anchored Abstraction:** Abstract thoughts are strictly triggered by present-tense, concrete stimuli (e.g., touching a cold rail triggers a memory of winter), avoiding floating flashbacks.
+
+**Revision Levers and Keepers**
+*   **Keep:** The **Perceptual Signature**. Continue to filter every description through the protagonist’s unique expertise (e.g., if she's a seamstress, she sees the world in stitches and hems).
+*   **Keep:** The **Syntactic Control**. The ability to lengthen and shorten sentences to mirror heart rate and cognitive load is a major asset.
+*   **Keep:** **POV Modesty**. The refusal to let the narrator know things the protagonist cannot know (e.g., "She interpreted his silence as anger" vs. "He was angry").
+
+*   **Change:** **Scrub "Essay" Voice.** Audit the final paragraph of every scene for abstract summaries (e.g., "It was a testament to...") and replace them with a concrete image or action.
+*   **Change:** **Eliminate "Luminous/Hush."** Challenge the writer to establish quiet or beauty without using these specific, overused descriptors.
+*   **Change:** **Cut the Filter.** Search for "felt," "heard," "saw," and "realized." Rewrite the sentence to make the sensation the subject (e.g., "She heard the bell" $\to$ "The bell rang").

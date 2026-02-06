@@ -1,0 +1,19 @@
+grade_story_wc_324.txt
+<question>1</question><grade>3.5</grade><comment>Characterization relies on labeled traits ("persistently curious") rather than demonstrated behavior under pressure. The protagonist lacks internal conflict or a distinct, embodied emotional arc; she functions as a vehicle for the premise without facing a difficult choice or personal cost.</comment>
+<question>2</question><grade>3.2</grade><comment>The narrative follows a linear fetch-quest structure with no meaningful obstacles or reversals. The resolution ("assuring" the spirit) is achieved automatically upon arrival, resulting in a low-stakes "mission accomplished" ending devoid of the required closure cost or reconfiguration.</comment>
+<question>3</question><grade>4.1</grade><comment>The setting is established early but relies on the repetition of static descriptors ("mist-clad") rather than interaction that pressures the character. The environment functions as a passive atmospheric backdrop rather than a constraint that shapes tactics.</comment>
+<question>4</question><grade>2.5</grade><comment>Conflict is virtually absent; there is no antagonist, time pressure, or risk of failure to test the protagonist's resolve. The stakes ("protecting vulnerable voices") remain theoretical as success is granted without resistance or trade-off.</comment>
+<question>5</question><grade>2.2</grade><comment>The theme is delivered through explicit lectures ("She had learned that heroism was often incidental") rather than emergent subtext. The repeated restatement of the thesis prevents any organic resonance or interpretative depth.</comment>
+<question>6</question><grade>3.5</grade><comment>The voice is distant and relies on abstract "telling" ("She understood that...") rather than immediate sensory experience. The tone feels artificial due to the heavy-handed insertion of prompt phrases.</comment>
+<question>7</question><grade>2.8</grade><comment>The prose suffers significantly from keyword stuffing and looped phrasing; specific terms like "reeling hush," "incidental heroism," and "persistently curious" are repeated multiple times in identical constructions, creating a mechanical rhythm that breaks immersion.</comment>
+<question>8</question><grade>3.5</grade><comment>The story presents a standard supernatural trope ("ghost needs to be heard") without a fresh angle or subversion. The execution follows a predictable path with no conceptual risk or unique stylistic inflection.</comment>
+<question>9 A</question><grade>5.2</grade>
+<question>9 B</question><grade>6.1</grade>
+<question>9 C</question><grade>2.8</grade>
+<question>9 D</question><grade>2.1</grade>
+<question>9 E</question><grade>5.5</grade>
+<question>9 F</question><grade>6.3</grade>
+<question>9 G</question><grade>4.2</grade>
+<question>9 H</question><grade>3.8</grade>
+<question>9 I</question><grade>3.2</grade>
+<question>9 J</question><grade>2.6</grade>

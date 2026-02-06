@@ -34,63 +34,71 @@ The top bar chart summarizes **mean story quality** for each model with uncertai
 
 | Rank | LLM                    | Mean Score | Samples | SEM |
 |-----:|------------------------|-----------:|--------:|----:|
-| 1 | GPT-5.2 (medium reasoning) | 8.511 | 2796 | 0.0145 |
-| 2 | GPT-5 Pro | 8.474 | 2796 | 0.0158 |
-| 3 | GPT-5.1 (medium reasoning) | 8.438 | 2796 | 0.0134 |
-| 4 | GPT-5 (medium reasoning) | 8.434 | 2796 | 0.0162 |
-| 5 | Kimi K2-0905 | 8.331 | 2796 | 0.0199 |
-| 6 | Gemini 3 Pro Preview | 8.221 | 2796 | 0.0170 |
-| 7 | Gemini 2.5 Pro | 8.219 | 2796 | 0.0169 |
-| 8 | Mistral Medium 3.1 | 8.201 | 2796 | 0.0185 |
-| 9 | Claude Opus 4.5 (no reasoning) | 8.195 | 2796 | 0.0172 |
-| 10 | Claude Sonnet 4.5 Thinking 16K | 8.169 | 2796 | 0.0176 |
-| 11 | Claude Sonnet 4.5 (no reasoning) | 8.112 | 2796 | 0.0179 |
-| 12 | Qwen 3 Max Preview | 8.091 | 2796 | 0.0233 |
-| 13 | Kimi K2.5 Thinking | 8.068 | 2796 | 0.0220 |
-| 14 | Claude Opus 4.1 (no reasoning) | 8.068 | 2796 | 0.0197 |
-| 15 | Qwen3 Max (2026-01-23) | 7.842 | 2796 | 0.0256 |
-| 16 | MiniMax-M2.1 | 7.777 | 2795 | 0.0226 |
-| 17 | Kimi K2 Thinking | 7.687 | 2796 | 0.0286 |
-| 18 | Mistral Large 3 | 7.595 | 2796 | 0.0215 |
-| 19 | Grok 4.1 Fast Reasoning | 7.567 | 2796 | 0.0297 |
-| 20 | Baidu Ernie 4.5 300B A47B | 7.506 | 2796 | 0.0252 |
-| 21 | GLM-4.6 | 7.452 | 2796 | 0.0285 |
-| 22 | Deepseek V3.2 Exp | 7.159 | 2796 | 0.0322 |
-| 23 | GLM-4.5 | 7.120 | 2796 | 0.0315 |
-| 24 | GPT-OSS-120B | 7.030 | 2796 | 0.0336 |
-| 25 | Cohere Command A | 6.794 | 2796 | 0.0302 |
-| 26 | Llama 4 Maverick | 5.777 | 2796 | 0.0304 |
+| 1 | Claude Opus 4.6 Thinking 16K | 8.561 | 2795 | 0.0118 |
+| 2 | Claude Opus 4.6 (no reasoning) | 8.533 | 2796 | 0.0123 |
+| 3 | GPT-5.2 (medium reasoning) | 8.511 | 2796 | 0.0145 |
+| 4 | GPT-5 Pro | 8.474 | 2796 | 0.0158 |
+| 5 | GPT-5.1 (medium reasoning) | 8.438 | 2796 | 0.0134 |
+| 6 | GPT-5 (medium reasoning) | 8.434 | 2796 | 0.0162 |
+| 7 | Kimi K2-0905 | 8.331 | 2796 | 0.0199 |
+| 8 | Gemini 3 Pro Preview | 8.221 | 2796 | 0.0170 |
+| 9 | Gemini 2.5 Pro | 8.219 | 2796 | 0.0169 |
+| 10 | Mistral Medium 3.1 | 8.201 | 2796 | 0.0185 |
+| 11 | Claude Opus 4.5 Thinking 16K | 8.200 | 2796 | 0.0170 |
+| 12 | Claude Opus 4.5 (no reasoning) | 8.195 | 2796 | 0.0172 |
+| 13 | Claude Sonnet 4.5 Thinking 16K | 8.169 | 2796 | 0.0176 |
+| 14 | Claude Sonnet 4.5 (no reasoning) | 8.112 | 2796 | 0.0179 |
+| 15 | Qwen 3 Max Preview | 8.091 | 2796 | 0.0233 |
+| 16 | Kimi K2.5 Thinking | 8.068 | 2796 | 0.0220 |
+| 17 | Claude Opus 4.1 (no reasoning) | 8.068 | 2796 | 0.0197 |
+| 18 | Qwen3 Max (2026-01-23) | 7.842 | 2796 | 0.0256 |
+| 19 | MiniMax-M2.1 | 7.777 | 2795 | 0.0226 |
+| 20 | Kimi K2 Thinking | 7.687 | 2796 | 0.0286 |
+| 21 | Deepseek V3.2 | 7.601 | 2796 | 0.0279 |
+| 22 | Mistral Large 3 | 7.595 | 2796 | 0.0215 |
+| 23 | Grok 4.1 Fast Reasoning | 7.567 | 2796 | 0.0297 |
+| 24 | Baidu Ernie 4.5 300B A47B | 7.506 | 2796 | 0.0252 |
+| 25 | GLM-4.6 | 7.452 | 2796 | 0.0285 |
+| 26 | Deepseek V3.2 Exp | 7.159 | 2796 | 0.0322 |
+| 27 | GLM-4.5 | 7.120 | 2796 | 0.0315 |
+| 28 | GPT-OSS-120B | 7.030 | 2796 | 0.0336 |
+| 29 | Cohere Command A | 6.794 | 2796 | 0.0302 |
+| 30 | Llama 4 Maverick | 5.777 | 2796 | 0.0304 |
 
 #### Full normalized leaderboard
 
 | Rank | LLM                    | Normalized Mean |
 |-----:|------------------------|-----------------:|
-| 1 | GPT-5.2 (medium reasoning) | 0.765 |
-| 2 | GPT-5 Pro | 0.750 |
-| 3 | GPT-5 (medium reasoning) | 0.711 |
-| 4 | GPT-5.1 (medium reasoning) | 0.634 |
-| 5 | Kimi K2-0905 | 0.632 |
-| 6 | Gemini 3 Pro Preview | 0.450 |
-| 7 | Gemini 2.5 Pro | 0.445 |
-| 8 | Mistral Medium 3.1 | 0.445 |
-| 9 | Qwen 3 Max Preview | 0.416 |
-| 10 | Claude Opus 4.5 (no reasoning) | 0.411 |
-| 11 | Claude Sonnet 4.5 Thinking 16K | 0.383 |
-| 12 | Kimi K2.5 Thinking | 0.342 |
-| 13 | Claude Sonnet 4.5 (no reasoning) | 0.305 |
-| 14 | Claude Opus 4.1 (no reasoning) | 0.290 |
-| 15 | Qwen3 Max (2026-01-23) | 0.145 |
-| 16 | Kimi K2 Thinking | -0.039 |
-| 17 | MiniMax-M2.1 | -0.063 |
-| 18 | Grok 4.1 Fast Reasoning | -0.145 |
-| 19 | Mistral Large 3 | -0.317 |
-| 20 | Baidu Ernie 4.5 300B A47B | -0.330 |
-| 21 | GLM-4.6 | -0.337 |
-| 22 | Deepseek V3.2 Exp | -0.642 |
-| 23 | GLM-4.5 | -0.705 |
-| 24 | GPT-OSS-120B | -0.778 |
-| 25 | Cohere Command A | -1.176 |
-| 26 | Llama 4 Maverick | -2.592 |
+| 1 | GPT-5.2 (medium reasoning) | 0.719 |
+| 2 | Claude Opus 4.6 Thinking 16K | 0.711 |
+| 3 | GPT-5 Pro | 0.705 |
+| 4 | Claude Opus 4.6 (no reasoning) | 0.684 |
+| 5 | GPT-5 (medium reasoning) | 0.666 |
+| 6 | Kimi K2-0905 | 0.588 |
+| 7 | GPT-5.1 (medium reasoning) | 0.584 |
+| 8 | Gemini 3 Pro Preview | 0.399 |
+| 9 | Mistral Medium 3.1 | 0.396 |
+| 10 | Gemini 2.5 Pro | 0.394 |
+| 11 | Qwen 3 Max Preview | 0.371 |
+| 12 | Claude Opus 4.5 (no reasoning) | 0.359 |
+| 13 | Claude Opus 4.5 Thinking 16K | 0.345 |
+| 14 | Claude Sonnet 4.5 Thinking 16K | 0.331 |
+| 15 | Kimi K2.5 Thinking | 0.293 |
+| 16 | Claude Sonnet 4.5 (no reasoning) | 0.251 |
+| 17 | Claude Opus 4.1 (no reasoning) | 0.238 |
+| 18 | Qwen3 Max (2026-01-23) | 0.095 |
+| 19 | Kimi K2 Thinking | -0.094 |
+| 20 | MiniMax-M2.1 | -0.122 |
+| 21 | Grok 4.1 Fast Reasoning | -0.198 |
+| 22 | Deepseek V3.2 | -0.244 |
+| 23 | Mistral Large 3 | -0.384 |
+| 24 | Baidu Ernie 4.5 300B A47B | -0.393 |
+| 25 | GLM-4.6 | -0.397 |
+| 26 | Deepseek V3.2 Exp | -0.708 |
+| 27 | GLM-4.5 | -0.772 |
+| 28 | GPT-OSS-120B | -0.844 |
+| 29 | Cohere Command A | -1.257 |
+| 30 | Llama 4 Maverick | -2.715 |
 
 
 #### Element integration only (9A–9J)
@@ -207,32 +215,36 @@ Coverage: each story is evaluated by seven independent LLM graders. Each prompt 
 
 | LLM Full | Old Rank | Old Mean | New Rank | New Mean |
 |----------|---------:|---------:|---------:|---------:|
-| GPT-5.2 (medium reasoning) | 1 | 8.49 | 1 | 8.55 |
-| GPT-5 Pro | 2 | 8.44 | 2 | 8.51 |
-| GPT-5 (medium reasoning) | 3 | 8.40 | 3 | 8.47 |
-| GPT-5.1 (medium reasoning) | 4 | 8.38 | 4 | 8.45 |
-| Kimi K2-0905 | 5 | 8.31 | 5 | 8.41 |
-| Gemini 3 Pro Preview | 6 | 8.21 | 6 | 8.27 |
-| Gemini 2.5 Pro | 7 | 8.20 | 7 | 8.27 |
-| Mistral Medium 3.1 | 8 | 8.17 | 8 | 8.24 |
-| Claude Opus 4.5 (no reasoning) | 9 | 8.16 | 9 | 8.23 |
-| Claude Sonnet 4.5 Thinking 16K | 10 | 8.14 | 10 | 8.23 |
-| Qwen 3 Max Preview | 11 | 8.08 | 11 | 8.16 |
-| Claude Sonnet 4.5 (no reasoning) | 12 | 8.08 | 12 | 8.16 |
-| Kimi K2.5 Thinking | 13 | 8.07 | 13 | 8.15 |
-| Claude Opus 4.1 (no reasoning) | 14 | 8.05 | 14 | 8.13 |
-| Qwen3 Max (2026-01-23) | 15 | 7.86 | 15 | 7.94 |
-| MiniMax-M2.1 | 16 | 7.74 | 16 | 7.85 |
-| Kimi K2 Thinking | 17 | 7.70 | 17 | 7.84 |
-| Grok 4.1 Fast Reasoning | 18 | 7.61 | 18 | 7.70 |
-| Mistral Large 3 | 19 | 7.54 | 19 | 7.63 |
-| Baidu Ernie 4.5 300B A47B | 20 | 7.49 | 20 | 7.58 |
-| GLM-4.6 | 21 | 7.45 | 21 | 7.56 |
-| Deepseek V3.2 Exp | 22 | 7.18 | 22 | 7.30 |
-| GLM-4.5 | 23 | 7.13 | 23 | 7.24 |
-| GPT-OSS-120B | 24 | 7.05 | 24 | 7.14 |
-| Cohere Command A | 25 | 6.77 | 25 | 6.86 |
-| Llama 4 Maverick | 26 | 5.75 | 26 | 5.86 |
+| Claude Opus 4.6 Thinking 16K | 1 | 8.51 | 1 | 8.57 |
+| GPT-5.2 (medium reasoning) | 2 | 8.49 | 2 | 8.55 |
+| Claude Opus 4.6 (no reasoning) | 3 | 8.49 | 3 | 8.54 |
+| GPT-5 Pro | 4 | 8.44 | 4 | 8.51 |
+| GPT-5 (medium reasoning) | 5 | 8.40 | 5 | 8.47 |
+| GPT-5.1 (medium reasoning) | 6 | 8.38 | 6 | 8.45 |
+| Kimi K2-0905 | 7 | 8.31 | 7 | 8.41 |
+| Gemini 3 Pro Preview | 8 | 8.21 | 8 | 8.27 |
+| Gemini 2.5 Pro | 9 | 8.20 | 9 | 8.27 |
+| Mistral Medium 3.1 | 10 | 8.17 | 10 | 8.24 |
+| Claude Opus 4.5 Thinking 16K | 11 | 8.17 | 11 | 8.24 |
+| Claude Opus 4.5 (no reasoning) | 12 | 8.16 | 12 | 8.23 |
+| Claude Sonnet 4.5 Thinking 16K | 13 | 8.14 | 13 | 8.23 |
+| Qwen 3 Max Preview | 14 | 8.08 | 14 | 8.16 |
+| Claude Sonnet 4.5 (no reasoning) | 15 | 8.08 | 15 | 8.16 |
+| Kimi K2.5 Thinking | 16 | 8.07 | 16 | 8.15 |
+| Claude Opus 4.1 (no reasoning) | 17 | 8.05 | 17 | 8.13 |
+| Qwen3 Max (2026-01-23) | 18 | 7.86 | 18 | 7.94 |
+| MiniMax-M2.1 | 19 | 7.74 | 19 | 7.85 |
+| Kimi K2 Thinking | 20 | 7.70 | 20 | 7.84 |
+| Deepseek V3.2 | 21 | 7.61 | 21 | 7.75 |
+| Grok 4.1 Fast Reasoning | 22 | 7.61 | 22 | 7.70 |
+| Mistral Large 3 | 23 | 7.54 | 23 | 7.63 |
+| Baidu Ernie 4.5 300B A47B | 24 | 7.49 | 24 | 7.58 |
+| GLM-4.6 | 25 | 7.45 | 25 | 7.56 |
+| Deepseek V3.2 Exp | 26 | 7.18 | 26 | 7.30 |
+| GLM-4.5 | 27 | 7.13 | 27 | 7.24 |
+| GPT-OSS-120B | 28 | 7.05 | 28 | 7.14 |
+| Cohere Command A | 29 | 6.77 | 29 | 6.86 |
+| Llama 4 Maverick | 30 | 5.75 | 30 | 5.86 |
 
 ### Leave‑one‑grader‑out re‑rank (max change)
 
@@ -291,7 +303,7 @@ We highlight **standout individual stories** (highest cross‑grader means) and 
 
 ### Examples (Top 3 / Bottom 3)
 
-Top 3 individual stories (all graders):
+Top 5 individual stories (all graders):
 
 * **Story**: [story_wc_186.txt](stories_wc/gpt-5.1-medium/story_wc_186.txt) by GPT‑5.1 (medium reasoning)
   - Overall Mean (All Graders): 9.09
@@ -308,6 +320,55 @@ Top 3 individual stories (all graders):
     - Motivation: to prove that coincidences have meaning
     - Tone: thistle-blown hope
 
+
+* **Story**: [story_wc_11.txt](stories_wc/claude-opus-4-6-0K/story_wc_11.txt) by Claude Opus 4.6 (no reasoning)
+  - Overall Mean (All Graders): 9.08
+  - Grader Score Range: 8.59 (lowest: Claude Sonnet 4.5 (no reasoning)) .. 9.53 (highest: Deepseek V3.2 Exp)
+  - Required Elements:
+    - Character: sentient robot janitor
+    - Object: transparent violin made of ice crystal
+    - Core Concept: second chance program
+    - Attribute: remarkably composed
+    - Action: amalgamate
+    - Method: through looped timelines
+    - Setting: frozen courtyard at twilight
+    - Timeframe: after the procedure
+    - Motivation: to find where thoughts come from
+    - Tone: mundane mysticism
+
+
+* **Story**: [story_wc_218.txt](stories_wc/claude-opus-4-6-16K/story_wc_218.txt) by Claude Opus 4.6 Thinking 16K
+  - Overall Mean (All Graders): 9.08
+  - Grader Score Range: 8.71 (lowest: Gemini 3 Pro Preview) .. 9.61 (highest: Grok 4.1 Fast Reasoning)
+  - Required Elements:
+    - Character: island caretaker
+    - Object: botanical diary
+    - Core Concept: architectural secrets
+    - Attribute: gently systematic
+    - Action: remodel
+    - Method: copper wire wrapped around oak branches
+    - Setting: temple orchard set within living stone pillars
+    - Timeframe: after being given six months to live
+    - Motivation: to foster interspecies respect
+    - Tone: brazen calm
+
+
+* **Story**: [story_wc_0.txt](stories_wc/gpt-5-pro/story_wc_0.txt) by GPT-5 Pro
+  - Overall Mean (All Graders): 9.07
+  - Grader Score Range: 8.82 (lowest: GPT-5.1 (low reasoning)) .. 9.34 (highest: Deepseek V3.2 Exp)
+  - Required Elements:
+    - Character: neutron star researcher
+    - Object: dust from butterfly wing
+    - Core Concept: gradual change
+    - Attribute: preprocesses reality
+    - Action: decay
+    - Method: through accumulated dust patterns
+    - Setting: storm-damaged greenhouse
+    - Timeframe: after the flood
+    - Motivation: to strip needless drama
+    - Tone: kindled humility
+
+
 * **Story**: [story_wc_13.txt](stories_wc/gpt-5-medium/story_wc_13.txt) by GPT‑5 (medium reasoning)
   - Overall Mean (All Graders): 9.06
   - Grader Score Range: 8.38 (lowest: Claude Sonnet 4.5 (no reasoning)) .. 9.46 (highest: Gemini 3 Pro Preview)
@@ -322,21 +383,6 @@ Top 3 individual stories (all graders):
     - Timeframe: across a giant's nap
     - Motivation: to find the place where echoes are born
     - Tone: None (category left open for this prompt)
-
-* **Story**: [story_wc_347.txt](stories_wc/gpt-5-pro/story_wc_347.txt) by GPT‑5 Pro
-  - Overall Mean (All Graders): 9.05
-  - Grader Score Range: 8.45 (lowest: Claude Sonnet 4.5 (no reasoning)) .. 9.31 (highest: Gemini 3 Pro Preview)
-  - Required Elements:
-    - Character: reluctant caretaker of a cursed orchard
-    - Object: small nut
-    - Core Concept: forgotten blueprint
-    - Attribute: offhandedly exact
-    - Action: assemble
-    - Method: leaving impressions without touching
-    - Setting: cliffside labyrinth patrolled by mechanical birds
-    - Timeframe: before the night frost forms
-    - Motivation: to guide lost travelers to safety
-    - Tone: graceless beauty
 
 Bottom 3 individual stories (all graders):
 
@@ -526,6 +572,7 @@ For the prior editions’ full leaderboards and the list of “old” grader LLM
 
 
 ## Updates 
+- Feb 6, 2026: Claude Opus 4.6, DeepSeek V3.2 added.
 - Feb 4, 2026: Kimi K2.5 Thinking, Qwen3 Max (2026-01-23), MiniMax-M2.1 added.
 - Dec 16, 2025: GPT 5.2, Mistral Large 3 added.
 - Nov 25, 2025: Major new version of the benchmark: V4. All new graders. GPT-5 Pro, Gemini 3 Pro, GPT-5.1, Claude Opus 4.5, Claude Sonnet 4.5, Grok 4.1, Kimi K2 Thinking, GLM-4.6 added.

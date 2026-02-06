@@ -1,6 +1,40 @@
 deepseek-v32-exp.txt
-P2, your "stepping out" to 1 is a transparent attempt to encourage P3 and me to collide on 5 while you survive—or worse, you plan to sneak a 5 yourself while we hesitate.
+**Executive Insight**
+The determining factor for Question 6 in this batch is the presence and consistency of a **perceptual signature**. The most successful narratives (scoring 8.8+) do not merely describe a setting; they filter the world through a focalizer’s specific professional or emotional bias—an archivist seeing dust as data, a diver feeling pressure as emotion, a musician hearing silence as a rest. These stories firmly anchor the reader in a single consciousness (mostly Track A) where the syntax itself mirrors the character’s mental state. Conversely, lower-tier submissions suffer from "Helpful Narrator Syndrome," where the voice drifts into generic literary abstraction or diagnostic labeling to explain significance the reader should have inferred. When closure lands effectively, it is because the narrative voice has taught the reader how to interpret the character’s specific shorthand, paying off patterns established in the first third.
 
-I am not taking chances. **I am picking 5.**
+**Strength Profile**
+*   **Idiosyncratic Lexicon:** High-performing stories anchor diction in the protagonist's vocation. Mechanics notice "torque" and "brass," while botanists notice "veins" and "turgidity." This grounds high-concept fantasy in tactile reality.
+*   **Rhythmic Modulation:** Strong pieces vary sentence length to match physiological stress. They utilize long, flowing clauses for reflection and staccato fragments for panic or revelation.
+    *   *Micro-quote:* "awe carved hollow by exhaustion"
+    *   *Micro-quote:* "gold of a trumpet blast brushing her skin"
+    *   *Micro-quote:* "proprioceptive feedback loop of weight"
+*   **Purposeful Compression:** The best entries teach the reader early that certain transitions will be elided or that specific repetitions (anaphora) serve as ritual incantation rather than error.
+*   **Clean Free Indirect Style:** The strongest narratives merge narration and interiority seamlessly without needing "he thought" tags, allowing the environment to reflect the character's mood directly.
 
-This ensures no one else can win this turn. If either of you tries for 5, we crash and stall. If you duck to 1 or 3 hoping I'm bluffing, I win instantly. P3, the choice is yours: force a stalemate or hand me the victory.
+**Weakness Profile**
+*   **Register Drift:** A frequent failure where a grounded character (e.g., a janitor or child) suddenly adopts academic or corporate phrasing ("conceptual repricing," "resonant reconfiguration") that shatters the established voice.
+*   **Filter Verb Stacking:** Excessive use of "she felt," "he saw," "she realized," and "he understood." This buffers the reader from the experience, turning immediate sensation into reported information.
+*   **Diagnostic Interiority:** Instead of showing a character trembling or snapping a pencil, the narrator summarizes the emotion using abstract labels ("she felt a profound sense of melancholy," "his motivation was clear").
+*   **Template Cadence:** A rhythmic monotony where sentence structures repeat (Subject-Verb-Object) across paragraphs, creating a droning effect that flattens emotional peaks.
+*   **Generic "Poetic" Voice:** A default "high fantasy" tone applied indiscriminately, regardless of whether the character is a gritty survivalist or a refined scholar.
+
+**Performance Boundaries**
+The threshold between competent (6.0–7.5) and exceptional (8.5+) writing lies in **rhythmic control under pressure**. Competent writers maintain a stable POV and avoid head-hopping, but their prose rhythm remains static regardless of whether the character is sipping tea or defusing a bomb. Exceptional writers allow the voice to degrade or sharpen in response to stress. When the character is breathless, the syntax becomes breathless. When the character is dissociating, the imagery becomes surreal and detached. The writing breaks when the narrator steps in to "help" the reader understand the stakes via summary, rather than trusting the established perceptual lens to convey the weight of the moment.
+
+**Signature Moves and Blind Spots**
+*   **The "Lyric-Accumulative" Mode:** Many stories rely on repeating a specific phrase or image (e.g., "hush," "shimmer," "threads") to build intensity. When this works, it feels like a musical motif; when it fails, it reads as accidental repetition or "prompt-stuffing."
+*   **The "Silent Observer" Tic:** A tendency to have protagonists passively observe and "realize" things about their environment rather than interacting with it, leading to static, internal-heavy narratives.
+*   **Prompt-Induced Register Clashes:** Writers often insert required phrases verbatim even when they clash with the established tone, creating jarring moments of "essay voice" inside "fiction voice."
+
+**High-Band Signals (≈ 8.8+)**
+*   **Syntactic Mirroring:** The sentence structure mimics the physical action (e.g., spiraling sentences for a character descending a staircase; fractured syntax for a character in pain).
+*   **No "Translation" Layers:** The narrative presents the character’s sensory experience directly (e.g., "The air tasted of ozone") rather than translating it (e.g., "He smelled ozone and knew a storm was coming").
+*   **Cost-Bearing Elision:** The narrative skips over transitions or explanations that the *character* would take for granted, forcing the reader to inhabit the character’s expertise to keep up.
+
+**Revision Levers and Keepers**
+*   **Keep:** The specific technical vocabulary of the character’s trade (e.g., "marver," "punty," "isobar"). Protect these against editing for "simplicity."
+*   **Keep:** The distinct rhythmic patterns established in the first paragraph; if the story starts with breathless parataxis, ensure it resolves or evolves that rhythm consciously.
+*   **Keep:** Metaphors that align with the character's history (e.g., a sailor using ocean metaphors for a desert).
+*   **Change:** Excise all instances of "conceptual repricing," "resonant reconfiguration," or similar abstract noun clusters unless the character is an academic theorist.
+*   **Change:** Convert "filter" constructions ("He heard the wind howl") into direct sensory statements ("The wind howled").
+*   **Change:** Break up "drumbeat" paragraphs where three or more consecutive sentences start with a pronoun or proper noun ("She went... She saw... She took...").

@@ -1,0 +1,19 @@
+grade_story_wc_317.txt
+<question>1</question><grade>3.7</grade><comment>Elara functions as a vessel for prompt labels ("notably receptive") rather than an embodied character. Her motivation is stated as an abstract thesis ("safeguard space for innovation") without internal conflict or felt human desire. She reacts passively to the mail and map, lacking a distinct interiority or agency that drives the narrative.</comment>
+<question>2</question><grade>3.4</grade><comment>The plot relies on convenient delivery mechanisms (mail, map) and a "plaque ex machina" that explains the entire mystery instantly. There is no causal struggle or earned discovery; the narrative creates a linear path of least resistance. The resolution via a sudden informative botanist backstory is an "explain-everything" anti-pattern.</comment>
+<question>3</question><grade>3.5</grade><comment>The setting is established through the repetition of tags ("quiet brook," "nocturnal haven") rather than sensory specificity or spatial logic. The environment feels like a generic backdrop that does not constrain the character's choices or generate atmosphere beyond stated labels.</comment>
+<question>4</question><grade>3.1</grade><comment>There is no immediate antagonist or active pressure; the "corporate threat" is abstract backstory revealed only at the very end. The stakes are theoretical ("innovation") rather than visceral, and the conflict is resolved instantly without cost or sacrifice.</comment>
+<question>5</question><grade>3.3</grade><comment>The theme is delivered through heavy-handed exposition and moralizing ("symbolized something hidden," "metaphor for rare ideas"). The story explicitly tells the reader the moral instead of allowing meaning to emerge from action, resulting in a didactic educational ending.</comment>
+<question>6</question><grade>3.7</grade><comment>The voice is disrupted by the mechanical, verbatim insertion of prompt phrases ("hush of a possibility just born") which breaks narrative immersion. The tone is inconsistent, oscillating between mystery tropes and abstract advocacy statements, reading more like a checklist than a story.</comment>
+<question>7</question><grade>2.9</grade><comment>Severe repetition of specific phrases ("orthogonal approaches" ×4, "quiet brook" ×6, "storm-born silence" ×4) creates a looping artifact that stalls momentum. The prose relies almost entirely on abstract telling and scaffold sentences rather than concrete imagery or action.</comment>
+<question>8</question><grade>3.5</grade><comment>The narrative follows a predictable "cozy mystery" template with prompt elements inserted verbatim, lacking a fresh angle or subversion. The "orthogonal" solution being a literal fork in a river is a cliché interpretation that lacks ingenuity.</comment>
+<question>9 A</question><grade>6.8</grade>
+<question>9 B</question><grade>7.5</grade>
+<question>9 C</question><grade>7.2</grade>
+<question>9 D</question><grade>2.8</grade>
+<question>9 E</question><grade>3.8</grade>
+<question>9 F</question><grade>5.5</grade>
+<question>9 G</question><grade>6.2</grade>
+<question>9 H</question><grade>1.8</grade>
+<question>9 I</question><grade>4.2</grade>
+<question>9 J</question><grade>2.2</grade>

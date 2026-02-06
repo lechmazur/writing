@@ -1,0 +1,19 @@
+grade_story_wc_64.txt
+<question>1</question><grade>3.8</grade><comment>Elm acts as a cipher for the prompt rather than a realized character; his motivation ("to discover the shape of intentions") is abstract and asserted rather than felt through dramatic pressure. Interiority consists of stylized labels ("blithe whistle," "heart tenderly organized") rather than embodied emotion or genuine struggle.</comment>
+<question>2</question><grade>3.2</grade><comment>Causality relies on unearned magical leaps; the decoding mechanism is a black box where looking at a thread inexplicably reveals specific historical plots without logical grounding. The resolution (understanding the founder's intent) is a convenient epiphany that arrives without obstacle or cost.</comment>
+<question>3</question><grade>4.2</grade><comment>While the setting is established, the description is overwrought and repetitive, relying on recurring prompt phrases ("velveteen gloom," "cobalt silo") rather than fresh sensory detail. The atmosphere feels manufactured by adjectives rather than emerging from the scene's action.</comment>
+<question>4</question><grade>2.8</grade><comment>Stakes remain abstract and low; the "darker intention" is introduced and resolved instantly without threatening the protagonist. There is no tangible opposition or cost to the character's actions; he simply observes and understands.</comment>
+<question>5</question><grade>3.5</grade><comment>The theme is delivered through explicit telling ("tapestry was a map of intentions," "symbol of loss and love") rather than subtext or action. The narrative explains the meaning of every symbol immediately, leaving no room for resonance or reader interpretation.</comment>
+<question>6</question><grade>3.9</grade><comment>The voice attempts a poetic tone but lapses into purple prose and artificiality, heavily burdened by the awkward insertion of required phrases. The narrative distance is consistent, but the style feels algorithmic and forced rather than organic to the character.</comment>
+<question>7</question><grade>2.5</grade><comment>Severe keyword stuffing degrades the prose; specific prompt phrases ("uncharted echoes," "cobalt silo," "velveteen gloom," "tenderly organized") are repeated 3–4 times each, creating a jarring, template-like cadence. This mechanical repetition distracts significantly from the narrative flow.</comment>
+<question>8</question><grade>3.5</grade><comment>The premise of a gardener decoding a tapestry has potential, but the execution is a generic magical realism sketch lacking specific, gritty detail. The reliance on heavy-handed "telling" and forced phrase integration prevents any genuine novelty from emerging.</comment>
+<question>9 A</question><grade>5.2</grade>
+<question>9 B</question><grade>6.5</grade>
+<question>9 C</question><grade>2.0</grade>
+<question>9 D</question><grade>1.5</grade>
+<question>9 E</question><grade>4.0</grade>
+<question>9 F</question><grade>5.0</grade>
+<question>9 G</question><grade>6.0</grade>
+<question>9 H</question><grade>2.0</grade>
+<question>9 I</question><grade>3.8</grade>
+<question>9 J</question><grade>2.5</grade>

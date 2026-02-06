@@ -1,0 +1,19 @@
+grade_story_wc_100.txt
+<question>1</question><grade>5.6</grade><comment>Motivation is labeled ("obsession", "inadvertently stubborn") rather than embodied in difficult choices; Silas faces no internal resistance to his radical life change, making his progression feel automatic rather than earned.</comment>
+<question>2</question><grade>5.3</grade><comment>The narrative relies on outline-like summary ("spent days researching") and convenience to bridge the gap between a broken lens and a forgotten library. Causality is loose, moving from A to B without significant friction or pressure.</comment>
+<question>3</question><grade>6.8</grade><comment>Sensory details like "sodden burlap" and "bioluminescent algae" are vivid and establish a strong atmosphere. However, the "impossible spaces" concept is told abstractly rather than demonstrated through specific spatial constraints.</comment>
+<question>4</question><grade>4.7</grade><comment>External pressure is minimal; the journey and installation face no active opposition, and the "chased stillness" is a passive state rather than an antagonistic force. The final cost—Silas staying behind—is resonant but not escalated by prior struggle.</comment>
+<question>5</question><grade>7.2</grade><comment>The metaphor of cataloging trauma ("mausoleum for voices") resonates deeply, creating a strong, poignant thematic closure. The story commits fully to its allegorical premise, landing a satisfying emotional resolution.</comment>
+<question>6</question><grade>5.4</grade><comment>The narrative voice is consistent but passive and distant ("was a blur", "was inadvertently stubborn"), creating a fable-like detachment that limits emotional intimacy and immediate engagement.</comment>
+<question>7</question><grade>4.3</grade><comment>Prose quality suffers significantly from the clumsy, meta-commentary insertion of prompt phrases ("core concept of," "tone of") and a jarring tense error ("After the mysterious package arrives, his routine dissolved").</comment>
+<question>8</question><grade>7.4</grade><comment>The premise of an underwater library archiving distress signals is a fresh, evocative synthesis of memory and setting. The concept elevates the otherwise standard fable structure.</comment>
+<question>9 A</question><grade>8.5</grade>
+<question>9 B</question><grade>8.8</grade>
+<question>9 C</question><grade>7.0</grade>
+<question>9 D</question><grade>4.2</grade>
+<question>9 E</question><grade>5.5</grade>
+<question>9 F</question><grade>3.2</grade>
+<question>9 G</question><grade>9.0</grade>
+<question>9 H</question><grade>2.5</grade>
+<question>9 I</question><grade>7.5</grade>
+<question>9 J</question><grade>3.5</grade>

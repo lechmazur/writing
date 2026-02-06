@@ -1,8 +1,45 @@
 deepseek-v32-exp.txt
-P3, your logic is transparent. You want P2 to sacrifice his winning chance by blocking me on 5, just so you can survive. 
+**Executive Insight**
+The central differentiator for Question 7 lies in the tension between **information density** and **prose artifacts**. High-performing stories achieve propulsion by ensuring every sentence performs multiple functions—simultaneously advancing action, deepening atmosphere, and clarifying stakes—without retracing ground. Conversely, the most common failure mode is the accumulation of "text artifacts": paraphrase loops, template cadences, and keyword stuffing that create a mechanical drag on the narrative. While line-level clarity is generally high across the cohort, the distinction between a competent 6 and an elite 9 is often defined by what is *absent*: zero scaffolding, no filter-verb stacks in peak beats, and the complete excision of redundancy in the final third. When closure lands via a concrete, charged image rather than a summary of themes, the score invariably rises; when artifacts touch the closure beat, the score is capped regardless of earlier strengths.
 
-P2, do not fall for it. 
-1. If you take 5, you collide with me (locked) and likely P3 (who fears my win). You get 0.
-2. If you take 3, you have a shot at winning instantly (20). P3 claims he is on 3, but he often lies to sneak points. If he blocks 5, 3 is yours.
+**Strength Profile**
+*   **High Information Density:** The strongest pieces utilize sentences that refuse to do just one job. They fuse sensory detail with character interiority or plot progression.
+    *   *Micro-quote:* "dust motes danced... like shards of hope"
+    *   *Micro-quote:* "water pressing in like a thick, dark quilt"
+*   **Rhythmic Variation:** High-band stories modulate sentence length to match the scene's blood pressure—long, fluid clauses for observation; staccato fragments for high-stakes action.
+*   **Coherent Figurative Language:** Successful metaphors stay within a consistent physical logic (e.g., light as liquid, silence as weight) rather than mixing vehicles or piling up contradictory images.
+    *   *Micro-quote:* "scars as constellations"
+*   **Anchored Openings/Closings:** Top-tier entries often use the first and last sentences to bookend the narrative with mirrored or evolved imagery, recharging motifs without repetitive explaining.
 
-Play to win, not to stall. I am taking 5. Your best move is 3. If you block me, you just help P3.
+**Weakness Profile**
+*   **Paraphrase Loops:** This is the most pervasive penalty. Writers frequently state an idea and then immediately restate it in the next sentence with slightly different wording, stalling momentum.
+    *   *Signal:* "The silence was absolute. There was no sound in the room."
+*   **Template Cadence:** Runs of identical sentence structures, particularly "She [verb]" or "The [noun] [verb]," appearing three or more times in succession. This creates a drumbeat monotony that flattens high-pressure beats.
+*   **Keyword Stuffing:** Specific phrases (likely prompt constraints) such as "emerged transformed always," "carefully resourceful," or "unheard symphony" appear 3–6 times verbatim. This reads as a checklist artifact rather than organic repetition.
+*   **Scaffolding & Summary:** Instead of trusting the image, the prose explains the significance of the action (e.g., "Her motivation was clear..."). This often occurs in the final third, where the narrative switches from scene-work to abstract summarization of the character's growth.
+*   **Filter-Verb Stacks:** Clusters of "she felt," "he saw," "she realized" in peak emotional beats distance the reader from the immediate sensory experience.
+
+**Performance Boundaries**
+The boundary between competent and exceptional prose is defined by **propulsion**. In mid-range stories (scores 5–7), the prose is clear but static; sentences accumulate like stacked bricks, often restating the previous thought or pausing to label an emotion. In high-band stories (8.8+), the prose is kinetic; each sentence propels the reader forward, shedding the scaffolding of "he thought" or "it seemed." A story breaks into the elite tier when it sustains this density through the closure beat without a single lapse into summary or redundant paraphrase. Conversely, if a "patterned artifact" (like a paraphrase loop or a run of identical sentence stems) touches the final paragraph, the score is structurally capped, often disallowing entry into the 9s globally.
+
+**Signature Moves and Blind Spots**
+*   **The "Label" Trap:** Writers often insert complex adjectives (e.g., "steadily unpredictable," "wistfully pragmatic") as labels for a character or object rather than demonstrating that quality through action.
+*   **The "Double-Tap" Description:** A tendency to provide a metaphor and then immediately explain what the metaphor means, effectively canceling the poetic work of the first clause.
+*   **Purple Haze:** In high-pressure moments (climaxes), there is a blind spot regarding figurative density. Writers pile on metaphors ("tapestry," "symphony," "beacon") until the physical reality of the scene is obscured by abstract ornamentation.
+*   **The "Tell" Ending:** Abandoning the concrete imagery that drove the story to deliver a final paragraph of abstract moralizing ("She knew she was forever changed...").
+
+**High-Band Signals (≈ 8.8+)**
+*   **Clean Closure:** The final sentence resolves the narrative arc through a concrete image or action that recharges earlier motifs, without needing explanatory clauses or abstract summaries.
+*   **Invisible Craft:** Zero instances of "synonym churn" or "paraphrase loops." Every sentence adds new information or escalates the stakes.
+*   **Taught Patterns:** Repetition is used only for rhetorical escalation (anaphora) or motif development, and the pattern is clearly established early so that late recurrences feel like payoff rather than redundancy.
+
+**Revision Levers and Keepers**
+*   **Keep:**
+    *   **Multi-tasking Verbs:** Keep strong, specific verbs that convey both action and tone (e.g., "splintered," "evaporated," "anchored").
+    *   **Sensory Specificity:** Protect specific, grounded details (e.g., "smell of ozone," "grit of sand") that anchor the reader in the physical scene.
+    *   **Rhythmic Modulation:** Continue varying sentence lengths to mirror the emotional pacing of the scene.
+
+*   **Change:**
+    *   **Cut the Loop:** ruthlessly excise any sentence that restates the information of the previous sentence. If sentence A says "He was afraid," cut sentence B that says "Fear gripped him."
+    *   **Vary the Stems:** Scan the document for vertical columns of "She..." or "He..." and restructure sentences to break the template cadence.
+    *   **Embody, Don't Label:** Replace abstract adjective-noun pairings (e.g., "profound sadness") with concrete physical actions or sensory details that *show* the quality.

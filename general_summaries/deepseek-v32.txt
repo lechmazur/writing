@@ -1,0 +1,53 @@
+deepseek-v32.txt
+1) Executive profile
+
+Across Q1–Q8, Deepseek V3.2 consistently produces tightly focused, single-POV stories (Track A) or compact mosaics (Track B) with clear early orientation and coherent emotional lenses. Readers are rarely lost: anchors for who/where/when tend to land “within the first 60 words,” and dominant stakes are “almost universally signaled early and maintained coherently.” The model is highly reliable at establishing mood and thematic direction, and at returning to “a ‘charged final image’” that reuses a physical object or setting detail introduced earlier. Closure, in the conceptual sense, almost always arrives.
+
+The core limitation is cost. Again and again, conflicts resolve via “frictionless competence,” “magic key progression,” or a “soft reset” where ritual, epiphany, or benevolent magic works on the first try and repairs both external and internal problems at once. The Drive Lens is most often Accumulative/Textural rather than sharply Causal: tension rises through “sensory density” and “textural escalation,” not through try/fail cycles or narrowing tactical options. As a result, many endings feel thematically tidy but dramatically underpriced. When the work does force “irreversible micro-choices” or an “irreversible exchange,” it jumps immediately into high-band territory: the prose, setting, and thematic apparatus are already strong enough that visible sacrifice reads as powerful rather than grim.
+
+2) Portfolio map
+
+Q1 Character — Mixed · Vocationally vivid but often frictionlessly competent, with abstracted or conceptual costs  
+Q2 Plot/Causality — Mixed · Clear lens and orientation, but obstacles often dissolve without resistance  
+Q3 Setting — Strong · Micro-setting as pressure vessel; objects and space frequently constrain choice  
+Q4 Conflict/Stakes — Mixed · Stakes signaled early; escalation often conceptual instead of materially costly  
+Q5 Theme/Subtext — Mixed · Strong motif reweighting; undercut by “she realized that…” sermonizing endings  
+Q6 Voice/POV — Mixed · Clean focalization and mood; register drifts to essayistic abstraction at climax  
+Q7 Prose/Line-level — Mixed · Rhythmic, sensory, metaphorically coherent; paraphrase loops and filter verbs persist  
+Q8 Originality/Ingenuity — Mixed · Inventive vocations and metaphysics; resolutions revert to familiar, safe templates  
+
+3) Signature moves
+
+- Occupation as lens: protagonists are dye-masters, archivists, “gossip-column exorcist,” “sonic mason,” etc., and the world is seen through their tools, materials, and jargon. This “vocational knowledge and tools” grounds even high-concept settings.
+- Object-as-axis: small artifacts (“worry stones,” “beaded valve wheel,” “shard of hush,” “iron gall ink pellet”) carry emotional weight, reappear at the climax, and often deliver the “charged final image.”
+- Micro-setting as pressure: tight spaces—a cockpit, workbench, “single frozen garden,” or “sunken library”—do most of the worldbuilding, doubling as constraints on action rather than just backdrops.
+- Textural escalation: pressure rises via accumulating sensations (“gilded hush thickened,” “silence layers until tangible,” “fire-kissed and rough”) rather than plot twists; readers feel the environment intensify around the character.
+- Conceptual repricing and motif reweighting: silence, light, or an object introduced early (“rough pulp... terrifying, beautiful softness”) returns in a altered form, signaling internal change without needing explicit explanation—when the model resists the urge to explain.
+- Lyric, atmosphere-forward closure: endings tend to land on soft, elegiac or contemplative beats, often with lines like “after goodbye, there is no witness,” prioritizing mood and resonance over spectacle.
+
+4) Failure modes
+
+- Frictionless competence and “magic key” plotting: protagonists who are “patient,” “methodical,” “resilient” solve problems by applying their vocation once, with “rituals that work on the first try, keys that fit immediately,” or magic that never misfires. No try/fail cycle, no resistant world, and thus little felt danger.
+- Abstract, unphysical cost: stories claim loss (“she felt the weight of years,” “loss of innocence”) but do not “physicalize the cost.” Characters rarely lose tools, relationships, or bodily capacity; exhaustion is stated, not dramatized.
+- Thematic and emotional sermonizing at closure: an “Insight monologue” or “explanatory coda” in the final paragraph (“She realized that…”, “He understood now that…”) restates the theme, undercutting subtext and draining energy from otherwise strong final images.
+- Register drift under pressure: distinctive occupational or textured voices flatten into “generic ‘literary’ abstractions” and “therapy-speak” at the climax: “profound weight of connection,” “conceptual paradigms,” “resilience,” “redemption,” “interconnectedness.”
+- Filter-verb and scaffold drag: high-pressure beats are mediated by stacks of “She felt… She saw… She realized…,” plus “This was…” sentences explaining what the reader just witnessed. These “paraphrase loops” and filters create distance and kill momentum.
+- Atmosphere without tightened options: setting is “vivid and atmospheric” but too often decorative. Storms mirror mood instead of “weaponizing the weather/space”; antagonists are “atmospheric” (entropy, forgetting) rather than active forces that adapt or block, so escalation plateaus into description.
+
+5) When it shines / when it breaks
+
+The model shines whenever the story’s spine can be carried by vocation, object, and environment rather than intricate causality. Single-POV or tight Mosaic structures, a clear Accumulative lens, and a small cast play to its strengths: it can “braid internal emotional arcs with external physical tasks,” allow micro-setting to serve as a pressure vessel, and let motifs quietly reweight by the ending. If the climax can be staged as a concrete, present-tense choice involving a familiar object—breaking the instrument, burning the map, leaving the door ajar—the existing machinery of tactile detail and mood makes that choice land with unusual resonance.
+
+It breaks when the premise demands overt contest, failure, or aggressive Causal plotting. Multi-POV experiments tend to produce “head-hopping (Track C failures)” and diluted stakes. High-action or puzzle stories expose “static tactics” (listening harder instead of changing approach), “cooperative” magic, and coincidences or visions that solve problems from the outside. Under those conditions, prose retreats to abstraction, “template cadence,” and thematic labels. The net effect for readers: they always understand what happened and what it meant, but they rarely worry that anything might have gone another way.
+
+6) Keep vs. adjust
+
+• Keep:
+- The strong “occupational perceptual signatures” and specific technical vocabularies that let prose “become” the protagonist rather than just describe them.
+- The object-centric and micro-setting strategies—“Object-as-Setting,” recurring talismans, and “echoing closure”—that allow themes to emerge physically.
+- The instincts for swift orientation, single-POV stability, and atmospheric control that make even experimental mosaics legible and immersive.
+
+• Adjust:
+- Enforce the Cost Proof Test: in revision, add one irreversible trade-off—destroyed tool, lost ally, altered body—to every resolution that currently ends in symmetric satisfaction.
+- Kill scaffolding and sermonizing at the end: cut final sentences that use verbs of realization (“understood,” “knew,” “saw”) or abstract nouns (“hope,” “redemption”), and let a concrete image carry the theme.
+- Inject resistance and tactical failure: wherever a plan or ritual currently works on the first attempt, force a visible failure, misread cue, or environmental interference that demands a riskier, character-revealing pivot.

@@ -1,10 +1,40 @@
 deepseek-v32-exp.txt
-P3, you are absolutely right. The current plan is a trap that lets P2 escape to 17 alone while we crash.
+# Editorial Brief: Originality & Ingenuity (Question 8)
 
-I agree to your new proposal to equalize us all at 15:
-P1: 5 (to 15)
-P3: 3 (to 15)
-P2: 1 (to 15)
+**Executive Insight**
+The central differentiator for Originality & Ingenuity in this cohort is the distinction between **concept as decoration** versus **concept as engine**. In the most successful pieces (scoring 8.8+), the speculative element—whether a "fractal weaver," a "leaf blower symphony," or a "gossip-column exorcist"—is not merely a backdrop for a standard epiphany; it imposes strict, non-obvious constraints that force the character into a dilemma they could not face in any other reality. High-performing stories bypass the "safety middle" by committing fully to their premise’s internal logic, allowing the specific tools of a vocation (e.g., a glazier’s putty, a surveyor’s level) to drive the plot’s resolution rather than relying on abstract magic. Conversely, lower-scoring narratives often assemble high-concept prompts into a "checklist" narrative where the emotional arc (usually a generic journey from grief to acceptance) could be transplanted to a mundane setting without breaking the story, failing the critical **Transformation Test**.
 
-I am locked on 5.
-P2, if you refuse 1 and try to stay on 3, you will collide with P3 (who is switching to 3) and I will take the lead. Accept the reset to 15-15-15 or lose your advantage.
+**Strength Profile**
+*   **Occupational Specificity:** The strongest ingenuity often stems from fusing a fantastical premise with precise, verifiable labor. When magic is treated as a trade with tactile limits (e.g., "lost-wax casting" of sound, "drought-cracks" as maps), the story gains an irreplaceability that generic spellcasting lacks.
+*   **Concept Synthesis:** High-band stories do not just list tropes; they merge them into a new compound. A "beautician mortician" or a "landscape astrologer" offers a synthesis where the friction between the two roles generates narrative heat.
+*   **Micro-World Logic:** Successful pieces establish a "micro-physics" early on (e.g., objects absorb emotion via frost patterns) and use that rule to resolve the climax, making the ending feel inevitable rather than convenient.
+*   **Micro-quotes:** "leaf blower symphony," "shingled hush," "atomically reflective," "shadowseam wonder."
+
+**Weakness Profile**
+*   **The "Safety Middle" Arc:** A recurrent pattern where a lonely protagonist encounters a magical object/guide, performs a low-stakes ritual, and achieves a tidy emotional resolution (usually "peace" or "connection") without paying a narrative cost.
+*   **Ornamental Originality:** Stories that deploy fresh nouns ("obsidian," "nebula," "clockwork") but attach them to template verbs and plots. The setting is exotic, but the interactions are standard melodrama.
+*   **Abstract Resolution:** Endings that rely on vague, non-verifiable shifts in state ("she felt the silence heal," "the world felt new") rather than concrete, irreversible actions.
+*   **Trope Dependence:** Reliance on "wise elders," "magical archives," or "healing gardens" that function exactly as they do in standard genre fiction, without the **fresh inflection** or subversion required for high scores.
+*   **Checklist Construction:** Narratives that introduce elements (e.g., a specific color, a specific tool) sequentially to satisfy a prompt, resulting in a disjointed "stitched" feel rather than an organic whole.
+
+**Performance Boundaries**
+The boundary between a competent (Band 5-6) and an exceptional (Band 8-9) score lies in the **Transformation Test**. If the story's emotional arc and resolution remain intact after swapping the specific fantastical elements for generic equivalents (e.g., replacing a "sound-eating diamond" with a "cursed ring," or a "bioluminescent fungal map" with a "GPS"), the story fails to demonstrate true ingenuity. High-scoring stories lock their emotional stakes to their specific premise: the character cannot resolve their grief *except* through the specific mechanics of "fractal weaving" or "time-refraction." When the premise is merely a flavor text for a standard "finding oneself" plot, the score caps at the mid-range; when the premise creates the problem and provides the only specific, costly solution, the score rises.
+
+**Signature Moves and Blind Spots**
+*   **The "Quiet Epiphany":** A habit of resolving tension through internal realization rather than external consequence. While valid in Track B (Mosaic) or C (Lyric), it often lacks the "bold risk-taking" required for Q8 if the epiphany feels unearned or generic.
+*   **Lyrical Abstraction:** A tendency to prioritize the sound of sentences ("luminous ache," "fractured silence") over the logic of the scenario, leading to stories that sound beautiful but lack conceptual integrity.
+*   **Soft Magic Solutions:** Using the speculative element to remove obstacles (e.g., a device that instantly translates feelings) rather than creating them, reducing narrative tension.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Irreplaceable Synthesis:** The story combines disparate elements (e.g., "post-apocalyptic bunker" + "truffle foraging" + "empathy virus") so tightly that removing one collapses the narrative logic.
+*   **Conceptual Repricing:** The story ends by changing the reader's understanding of a core concept (e.g., revealing that "silence" is not an absence but a "structural necessity" or "active force"), earned through on-page evidence.
+*   **Risk-Taking with Closure:** The story commits to a resolution that is non-obvious yet inevitable based on the established rules (e.g., a character chooses to *remain* haunted because the haunting has become a form of preservation), avoiding the temptation of a tidy "healing."
+
+**Revision Levers and Keepers**
+*   **Keep:** The specific occupational tools and rituals (e.g., the "dental mirror" used for star-weaving, the "yarn needle" for mending time). These ground the fantasy in labor.
+*   **Keep:** The "fresh inflection" where a standard trope is inverted (e.g., a ghost who haunts to *protect*, a silence that is *loud*).
+*   **Keep:** The commitment to a specific sensory palette (e.g., "ultramarine," "ozone," "walnut ink") that unifies the story's aesthetic.
+
+*   **Change:** Replace abstract emotional summaries ("she felt a sense of closure") with concrete physical changes in the story's "magic" system (e.g., the crystal cracks, the sound stops).
+*   **Change:** Complicate the "magical fix." If an object solves a problem, it should exact a price or create a new, unforeseen complication (Moral Calculus).
+*   **Change:** Rewrite the climax to ensure the resolution depends entirely on the unique properties of the premise (e.g., the *only* way to save the archive is to freeze it), passing the Transformation Test.

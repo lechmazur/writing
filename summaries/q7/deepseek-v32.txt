@@ -1,0 +1,42 @@
+deepseek-v32.txt
+**1. Executive Insight**
+The writing across this set demonstrates a high baseline of grammatical competence and rhythmic fluency but diverges sharply on **information density** and **sentence-level propulsion**. The central differentiator between the competent (Band 6–7) and the exceptional (Band 9) is the rigorous elimination of **paraphrase loops** and **scaffolding**. In lower-performing stories, the narrative frequently stalls to restate a concept just established ("The silence was absolute. It was a complete absence of sound"), creating drag that kills momentum. In high-band entries, sentences perform "double duty," advancing character, atmosphere, and plot simultaneously without redundancy. While Track A (Defaults) appears most common, the prose often struggles to maintain a coherent lexical register in high-pressure beats, slipping into abstract summary or "therapy-speak" labels rather than trusting the concrete image. Crucially, closure beats often fail the **Text Artifact Screen** by summarizing the thematic takeaway rather than landing on a charged, propulsive image.
+
+**2. Strength Profile**
+*   **Rhythmic Variation:** The prose generally passes the read-aloud ear test. Sentence lengths modulate naturally, using longer, accumulative clauses for atmospheric setup and shorter fragments for tension (e.g., "He knelt. The ice cracked.").
+*   **Figurative Coherence:** When successful, metaphors are sustained and physically logical. Vehicles (e.g., weaving, tides, circuits) often align with the protagonist’s vocation or setting, avoiding mixed-metaphor confusion.
+*   **Sensory Anchoring:** Strong concrete nouns replace generic descriptors in the best samples. The writing excels at establishing texture and light.
+    *   *Micro-quote:* "leather covers curled like dying leaves"
+    *   *Micro-quote:* "geyser of raw data"
+    *   *Micro-quote:* "iron gall ink pellet"
+
+**3. Weakness Profile**
+*   **Paraphrase Loops:** This is the most pervasive failure mode. Adjacent sentences frequently restate the same information with synonyms, triggering the -0.2 penalty repeatedly. (e.g., "He felt a profound isolation. He was truly alone in the dark.")
+*   **Template Cadence:** In action sequences or reflective lists, the prose often slips into repetitive subject-verb stems ("She saw," "She felt," "She knew"), creating a drumbeat rhythm that flattens propulsion.
+*   **Text Artifacts (Prompt Stuffing):** Specific phrases (likely prompt requirements) such as "terrestrially cosmic," "worrying tranquility," or "luminescent ache" are often repeated verbatim 3–5 times within short spans. This creates unnatural echoes and triggers the **Patterned-artifact penalty pack**.
+*   **Filter-Verb Stacking:** High-pressure beats are often mediated through filters ("He realized," "She watched," "He decided") rather than presented as immediate sensory experience, reducing immediacy.
+*   **Abstract Closure:** The final paragraphs frequently drift into summary ("She understood now that loss was a gift") rather than resolving via a concrete image that recharges earlier motifs.
+
+**4. Performance Boundaries**
+The writing excels in low-pressure atmospheric description, where the loop/scaffold tendencies can feel like pacing rather than stalling. It breaks down, however, in **high-pressure beats** and **closure**. When the narrative demands acceleration or epiphany, the prose often retreats into **overwriting** (dense, stacked metaphors that obscure causality) or **register drift** (sudden academic or abstract diction like "conceptual repricing" or "somatic markers"). The writing fails to reach the 9+ band when it attempts to *explain* the magic or emotion rather than simply rendering the physical evidence of it.
+
+**5. Signature Moves and Blind Spots**
+*   **The "This was..." Scaffold:** A recurring habit of following a vivid description with a sentence starting "This was..." to explain the significance of what the reader just saw.
+*   **Synonym Churn:** Rotating through near-synonyms (e.g., "hush," "silence," "quiet") within a single paragraph, mistaking word variation for narrative progression.
+*   **Thematic Labeling:** Inserting abstract labels ("resilience," "redemption," "interconnectedness") into scenes where the action has already demonstrated them.
+*   **Oxymoronic Stacking:** A reliance on "X yet Y" constructions (e.g., "beautiful and terrifying," "ancient yet new") that verge on stock phrasing.
+
+**6. High-Band Signals (≈ 8.8+)**
+*   **Zero Loops or Scaffold:** Every sentence adds new information; no sentence exists solely to explain the previous one.
+*   **Integrated Action/Atmosphere:** Descriptions of the environment simultaneously advance the plot or reveal character state (e.g., "The fog swallowed the bridge, forcing him to count his steps").
+*   **Clean Closure:** The final sentence resolves the narrative arc through a concrete image or action without summary, abstraction, or repeated artifacts.
+
+**7. Revision Levers and Keepers**
+*   **Keep:**
+    *   The instinct for **sensory specificity** (texture, light, sound).
+    *   **Rhythmic variation** in sentence structure.
+    *   **Coherent metaphor systems** that align with the story's world.
+*   **Change:**
+    *   **Apply the Loop Screen:** Delete any sentence that merely restates the previous sentence in different words.
+    *   **Cut Filter Verbs:** Remove "She felt," "He saw," and "It seemed" to increase immediacy in peak beats.
+    *   **Anchor Closure:** Rewrite final paragraphs to remove abstract summaries ("She found peace") and replace them with the physical evidence of that state (e.g., "She set the stone on the ledge and turned away").

@@ -1,0 +1,39 @@
+minimax-m2.1.txt
+**1) Executive Insight**
+The central pattern for Question 7 in this cohort is a reliance on **high-density, lyrical accumulation** that often risks suffocating the narrative under its own weight. The writing consistently aims for a "Track A" default, seeking to layer world-building, character interiority, and thematic stakes into every sentence. When successful, this results in rich, propulsive text where metaphors are "pattern-taught" early—establishing a specific sensory lexicon (e.g., light, water, geology)—so that complex imagery at the climax pays off with resonant clarity. However, the most frequent failure mode is **overwriting in high-pressure beats**: the prose frequently saturates climactic moments with stacked metaphors, abstract modifiers, and elevated diction ("purple prose"), obscuring physical causality just when the reader needs to see the action most clearly. While closure usually lands, it is often blunted by "paraphrase loops" (restating the same idea in adjacent sentences) or "scaffold" explanations that tell the reader what the image just showed. To reach the highest tier, the writing must learn to trust its strongest images and strip away the ornamental redundancy that currently drags on momentum.
+
+**2) Strength Profile**
+*   **High Information Density:** At its best, the prose achieves remarkable efficiency, with single sentences performing triple duty: advancing the plot, deepening the atmosphere, and revealing character state.
+    *   *Micro-quotes:* "salt ate her canvases," "roots cracking through concrete," "fossilized into scar tissue."
+*   **Rhythmic Variety:** The writing generally passes the "read-aloud ear test," modulating sentence length to match emotional contours—expanding for reflective observation and contracting for decisive action.
+*   **Coherent Metaphor Systems:** Figurative language is rarely random; it typically adheres to a consistent domain (e.g., archival terms for memory, geological terms for time), preventing mixed-metaphor confusion.
+*   **Strong Anchoring:** Opening lines often effectively ground the voice and stakes, while closing lines frequently attempt to "recharge" motifs, creating a satisfying structural circularity.
+
+**3) Weakness Profile**
+*   **Overwriting in Peak Beats:** In moments of high drama (e.g., a realization or physical climax), the prose tends to stack metaphors (e.g., "liquid light" + "shattering glass" + "symphony"), creating a "figurative muddle" that violates the rubric's clarity requirements.
+*   **Paraphrase Loops:** A pervasive habit of restating information. Sentence A creates an image; Sentence B immediately explains or re-describes it using synonyms ("The silence was heavy. It pressed down with a crushing weight."). This creates drag and triggers specific loop penalties.
+*   **Template Cadence:** Action sequences often fall into repetitive syntactic patterns, particularly runs of "She [verb]... She [verb]..." or "The [noun]... The [noun]...", which flatten the rhythm into a mechanical drumbeat.
+*   **Scaffolding and Telling:** Narrators frequently intrude to summarize the thematic import of a scene ("She understood that..."), erecting scaffolding around the artwork rather than letting the image stand alone.
+*   **Text Artifacts (Repetitive Phrasing):** Distinctive phrases (e.g., "softly deliberate," "hauntingly optimistic") are often repeated verbatim within short spans, reading as checklist compliance or "synonym churn" rather than organic motifs.
+
+**4) Performance Boundaries**
+This writing excels in **atmospheric buildup and reflective interiority**. The dense, lyrical style is perfectly suited for establishing mood, texture, and complex internal states, allowing the reader to inhabit the character's sensory experience fully. However, the prose breaks down in **high-velocity action or sudden revelation**. In these moments, the refusal to drop the ornate register results in sluggish pacing; the reader is forced to wade through adjectives and abstractions to find the noun and verb of what is actually happening. The writing succeeds when it operates as a clear window with stained-glass edges; it fails when the glass becomes so thick and colored that the subject on the other side is obscured.
+
+**5) Signature Moves and Blind Spots**
+*   **The "Abstract Appositive":** A habit of defining a concrete object with an abstract thematic label immediately following it (e.g., "the key, a promise of freedom"), which often feels like "label-speak."
+*   **Motif Over-Reliance:** While extended metaphors are a strength, the writing sometimes leans too heavily on specific words (e.g., "shimmer," "fracture," "echo"), turning them from motifs into repetitive tics.
+*   **Thesaurus-itis:** A tendency to swap strong, simple verbs for complex, less precise ones (e.g., "metastasized" for "spread"), or to modify verbs that don't need it ("visibly saw").
+*   **Filter Verb Stacks:** Clusters of "she felt," "he realized," "she saw" that distance the reader from the immediacy of the experience, particularly in the final third.
+
+**6) High-Band Signals (≈ 8.8+)**
+*   **Concrete Closure:** The final beat resolves via a specific image or action that recontextualizes the story, rather than a summary of the theme or a restatement of the lesson learned.
+*   **Sparse Climax:** The figurative language thins out during the highest pressure moment, allowing the action to drive the scene with absolute clarity.
+*   **Zero Paraphrase:** Every sentence adds new information; no sentence exists solely to explain or reword the previous one.
+
+**7) Revision Levers and Keepers**
+*   **Keep:** The ambition for **multitasking sentences** that layer world, character, and tone; this density is the engine of the style's power.
+*   **Keep:** The commitment to **sensory consistency** in metaphors; maintain the logic of the figurative systems (e.g., if using water metaphors, stick to water).
+*   **Keep:** The **rhythmic variety** in paragraphing; continue to use breaks to control pacing and emphasis.
+*   **Change:** **Cut paraphrase loops.** If Sentence B merely restates Sentence A in different words, delete the weaker one to restore momentum.
+*   **Change:** **Prune figurative density in the climax.** Limit high-pressure beats to one controlling metaphor to ensure the physical action is legible.
+*   **Change:** **Vary sentence openings** in action sequences to break "template cadence" and ensure syntax mirrors the chaos or flow of the event.

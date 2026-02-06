@@ -1,0 +1,40 @@
+qwen3-max-2026-01-23.txt
+**Executive Insight**
+The cohort demonstrates high proficiency in rhythmic variation and atmospheric consistency but struggles significantly with **information density** due to recursive phrasing. While most stories pass the read-aloud ear test with sophisticated syntax, they frequently fall victim to the "Paraphrase Loop": stating an image or realization, then immediately restating it with synonym churn in the following sentence (e.g., defining a metaphor immediately after using it). This creates a textual stutter that feigns depth while stalling propulsion. Line-level craft is strongest in descriptive setups where sentences perform "double duty" (advancing setting and character simultaneously), but often degrades into filter-verb stacking and abstract summary during high-pressure climaxes. Closure reliably lands, but often relies on thematic explication ("She realized it was not X, but Y") rather than trusting the accumulated weight of the established imagery.
+
+**Strength Profile**
+*   **Multitasking Sentences:** The strongest lines fuse world-building, sensory detail, and character interiority into single, propulsive units.
+    *   *Micro-quotes:* "skeleton of iron and stubbornness," "rusted to the color of dried blood," "salt crystals...like archival frost."
+*   **Coherent Figurative Systems:** Metaphors generally adhere to a unified logic (e.g., maritime, geological, or acoustic) without mixing vehicles, even in dense passages.
+*   **Rhythmic Variety:** Sentence openings and lengths vary naturally, avoiding the monotony of algorithmic drumbeats in the majority of descriptive passages.
+*   **Tactile Anchoring:** When writers trust concrete nouns over abstract labels, the prose achieves high immediacy (e.g., focusing on the temperature of a key or the grit of dust rather than the "concept" of age).
+
+**Weakness Profile**
+*   **Paraphrase Loops & Synonym Churn:** A pervasive habit of doubling down on ideas without adding pressure. (e.g., "The silence was absolute. It was a complete lack of sound.") This artificially inflates word count and kills momentum.
+*   **Template Cadence in Lists:** Runs of three or more sentences with identical syntactic stems (e.g., "She [verb]... She [verb]... She [verb]...") appearing in non-pattern-taught moments, creating a mechanical, list-like effect.
+*   **Adverb-Adjective Labeling:** Relying on "tell-y" clusters like "methodically curious" or "quietly pragmatic" instead of dramatizing those traits through micro-actions.
+*   **Filter-Verb Stacks in Climaxes:** High-pressure beats often retreat into "She felt," "She realized," "She understood," distancing the reader exactly when immersion is most critical.
+*   **Text Artifacts:** Significant presence of hallucinations (untranslated Chinese characters, e.g., "soft梯形") and typo-like glitches that break immersion.
+
+**Performance Boundaries**
+The writing excels when it operates in **observation mode**, allowing the POV to catalog the world through specific, sensory details. In these moments, the prose is lucid, atmospheric, and dense. The writing breaks, however, during **internalization and transition**. When the narrative demands a shift in understanding or a move toward closure, the prose frequently retreats into scaffolding—explaining the metaphor it just used or summarizing the emotional shift with abstract nouns ("redemption," "connection," "purpose") rather than sustaining the concrete imagery that built the scene.
+
+**Signature Moves & Blind Spots**
+*   **The "Not X, but Y" Construction:** A heavy reliance on defining things by what they are *not* (e.g., "not a prison, but a sanctuary"), often used redundantly to explain a nuance the reader has already grasped.
+*   **The "Particular [Noun]" Tic:** Using "that particular shade," "a particular silence," or "her particular grief" as a shortcut for specific description.
+*   **Purple Density:** Overloading sentences with stacked metaphors in low-stakes moments, creating a "decorative" texture that lacks causal propulsion.
+*   **The "Show, Then Tell" Loop:** Presenting a vivid image, then immediately following it with a sentence starting with "It was as if..." or "She understood that..." to decode the image for the reader.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Zero Scaffolding:** Every sentence advances the narrative or deepens the image; no sentence merely restates the previous one.
+*   **Pattern-Taught Figurative Language:** Metaphors are established early and return at the closure with evolved meaning, without the need for explanatory bridging.
+*   **Action-Driven Closure:** The final beat resolves through a concrete physical action or sensory detail that implies the internal change, rather than a summary of the lesson learned.
+
+**Revision Levers and Keepers**
+*   **Keep:** The rhythmic variety in sentence structure; it prevents the text from feeling robotic.
+*   **Keep:** The commitment to concrete nouns and strong verbs in descriptive passages.
+*   **Keep:** The coherent metaphorical families (e.g., keeping water metaphors consistent within a sea-side story).
+
+*   **Change:** **Cut the second sentence** of any pair that restates the same idea; trust the first image.
+*   **Change:** **Scrub filter verbs** ("felt," "saw," "heard") from the final third of the story to increase immediacy at the climax.
+*   **Change:** **Prune "Adverb + Adjective" clusters** (e.g., "gently persistent") and replace them with a single verb or concrete detail that proves the trait.

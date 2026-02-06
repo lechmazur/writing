@@ -1,0 +1,40 @@
+qwen3-max-2026-01-23.txt
+**Executive Insight**
+The central pattern in this cohort is the rigorous establishment of a **perceptual signature**: the narrative voice rarely defaults to a generic observer but instead filters reality through a specific professional or emotional lexicon (e.g., an archivist reading "palimpsests," a botanist noting "root-bound" tension). This creates a high baseline of textural quality, usually placing the work in the 7–8 band. However, the writing often struggles to maintain this immersion under pressure. The most common failure mode is **register drift**, where a character’s embodied experience dissolves into abstract, essayistic summary (often utilizing academic or therapeutic language) right at the climax. When the prose trusts its established imagery to carry the emotional weight, the closure lands with resonance; when the narrator steps in to explain the theme ("she understood that connection was..."), the tension evaporates.
+
+**Strength Profile**
+*   **Vocational Perceptual Filters:** The strongest pieces weld the POV to the character’s trade. An architect sees "structural integrity" in a relationship; a musician hears "intervals" in silence.
+    *   *Micro-quotes:* "geometry of a loss," "grain like braille," "language of ash."
+*   **Stable Psychic Distance:** Head-hopping is rare. The narrative generally respects the limitations of the focalizer, creating a coherent, immersive vessel for the story.
+    *   *Micro-quotes:* "honeyed gold," "saffron quiet," "softly deliberate steps."
+*   **Rhythmic Lyricism:** At its best, the prose adopts a cadence that mirrors the character's internal state—long, winding sentences for contemplation; clipped, hard consonants for decision.
+*   **Atmospheric Consistency:** The writing excels at sustaining mood, particularly "hushed" or "reverent" tones that suit the speculative/fabulist nature of the prompts.
+
+**Weakness Profile**
+*   **Essayistic Abstraction (Register Drift):** In high-stakes moments, the voice often abandons sensory detail for intellectual summary. Words like "conceptual," "epistemological," "somatic markers," or "liminal space" appear in the internal monologue of characters who would not naturally think in those terms during a crisis.
+*   **The "Helpful Narrator":** A pervasive tendency to use filter verbs and summary to ensure the reader "gets it." Instead of showing a character trembling, the text states, "She realized the magnitude of her fear."
+    *   *Signals:* Stacks of "she understood," "he realized," "she felt."
+*   **Artifacts and Glitches:** Several stories contain untranslated Chinese characters (e.g., "梯形," "方向盘") or garbled text mid-sentence. These instantly shatter POV consistency and indicate generation errors.
+*   **Uniformity of Tone:** While the lyrical mode is strong, it can become monotonous. The voice sometimes fails to modulate—to get rougher, faster, or simpler—when the action demands speed, resulting in a "museum distance" where even danger feels curated.
+
+**Performance Boundaries**
+The writing excels in **meditative, accumulative sequences**—describing a setting, establishing a backstory, or outlining a magical system through a character's eyes. It achieves "High-Band" status when it can transition from this reflective state into **embodied action** without changing registers. The writing breaks when it attempts to force a thematic conclusion; specifically, when the final paragraph summarizes the "lesson" of the story rather than letting the final image speak. If the character stops noticing the world (sensory) and starts analyzing the plot (abstract), the score drops.
+
+**Signature Moves and Blind Spots**
+*   **The "Synesthetic" Opener:** A frequent habit of describing one sense in terms of another (e.g., "tasting the silence," "colors that sounded like bells"). This is effective but can become a tic if overused.
+*   **The "Hush" Reliance:** A vast number of stories rely on the word "hush" or "silence" to convey gravity. It is a signature atmospheric move that risks becoming a cliché.
+*   **Blind Spot: Dialogue as Action.** Dialogue is often sparse or used solely for exposition. Characters rarely speak to *do* things (seduce, wound, hide); they speak to explain the plot to one another, which flattens the voice into a "committee" tone.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Rhythmic Modulation Under Pressure:** The syntax changes to match the heartbeat. Long, flowing sentences in the setup give way to short, percussive fragments at the climax.
+*   **Embodied Epiphany:** The realization is anchored in a physical object or sensation (e.g., the coldness of a key, the snap of a thread) rather than an abstract noun.
+*   **Seamless Free Indirect Style:** The narrative voice dips into the character’s specific thoughts without needing tags like "she thought" or "he wondered."
+
+**Revision Levers and Keepers**
+*   **Keep:** The specific **vocational vocabulary**. If a character is a clockmaker, keep the "escapements" and "springs"; they ground the metaphor.
+*   **Keep:** The **stable focalization**. The discipline of staying in one head is a major asset of this cohort.
+*   **Keep:** The **lyrical openings**. The ability to set a mood quickly is high; protect those first 50 words.
+
+*   **Change:** **Ctrl+F for "understood/realized/felt."** Cut these filter verbs. State the observation directly (e.g., change "She felt the cold wind" to "The wind bit her skin").
+*   **Change:** **Audit for "Essay Words."** Scan the climax for words ending in "-tion," "-ity," or "-ism" (conceptual, epistemological, resonance). Replace them with concrete nouns related to the character's job.
+*   **Change:** **Fix Text Artifacts.** Aggressively scrub any non-English characters or generation glitches; they are instant disqualifiers for voice consistency.

@@ -1,0 +1,38 @@
+story_wc_395.txt
+<story>
+
+The archive never truly slept. [5] It hummed with the residual warmth of three billion profiles, their status updates and birthday wishes and funeral announcements stacked in columns of light that stretched beyond what any single human mind could navigate. [36] Maren Voss was not a single human mind; she was the corporate memory keeper, and the archive was her cathedral. [53]
+
+Her title was officially Data Retention Specialist, but everyone at Nexus Social called her the memory keeper because she remembered what the servers tried to forget. [75] She had been brightly attentive since childhood, the kind of person who noticed when a picture frame shifted two degrees on a wall, when a colleague's smile thinned by a millimeter, when a number recurred where it should not. [108]
+
+The number was 7-4-1-1. [113]
+
+It first appeared in a metadata string attached to a deleted user profile she was auditing. [128] Then it surfaced as a timestamp anomaly: 7:41:1 AM, an impossible clock reading that the system logged anyway. [145] It showed up in the pixel coordinates of a corrupted profile photo, in the character count of a cached message, in the unique visitor tally of a memorial page that should have had zero views. [176] 7-4-1-1, recurring like a heartbeat in a body everyone assumed was dead. [188]
+
+The profile belonged to Commander Diane Okoro, missing eight years. [197] She had been the pilot of the Tern-9 mission, a low-orbit corporate shuttle that broke apart on reentry over the Pacific. [216] Three crew members were recovered. [221] Okoro was not. [224] Her Nexus Social profile had been memorialized, then quietly deleted at the request of someone in corporate legal whose name was itself now deleted. [245]
+
+Maren kept a patch from the Tern-9 mission pinned to the corkboard above her workstation. [259] She had bought it at a memorabilia auction three years ago, not because she collected space artifacts but because the listing had contained the number 7-4-1-1 in its lot code, and by then she was already following the trail. [299]
+
+The patch was singed along one edge, the mission logo half-melted into a smear of silver and blue. [316] She touched it sometimes when she worked late, when the archive's hum shifted into frequencies that reminded her of songs she could no longer name, melodies from a decade ago that the platform had once hosted before licensing disputes scrubbed them into silence. [355] Across the echo of forgotten songs, Maren searched. [363]
+
+She was supposed to be determining where deleted files went, a routine infrastructure audit requested after a storage migration. [379] That was the official reason she had access to deep archives. [389] The unofficial reason was Diane Okoro, who had become Maren's obsession the way cold cases become obsessions: not through drama but through the quiet, sensed absence of a person who should have left more traces. [423]
+
+Okoro's profile had been erased, but erasure in a social network archive is never clean. [438] Fragments persist in cached replies, in tagged photos hosted on other accounts, in the ghost impressions of shared links. [455] Maren found a message draft, never sent, dated two days before the Tern-9 launch. [468] It read: "If something happens, check maintenance log 7411. [477] They changed the inspection results. [482] I have proof but they'll say I don't." [490]
+
+Maren's hands went cold. [494]
+
+She queried maintenance log 7411 and found it had been overwritten with a standard compliance template. [508] But the overwrite timestamp contained an operator ID she could cross-reference. [518] The operator was Gregory Lam, former VP of Aerospace Partnerships, who had told the NTSB that all pre-flight inspections were nominal. [536]
+
+He had lied. [539]
+
+The inspection Okoro referenced would have grounded the shuttle for a failed heat shield integrity check. [553] Grounding it would have voided a launch window bonus worth forty million dollars. [564] So Lam signed off on falsified results, and when Okoro tried to flag it, she went up in a shuttle that could not come safely down. [590]
+
+Maren copied everything to a secured external drive. [598] She stared at the patch, its melted edge a scar in silver. [610] She had wanted to find where deleted files go. [619] Now she knew: they go where Diane Okoro went, into a silence that someone with authority deliberately constructed. [636]
+
+But silence in an archive is not the same as silence in the world. [649] Maren picked up her phone and called a journalist she had once seen tagged in Okoro's photos, a woman who had posted a birthday message to Diane every year for eight years, faithfully, into the void of a deleted profile. [690]
+
+"I found her," Maren said, and she did not mean the body. [702] She meant the truth, which had been missing longer and buried deeper, and which, unlike a person, could still be brought all the way home. [727]
+
+The archive hummed. [730] For the first time in years, it sounded less like forgetting and more like a held breath finally released. [747]
+
+</story>

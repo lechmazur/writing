@@ -1,10 +1,40 @@
 deepseek-v32-exp.txt
-P2, you just agreed to the split and now you renege? Your erratic behavior is suicide.
+# Editorial Brief: Theme & Subtext (Question 5)
 
-If you crash us on **3**, we both get zero. P3 (who always plays 5) will jump to 15 steps.
-Result: I am tied for the lead, but you remain hopeless in last place at 4 steps. A collision destroys **your** game, not mine.
+**Executive Insight**
+The central differentiator between competent work (6.0–7.5) and exceptional resonance (8.8+) in this cohort is the handling of the **Conceptual Repricing** at the closure. High-performing stories consistently allow a recurring object or ritual to "answer" the central thematic question non-literally, reweighting the narrative’s premise without authorial intrusion. The theme emerges as an organic byproduct of character action—specifically through craft, repair, or curation—rather than declared intent. Conversely, the most frequent ceiling on performance is **Thematic Echo**: the tendency to explicitly state the story’s moral or thesis, particularly in the final paragraph. When the narrative trusts the image to carry the weight (e.g., a "beaded valve wheel" shifting from decoration to burden), the score soars; when the narrator steps in to explain that "resilience is found in small things," the subtext collapses into sermon, flattening the emotional aftereffect.
 
-I am locking in **3**. I will not sacrifice my steps to do your dirty work.
-Take **5** to block P3 yourself, or take **1** to finally move.
+**Strength Profile**
+*   **Tangible Vehicles for Abstraction:** The most successful pieces ground high-concept themes in specific, tactile vocations. Whether it is "sandpapering memories," "weaving rope," or "tuning wind bells," the physical labor carries the metaphysical weight.
+*   **Recurring Motifs that Accumulate:** Strong stories introduce an image early (e.g., a "chipped mosaic" or "cracked lens") and allow it to accrue meaning through narrative friction, rather than static symbolism. By the end, the object vibrates with the story's accumulated history.
+*   **Resonant, Non-Literal Answers:** The best endings solve the plot’s external problem while offering an ambiguous, image-driven answer to the internal thematic question.
+    *   *Micro-quotes:* "fire to illuminate rather than consume," "laughter... a true haunting," "scars are like stories."
+*   **Subtextual Gesture:** High-scoring texts allow characters to embody the theme through silence, hesitation, or physical interaction with objects, rather than dialogue about feelings.
 
-P3, the 1 lane is open.
+**Weakness Profile**
+*   **Thematic Echo (The "Thesis Statement"):** The pervasive habit of summarizing the story's meaning in the final two paragraphs. Phrases like "She realized that..." or "He understood now..." often precede a direct restatement of the prompt’s core concept, triggering significant penalties (−0.6 to −0.8).
+*   **Sermonizing Endings:** Closures that pivot from narrative resolution to abstract philosophizing. Instead of leaving the reader with a charged image, the text delivers a lesson on "hope," "connection," or "resilience."
+*   **Symbolic Convenience:** Introducing a heavy-handed symbol late in the narrative solely to resolve a thematic thread (e.g., a sudden sunrise or blooming flower) rather than earning the resolution through prior particulars.
+*   **Label-Speak:** Relying on abstract nouns (e.g., "authenticity," "integrity," "wonder") to describe emotional states rather than evoking them through sensory details or dramatic irony.
+
+**Performance Boundaries**
+The boundary between a mid-tier and top-tier score is almost exclusively defined by **trust in the reader**. Stories that sit in the 6–7 range often have strong setups and imagery but betray anxiety in the final beat, stepping in to ensure the reader "gets it" by decoding their own metaphors. Stories that break into the 8–9 range maintain discipline to the very last word, refusing to summarize. They end on a "Charged Poise"—an image that holds two contradictory truths in suspension (e.g., peace and loss, silence and sound)—forcing the reader to perform the final synthesis. The moment the author explains the symbol, the tension evaporates; the moment they let the symbol sit in silence, resonance is achieved.
+
+**Signature Moves & Blind Spots**
+*   **The "Vocation" Move:** A signature strength is the use of esoteric jobs (archivist of echoes, mender of shadows) to literalize abstract themes. This works exceptionally well when the mechanics of the job mirror the internal arc.
+*   **The "Epiphany" Blind Spot:** Writers often mistake a character thinking about the theme for a dramatic realization. True epiphanies in this format must be earned through *cost*—a sacrifice or irreversible choice—not just a shift in perspective during a pause in action.
+*   **Prompt-Word Relapse:** A recurring tic is embedding the prompt's specific abstract keywords (e.g., "unheard symphony," "ordinary magic") directly into the narration, which reads as "checking a box" rather than organic integration.
+
+**High-Band Signals (≈ 8.8+)**
+*   **Conceptual Repricing:** The final image fundamentally alters the reader's understanding of the opening image (e.g., a "bunker" reweighted from prison to sanctuary).
+*   **Cost Legibility:** The thematic resolution acknowledges what was lost to achieve it. The "happy ending" is textured with irreversible change or scar tissue.
+*   **Clean Final Third:** The narrative voice remains strictly observational or sensory in the climax, avoiding all meta-commentary or summary judgment.
+
+**Revision Levers and Keepers**
+*   **Keep:** The focus on specific, tactile crafts and rituals. These provide the necessary "particulars" that ground abstract themes.
+*   **Keep:** The use of recurring motifs (objects, sounds, colors) that thread through the narrative.
+*   **Keep:** The instinct for "quiet endings." Resolution does not need to be loud to be resonant.
+
+*   **Change:** **Amputate the Thesis.** Locate the sentence near the end that starts with "She realized..." or "It was a testament to..." and cut it entirely. Let the preceding image stand alone.
+*   **Change:** **Concrete over Abstract.** Scan for abstract nouns (resilience, hope, despair) and replace them with the physical evidence of those states (a green shoot in ash, a mended cup, a clenched fist).
+*   **Change:** **Complicate the Moral.** If the theme feels too tidy (e.g., "kindness always wins"), introduce a counter-note or a cost. Ensure the protagonist’s victory leaves a mark.

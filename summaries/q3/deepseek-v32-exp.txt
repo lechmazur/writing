@@ -1,39 +1,38 @@
 deepseek-v32-exp.txt
-**Executive Insight**
-The most significant differentiator in this cohort is the depth and consistency of the **perceptual signature**—the extent to which the narrative voice filters the world through the protagonist’s specific vocation, trauma, or obsession. While baseline competency is high (POV stability is the norm, head-hopping is rare), the stories separate sharply under pressure. In the mid-range (6.0–7.5), the voice tends to be "generic literary," relying on elevated abstractions and explanatory interiority ("she felt profound sadness") to convey stakes. In the high band (8.8+), the prose itself acts as the character’s nervous system: syntax fractures during panic, lengthens during reflection, and diction remains strictly bound to the focalizer’s lexicon (e.g., a clockmaker seeing the world in gears and tension). Track C (Multi-POV) usage is generally successful when section breaks are clean, but the most potent impact consistently comes from single-POV narratives where the rhythmic control mirrors the character’s physiological state.
+**1) Executive Insight**
+In the 600–800 word range, the dividing line between competent description and high-band mastery lies in whether the setting acts as a **crucible** or merely a **backdrop**. Top-tier stories (9.0+) treat the environment not as a stage for the action, but as an active antagonist or necessary tool that **constrains tactical choices**. When a character must alter their physical movement because of a "low-gravity summit," or modify a ritual because of "broken piano strings," the setting earns its keep. Lower-band stories often feature lush, visually evocative "postcard" descriptions—glowing nebulas, ancient libraries, misty gardens—that set a mood but allow the protagonist to move and act without friction. For Q3, specificity is not just about adjective count; it is about causal integration. If the story could take place in a generic room without altering the plot’s mechanics, the score caps at the 7-band. The highest scores are reserved for narratives where the environment—or a **micro-setting** object—is indispensable to the solution and actively **charges the final image** with reweighted meaning.
 
-**Strength Profile**
-*   **Stable Focalization:** The vast majority of texts maintain a disciplined third-person limited or single-POV perspective. POV leakage and unauthorized head-hopping are rare, establishing a baseline of professional control.
-*   **Lyrical Texture:** The cohort shows a strong aptitude for atmospheric, sensory-rich description, particularly regarding light, silence, and texture.
-    *   *Micro-quotes:* “bronze quiet,” “luminescent ache,” “fractured grace,” “thistled calm.”
-*   **Occupational Filtering:** Stronger pieces successfully tether metaphors to the character’s trade (e.g., archivists noticing dust patterns, engineers noticing structural stress), grounding abstract prompts in concrete reality.
-*   **Purposeful Compression:** Experimental elision (skipping transitions or backstory) is frequently handled well, treated as a lyric technique taught early in the text rather than a confusion of plot.
+**2) Strength Profile**
+*   **Micro-Setting as Anchor:** The most effective pieces often shrink the scope to a single, tactile focal point—a "beaded valve wheel," a "cracked font," or a "glass inkwell"—which functions as the setting. This allows for deep specificity without word-count bloat.
+*   **POV-Filtered Sensory Hierarchy:** Strong stories filter details through the protagonist’s immediate needs or profession. A glazier notices "refractive angles"; a deep-sea diver feels "crushing pressure" before seeing light.
+*   **Environmental Constraint:** High scorers use the setting to force trade-offs. The character cannot run because of "knee-deep silt"; they must whisper because the "acoustic gallery" amplifies sound.
+*   **Causal Evolution:** The setting changes in response to the plot. A "frozen lake" thaws to reveal secrets; a "dusty workshop" is illuminated by the protagonist's work.
+    *   *Micro-quotes:* "roots snaked between femurs," "air tasted of ozone and rot," "scent of iron gall ink."
 
-**Weakness Profile**
-*   **The "Helpful Narrator" Syndrome:** A pervasive tendency to interrupt the dramatization to explain the character’s emotions or the scene’s thematic import. This manifests as diagnostic summary (“Her motivation was clear,” “He realized the profound connection”) rather than embodied experience.
-*   **Register Drift:** The narrative voice often slips into academic, corporate, or "prompt-label" diction that clashes with the character’s lived reality. Phrases like “conceptual repricing,” “intersubjective understanding,” or “resonant reconfiguration” appear frequently, shattering immersion in otherwise grounded scenes.
-*   **Static Rhythm Under Pressure:** In lower-scoring stories, the sentence cadence remains identical during calm reflection and life-threatening climaxes. The syntax fails to accelerate or fragment to match the rising stakes.
-*   **Template Cadence:** A mechanical repetition of sentence openers (e.g., “She [verb]…,” “He [verb]…”) or prompt-phrase insertions that creates a droning, drumbeat rhythm, flattening the voice’s musicality.
+**3) Weakness Profile**
+*   **Postcard Description:** Vivid visual descriptions (sunsets, shimmering magic, glowing runes) that fail to interact with the character. The protagonist observes the scenery rather than inhabiting it.
+*   **The "Hush" Abstraction:** A pervasive reliance on abstract nouns like "hush," "gloom," "silence," and "void" to do the heavy lifting for atmosphere, rather than concrete sensory details (e.g., the *sound* of a dripping tap vs. "the silence was heavy").
+*   **Lack of Spatial Choreography:** "White-room syndrome" where bodies and objects float in undefined space. Readers cannot track where the character is standing relative to the door or the table.
+*   **Static Backdrops:** The setting is established in the first paragraph and then ignored. It does not exert pressure during the climax or participate in the resolution.
+*   **Generic Fantasy Tropes:** Reliance on "ancient stones," "ethereal light," and "humming crystals" without specific, lived-in textures that distinguish this specific magic system.
 
-**Performance Boundaries**
-The writing excels when it trusts the **image to carry the emotion**. When a character observes a "chipped teacup" or a "trembling gauge," and the narrative lets that detail stand as the objective correlative for their fear, the voice sings. The writing breaks when it distrusts the reader’s ability to infer. This collapse usually happens at the transition from setup to climax: instead of tightening the psychic distance and letting the sensory experience take over, the narrator pulls back into a distant, summary mode to ensure the reader "gets" the theme. The boundary is often marked by the switch from *showing* a trembling hand to *telling* us the character felt "a mix of hope and anxiety."
+**4) Performance Boundaries**
+The boundary between the 7-band and the 9-band is **tactical constraint**. A 7.5 story describes a "spooky, fog-filled cemetery" that establishes a sad mood. A 9.0 story places the protagonist in a cemetery where the *fog obscures the specific grave marker they need*, forcing them to kneel and feel the cold stone inscriptions with their bare hands to find the right one. In the 7.5 story, the setting creates emotion; in the 9.0 story, the setting dictates action. Similarly, a story excels when the final image re-uses a setting element introduced early on (e.g., a "dried pen" or "broken clock") but imbues it with the weight of the story's resolution ("charging the final image"). If the setting vanishes at the end, the score drops.
 
-**Signature Moves and Blind Spots**
-*   **The "Hushed" Opening:** A ubiquitous tendency to open with atmospheric stillness ("hush," "silence," "quiet") regardless of the actual scene urgency.
-*   **Emotional Ventriloquism:** Asserting complex emotions ("a poignant mix of fragility and resilience") that the scene has not earned or demonstrated.
-*   **The Filter Verb Crutch:** Excessive use of "she felt," "he saw," "she heard," which distances the reader from the immediacy of the sensation.
-*   **Prompt-Phrase Artifacts:** Integrating required phrases as clunky, declarative statements rather than weaving them into the natural syntactic flow.
+**5) Signature Moves and Blind Spots**
+*   **The "Atmospheric" Trap:** Writers often mistake accumulation of adjectives (shimmering, pulsing, velvet, abyssal) for specificity. True specificity is often a noun or a verb (e.g., "the floorboards *groaned*," "the *grit* under her nail").
+*   **The Floating Prop:** Objects are often described vividly when introduced but then disappear from the physical reality of the scene (e.g., a character holding a heavy lantern suddenly uses two hands for a task without setting it down).
+*   **Visual Bias:** Over-reliance on sight. High-band stories often leverage temperature, smell, and proprioception (balance, weight) to ground the reader, especially in "crisis" moments where vision narrows.
 
-**High-Band Signals (≈ 8.8+)**
-*   **Rhythmic Modulation:** The syntax mimics the character’s physiology. Breathless, short clauses appear during exertion; long, flowing hypotaxis appears during memory or trance.
-*   **Lexical Integrity:** The narrative never uses a word the focalizer wouldn't know or feel. An illiterate scavenger doesn't think in terms of "aesthetic symmetry"; a scientist doesn't describe a machine as "magic" without irony.
-*   **Embodied Interiority:** Realizations arrive as physical sensations or visual metaphors, not as abstract summaries. The character doesn't "feel fear"; the "cold metal of the rail slicked under their sweating palm."
+**6) High-Band Signals (≈ 8.8+)**
+*   **Irreplaceability:** The plot solution relies on a specific feature of the setting (e.g., using a specific echo in a canyon, or a reflection in a shard of glass).
+*   **Tactile Closure:** The final beat involves the protagonist physically interacting with the setting (closing a door, dropping a stone, feeling the rain), grounding the theme in matter.
+*   **Occupational Texture:** The setting details reflect the specific labor or expertise of the POV character (e.g., a clockmaker noticing the "hitch" in a pendulum rather than just "ticking").
 
-**Revision Levers and Keepers**
-*   **Keep:** The commitment to **sensory specificity** (scents, textures, lighting). This establishes a strong, immersive baseline.
-*   **Keep:** The **POV discipline**. Maintain the strict limits on what the focalizer can know; do not drift into omniscience to explain plot points.
-*   **Keep:** The **lyrical ambition**. Continue aiming for "prose as character," where the style itself reflects the protagonist’s soul.
-
-*   **Change:** **Cut filter verbs** (“She saw the bird fly” → “The bird flew”). This instantly tightens psychic distance.
-*   **Change:** **Scrub academic/abstract diction.** Replace words like "transformation," "realization," and "connection" with concrete actions or images that *demonstrate* those concepts.
-*   **Change:** **Modulate syntax for stress.** In the final third of the story, force sentence lengths to change. Break the "Subject-Verb-Object" drumbeat to reflect the chaos or focus of the climax.
+**7) Revision Levers and Keepers**
+*   **Keep:** Any detail that is physically handled or used by the protagonist.
+*   **Keep:** Sensory details that are *not* visual (smells, textures, sounds).
+*   **Keep:** The "Micro-setting" focus (the workbench, the cockpit, the single tree) over broad geography.
+*   **Change:** Convert "atmospheric" adjectives into "tactical" nouns. (Instead of "the room was chaotic," use "piles of books blocked the exit.")
+*   **Change:** Ensure the setting *resists* the protagonist at least once (a stuck drawer, a slippery floor, a blinding light).
+*   **Change:** Anchor the final image in the physical environment. Make the closing sentiment land on a specific object or sensory detail established earlier.

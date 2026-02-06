@@ -1,43 +1,40 @@
 deepseek-v32-exp.txt
-**1) Executive Insight**
-The decisive factor separating exceptional narratives from competent ones in this corpus is the distinction between **emergent resonance** and **asserted morality**. High-scoring stories (Track A and B) consistently allow the theme to arise as a volatile vapor from the friction of concrete particulars—broken gears, silence, graftings, and echoes. In these pieces, the ending offers a "non-literal answer" to the central dramatic question, reweighting prior material without reducing it to a lesson. Conversely, a significant portion of the cohort falters by treating the theme as a thesis statement to be proven. These stories frequently collapse into "Thematic Echo," where the narrative explicitly articulates the prompt’s core concept (e.g., "she realized that silence was not emptiness, but potential") in the final paragraph. When closure relies on summary explanation rather than a charged, ambiguous image, the emotional aftereffect evaporates.
+# Editorial Brief: Plot, Structure & Causality (Q2)
 
-**2) Strength Profile**
-*   **Conceptual Repricing:** The strongest pieces successfully take a recurring motif (e.g., a broken watch, a silence, a scar) and shift its meaning by the end. The object remains the same, but its value flips from burden to asset or vice versa without authorial commentary.
-*   **Subtext via Gesture:** High-scoring stories displace emotional declarations onto physical acts. Instead of stating "he forgave her," a character might re-tie a ribbon or leave a door unlocked.
-    *   *Micro-quote:* "fingers trembling on old brushstrokes"
-    *   *Micro-quote:* "holding the fierce tenderness like a shield"
-*   **Non-Literal Answers:** The best endings answer the story’s central problem not with a solution, but with a state of being or a visual tableau that implies a new equilibrium.
-*   **Tactile Metaphor:** Themes are grounded in specific vocations—clockmaking, weaving, gardening—where the physical laws of the trade mirror the metaphysical stakes.
+**Executive Insight**
+The submitted work demonstrates a distinct preference for **Accumulative/Textural** designs (Track A), relying on atmospheric density and recurring motifs to build narrative momentum rather than sharp causal turns. While this approach often yields rich sensory experiences and coherent lyrical patterns, it frequently struggles to pass the **Closure Gate** with sufficient **felt cost**. The central friction in this portfolio lies between *depiction* and *drama*: stories tend to describe a state of being that shifts gently into a new understanding (Conceptual Repricing), rather than dramatizing a pressure-cooker scenario that forces a Decisive Change. Too often, resolutions arrive via "symmetric satisfaction"—where the protagonist gains wisdom without forfeiting position, tools, or safety. To move from functional to exceptional, the writing must trade frictionless success for earned reconfiguration, ensuring that every closure lands with a visible, irreversible price on the page.
 
-**3) Weakness Profile**
-*   **Thematic Echo (The -0.6 Trap):** A pervasive failure mode where the protagonist or narrator explicitly recites the story’s moral in the final third. Phrases like "He finally understood that..." or "She realized the true meaning of..." instantly flatten resonance.
-*   **Sermonizing Endings:** Many stories conclude with a "tidy moral" paragraph that summarizes the journey (e.g., "And so, they learned that hope remains eternal..."). This removes the burden of interpretation from the reader.
-*   **Prompt Labeling:** Inserting abstract prompt phrases (e.g., "open secrets," "fractured grace") directly into dialogue or narration as diagnostic labels rather than evoking the feeling they describe.
-*   **Decorative Symbolism:** Introducing a symbol (a glowing orb, a sudden bird) solely to resolve the plot or theme in the final beat, rather than weaving it through the narrative as a constraint.
-*   **Binary Resolution:** Reducing complex themes to simplistic toggles (e.g., Technology = Bad, Nature = Good) without acknowledging cost or nuance.
+**Strength Profile**
+*   **Rapid Orientation:** The writing excels at passing the **Orientation Test**. Who, where, and when are consistently anchored within the first ~60 words (e.g., "lunar observatory," "midnight glade," "post-storm hush"), minimizing orientation debt.
+*   **Coherent Textural Lenses:** When operating under an Accumulative lens, the text effectively layers imagery (e.g., frost patterns, woven threads, ticking clocks) to create a unified aesthetic experience without breaking internal logic.
+*   **Legible Conceptual Repricing:** The stories are adept at reframing a protagonist’s internal state. Characters reliably move from confusion to clarity or from grief to acceptance, satisfying the definition of a reweighted stance.
+*   **Motivated Objects:** Props introduced early (a broken compass, a vial of ink, a shard of glass) almost always return at the climax, creating a sense of structural wholeness even if the causal usage is soft.
 
-**4) Performance Boundaries**
-The writing excels when it operates in the **mode of inquiry**, where the narrative tests a hypothesis through stress and cost, leaving the conclusion slightly open or "bruised" by the effort. It breaks when it shifts into the **mode of instruction**. If the story feels like a fable designed to deliver a specific aphorism, the score collapses. The boundary is often the penultimate paragraph: if the story trusts the final image to land the weight, it succeeds; if it feels the need to explain *why* that image matters, it fails. Stories that permit characters to be wrong, or to find peace without total resolution, consistently outperform those that force a "healing" arc.
+**Weakness Profile**
+*   **The Cost-Proof Failure:** A pervasive inability to demonstrate **visible cost** at closure. Protagonists often achieve their goals (restoring the library, healing the ghost, fixing the timeline) without losing a live option, resource, or relationship. The "price" is often merely described ("he felt the weight of it") rather than enacted.
+*   **Frictionless Causality:** Under Causal lenses, obstacles often dissolve upon contact. Solutions arrive via convenience (a stranger appearing at the exact moment, a tool working perfectly on the first try) rather than through tactical struggle or adaptation.
+*   **Summary over Scene:** Pivotal turning points—where the pressure should be highest—are frequently elided into summary ("In the days that followed," "She realized the truth"). This flattens the escalation and robs the climax of immediacy.
+*   **Soft Resets:** Narratives often conclude by restoring the status quo with a better mood (e.g., the storm passes, the lights come back on), failing to deliver a **Resonant Reconfiguration** where the world or the character’s potential for action is fundamentally altered.
 
-**5) Signature Moves and Blind Spots**
-*   **The "Abstract Epiphany":** A habit of pairing a concrete observation with an abstract philosophical truth immediately after, as if the author doesn't trust the reader to catch the subtext.
-*   **The "Luminous" Crutch:** A reliance on words like "luminous," "radiant," and "shimmering" to signal thematic importance rather than earning it through dramatic pressure.
-*   **Silent Communion:** A recurring tendency to have characters "understand without speaking." While this attempts subtext, it often shortcuts genuine dramatic friction or necessary confrontation.
-*   **The Curator Protagonist:** Many protagonists are archivists, repairers, or gardeners. While this allows for rich metaphor, it can lead to passive narratives where the hero observes theme rather than enacting it through risky choices.
+**Performance Boundaries**
+The writing excels when the scope is intimate and the goal is internal—a character reconciling with memory or understanding a pattern. In these low-stakes environments, the Accumulative lens shines. However, the writing breaks down when attempting high-stakes external plots (saving a city, breaking a curse) within the 600–800 word limit. In these instances, the causal chain snaps; complex problems are solved by "magic button" moments or unearned epiphanies to race to the word count, violating the **Drive Lens Rule** by shifting from causal setup to convenient resolution.
 
-**6) High-Band Signals (≈ 8.8+)**
-*   **Costly Integration:** The ending integrates the theme in a way that acknowledges loss. The problem is recontextualized, not fixed. (e.g., The scar remains, but is no longer hidden).
-*   **Image-Driven Closure:** The final sentence is a visual or sensory detail that re-keys the entire story (e.g., "rain falling upwards," "a clock ticking in a silent room") rather than a thought or feeling.
-*   **Resonant Re-weighting:** A motif introduced in the first third returns in the final beat with an inverted or deepened emotional charge, proving the character's internal change without stating it.
+**Signature Moves & Blind Spots**
+*   **The "Magic Fix" Epiphany:** A tendency to resolve physical threats with abstract realizations (e.g., realizing "fear is an illusion" causes a monster to vanish).
+*   **Symmetric Satisfaction:** A habit of tying up every loose end neatly, leaving no residue of the conflict. The protagonist gets the prize *and* keeps the coin.
+*   **The "Suddenly" Pivot:** Relying on coincidence to bridge the gap between rising action and climax, rather than a "because/therefore" chain of character choices.
+*   **Atmosphere as Plot:** Mistaking a deepening of mood for a tightening of options.
 
-**7) Revision Levers and Keepers**
-*   **Keep:**
-    1.  **Specific Vocations:** The grounding of themes in technical processes (kintsugi, clockwork, botany).
-    2.  **Recursive Motifs:** Objects that appear 3+ times, changing significance with each appearance.
-    3.  **Ambiguous Endings:** Resolutions that solve the immediate plot but leave the thematic question vibrating.
+**High-Band Signals (≈ 8.8+)**
+*   **Irreversible Action:** The closure involves a physical act that cannot be undone (e.g., burning the map, breaking the key, stepping off the ledge), providing indisputable **Cost Proof**.
+*   **Tactical Narrowing:** The narrative visibly reduces the protagonist's options until only one difficult choice remains, rather than offering a sudden new capability that solves everything.
+*   **Integrated Constraints:** A persistent constraint (time limit, physical disability, broken tool) introduced in the first quadrant dictates the specific form of the resolution.
 
-*   **Change:**
-    1.  **Excision of Thesis Statements:** Delete any sentence starting with "She realized," "He understood," or "It was a lesson in..." from the final 150 words.
-    2.  **Grounding of Abstractions:** Replace abstract nouns (hope, resilience, eternity) with the physical objects representing them (the seed, the scar, the stone).
-    3.  **Complication of Binaries:** If a character is "healing," ensure they lose something in the process. If a character is "rebelling," show the collateral damage. Ensure the theme has a cost.
+**Revision Levers & Keepers**
+*   **Keep:** The instinct for early, sensory-rich orientation anchors (Who/Where/When).
+*   **Keep:** The use of recurring motifs/objects to structure the narrative arc.
+*   **Keep:** The unified single-scene focus (Track A); avoid branching into montage.
+
+*   **Change:** **Force a Sacrifice.** Rewrite the ending so the protagonist must lose something of value (a tool, a belief, a relationship) to gain the resolution.
+*   **Change:** **Dramatize the Pivot.** Convert the climactic realization from internal monologue/summary into an active verb/interaction with the environment.
+*   **Change:** **Insert a Failure.** Ensure the protagonist's first attempt to solve the problem fails, forcing a tactical shift that escalates the cost before the resolution.
