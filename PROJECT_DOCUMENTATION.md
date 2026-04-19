@@ -538,6 +538,8 @@ Public model quality ratings should be based on the inter-LLM comparison stack:
 - direct evidence: pair-stat rows and pairwise margin heatmap,
 - reference only: Bradley-Terry columns and charts.
 
+Model-specific generation-coverage caveats that affect interpretation should be represented as report-time disclosures, not hidden in prose or patched into scores. `inter_llm_model_disclosures.py` owns those disclosure markers and footnotes. The current public scope marks `claude-opus-4-7-adaptive` because Claude Opus 4.7 refused 53 of 400 story-generation prompts; its comparisons use completed stories only.
+
 Absolute 0-10 rubric means, normalized absolute-score leaderboards, question-breakdown charts, and old grader-vs-model heatmaps are archived diagnostics. The previous absolute-rating README surface and its old README-linked chart PNGs are archived under `archive/absolute_ratings_v4_2026_04_19/`.
 
 ### Question and weight adjustments
@@ -1203,6 +1205,7 @@ Current verified behavior:
   - rating charts use per-model shaded CI rectangles (95% CI) behind bars
   - model display names and family colors follow the server-backed `model_info.py` adapter
   - rating charts embed small model-brand logos from `/mnt/r/benchmark_utils` when the shared brand registry resolves a logo for the plotted model/category
+  - model-specific disclosure markers from `inter_llm_model_disclosures.py` are applied to comparison leaderboard rows, rating-chart labels, and heatmap labels
   - emits large Plotly exports suitable for report/inspection workflows
   - supports `--include-suppressed` to include models otherwise hidden by chart suppression policy
 

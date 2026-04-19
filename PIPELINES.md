@@ -460,6 +460,7 @@ Recommended new-model intake policy:
   - `inter_llm_comparison_story_excluded_models.txt` so the next roster rebuild does not re-add it
   - the current active roster file so current runs also exclude it
 - Incomplete models may still be compared if overlap supports the chosen `--n`, but that should be an explicit exception and later reporting should call the model incomplete.
+- If an incomplete model stays in a public scope, add or update a disclosure in `inter_llm_model_disclosures.py` before regenerating `reports/inter_llm_comparison_score_leaderboard.md` and `images/inter_llm_comparison_*`.
 - For newly added models, prefer staged coverage: anchor pilot first, optional new-vs-new pass second, then broader expansion. Do not start with a full `--run-all` sweep unless you intentionally want that cost.
 - For manually chosen leaderboard gaps, prefer `run_inter_llm_comparison_batch.py --pairs-file <path>` so only those exact unordered pairs run. Pair files contain one pair per non-comment line, separated by a comma or whitespace.
 - Preferred cost control is “full evaluator roster + `--evaluators-per-pair`” rather than locking the whole run to one fixed small judge panel.
@@ -552,6 +553,7 @@ Notes:
 - Pair stats are computed per unordered pair and story index (aggregated across evaluators).
 - Global ranking is margin-primary (Thurstone-style on signed margins). This is the canonical public quality rating.
 - BT is retained only as a reference/diagnostic column.
+- Model-specific generation-coverage caveats that materially affect interpretation are rendered from `inter_llm_model_disclosures.py` as dagger markers in the leaderboard and comparison charts. Keep this file in sync with any audited refusal/incompletion exception that remains in a public comparison scope.
 - BT outcomes are tie-aware from signed margins using `--tie-epsilon` (default `0.5`).
 - Ranking diagnostics include Thurstone-vs-BT rank correlation (Spearman/Kendall) and sigma bootstrap stability (mean/std/CV).
 - Ranking diagnostics also include triad-cycle transitivity checks (`triads_decisive`, `cycle_count`, `cycle_rate`, `weighted_cycle_rate`).

@@ -25,12 +25,13 @@ Coverage at the last aggregation:
 - 2,462 of those score rows use legacy-compatible prompt/raw path provenance
 - Bootstrap uncertainty resamples both stories and evaluators
 - Evaluator side-A bias correction is enabled
+- Dagger markers (`†`) indicate model-specific generation-coverage disclosures
 
 | Rank | LLM | Thurstone Rating | Win Prob vs Pool | 95% CI | BT (Ref) |
 |-----:|:----|-----------------:|-----------------:|-------:|---------:|
 | 1 | gpt-5.4-xhigh | 4.0412 | 0.917 | 3.7887..4.3457 | 6.1057 |
 | 2 | gpt-5.4-medium | 3.6311 | 0.888 | 3.3705..3.9094 | 5.9413 |
-| 3 | claude-opus-4-7-adaptive | 3.3423 | 0.865 | 3.1730..3.4691 | 6.0631 |
+| 3 | claude-opus-4-7-adaptive† | 3.3423 | 0.865 | 3.1730..3.4691 | 6.0631 |
 | 4 | claude-opus-4-6-16K | 3.1530 | 0.849 | 2.6867..3.6050 | 5.8529 |
 | 5 | gpt-5.2-medium | 3.0438 | 0.839 | 2.5438..3.4927 | 4.2152 |
 | 6 | claude-sonnet-4-6-16K | 2.5355 | 0.792 | 2.3303..2.7672 | 5.4205 |
@@ -51,6 +52,10 @@ Coverage at the last aggregation:
 | 21 | gpt-oss-120b | -3.4224 | 0.126 | -3.6469..-3.2022 | -2.3555 |
 | 22 | qwen3.5-397b-a17b | -3.7738 | 0.102 | -4.0209..-3.5689 | -3.1551 |
 | 23 | grok-4.20-beta-0309-reasoning | -5.7232 | 0.018 | -5.9281..-5.5065 | -4.7365 |
+
+### Model Disclosure Notes
+
+- † `claude-opus-4-7-adaptive`: Claude Opus 4.7 refused a subset of creative-writing generation prompts in this run. Generation sidecars show 53/400 story prompts refused (13.2%); 347 story outputs were available. Comparison prompts and ratings use completed stories only (480 pair-story rows, 265 distinct story indices in the current comparison scope). No score was imputed for the refused prompts, so this is a coverage caveat rather than a direct rating penalty.
 
 BT is retained as a reference diagnostic, not as the primary ranking. The Thurstone rating is the canonical comparison score.
 

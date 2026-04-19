@@ -30,6 +30,7 @@ Key docs:
 - New story directories do not automatically enter canonical comparison. Refresh the active roster from `/mnt/r/writing2-data/stories_wc/*` before `--run-all`; the exclusion file prevents models from being re-added on the next roster rebuild, while the active roster controls the current run scope.
 - Word-count readiness is not just “no outliers”: check both `vis_word_counts_script.py` output and `data/word_count_issues_wc.txt` for formatting anomalies before scheduling comparison runs.
 - Incomplete models can still be compared if overlap supports the chosen `--n`, but that should be an explicit policy exception and later called out in reporting.
+- Model-specific generation-coverage caveats that affect public interpretation are centralized in `inter_llm_model_disclosures.py` and rendered as dagger markers plus footnotes in comparison leaderboards and charts. The current disclosure is Claude Opus 4.7 refusing 53 of 400 story-generation prompts; comparison tasks use completed stories only.
 - Recommended new-model intake order is: QC, roster refresh, anchor pilot, optional new-vs-new pilot, then broader/canonical expansion.
 - Pairwise comparison runner supports both single and multi-evaluator execution:
   - with no evaluator flags, comparison scripts default to the versioned roster in `inter_llm_comparison_full_evaluators.txt`
@@ -78,7 +79,7 @@ Key docs:
 - Rating diagnostics include BT-vs-Thurstone rank agreement, sigma stability, and transitivity cycle-rate checks.
 - Bootstrap uncertainty in comparison aggregation is hierarchical by default (stories + evaluators), with a story-only fallback flag.
 - Evaluator side-A bias correction on signed margins is enabled by default during aggregation (toggleable).
-- `plot_inter_llm_comparison_charts.py` renders large Plotly comparison charts, including shaded uncertainty rectangles for rating CIs, shared model-brand logos on rating charts where `/mnt/r/benchmark_utils` has assets, and a pairwise margin heatmap.
+- `plot_inter_llm_comparison_charts.py` renders large Plotly comparison charts, including shaded uncertainty rectangles for rating CIs, shared model-brand logos on rating charts where `/mnt/r/benchmark_utils` has assets, model disclosure markers from `inter_llm_model_disclosures.py`, and a pairwise margin heatmap.
 - Use `run_inter_llm_comparison_batch.py` for:
   - roster initialization from `/mnt/r/writing2-data/stories_wc/*`
   - roster initialization with exclusions via `--exclude-models` / `--exclude-models-file`
