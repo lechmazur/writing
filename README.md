@@ -128,17 +128,22 @@ Multi-agent benchmarks:
 
 - [PACT - Benchmarking LLM negotiation skill in multi-round buyer-seller bargaining](https://github.com/lechmazur/pact)
 - [BAZAAR - Evaluating LLMs in Economic Decision-Making within a Competitive Simulated Market](https://github.com/lechmazur/bazaar)
+- [Buyout Game - Multi-Agent Negotiation and Coalition Benchmark](https://github.com/lechmazur/buyout_game)
+- [LLM Debate Benchmark](https://github.com/lechmazur/debate)
 - [Public Goods Game Benchmark: Contribute & Punish](https://github.com/lechmazur/pgg_bench/)
 - [Elimination Game: Social Reasoning and Deception Under Pressure](https://github.com/lechmazur/elimination_game/)
 - [Step Race: Collaboration vs. Misdirection Under Pressure](https://github.com/lechmazur/step_game/)
+- [LLM Persuasion Benchmark](https://github.com/lechmazur/persuasion)
 
 Other benchmarks:
 
+- [LLM Position Bias Benchmark](https://github.com/lechmazur/position_bias)
 - [LLM Round-Trip Translation Benchmark](https://github.com/lechmazur/translation/)
 - [Extended NYT Connections](https://github.com/lechmazur/nyt-connections/)
 - [LLM Thematic Generalization Benchmark](https://github.com/lechmazur/generalization/)
 - [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
 - [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/)
+- [LLM Sycophancy Benchmark](https://github.com/lechmazur/sycophancy)
 - [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
 
 Follow [@lechmazur](https://x.com/LechMazur) on X for other benchmarks and updates.
