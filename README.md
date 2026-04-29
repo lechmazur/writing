@@ -15,8 +15,8 @@ Higher scores mean a model more often wins direct story comparisons against the 
 Current comparison set:
 
 - 20 rated models
-- 118 direct model pairings
-- about 13k parsed evaluator judgments
+- 126 direct model pairings
+- about 14k parsed evaluator judgments
 - uncertainty resampled across both stories and evaluators
 - side-position bias correction enabled
 - `†`, striped bars, and story-count badges mark model-specific story-generation coverage caveats
@@ -24,25 +24,25 @@ Current comparison set:
 | Rank | Model | Comparison Score | Win Prob vs Pool | 95% CI |
 |-----:|:------|-----------------:|-----------------:|:-------|
 | 1 | GPT-5.5 (extra-high reasoning) | 3.1 | 0.90 | 3.0..3.2 |
-| 2 | GPT-5.4 (extra-high reasoning) | 2.9 | 0.88 | 2.8..3.0 |
-| 3 | GPT-5.4 (medium reasoning) | 2.8 | 0.87 | 2.6..2.9 |
+| 2 | GPT-5.4 (extra-high reasoning) | 2.9 | 0.88 | 2.7..3.0 |
+| 3 | GPT-5.4 (medium reasoning) | 2.8 | 0.87 | 2.6..3.0 |
 | 4 | Claude Opus 4.7 (high reasoning)† | 2.5 | 0.83 | 2.3..2.6 |
-| 5 | Claude Sonnet 4.6 Thinking 16K | 2.2 | 0.80 | 2.0..2.4 |
-| 6 | Claude Opus 4.6 Thinking 16K | 1.7 | 0.75 | 1.5..1.9 |
-| 7 | GPT-5.2 (medium reasoning) | 0.9 | 0.64 | 0.7..1.2 |
-| 8 | Kimi K2.6 | 0.5 | 0.57 | 0.3..0.7 |
-| 9 | Mistral Medium 3.1 | 0.0 | 0.50 | -0.3..0.2 |
+| 5 | Claude Sonnet 4.6 Thinking 16K | 2.2 | 0.80 | 2.0..2.3 |
+| 6 | Claude Opus 4.6 Thinking 16K | 1.7 | 0.75 | 1.5..2.0 |
+| 7 | GPT-5.2 (medium reasoning) | 0.9 | 0.64 | 0.7..1.1 |
+| 8 | Kimi K2.6 | 0.5 | 0.57 | 0.3..0.6 |
+| 9 | Mistral Medium 3.1 | 0.0 | 0.50 | -0.2..0.3 |
 | 10 | DeepSeek V4 Pro | -0.1 | 0.48 | -0.3..0.1 |
-| 11 | Xiaomi MiMo V2.5 Pro | -0.2 | 0.47 | -0.4..0.0 |
-| 12 | Qwen 3 Max Preview | -0.4 | 0.45 | -0.6..-0.2 |
+| 11 | Xiaomi MiMo V2.5 Pro | -0.3 | 0.46 | -0.5..-0.1 |
+| 12 | Qwen 3 Max Preview | -0.4 | 0.44 | -0.5..-0.2 |
 | 13 | Qwen 3.6 Max Preview | -0.7 | 0.39 | -0.9..-0.6 |
 | 14 | Kimi K2.5 Thinking | -1.1 | 0.34 | -1.3..-0.8 |
 | 15 | Xiaomi MiMo V2 Pro | -1.1 | 0.33 | -1.4..-0.9 |
-| 16 | GLM-5.1 | -1.2 | 0.33 | -1.5..-0.8 |
-| 17 | Gemini 3.1 Pro Preview | -2.4 | 0.17 | -2.6..-2.1 |
-| 18 | ByteDance Seed2.0 Pro | -2.5 | 0.16 | -2.8..-2.2 |
-| 19 | DeepSeek V3.2 | -2.9 | 0.12 | -3.2..-2.6 |
-| 20 | MiniMax-M2.7 | -4.2 | 0.03 | -4.4..-3.9 |
+| 16 | GLM-5.1 | -1.1 | 0.33 | -1.5..-0.9 |
+| 17 | ByteDance Seed2.0 Pro | -2.3 | 0.18 | -2.6..-2.0 |
+| 18 | Gemini 3.1 Pro Preview | -2.4 | 0.16 | -2.6..-2.2 |
+| 19 | DeepSeek V3.2 | -2.9 | 0.12 | -3.2..-2.5 |
+| 20 | MiniMax-M2.7 | -4.1 | 0.03 | -4.3..-3.9 |
 
 ### Coverage Note
 
