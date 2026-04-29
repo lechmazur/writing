@@ -56,8 +56,6 @@ Current comparison set:
 
 Each cell is the average signed comparison margin for the row model against the column model. Positive values mean the row model tended to beat the column model on stories written to the same required elements.
 
-The public chart surface intentionally stays focused on the rating chart and pairwise margin map. Scatter-style diagnostics are not part of the published README presentation.
-
 ---
 
 ## What Is Measured
@@ -92,7 +90,7 @@ Evaluator prompts separate rubric-aligned observations from important beyond-rub
 7. Aggregate story-level pair margins into a global comparison score.
 8. Bootstrap over stories and evaluators to estimate uncertainty.
 
-The chart script reads shared model display names, family colors, and model-brand logos through `/mnt/r/benchmark_utils`; rating charts and the pairwise margin map use those logos where available.
+The rating chart and pairwise margin map use shared display names, family colors, and model-brand logos where available.
 
 ---
 
@@ -104,8 +102,8 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 
 ## Recent Updates
 
-- Apr 29, 2026: Broadened current-model pair coverage, especially for GLM-5.1, Gemini 3.1 Pro Preview, ByteDance Seed2.0 Pro, MiniMax-M2.7, and high-anchor comparisons. The public comparison graph now covers 132 direct model pairings.
-- Apr 28, 2026: This comparison refresh expands the writer pool with newer models, including GPT-5.5 (extra-high reasoning), Kimi K2.6, DeepSeek V4 Pro, Xiaomi MiMo V2.5 Pro, Qwen 3 Max Preview, Gemini 3.1 Pro Preview, ByteDance Seed2.0 Pro, Qwen 3.6 Max Preview, and MiniMax-M2.7. The evaluator panel was also refreshed. Pairwise judgments now use a broader set of current comparator LLMs, including Claude Opus 4.7 (high reasoning), Qwen 3.6 Max Preview, Kimi K2.6, Gemini 3.1 Pro Preview, DeepSeek V4 Pro, GPT-5.5 (medium reasoning), GLM-5.1, and Grok 4.20 0309 (Reasoning).
+- Apr 29, 2026: Broadened current-model pair coverage, especially for GLM-5.1, Gemini 3.1 Pro Preview, ByteDance Seed2.0 Pro, MiniMax-M2.7, and comparisons against top-ranked models. The public comparison graph now covers 132 direct model pairings.
+- Apr 28, 2026: This comparison refresh expands the evaluated writer pool and comparison coverage, including GPT-5.5 (extra-high reasoning), Kimi K2.6, DeepSeek V4 Pro, Xiaomi MiMo V2.5 Pro, Qwen 3 Max Preview, Gemini 3.1 Pro Preview, ByteDance Seed2.0 Pro, Qwen 3.6 Max Preview, and MiniMax-M2.7. The evaluator panel was also refreshed. Pairwise judgments now use a broader set of current comparator LLMs, including Claude Opus 4.7 (high reasoning), Qwen 3.6 Max Preview, Kimi K2.6, Gemini 3.1 Pro Preview, DeepSeek V4 Pro, GPT-5.5 (medium reasoning), GLM-5.1, and Grok 4.20 0309 (Reasoning).
 
 ---
 
