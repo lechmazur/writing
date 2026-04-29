@@ -58,6 +58,22 @@ Each cell is the average signed comparison margin for the row model against the 
 
 ---
 
+## Diagnostics
+
+### Evaluator Agreement
+
+![Evaluator agreement matrix](images/inter_llm_comparison_evaluator_agreement.png)
+
+This matrix shows how similarly evaluator models used the signed pairwise-margin scale on shared comparison tasks. Higher Pearson correlation means closer agreement between evaluators.
+
+### Word Count Compliance
+
+![Word count compliance](images/inter_llm_comparison_word_count_ci.png)
+
+This is an input-compliance diagnostic, not a quality ranking. It shows individual completed story lengths, plus model-level mean length and 95% confidence intervals against the 600-800 word target range.
+
+---
+
 ## What Is Measured
 
 Every story must meaningfully incorporate ten required elements:
