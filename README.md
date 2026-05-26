@@ -14,36 +14,41 @@ Higher scores mean a model more often wins direct story comparisons against the 
 
 Current comparison set:
 
-- 21 rated models
-- 152 direct model pairings
-- about 16.6k parsed evaluator judgments
+- 25 rated models
+- 198 direct model pairings
+- about 22.1k parsed evaluator judgments
 - uncertainty resampled across both stories and evaluators
 - side-position bias correction enabled
+- the main chart above hides chart-suppressed models for readability; this table includes every rated model
 - A dagger (†) marks partial story coverage
 
 | Rank | Model | Comparison Score | Win Prob vs Pool | 95% CI |
 |-----:|:------|-----------------:|-----------------:|:-------|
-| 1 | GPT-5.5 (extra-high reasoning) | 3.0 | 0.90 | 2.9..3.1 |
-| 2 | GPT-5.4 (extra-high reasoning) | 2.8 | 0.88 | 2.7..3.0 |
-| 3 | GPT-5.4 (medium reasoning) | 2.7 | 0.87 | 2.5..2.9 |
-| 4 | Claude Opus 4.7 (high reasoning)† | 2.4 | 0.84 | 2.3..2.5 |
-| 5 | Claude Sonnet 4.6 Thinking 16K | 2.1 | 0.81 | 2.0..2.3 |
-| 6 | Claude Opus 4.6 Thinking 16K | 1.7 | 0.75 | 1.4..1.9 |
-| 7 | GPT-5.2 (medium reasoning) | 0.9 | 0.64 | 0.7..1.1 |
-| 8 | Kimi K2.6 | 0.6 | 0.60 | 0.5..0.8 |
-| 9 | Mistral Medium 3.1 | 0.2 | 0.53 | 0.0..0.4 |
-| 10 | DeepSeek V4 Pro | 0.0 | 0.50 | -0.2..0.2 |
-| 11 | Xiaomi MiMo V2.5 Pro | -0.2 | 0.48 | -0.4..0.0 |
-| 12 | Qwen 3 Max Preview | -0.2 | 0.47 | -0.4..0.0 |
-| 13 | Qwen 3.6 Max Preview | -0.6 | 0.41 | -0.7..-0.5 |
-| 14 | Kimi K2.5 Thinking | -0.9 | 0.36 | -1.1..-0.7 |
-| 15 | GLM-5.1 | -0.9 | 0.35 | -1.2..-0.7 |
-| 16 | Xiaomi MiMo V2 Pro | -1.0 | 0.34 | -1.3..-0.8 |
-| 17 | Gemini 3.5 Flash | -1.8 | 0.23 | -1.9..-1.7 |
-| 18 | ByteDance Seed2.0 Pro | -2.0 | 0.20 | -2.3..-1.8 |
-| 19 | Gemini 3.1 Pro Preview | -2.3 | 0.17 | -2.5..-2.1 |
-| 20 | DeepSeek V3.2 | -2.7 | 0.12 | -3.0..-2.5 |
-| 21 | MiniMax-M2.7 | -3.9 | 0.04 | -4.1..-3.7 |
+| 1 | GPT-5.5 (xhigh reasoning) | 3.2 | 0.90 | 3.2..3.3 |
+| 2 | GPT-5.4 (xhigh reasoning) | 3.2 | 0.90 | 3.0..3.3 |
+| 3 | GPT-5.4 (medium reasoning) | 3.1 | 0.89 | 2.9..3.2 |
+| 4 | Claude Opus 4.7 (high reasoning)† | 2.7 | 0.86 | 2.6..2.8 |
+| 5 | Claude Sonnet 4.6 Thinking 16K | 2.5 | 0.83 | 2.3..2.6 |
+| 6 | Claude Opus 4.6 Thinking 16K | 2.0 | 0.78 | 1.8..2.2 |
+| 7 | GPT-5.2 (medium reasoning) | 1.3 | 0.69 | 1.1..1.5 |
+| 8 | Kimi K2.6 | 1.0 | 0.65 | 0.9..1.1 |
+| 9 | Mistral Medium 3.1 | 0.6 | 0.59 | 0.4..0.8 |
+| 10 | DeepSeek V4 Pro | 0.4 | 0.57 | 0.3..0.6 |
+| 11 | Xiaomi MiMo V2.5 Pro | 0.3 | 0.55 | 0.1..0.5 |
+| 12 | Qwen 3 Max Preview | 0.1 | 0.53 | -0.1..0.3 |
+| 13 | Qwen 3.6 Max Preview | -0.2 | 0.48 | -0.3..0.0 |
+| 14 | Baidu Ernie 5.1 | -0.3 | 0.45 | -0.6..-0.1 |
+| 15 | GLM-5.1 | -0.4 | 0.44 | -0.6..-0.2 |
+| 16 | Kimi K2.5 Thinking | -0.5 | 0.43 | -0.7..-0.2 |
+| 17 | Xiaomi MiMo V2 Pro | -0.6 | 0.41 | -0.9..-0.4 |
+| 18 | Gemini 3.5 Flash | -1.4 | 0.30 | -1.6..-1.3 |
+| 19 | ByteDance Seed2.0 Pro | -1.5 | 0.28 | -1.8..-1.3 |
+| 20 | Gemini 3.1 Pro Preview | -1.7 | 0.25 | -1.9..-1.5 |
+| 21 | Qwen 3.7 Max | -2.0 | 0.22 | -2.3..-1.8 |
+| 22 | Mistral Medium 3.5 | -2.1 | 0.20 | -2.4..-1.9 |
+| 23 | DeepSeek V3.2 | -2.3 | 0.18 | -2.6..-2.0 |
+| 24 | MiniMax-M2.7 | -3.4 | 0.08 | -3.5..-3.2 |
+| 25 | Grok 4.3 | -3.8 | 0.06 | -4.1..-3.5 |
 
 ### Coverage Note
 
@@ -55,7 +60,7 @@ Current comparison set:
 
 ![Pairwise margin heatmap](images/inter_llm_comparison_pair_margin_heatmap.png)
 
-Each cell is the average signed comparison margin for the row model against the column model. Positive values mean the row model tended to beat the column model on stories written to the same required elements.
+Each cell is the average signed comparison margin for the row model against the column model. Positive values mean the row model tended to beat the column model on stories written to the same required elements. Both axes are ordered from best to worst by the current Thurstone leaderboard.
 
 ---
 
@@ -107,7 +112,7 @@ Evaluator prompts separate rubric-aligned observations from important beyond-rub
 7. Aggregate story-level pair margins into a global comparison score.
 8. Bootstrap over stories and evaluators to estimate uncertainty.
 
-The rating chart and pairwise margin map use shared display names, family colors, and model-brand logos where available.
+The rating chart and pairwise margin map use shared display names, family colors, and model-brand logos where available. The pairwise margin map uses the current Thurstone leaderboard order on both axes.
 
 ---
 
@@ -119,6 +124,7 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 
 ## Recent Updates
 
+- May 26, 2026: Ernie 5.1, Qwen 3.7 Max, Mistral Medium 3.5, and Grok 4.3 added.
 - May 20, 2026: Added Gemini 3.5 Flash.
 - Apr 29, 2026: Refreshed the leaderboard with newer models, including GPT-5.5, Kimi K2.6, DeepSeek V4 Pro, Xiaomi MiMo V2.5 Pro, Qwen 3 Max Preview, Gemini 3.1 Pro Preview, ByteDance Seed2.0 Pro, Qwen 3.6 Max Preview, and MiniMax-M2.7.
 
