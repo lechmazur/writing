@@ -119,7 +119,7 @@ Evaluator prompts separate rubric-aligned observations from important beyond-rub
 7. Aggregate story-level pair margins into a global comparison score.
 8. Bootstrap over stories and evaluators to estimate uncertainty.
 
-The rating chart and pairwise margin map use shared display names, family colors, and model-brand logos where available. The pairwise margin map uses the current Thurstone leaderboard order on both axes. Its x-axis logo strip intentionally sits below the chart so the plotted grid remains unobscured.
+The rating chart and pairwise margin map use shared display names, family colors, and model-brand logos where available. The pairwise margin map uses the current Thurstone leaderboard order on both axes. Its x-axis logo strip intentionally sits below the chart, with reserved bottom margin so the plotted grid remains unobscured.
 
 ---
 
