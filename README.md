@@ -24,16 +24,16 @@ Current comparison set:
 
 | Rank | Model | Comparison Score | Win Prob vs Pool | 95% CI |
 |-----:|:------|-----------------:|-----------------:|:-------|
-| 1 | GPT-5.5 (xhigh reasoning) | 3.5 | 0.92 | 3.4..3.6 |
+| 1 | GPT-5.5 (xhigh) | 3.5 | 0.92 | 3.4..3.6 |
 | 2 | gpt-5.4-xhigh | 3.4 | 0.91 | 3.3..3.6 |
 | 3 | gpt-5.4-medium | 3.3 | 0.90 | 3.2..3.5 |
-| 4 | Claude Opus 4.7 (high reasoning)† | 3.0 | 0.87 | 2.8..3.1 |
+| 4 | Claude Opus 4.7 (high)† | 3.0 | 0.87 | 2.8..3.1 |
 | 5 | Claude Sonnet 4.6 Thinking 16K | 2.8 | 0.86 | 2.7..3.0 |
 | 6 | claude-opus-4-6-16K | 2.2 | 0.80 | 2.0..2.5 |
-| 7 | Claude Opus 4.8 (xhigh reasoning) | 1.7 | 0.75 | 1.6..1.9 |
+| 7 | Claude Opus 4.8 (xhigh) | 1.7 | 0.75 | 1.6..1.9 |
 | 8 | gpt-5.2-medium | 1.5 | 0.72 | 1.3..1.7 |
 | 9 | Kimi K2.6 | 1.2 | 0.68 | 1.1..1.4 |
-| 10 | Claude Opus 4.8 (high reasoning)‡ | 1.1 | 0.67 | 1.0..1.3 |
+| 10 | Claude Opus 4.8 (high)‡ | 1.1 | 0.67 | 1.0..1.3 |
 | 11 | Mistral Medium 3.1 | 0.8 | 0.63 | 0.6..1.0 |
 | 12 | DeepSeek V4 Pro | 0.6 | 0.60 | 0.5..0.8 |
 | 13 | Xiaomi MiMo V2.5 Pro | 0.5 | 0.58 | 0.3..0.6 |
