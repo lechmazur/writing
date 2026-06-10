@@ -125,6 +125,12 @@ The rating chart and pairwise margin map use shared display names, family colors
 
 ---
 
+## Public Artifacts
+
+The published bundle includes the story prompts and generated story text files for models visible in the public comparison charts. Prompt files are under `prompts_wc/`; model outputs are under `stories_wc/<model>/`.
+
+---
+
 ## Archived Absolute Ratings
 
 Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than direct story comparisons. Those results remain historical context, but the current public quality ranking should use the pairwise comparison results above.
