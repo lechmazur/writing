@@ -170,6 +170,7 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 
 ## Recent Updates
 - July 14, 2026: Added GPT-5.6, Muse Spark 1.1 high, and Grok 4.5.
+- July 9, 2026: Added Grok 4.5.
 - June 9, 2026: Added Claude Fable 5.
 - May 29, 2026: Added Claude Opus 4.8 high and xhigh.
 - May 26, 2026: Ernie 5.1, Qwen 3.7 Max, Mistral Medium 3.5, and Grok 4.3 added.
