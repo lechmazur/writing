@@ -1,8 +1,8 @@
 # LLM Creative Story-Writing Benchmark
 
-This benchmark measures short-fiction writing with **head-to-head story comparisons**. Models write stories to the same constrained creative briefs, and evaluator LLMs compare pairs of stories written for the same required elements. Those pairwise judgments are aggregated into a global comparison score.
+This benchmark compares short stories written to the same constrained creative briefs. Separate evaluator models read matched story pairs and choose which one is better. Those choices are combined into a relative comparison score.
 
-Higher scores mean a model more often wins direct story comparisons against the rest of the pool. The exact score scale is relative to this comparison graph, so differences and confidence intervals matter more than the absolute number.
+Higher scores mean stronger performance against the other models tested. Scores are relative, not grades: zero is near the middle of this comparison set, and overlapping uncertainty ranges can indicate similarly rated models.
 
 ---
 
@@ -16,58 +16,59 @@ Current comparison set:
 
 - 38 rated models
 - 423 direct model pairings
-- about 49.1k parsed evaluator judgments
-- uncertainty resampled across both stories and evaluators
-- side-position bias correction enabled
-- the main chart above hides chart-suppressed models for readability; this table includes every rated model
-- Markers indicate partial story coverage
+- about 49,100 evaluator judgments
+- the chart focuses on current models; the table retains all rated models for historical comparison
+- striped bars and markers identify models that completed fewer than 400 stories
 
-| Rank | Model | Comparison Score | Win Prob vs Pool | 95% CI |
-|-----:|:------|-----------------:|-----------------:|:-------|
-| 1 | Claude Fable 5 (high)§ | 3.3 | 0.91 | 3.2..3.4 |
-| 2 | GPT-5.5 (xhigh) | 3.1 | 0.89 | 3.0..3.1 |
-| 3 | GPT-5.6 Sol (xhigh) | 3.0 | 0.88 | 2.9..3.0 |
-| 4 | gpt-5.4-xhigh | 2.8 | 0.87 | 2.7..3.0 |
-| 5 | GPT-5.6 Sol (high) | 2.8 | 0.86 | 2.7..2.9 |
-| 6 | gpt-5.4-medium | 2.7 | 0.86 | 2.6..2.9 |
-| 7 | claude-opus-4-7-adaptive† | 2.5 | 0.83 | 2.4..2.6 |
-| 8 | claude-sonnet-4-6-16K | 2.3 | 0.82 | 2.2..2.4 |
-| 9 | claude-opus-4-6-16K | 1.8 | 0.75 | 1.6..2.0 |
-| 10 | Claude Opus 4.8 (xhigh) | 1.5 | 0.71 | 1.3..1.6 |
-| 11 | Muse Spark 1.1 (high) | 1.4 | 0.71 | 1.3..1.6 |
-| 12 | gpt-5.2-medium | 1.0 | 0.65 | 0.8..1.2 |
-| 13 | GLM-5.2 (max) | 1.0 | 0.64 | 0.9..1.1 |
-| 14 | Claude Opus 4.8 (high)‡ | 0.9 | 0.64 | 0.8..1.1 |
-| 15 | Kimi K2.6 | 0.8 | 0.61 | 0.6..0.9 |
-| 16 | MiniMax-M3 | 0.7 | 0.60 | 0.5..0.8 |
-| 17 | Mistral Medium 3.1 | 0.3 | 0.54 | 0.1..0.4 |
-| 18 | DeepSeek V4 Pro | 0.2 | 0.52 | 0.0..0.3 |
-| 19 | Xiaomi MiMo V2.5 Pro | 0.0 | 0.50 | -0.2..0.1 |
-| 20 | qwen3-max-preview | 0.0 | 0.49 | -0.2..0.2 |
-| 21 | qwen3.6-max-preview | -0.3 | 0.45 | -0.4..-0.2 |
-| 22 | glm-5.1 | -0.4 | 0.43 | -0.7..-0.2 |
-| 23 | kimi-k2.5 | -0.5 | 0.42 | -0.7..-0.3 |
-| 24 | Baidu Ernie 5.1 | -0.6 | 0.41 | -0.8..-0.4 |
-| 25 | mimo-v2-pro | -0.6 | 0.40 | -0.9..-0.4 |
-| 26 | Mistral Large 3 | -1.3 | 0.31 | -1.5..-1.2 |
-| 27 | Gemma 4 31B Reasoning | -1.3 | 0.30 | -1.5..-1.2 |
-| 28 | Gemini 3.5 Flash | -1.4 | 0.29 | -1.6..-1.4 |
-| 29 | ByteDance Seed2.0 Pro | -1.5 | 0.28 | -1.6..-1.3 |
-| 30 | Gemini 3.1 Pro Preview | -1.8 | 0.25 | -1.9..-1.6 |
-| 31 | qwen3.6-plus | -1.8 | 0.25 | -2.0..-1.5 |
-| 32 | Mistral Medium 3.5 | -2.0 | 0.22 | -2.2..-1.8 |
-| 33 | Qwen 3.7 Max | -2.0 | 0.21 | -2.2..-1.9 |
-| 34 | deepseek-v32 | -2.3 | 0.18 | -2.6..-2.1 |
-| 35 | GPT-OSS-120B | -2.6 | 0.15 | -2.8..-2.5 |
-| 36 | minimax-m2.7 | -3.2 | 0.10 | -3.4..-3.1 |
-| 37 | grok-4.3 | -3.7 | 0.06 | -3.9..-3.5 |
-| 38 | Grok 4.5 (high) | -4.6 | 0.03 | -4.7..-4.5 |
+Labels such as `high`, `xhigh`, `max`, and `adaptive` identify the reasoning setting used for that model.
+Estimated win chance is the model's average expected chance against another model in the full comparison set.
+
+| Rank | Model | Comparison score | Estimated win chance | Uncertainty range |
+|-----:|:------|-----------------:|---------------------:|:------------------|
+| 1 | Claude Fable 5 (high)§ | 3.3 | 91% | 3.2 to 3.4 |
+| 2 | GPT-5.5 (xhigh) | 3.1 | 89% | 3.0 to 3.1 |
+| 3 | GPT-5.6 Sol (xhigh) | 3.0 | 88% | 2.9 to 3.0 |
+| 4 | GPT-5.4 (xhigh) | 2.8 | 87% | 2.7 to 3.0 |
+| 5 | GPT-5.6 Sol (high) | 2.8 | 86% | 2.7 to 2.9 |
+| 6 | GPT-5.4 (medium) | 2.7 | 86% | 2.6 to 2.9 |
+| 7 | Claude Opus 4.7 (adaptive)† | 2.5 | 83% | 2.4 to 2.6 |
+| 8 | Claude Sonnet 4.6 (16K) | 2.3 | 82% | 2.2 to 2.4 |
+| 9 | Claude Opus 4.6 (16K) | 1.8 | 75% | 1.6 to 2.0 |
+| 10 | Claude Opus 4.8 (xhigh) | 1.5 | 71% | 1.3 to 1.6 |
+| 11 | Muse Spark 1.1 (high) | 1.4 | 71% | 1.3 to 1.6 |
+| 12 | GPT-5.2 (medium) | 1.0 | 65% | 0.8 to 1.2 |
+| 13 | GLM-5.2 (max) | 1.0 | 64% | 0.9 to 1.1 |
+| 14 | Claude Opus 4.8 (high)‡ | 0.9 | 64% | 0.8 to 1.1 |
+| 15 | Kimi K2.6 | 0.8 | 61% | 0.6 to 0.9 |
+| 16 | MiniMax-M3 | 0.7 | 60% | 0.5 to 0.8 |
+| 17 | Mistral Medium 3.1 | 0.3 | 54% | 0.1 to 0.4 |
+| 18 | DeepSeek V4 Pro | 0.2 | 52% | 0.0 to 0.3 |
+| 19 | Xiaomi MiMo V2.5 Pro | 0.0 | 50% | -0.2 to 0.1 |
+| 20 | Qwen 3 Max Preview | 0.0 | 49% | -0.2 to 0.2 |
+| 21 | Qwen 3.6 Max Preview | -0.3 | 45% | -0.4 to -0.2 |
+| 22 | GLM-5.1 | -0.4 | 43% | -0.7 to -0.2 |
+| 23 | Kimi K2.5 | -0.5 | 42% | -0.7 to -0.3 |
+| 24 | Baidu Ernie 5.1 | -0.6 | 41% | -0.8 to -0.4 |
+| 25 | Xiaomi MiMo V2 Pro | -0.6 | 40% | -0.9 to -0.4 |
+| 26 | Mistral Large 3 | -1.3 | 31% | -1.5 to -1.2 |
+| 27 | Gemma 4 31B Reasoning | -1.3 | 30% | -1.5 to -1.2 |
+| 28 | Gemini 3.5 Flash | -1.4 | 29% | -1.6 to -1.4 |
+| 29 | ByteDance Seed 2.0 Pro | -1.5 | 28% | -1.6 to -1.3 |
+| 30 | Gemini 3.1 Pro Preview | -1.8 | 25% | -1.9 to -1.6 |
+| 31 | Qwen 3.6 Plus | -1.8 | 25% | -2.0 to -1.5 |
+| 32 | Mistral Medium 3.5 | -2.0 | 22% | -2.2 to -1.8 |
+| 33 | Qwen 3.7 Max | -2.0 | 21% | -2.2 to -1.9 |
+| 34 | DeepSeek V3.2 | -2.3 | 18% | -2.6 to -2.1 |
+| 35 | GPT-OSS-120B | -2.6 | 15% | -2.8 to -2.5 |
+| 36 | MiniMax-M2.7 | -3.2 | 10% | -3.4 to -3.1 |
+| 37 | Grok 4.3 | -3.7 | 6% | -3.9 to -3.5 |
+| 38 | Grok 4.5 (high) | -4.6 | 3% | -4.7 to -4.5 |
 
 ### Coverage Note
 
-- † Claude Opus 4.7 refused some story-generation prompts in this run. It produced 347 completed stories out of 400 prompts. The comparison score uses completed stories only; no score was imputed for refused prompts.
-- ‡ Claude Opus 4.8 high refused one story-generation prompt in this run. It produced 399 completed stories out of 400 prompts. The comparison score uses completed stories only; no score was imputed for the refused prompt.
-- § Claude Fable 5 high refused five story-generation prompts in this run. It produced 395 completed stories out of 400 prompts. The comparison score uses completed stories only; no score was imputed for refused prompts.
+- † Claude Opus 4.7 completed 347 of 400 stories. Only completed stories were compared.
+- ‡ Claude Opus 4.8 high completed 399 of 400 stories. Only completed stories were compared.
+- § Claude Fable 5 high completed 395 of 400 stories. Only completed stories were compared.
 
 ---
 
@@ -100,11 +101,11 @@ Selected examples:
 
 ---
 
-## Pairwise Margin Map
+## Head-to-Head Comparisons
 
 ![Pairwise margin heatmap](images/inter_llm_comparison_pair_margin_heatmap.png)
 
-Each cell is the average signed comparison margin for the row model against the column model. Positive values mean the row model tended to beat the column model on stories written to the same required elements. Both axes are ordered from best to worst by the current Thurstone leaderboard.
+Read each cell by row. Red means the row model performed better, blue means the column model performed better, and grey means the models were not directly compared. Near-white cells indicate close results. Both axes follow the leaderboard order.
 
 ---
 
@@ -114,13 +115,13 @@ Each cell is the average signed comparison margin for the row model against the 
 
 ![Evaluator agreement matrix](images/inter_llm_comparison_evaluator_agreement.png)
 
-This matrix shows how similarly evaluator models used the signed pairwise-margin scale on shared comparison tasks. Higher Pearson correlation means closer agreement between evaluators.
+This chart shows how similarly the evaluator models scored the same story pairs. Values closer to 1 indicate stronger agreement; 0 means no consistent relationship, and negative values mean opposing scoring patterns.
 
 ### Word Count Compliance
 
 ![Word count compliance](images/inter_llm_comparison_word_count_ci.png)
 
-This is an input-compliance diagnostic, not a quality ranking. It shows individual completed story lengths, plus model-level mean length and 95% confidence intervals against the 600-800 word target range. Models are sorted alphabetically by display name.
+Each dot is one story, and each diamond is a model's average length. Thin vertical lines show uncertainty around the averages. The shaded band is the 600-800-word target. This chart measures story length, not writing quality.
 
 ---
 
@@ -141,7 +142,7 @@ Every story must meaningfully incorporate ten required elements:
 
 The comparison protocol keeps the prompt and required elements matched within each story pair. This makes the judgment about which story better satisfies the same creative brief, rather than which model happened to receive an easier prompt.
 
-Evaluator prompts separate rubric-aligned observations from important beyond-rubric observations, but the public model score is not an average absolute grade. It is the model's position in the pairwise comparison graph.
+Evaluators consider required-element use, prose, coherence, character, originality, and overall effectiveness. The public score combines their choices; it is not an average 0-10 grade.
 
 ---
 
@@ -149,14 +150,9 @@ Evaluator prompts separate rubric-aligned observations from important beyond-rub
 
 1. Generate stories in the benchmark format.
 2. Build matched story-comparison prompts for models that wrote to the same required elements.
-3. Compare both visible story orders to reduce position bias.
-4. Parse evaluator responses into winner labels and signed margins.
-5. Correct measured side-position bias in signed margins.
-6. Average opposite-order judgments before story-level aggregation.
-7. Aggregate story-level pair margins into a global comparison score.
-8. Bootstrap over stories and evaluators to estimate uncertainty.
-
-The rating chart and pairwise margin map use shared display names, family colors, and model-brand logos where available. The pairwise margin map uses the current Thurstone leaderboard order on both axes. Its x-axis logo strip intentionally sits below the chart, with reserved bottom margin so the plotted grid remains unobscured.
+3. Show each pair in both story orders to reduce first- or second-position effects.
+4. Repeat comparisons across evaluators and combine their choices.
+5. Calculate relative model scores and their uncertainty ranges.
 
 ---
 
@@ -173,9 +169,7 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 ---
 
 ## Recent Updates
-- July 11, 2026: Expanded direct-comparison coverage for closely ranked models and refreshed the leaderboard and charts.
-- July 10, 2026: Added GPT-5.6 xhigh and refreshed the pairwise comparison charts.
-- July 9, 2026: Added GPT-5.6 high, Muse Spark 1.1 high, and Grok 4.5 high; refreshed the pairwise comparison charts and added a quote-based Grok failure audit.
+- July 14, 2026: Added GPT-5.6, Muse Spark 1.1 high, and Grok 4.5.
 - June 9, 2026: Added Claude Fable 5.
 - May 29, 2026: Added Claude Opus 4.8 high and xhigh.
 - May 26, 2026: Ernie 5.1, Qwen 3.7 Max, Mistral Medium 3.5, and Grok 4.3 added.
