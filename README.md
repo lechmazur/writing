@@ -14,9 +14,10 @@ Higher scores mean stronger performance against the other models tested. Scores 
 
 Current comparison set:
 
-- 38 rated models
-- 423 direct model pairings
-- about 49,100 evaluator judgments
+- 39 rated models
+- 445 direct model pairings
+- 53,081 evaluator judgments
+- the rating combines compatible evaluator-v2 and evaluator-v3 evidence after bridge validation
 - the chart focuses on current models; the table retains all rated models for historical comparison
 - striped bars and markers identify models that completed fewer than 400 stories
 
@@ -26,78 +27,50 @@ Estimated win chance is the model's average expected chance against another mode
 | Rank | Model | Comparison score | Estimated win chance | Uncertainty range |
 |-----:|:------|-----------------:|---------------------:|:------------------|
 | 1 | Claude Fable 5 (high)§ | 3.3 | 91% | 3.2 to 3.4 |
-| 2 | GPT-5.5 (xhigh) | 3.1 | 89% | 3.0 to 3.1 |
-| 3 | GPT-5.6 Sol (xhigh) | 3.0 | 88% | 2.9 to 3.0 |
-| 4 | GPT-5.4 (xhigh) | 2.8 | 87% | 2.7 to 3.0 |
-| 5 | GPT-5.6 Sol (high) | 2.8 | 86% | 2.7 to 2.9 |
-| 6 | GPT-5.4 (medium) | 2.7 | 86% | 2.6 to 2.9 |
-| 7 | Claude Opus 4.7 (adaptive)† | 2.5 | 83% | 2.4 to 2.6 |
-| 8 | Claude Sonnet 4.6 (16K) | 2.3 | 82% | 2.2 to 2.4 |
-| 9 | Claude Opus 4.6 (16K) | 1.8 | 75% | 1.6 to 2.0 |
-| 10 | Claude Opus 4.8 (xhigh) | 1.5 | 71% | 1.3 to 1.6 |
-| 11 | Muse Spark 1.1 (high) | 1.4 | 71% | 1.3 to 1.6 |
-| 12 | GPT-5.2 (medium) | 1.0 | 65% | 0.8 to 1.2 |
-| 13 | GLM-5.2 (max) | 1.0 | 64% | 0.9 to 1.1 |
-| 14 | Claude Opus 4.8 (high)‡ | 0.9 | 64% | 0.8 to 1.1 |
-| 15 | Kimi K2.6 | 0.8 | 61% | 0.6 to 0.9 |
-| 16 | MiniMax-M3 | 0.7 | 60% | 0.5 to 0.8 |
-| 17 | Mistral Medium 3.1 | 0.3 | 54% | 0.1 to 0.4 |
-| 18 | DeepSeek V4 Pro | 0.2 | 52% | 0.0 to 0.3 |
-| 19 | Xiaomi MiMo V2.5 Pro | 0.0 | 50% | -0.2 to 0.1 |
-| 20 | Qwen 3 Max Preview | 0.0 | 49% | -0.2 to 0.2 |
-| 21 | Qwen 3.6 Max Preview | -0.3 | 45% | -0.4 to -0.2 |
-| 22 | GLM-5.1 | -0.4 | 43% | -0.7 to -0.2 |
-| 23 | Kimi K2.5 | -0.5 | 42% | -0.7 to -0.3 |
-| 24 | Baidu Ernie 5.1 | -0.6 | 41% | -0.8 to -0.4 |
-| 25 | Xiaomi MiMo V2 Pro | -0.6 | 40% | -0.9 to -0.4 |
-| 26 | Mistral Large 3 | -1.3 | 31% | -1.5 to -1.2 |
-| 27 | Gemma 4 31B Reasoning | -1.3 | 30% | -1.5 to -1.2 |
-| 28 | Gemini 3.5 Flash | -1.4 | 29% | -1.6 to -1.4 |
-| 29 | ByteDance Seed 2.0 Pro | -1.5 | 28% | -1.6 to -1.3 |
-| 30 | Gemini 3.1 Pro Preview | -1.8 | 25% | -1.9 to -1.6 |
-| 31 | Qwen 3.6 Plus | -1.8 | 25% | -2.0 to -1.5 |
-| 32 | Mistral Medium 3.5 | -2.0 | 22% | -2.2 to -1.8 |
-| 33 | Qwen 3.7 Max | -2.0 | 21% | -2.2 to -1.9 |
-| 34 | DeepSeek V3.2 | -2.3 | 18% | -2.6 to -2.1 |
-| 35 | GPT-OSS-120B | -2.6 | 15% | -2.8 to -2.5 |
-| 36 | MiniMax-M2.7 | -3.2 | 10% | -3.4 to -3.1 |
-| 37 | Grok 4.3 | -3.7 | 6% | -3.9 to -3.5 |
-| 38 | Grok 4.5 (high) | -4.6 | 3% | -4.7 to -4.5 |
+| 2 | GPT-5.5 (xhigh) | 3.0 | 88% | 2.9 to 3.1 |
+| 3 | Kimi K3 | 2.9 | 87% | 2.8 to 3.0 |
+| 4 | GPT-5.6 Sol (xhigh) | 2.9 | 87% | 2.8 to 3.0 |
+| 5 | GPT-5.4 (xhigh) | 2.7 | 86% | 2.6 to 2.9 |
+| 6 | GPT-5.6 Sol (high) | 2.7 | 85% | 2.6 to 2.8 |
+| 7 | GPT-5.4 (medium) | 2.7 | 85% | 2.5 to 2.9 |
+| 8 | Claude Opus 4.7 (adaptive)† | 2.4 | 82% | 2.3 to 2.5 |
+| 9 | Claude Sonnet 4.6 (16K) | 2.2 | 80% | 2.1 to 2.4 |
+| 10 | Claude Opus 4.6 (16K) | 1.7 | 74% | 1.5 to 2.0 |
+| 11 | Muse Spark 1.1 (high) | 1.3 | 69% | 1.2 to 1.5 |
+| 12 | Claude Opus 4.8 (xhigh) | 1.3 | 69% | 1.2 to 1.4 |
+| 13 | GPT-5.2 (medium) | 1.0 | 64% | 0.8 to 1.2 |
+| 14 | GLM-5.2 (max) | 0.9 | 63% | 0.8 to 1.0 |
+| 15 | Claude Opus 4.8 (high)‡ | 0.8 | 62% | 0.7 to 0.9 |
+| 16 | Kimi K2.6 | 0.7 | 59% | 0.6 to 0.8 |
+| 17 | MiniMax-M3 | 0.6 | 58% | 0.4 to 0.7 |
+| 18 | Mistral Medium 3.1 | 0.2 | 52% | 0.0 to 0.3 |
+| 19 | DeepSeek V4 Pro | 0.1 | 51% | -0.1 to 0.2 |
+| 20 | Xiaomi MiMo V2.5 Pro | -0.1 | 48% | -0.2 to 0.1 |
+| 21 | Qwen 3 Max Preview | -0.1 | 48% | -0.3 to 0.1 |
+| 22 | Qwen 3.6 Max Preview | -0.4 | 44% | -0.5 to -0.2 |
+| 23 | GLM-5.1 | -0.5 | 42% | -0.7 to -0.3 |
+| 24 | Kimi K2.5 | -0.6 | 41% | -0.8 to -0.3 |
+| 25 | Baidu Ernie 5.1 | -0.7 | 39% | -0.9 to -0.5 |
+| 26 | Xiaomi MiMo V2 Pro | -0.7 | 39% | -1.0 to -0.5 |
+| 27 | Mistral Large 3 | -1.3 | 30% | -1.5 to -1.2 |
+| 28 | Gemma 4 31B Reasoning | -1.4 | 29% | -1.5 to -1.3 |
+| 29 | Gemini 3.5 Flash | -1.5 | 28% | -1.6 to -1.4 |
+| 30 | ByteDance Seed 2.0 Pro | -1.5 | 28% | -1.6 to -1.4 |
+| 31 | Gemini 3.1 Pro Preview | -1.8 | 24% | -1.9 to -1.7 |
+| 32 | Qwen 3.6 Plus | -1.8 | 24% | -2.0 to -1.6 |
+| 33 | Mistral Medium 3.5 | -2.0 | 22% | -2.2 to -1.9 |
+| 34 | Qwen 3.7 Max | -2.1 | 20% | -2.2 to -2.0 |
+| 35 | DeepSeek V3.2 | -2.4 | 17% | -2.7 to -2.1 |
+| 36 | GPT-OSS-120B | -2.7 | 15% | -2.8 to -2.6 |
+| 37 | MiniMax-M2.7 | -3.3 | 9% | -3.5 to -3.2 |
+| 38 | Grok 4.3 | -3.8 | 6% | -4.0 to -3.6 |
+| 39 | Grok 4.5 (high) | -4.6 | 2% | -4.7 to -4.5 |
 
 ### Coverage Note
 
 - † Claude Opus 4.7 completed 347 of 400 stories. Only completed stories were compared.
 - ‡ Claude Opus 4.8 high completed 399 of 400 stories. Only completed stories were compared.
 - § Claude Fable 5 high completed 395 of 400 stories. Only completed stories were compared.
-
----
-
-## Grok 4.5 High Failure Audit
-
-Grok 4.5 high placed last in the current comparison set, so I also ran a quote-based poor-writing audit across its 400 story outputs. The audit found 1,200 concrete examples. Its worst recurring tendency is style-over-substance: high-concept or mystical language is asserted before the story has stable rules, scene mechanics, or physical continuity.
-
-Common failure modes:
-
-- pseudo-mechanisms that treat feelings, vows, symbols, or abstractions as if they were engineered physical systems
-- plot solutions stated as outcomes instead of earned through observable actions
-- compressed premise labels that never become clear people, tools, places, or institutions
-- continuity errors where objects, constraints, time, or environmental conditions drift between adjacent beats
-- overloaded abstract sentences that sound portentous but do not parse cleanly
-
-Selected examples:
-
-| Quote | Issue |
-|:------|:------|
-| "thermal signatures left by feelings" | Treats emotion as a long-lived heat source without establishing rules. |
-| "deathly vitality" | Uses a self-canceling phrase, then repeats it as if repetition adds meaning. |
-| "While reality shifts transformed the world outside the walls remained a haven of perfect silence." | The sentence collapses grammatically before the scene can work. |
-| "the pioneering cart glider contemplated new applications" | Turns a vehicle into a thinking character without setup. |
-| "dust from butterfly wing that preprocesses reality via decay" | Stacks concepts until the mechanism becomes incoherent. |
-| "a small diving apparatus" for a deep underwater expedition | Uses an implausibly tiny tool to solve an extreme-environment problem. |
-| "altered to rapid short pants" | A typo turns a tense beat into accidental comedy. |
-| "journeyed across a giant's nap" | Treats an abstract or impossible setting as a traversable place without grounding it. |
-| "integrity was assured by design" because vows would collapse together | Mistakes mutual fragility for a robust system. |
-| "storm diverting slightly thanks to accurate monitoring" | Confuses observing a storm with controlling one. |
 
 ---
 
@@ -152,7 +125,8 @@ Evaluators consider required-element use, prose, coherence, character, originali
 2. Build matched story-comparison prompts for models that wrote to the same required elements.
 3. Show each pair in both story orders to reduce first- or second-position effects.
 4. Repeat comparisons across evaluators and combine their choices.
-5. Calculate relative model scores and their uncertainty ranges.
+5. When an evaluator roster changes, validate shared prompts and bridge matchups before combining evidence.
+6. Calculate relative model scores and their uncertainty ranges.
 
 ---
 
@@ -169,6 +143,7 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 ---
 
 ## Recent Updates
+- July 18, 2026: Added Kimi K3, updated evaluators.
 - July 14, 2026: Added GPT-5.6, Muse Spark 1.1 high, and Grok 4.5.
 - July 9, 2026: Added Grok 4.5.
 - June 9, 2026: Added Claude Fable 5.
