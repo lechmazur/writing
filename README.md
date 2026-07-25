@@ -14,9 +14,9 @@ Higher scores mean stronger performance against the other models tested. Scores 
 
 Current comparison set:
 
-- 39 rated models
-- 445 direct model pairings
-- 53,081 evaluator judgments
+- 40 rated models
+- 499 direct model pairings
+- 58,301 evaluator judgments
 - the rating combines compatible evaluator-v2 and evaluator-v3 evidence after bridge validation
 - the chart focuses on current models; the table retains all rated models for historical comparison
 - striped bars and markers identify models that completed fewer than 400 stories
@@ -26,45 +26,46 @@ Estimated win chance is the model's average expected chance against another mode
 
 | Rank | Model | Comparison score | Estimated win chance | Uncertainty range |
 |-----:|:------|-----------------:|---------------------:|:------------------|
-| 1 | Claude Fable 5 (high)§ | 3.3 | 91% | 3.2 to 3.4 |
-| 2 | GPT-5.5 (xhigh) | 3.0 | 88% | 2.9 to 3.1 |
+| 1 | Claude Opus 5 (xhigh) | 4.3 | 96% | 4.2 to 4.4 |
+| 2 | Claude Fable 5 (high)§ | 3.2 | 90% | 3.2 to 3.3 |
 | 3 | Kimi K3 | 2.9 | 87% | 2.8 to 3.0 |
-| 4 | GPT-5.6 Sol (xhigh) | 2.9 | 87% | 2.8 to 3.0 |
-| 5 | GPT-5.4 (xhigh) | 2.7 | 86% | 2.6 to 2.9 |
-| 6 | GPT-5.6 Sol (high) | 2.7 | 85% | 2.6 to 2.8 |
-| 7 | GPT-5.4 (medium) | 2.7 | 85% | 2.5 to 2.9 |
-| 8 | Claude Opus 4.7 (adaptive)† | 2.4 | 82% | 2.3 to 2.5 |
-| 9 | Claude Sonnet 4.6 (16K) | 2.2 | 80% | 2.1 to 2.4 |
-| 10 | Claude Opus 4.6 (16K) | 1.7 | 74% | 1.5 to 2.0 |
-| 11 | Muse Spark 1.1 (high) | 1.3 | 69% | 1.2 to 1.5 |
-| 12 | Claude Opus 4.8 (xhigh) | 1.3 | 69% | 1.2 to 1.4 |
-| 13 | GPT-5.2 (medium) | 1.0 | 64% | 0.8 to 1.2 |
-| 14 | GLM-5.2 (max) | 0.9 | 63% | 0.8 to 1.0 |
-| 15 | Claude Opus 4.8 (high)‡ | 0.8 | 62% | 0.7 to 0.9 |
-| 16 | Kimi K2.6 | 0.7 | 59% | 0.6 to 0.8 |
-| 17 | MiniMax-M3 | 0.6 | 58% | 0.4 to 0.7 |
-| 18 | Mistral Medium 3.1 | 0.2 | 52% | 0.0 to 0.3 |
-| 19 | DeepSeek V4 Pro | 0.1 | 51% | -0.1 to 0.2 |
-| 20 | Xiaomi MiMo V2.5 Pro | -0.1 | 48% | -0.2 to 0.1 |
-| 21 | Qwen 3 Max Preview | -0.1 | 48% | -0.3 to 0.1 |
-| 22 | Qwen 3.6 Max Preview | -0.4 | 44% | -0.5 to -0.2 |
-| 23 | GLM-5.1 | -0.5 | 42% | -0.7 to -0.3 |
-| 24 | Kimi K2.5 | -0.6 | 41% | -0.8 to -0.3 |
-| 25 | Baidu Ernie 5.1 | -0.7 | 39% | -0.9 to -0.5 |
-| 26 | Xiaomi MiMo V2 Pro | -0.7 | 39% | -1.0 to -0.5 |
-| 27 | Mistral Large 3 | -1.3 | 30% | -1.5 to -1.2 |
-| 28 | Gemma 4 31B Reasoning | -1.4 | 29% | -1.5 to -1.3 |
-| 29 | Gemini 3.5 Flash | -1.5 | 28% | -1.6 to -1.4 |
-| 30 | ByteDance Seed 2.0 Pro | -1.5 | 28% | -1.6 to -1.4 |
-| 31 | Gemini 3.1 Pro Preview | -1.8 | 24% | -1.9 to -1.7 |
+| 4 | GPT-5.6 Sol (xhigh) | 2.8 | 86% | 2.7 to 2.9 |
+| 5 | GPT-5.5 (xhigh) | 2.8 | 86% | 2.7 to 2.9 |
+| 6 | GPT-5.6 Sol (high) | 2.6 | 84% | 2.5 to 2.7 |
+| 7 | GPT-5.4 (xhigh) | 2.4 | 81% | 2.2 to 2.5 |
+| 8 | GPT-5.4 (medium) | 2.3 | 81% | 2.1 to 2.4 |
+| 9 | Claude Opus 4.7 (adaptive)† | 2.2 | 80% | 2.1 to 2.3 |
+| 10 | Claude Sonnet 4.6 (16K) | 2.0 | 78% | 1.9 to 2.1 |
+| 11 | Claude Opus 4.6 (16K) | 1.5 | 71% | 1.3 to 1.7 |
+| 12 | Muse Spark 1.1 (high) | 1.2 | 68% | 1.1 to 1.4 |
+| 13 | Claude Opus 4.8 (xhigh) | 1.2 | 68% | 1.1 to 1.3 |
+| 14 | GLM-5.2 (max) | 0.8 | 62% | 0.7 to 0.9 |
+| 15 | GPT-5.2 (medium) | 0.7 | 61% | 0.6 to 0.9 |
+| 16 | Claude Opus 4.8 (high)‡ | 0.7 | 61% | 0.6 to 0.9 |
+| 17 | Kimi K2.6 | 0.5 | 58% | 0.4 to 0.6 |
+| 18 | MiniMax-M3 | 0.5 | 57% | 0.3 to 0.6 |
+| 19 | Mistral Medium 3.1 | 0.1 | 51% | -0.1 to 0.2 |
+| 20 | DeepSeek V4 Pro | 0.0 | 49% | -0.2 to 0.1 |
+| 21 | Xiaomi MiMo V2.5 Pro | -0.2 | 47% | -0.4 to -0.1 |
+| 22 | Qwen 3 Max Preview | -0.2 | 46% | -0.4 to -0.1 |
+| 23 | Qwen 3.6 Max Preview | -0.5 | 43% | -0.6 to -0.4 |
+| 24 | GLM-5.1 | -0.6 | 41% | -0.8 to -0.4 |
+| 25 | Kimi K2.5 | -0.6 | 41% | -0.8 to -0.4 |
+| 26 | Xiaomi MiMo V2 Pro | -0.8 | 39% | -1.0 to -0.5 |
+| 27 | Baidu Ernie 5.1 | -0.8 | 38% | -1.0 to -0.6 |
+| 28 | Mistral Large 3 | -1.4 | 30% | -1.5 to -1.3 |
+| 29 | Gemma 4 31B Reasoning | -1.5 | 29% | -1.6 to -1.4 |
+| 30 | Gemini 3.5 Flash | -1.6 | 27% | -1.7 to -1.5 |
+| 31 | ByteDance Seed2.0 Pro | -1.6 | 27% | -1.7 to -1.5 |
 | 32 | Qwen 3.6 Plus | -1.8 | 24% | -2.0 to -1.6 |
-| 33 | Mistral Medium 3.5 | -2.0 | 22% | -2.2 to -1.9 |
-| 34 | Qwen 3.7 Max | -2.1 | 20% | -2.2 to -2.0 |
-| 35 | DeepSeek V3.2 | -2.4 | 17% | -2.7 to -2.1 |
-| 36 | GPT-OSS-120B | -2.7 | 15% | -2.8 to -2.6 |
-| 37 | MiniMax-M2.7 | -3.3 | 9% | -3.5 to -3.2 |
-| 38 | Grok 4.3 | -3.8 | 6% | -4.0 to -3.6 |
-| 39 | Grok 4.5 (high) | -4.6 | 2% | -4.7 to -4.5 |
+| 33 | Gemini 3.1 Pro Preview | -1.9 | 23% | -2.0 to -1.8 |
+| 34 | Mistral Medium 3.5 | -2.1 | 21% | -2.2 to -1.9 |
+| 35 | Qwen 3.7 Max | -2.2 | 20% | -2.3 to -2.0 |
+| 36 | DeepSeek V3.2 | -2.5 | 17% | -2.7 to -2.2 |
+| 37 | GPT-OSS-120B | -2.8 | 14% | -2.9 to -2.6 |
+| 38 | MiniMax-M2.7 | -3.4 | 9% | -3.5 to -3.2 |
+| 39 | Grok 4.3 | -3.9 | 6% | -4.1 to -3.7 |
+| 40 | Grok 4.5 (high) | -4.7 | 2% | -4.8 to -4.6 |
 
 ### Coverage Note
 
@@ -143,6 +144,7 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 ---
 
 ## Recent Updates
+- July 25, 2026: Added Claude Opus 5.
 - July 18, 2026: Added Kimi K3, updated evaluators.
 - July 14, 2026: Added GPT-5.6, Muse Spark 1.1 high, and Grok 4.5.
 - July 9, 2026: Added Grok 4.5.
