@@ -96,7 +96,7 @@ Read each cell by row. Red means the row model performed better, blue means the 
 
 ![Evaluator agreement matrix](images/inter_llm_comparison_evaluator_agreement.png)
 
-This chart shows how similarly the evaluator models scored the same story pairs. Values closer to 1 indicate stronger agreement; 0 means no consistent relationship, and negative values mean opposing scoring patterns.
+This chart shows how similarly the evaluator models scored the same story pairs. Values closer to 1 indicate stronger agreement; 0 means no consistent relationship, and negative values mean opposing scoring patterns. Its colorblind-safe scale uses orange for negative relationships and blue for positive relationships.
 
 ### Word Count Compliance
 
