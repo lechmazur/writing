@@ -1,0 +1,256 @@
+{
+  "counts": {
+    "accepted_ordered_judgments": 67178,
+    "complete_balanced_source_evaluator_story_keys": 33469,
+    "distinct_evaluator_story_keys": 33699,
+    "evaluators": 10,
+    "excluded_response_records": 163,
+    "indexed_excluded_responses": 64,
+    "indexed_tasks": 67242,
+    "models": 47,
+    "pair_story_aggregate_rows": 11199,
+    "recovered_sidecar_acceptances": 1,
+    "release_assets": 11,
+    "source_templates": 5,
+    "superseded_router_attempts": 99
+  },
+  "evaluators": [
+    "claude-opus-4-7-adaptive",
+    "deepseek-v4-pro",
+    "gemini-3.1-pro-preview",
+    "glm-5.1",
+    "glm-5.2-max",
+    "gpt-5.5-medium",
+    "grok-4.20-reasoning",
+    "kimi-k2.6",
+    "muse-spark-1.1-high",
+    "qwen3.6-max-preview"
+  ],
+  "generated_at_utc": "2026-08-23T15:29:16.481049Z",
+  "input_hashes": {
+    "comparison_index": "df62e5389950c550e0d79c4aa3c3bdcb0e672de322c2eb2cf0d7bbefa9dcbb8c",
+    "comparison_prompt": "4c57e7abb7c0a5ab0a885240cd82ac74906d37d73db161dbbbcd88c03c12e0f1",
+    "comparison_rubric": "80d77e0e9affd2672d509b82f26e87be73c28943f98ef367cf67bf04327863d2",
+    "comparison_scores": "1a2a5d7674728b4be510cac98a61904e07c4a897ac5e03941db4291dce24ae0a",
+    "evaluator_agreement": "22172e6a87ee3d8361eff12571c3603c3c31e4e7ed84ebb6d582245090c3abaf",
+    "evaluator_diagnostics": "8af53942e9dd1b20a412744e50f260962abebd78ee5f255a4a878ea6781a9bdd",
+    "head_to_head": "30a5a03f07095f9e80d716cb64927ce1c4465bfebfa3769f183721510d567152",
+    "leaderboard": "76fe2e3b5516ff83debbed4cf740175f964bfcf384133b8783f166575152cc82",
+    "pair_story_aggregates": "e521fe3a8867ac1eb6f08888fa58fdb2494911317023c843a8b098c09a39689c",
+    "rating_diagnostics": "09152521ae502b9026f35ab83c6e917a278cc3b9f5b88dfd53b114b71bd9f6aa",
+    "scope_compatibility": "03194d648845078e2b96ee5e172b2290d94d689ccb283fe62a1a3383f69ba582",
+    "scope_manifest": "d900d59a370e398e14cdfccedf4c6e0c442f4f395b1f6d6feb18ccdce2ac138d",
+    "side_bias_corrections": "d3b8c03bdc0b7218a860fb725b7137688b66fc15ef823e329682df50372a855a",
+    "tie_sensitivity": "95111005968740c988f77ef70c85780ddc4861bd597f90f9371e248b101dac61"
+  },
+  "models": [
+    "claude-fable-5-high",
+    "claude-opus-4-6-16K",
+    "claude-opus-4-7-adaptive",
+    "claude-opus-4-8-high",
+    "claude-opus-4-8-xhigh",
+    "claude-opus-5-xhigh",
+    "claude-sonnet-4-6-16K",
+    "deepseek-v32",
+    "deepseek-v4-pro",
+    "deepseek-v4-pro-high",
+    "ernie-5.1",
+    "gemini-3.1-pro-preview",
+    "gemini-3.5-flash",
+    "gemini-3.7-flash-high",
+    "gemma-4-31b-it-reasoning",
+    "glm-5.1",
+    "glm-5.2-max",
+    "glm-5.3",
+    "gpt-5.2-medium",
+    "gpt-5.4-medium",
+    "gpt-5.4-xhigh",
+    "gpt-5.5-xhigh",
+    "gpt-5.6-high",
+    "gpt-5.6-xhigh",
+    "gpt-oss-120b",
+    "grok-4.3",
+    "grok-4.5-high",
+    "grok-4.6-high",
+    "kimi-k2.5",
+    "kimi-k2.6",
+    "kimi-k3",
+    "mimo-v2-pro",
+    "mimo-v2.5-pro",
+    "minimax-m2.7",
+    "minimax-m3",
+    "mistral-large-2512",
+    "mistral-medium-2508",
+    "mistral-medium-3.5",
+    "muse-spark-1.1-high",
+    "muse-spark-1.2-high",
+    "qwen3-max-preview",
+    "qwen3.6-max-preview",
+    "qwen3.6-plus",
+    "qwen3.7-max",
+    "qwen3.8-27b",
+    "qwen3.8-max",
+    "seed-2.0-pro"
+  ],
+  "object": "writing2.public_judgment_snapshot",
+  "public_file_hashes": {
+    "README.md": "7ce25ba1c7da89ae506eafc1103eb6e49d80ee31a8fdf0bbc91c77d585e6baea",
+    "evaluator_agreement.csv": "22172e6a87ee3d8361eff12571c3603c3c31e4e7ed84ebb6d582245090c3abaf",
+    "evaluator_diagnostics.csv": "8af53942e9dd1b20a412744e50f260962abebd78ee5f255a4a878ea6781a9bdd",
+    "head_to_head.csv": "30a5a03f07095f9e80d716cb64927ce1c4465bfebfa3769f183721510d567152",
+    "judgments_index.csv": "dea70cf4775f975df9482a2b28cbcfb5579d29be1f96774ecc234f7f93d15f1f",
+    "judgments_sample.jsonl": "b7679b39107420726d1160f8d44c47b6d98f2d2a3a4d608df2ff7d216b8fcd45",
+    "judgments_schema.json": "f4282155513ee30ac96caffb045af556b4c35418234f1488597622a35d1150b2",
+    "leaderboard.csv": "76fe2e3b5516ff83debbed4cf740175f964bfcf384133b8783f166575152cc82",
+    "methodology/comparison_prompt.txt": "4c57e7abb7c0a5ab0a885240cd82ac74906d37d73db161dbbbcd88c03c12e0f1",
+    "methodology/comparison_rubric.txt": "80d77e0e9affd2672d509b82f26e87be73c28943f98ef367cf67bf04327863d2",
+    "pair_story_aggregates.csv": "e521fe3a8867ac1eb6f08888fa58fdb2494911317023c843a8b098c09a39689c",
+    "rating_diagnostics.csv": "09152521ae502b9026f35ab83c6e917a278cc3b9f5b88dfd53b114b71bd9f6aa",
+    "scope_compatibility.csv": "03194d648845078e2b96ee5e172b2290d94d689ccb283fe62a1a3383f69ba582",
+    "side_bias_corrections.csv": "d3b8c03bdc0b7218a860fb725b7137688b66fc15ef823e329682df50372a855a",
+    "tie_sensitivity.csv": "95111005968740c988f77ef70c85780ddc4861bd597f90f9371e248b101dac61"
+  },
+  "publication_contract": {
+    "accepted_prose_is_verbatim": true,
+    "balanced_order_responses_preserved": true,
+    "excluded_coverage": "indexed unscored responses plus superseded attempts preserved in router sidecars adjacent to indexed tasks",
+    "excluded_prose_is_verbatim_when_available": true,
+    "internal_paths_published": false,
+    "provider_envelopes_published": false,
+    "request_identifiers_published": false
+  },
+  "release_assets": [
+    {
+      "bytes": 10367529,
+      "content": "accepted evaluator prose and parsed judgments",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0001.jsonl.zst",
+      "file_name": "judgments-accepted-part-0001.jsonl.zst",
+      "records": 10000,
+      "sha256": "02c74a962645f51181ae2f97f19d5cd4d2bf8dd0f4c5250ac3a03de7f2d54018"
+    },
+    {
+      "bytes": 10249172,
+      "content": "accepted evaluator prose and parsed judgments",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0002.jsonl.zst",
+      "file_name": "judgments-accepted-part-0002.jsonl.zst",
+      "records": 10000,
+      "sha256": "030dd7328ab75da5d5a65505c4d6563bc098276481a80fb085e23aadb2a5ef80"
+    },
+    {
+      "bytes": 9533002,
+      "content": "accepted evaluator prose and parsed judgments",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0003.jsonl.zst",
+      "file_name": "judgments-accepted-part-0003.jsonl.zst",
+      "records": 10000,
+      "sha256": "19ca69b48fa68cb7afe8770fe82393ec39b566b7898453f9d5aaebb6bc962beb"
+    },
+    {
+      "bytes": 9714585,
+      "content": "accepted evaluator prose and parsed judgments",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0004.jsonl.zst",
+      "file_name": "judgments-accepted-part-0004.jsonl.zst",
+      "records": 10000,
+      "sha256": "f620b19fd4cfb543d2228711bebdea94a5d3efdb9b3d50e870c07b91972ee387"
+    },
+    {
+      "bytes": 9831231,
+      "content": "accepted evaluator prose and parsed judgments",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0005.jsonl.zst",
+      "file_name": "judgments-accepted-part-0005.jsonl.zst",
+      "records": 10000,
+      "sha256": "fb9c76bf23ae4ee49efc3f1c6c1bb39f7a4472d2a288f10415d9d43820eaec18"
+    },
+    {
+      "bytes": 9649230,
+      "content": "accepted evaluator prose and parsed judgments",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0006.jsonl.zst",
+      "file_name": "judgments-accepted-part-0006.jsonl.zst",
+      "records": 10000,
+      "sha256": "3a8b97ab6ed93fa4896ec72b8776605db510236c48881eed8fc9140d1d63cffe"
+    },
+    {
+      "bytes": 6960235,
+      "content": "accepted evaluator prose and parsed judgments",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0007.jsonl.zst",
+      "file_name": "judgments-accepted-part-0007.jsonl.zst",
+      "records": 7178,
+      "sha256": "1640e4c88148f5bf809148577175a53f8e4664ca71cd1776a706732f9941f582"
+    },
+    {
+      "bytes": 117280,
+      "content": "excluded, malformed, or superseded evaluator responses",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-excluded-part-0001.jsonl.zst",
+      "file_name": "judgments-excluded-part-0001.jsonl.zst",
+      "records": 163,
+      "sha256": "15f443cf968518063b1786369a3a748c5d6e57b0c371a91b0501cbc1c9c449b4"
+    },
+    {
+      "bytes": 17981591,
+      "content": "referenced story texts",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/stories-part-0001.jsonl.zst",
+      "file_name": "stories-part-0001.jsonl.zst",
+      "records": 12255,
+      "sha256": "43d7ef06c353b051ea67e94e85aca4920c954a970df402cf67ae29987ce4e54f"
+    },
+    {
+      "bytes": 63298,
+      "content": "writing prompts",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/writing-prompts-part-0001.jsonl.zst",
+      "file_name": "writing-prompts-part-0001.jsonl.zst",
+      "records": 400,
+      "sha256": "e1bd0ddc25297e15ddfc21c049e0de7aed95f677b6c3e909b6349e6f5e717e6e"
+    },
+    {
+      "bytes": 1036,
+      "content": "SHA-256 checksums for release data assets",
+      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/SHA256SUMS",
+      "file_name": "SHA256SUMS",
+      "records": 0,
+      "sha256": "dd6ee0ec910a9739cf4c0e56d70a4258d1d1a2cc75ed15c4d83328f1283fbc05"
+    }
+  ],
+  "release_repo": "lechmazur/writing",
+  "release_tag": "benchmark-data-2026-08-23",
+  "release_url": "https://github.com/lechmazur/writing/releases/tag/benchmark-data-2026-08-23",
+  "schema_version": 1,
+  "scope": {
+    "bridge_coverage_groups": [
+      [
+        "comparator_v2_eval_v2_balanced_n20_cap3"
+      ],
+      [
+        "comparator_v2_eval_v3_balanced_weighted_n15_20_25_cap3",
+        "comparator_v2_eval_v3_balanced_weighted_n5_15_20_cap3",
+        "comparator_v2_eval_v3_balanced_weighted_n5_cap3",
+        "comparator_v2_eval_v3_highlighted_predecessor_depth_n30_cap3"
+      ]
+    ],
+    "bridge_pairs": [
+      "gpt-5.6-xhigh,gpt-5.6-high",
+      "gpt-5.6-high,claude-opus-4-8-xhigh",
+      "claude-opus-4-8-xhigh,muse-spark-1.1-high",
+      "muse-spark-1.1-high,glm-5.2-max",
+      "glm-5.2-max,kimi-k2.6",
+      "kimi-k2.6,minimax-m3",
+      "minimax-m3,mistral-medium-2508",
+      "mistral-medium-2508,deepseek-v4-pro",
+      "deepseek-v4-pro,gemini-3.5-flash",
+      "gemini-3.5-flash,qwen3.7-max",
+      "qwen3.7-max,grok-4.5-high"
+    ],
+    "minimum_shared_evaluators": 7,
+    "prompt_sha256": "4c57e7abb7c0a5ab0a885240cd82ac74906d37d73db161dbbbcd88c03c12e0f1",
+    "require_balanced_orders": true,
+    "rubric_summary_sha256": "80d77e0e9affd2672d509b82f26e87be73c28943f98ef367cf67bf04327863d2",
+    "scope_id": "comparator_v2_eval_v2_v3_combined_public",
+    "template_ids": [
+      "comparator_v2_eval_v2_balanced_n20_cap3",
+      "comparator_v2_eval_v3_balanced_weighted_n15_20_25_cap3",
+      "comparator_v2_eval_v3_balanced_weighted_n5_15_20_cap3",
+      "comparator_v2_eval_v3_balanced_weighted_n5_cap3",
+      "comparator_v2_eval_v3_highlighted_predecessor_depth_n30_cap3"
+    ]
+  },
+  "snapshot_id": "2026-08-23",
+  "source_commit": "a6212bda78237689e4f983adb4cc777431f9c978"
+}

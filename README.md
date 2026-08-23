@@ -151,6 +151,8 @@ Because the combinations are pre-screened for creative potential, the benchmark 
 
 The published bundle includes the story prompts and generated story text files for models visible in the public comparison charts, plus the linked qualitative reports. Prompt files are under `prompts_wc/`; model outputs are under `stories_wc/<model>/`.
 
+[Public benchmark data](data/README.md) provides machine-readable leaderboard, head-to-head, pair-story, and evaluator-diagnostic tables. It also links to an immutable data release containing the exact evaluator prose for both story orders, excluded or superseded responses, and the referenced story and prompt texts. Provider envelopes, request identifiers, internal paths, and implementation code are not published.
+
 ---
 
 ## Archived Absolute Ratings
@@ -160,6 +162,7 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 ---
 
 ## Recent Updates
+- August 23, 2026: Published machine-readable comparison data and an auditable evaluator-prose release.
 - August 20, 2026: Added Muse Spark 1.2 high, DeepSeek V4 Pro high, Qwen 3.8 Max, Gemini 3.7 Flash high, and Grok 4.6 high. Added predecessor reports.
 - July 25, 2026: Added Claude Opus 5.
 - July 18, 2026: Added Kimi K3, updated evaluators.

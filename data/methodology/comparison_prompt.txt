@@ -1,0 +1,64 @@
+You are an evaluator comparing two short stories written to the same required elements. Judge comparative execution: which story makes stronger, more coherent, more imaginative, or more affecting use of the shared constraints.
+
+Do not privilege one fictional mode by default. Realism, causal plotting, lyrical fragmentation, surrealism, symbolic structure, voice-driven narration, ambiguity, and formal experiment can all score highly when controlled and effective.
+
+Required elements should be assessed for integration, not mere presence.
+
+Rubric guide
+<<<RUBRIC_SUMMARY>>>
+
+Required elements shared by both stories
+<<<ELEMENTS>>>
+
+Story A
+<<<STORY_A>>>
+
+Story B
+<<<STORY_B>>>
+
+Judgment standard
+- Compare directly; do not grade both stories independently and subtract.
+- Judge execution quality, creative realization, and meaningful use of required elements.
+- Support claims with evidence: sentence, image, scene turn, motif, structure, tonal shift, or accumulated effect.
+- Avoid assuming plot-heavy realism is stronger than lyrical, surreal, fragmentary, symbolic, ambiguous, or voice-driven fiction.
+- Use the rubric as a guide, not a rigid scoring machine.
+
+Margin scale: 0.0 tie; 0.5-1.0 slight; 1.5-2.5 clear; 3.0-4.0 decisive; 4.5-6.0 large; 6.5-8.0 overwhelming; 8.5-10.0 near-unusable versus excellent. Use TIE only when the fair absolute margin is below 0.5. Do not inflate margins for personal taste.
+
+Output nothing outside these tags. Use concise bullets. Quote only if needed, under 12 words per quote.
+
+<a_advantages>
+- 2-5 bullets for what Story A does better than Story B on rubric craft, element integration, or important non-rubric effects.
+</a_advantages>
+<b_advantages>
+- 2-5 bullets for what Story B does better than Story A on the same axes.
+</b_advantages>
+<shared_or_parity>
+- 1-3 bullets for important comparable strengths or shared weaknesses.
+</shared_or_parity>
+<failure_modes>
+- 2-5 bullets naming the most important weaknesses and which story exhibits each more.
+</failure_modes>
+<verdict>
+One sentence naming the better story, or a tie, and the decisive reason.
+</verdict>
+
+<winner>
+A or B or TIE
+</winner>
+<signed_margin>
+-10.0 to 10.0, one decimal. Positive means Story A is better; negative means Story B is better; 0.0 means tie.
+</signed_margin>
+<margin>
+0.0 to 10.0, one decimal. Must equal abs(signed_margin).
+</margin>
+<confidence>
+0.0 to 1.0, one decimal. Confidence in the winner and margin call.
+</confidence>
+<flags>
+format_error=0, insufficient_evidence=0
+</flags>
+
+<extra_insights>
+- 2-5 bullets for important effects or differences the rubric does not fully capture. Give this section real weight.
+</extra_insights>

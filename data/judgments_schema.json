@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": true,
+  "properties": {
+    "exclusion": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "order_variant": {
+      "enum": [
+        "ab",
+        "ba"
+      ]
+    },
+    "origin": {
+      "enum": [
+        "indexed_raw",
+        "router_sidecar_attempt"
+      ]
+    },
+    "parsed": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "record_id": {
+      "type": "string"
+    },
+    "response_sha256": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "response_text": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "schema_version": {
+      "const": 1
+    },
+    "status": {
+      "enum": [
+        "accepted",
+        "excluded"
+      ]
+    },
+    "story_idx": {
+      "minimum": 0,
+      "type": "integer"
+    }
+  },
+  "required": [
+    "schema_version",
+    "record_id",
+    "status",
+    "origin",
+    "scope_id",
+    "template_id",
+    "model_a",
+    "model_b",
+    "story_idx",
+    "order_variant",
+    "side_a_model",
+    "side_b_model",
+    "evaluator_id",
+    "response_text",
+    "response_sha256",
+    "parsed",
+    "exclusion",
+    "provenance"
+  ],
+  "title": "Creative-writing benchmark evaluator judgment",
+  "type": "object"
+}

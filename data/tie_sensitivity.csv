@@ -1,0 +1,4 @@
+tie_epsilon,tie_rate,bt_rank_spearman_vs_base,bt_rank_kendall_vs_base,bt_topk_overlap_vs_base,bt_max_rank_shift_vs_base,k_top,base_tie_epsilon
+0.25,0.03643182427002411,0.9995374653098983,0.992599444958372,1.0,1,3,0.5
+0.5,0.0640235735333512,1.0,1.0,1.0,0,3,0.5
+1.0,0.13161889454415573,0.9990749306197965,0.9870490286771508,1.0,2,3,0.5
