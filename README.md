@@ -145,10 +145,7 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 
 ## Recent Updates
 
-- September 27, 2026: Added Grok 4.7 versus Grok 4.6 and MiMo V2.6 Pro versus V2.5 Pro comparisons across 50 matched prompts each, with detailed reports.
-
-- September 27, 2026: Updated the rankings using earlier and newer evaluations. Expanded the Opus 5.5 high versus Opus 5 high comparison to 50 matched prompts and added a detailed report.
-- September 26, 2026: Added six writer models and updated the evaluators.
+- September 26, 2026: Added Claude Opus 5.5 high, Claude Opus 5 high, MiMo V2.6 Pro thinking, DeepSeek V4.1 Flash high, Gemini 3.8 Flash high, and Grok 4.7 high.
 - September 5, 2026: Added GPT-6 Astra high, Muse Spark 1.3.
 - September 2, 2026: Added Claude Fable 5.1.
 - August 23, 2026: Published comparison data and written evaluations.
