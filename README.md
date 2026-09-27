@@ -16,14 +16,14 @@ The shaded ranges show how much scores vary across 300 resamples of stories and 
 
 | Rank | Model | Comparison score | Estimated win chance | 95% bootstrap interval |
 | ---: | --- | ---: | ---: | --- |
-| 1 | **Claude Opus 5.5 (high)** | 3.870 | 94% | 3.755 to 3.990 |
-| 2 | Claude Fable 5.1 (high) | 3.822 | 93% | 3.721 to 3.921 |
+| 1 | **Claude Opus 5.5 (high)** | 3.870 | 94% | 3.754 to 3.990 |
+| 2 | Claude Fable 5.1 (high) | 3.822 | 93% | 3.721 to 3.920 |
 | 3 | Claude Opus 5 (xhigh) | 3.805 | 93% | 3.752 to 3.865 |
 | 4 | **Claude Opus 5 (high)** | 3.548 | 92% | 3.440 to 3.665 |
 | 5 | GPT-6 Astra (high) | 3.439 | 91% | 3.362 to 3.506 |
 | 6 | GLM-5.3 (max) | 3.022 | 88% | 2.905 to 3.120 |
 | 7 | Kimi K3 | 2.451 | 82% | 2.371 to 2.520 |
-| 8 | **Xiaomi MiMo V2.6 Pro (thinking)※** | 1.584 | 72% | 1.427 to 1.731 |
+| 8 | **Xiaomi MiMo V2.6 Pro (thinking)※** | 1.584 | 72% | 1.427 to 1.733 |
 | 9 | Muse Spark 1.3 (high) | 0.584 | 59% | 0.490 to 0.675 |
 | 10 | DeepSeek V4 Pro (high) | 0.544 | 58% | 0.429 to 0.658 |
 | 11 | **Grok 4.7 (high)** | 0.400 | 56% | 0.191 to 0.610 |
@@ -31,19 +31,19 @@ The shaded ranges show how much scores vary across 300 resamples of stories and 
 | 13 | **Gemini 3.8 Flash (high)** | 0.128 | 52% | -0.013 to 0.315 |
 | 14 | MiniMax-M3 | -0.026 | 50% | -0.148 to 0.109 |
 | 15 | Xiaomi MiMo V2.5 Pro | -0.659 | 40% | -0.793 to -0.542 |
-| 16 | Qwen3.8-27B^ | -0.662 | 40% | -0.849 to -0.480 |
+| 16 | Qwen3.8-27B^ | -0.662 | 40% | -0.849 to -0.479 |
 | 17 | **DeepSeek V4.1 Flash (high)** | -0.673 | 40% | -0.807 to -0.522 |
 | 18 | Gemini 3.7 Flash (high) | -0.708 | 40% | -0.825 to -0.559 |
 | 19 | Baidu Ernie 5.1 | -1.217 | 32% | -1.392 to -1.044 |
 | 20 | Mistral Large 3 | -1.767 | 25% | -1.884 to -1.645 |
-| 21 | Gemma 4 31B Reasoning | -1.879 | 24% | -1.988 to -1.782 |
+| 21 | Gemma 4 31B Reasoning | -1.879 | 24% | -1.987 to -1.782 |
 | 22 | ByteDance Seed2.0 Pro | -1.988 | 22% | -2.117 to -1.844 |
 | 23 | Gemini 3.1 Pro Preview | -2.212 | 20% | -2.305 to -2.098 |
 | 24 | Mistral Medium 3.5 | -2.539 | 16% | -2.678 to -2.386 |
 | 25 | Grok 4.6 (high) | -2.847 | 13% | -2.988 to -2.694 |
 | 26 | GPT-OSS-120B | -3.141 | 11% | -3.275 to -3.014 |
 
-[All 56 writers and machine-readable results](data/writing_predecessors_20260927/README.md)
+[All 56 writers and machine-readable results](data/writing_length_repair_20260927/README.md)
 
 ### Coverage Note
 
@@ -69,13 +69,15 @@ Read each cell by row. Red means the row model performed better, blue means the 
 
 The matrix includes earlier and newer evaluator models. Each number shows how similarly two evaluators scored the story pairs they both read: positive correlations indicate agreement, and negative correlations indicate disagreement. Blank cells lack enough varied judgments to calculate a correlation; the diagonal is omitted. Agreement on these stories does not establish evaluator accuracy.
 
-GLM-5.1 / Muse Spark 1.1 (high): only two shared stories. [Shared-story counts](data/writing_predecessors_20260927/evaluator_agreement.csv) accompany every evaluator pair.
+GLM-5.1 / Muse Spark 1.1 (high): only two shared stories. [Shared-story counts](data/writing_length_repair_20260927/evaluator_agreement.csv) accompany every evaluator pair.
 
 ### Word Count Compliance
 
 ![Story word counts](images/inter_llm_comparison_word_count_ci_highlighted.png)
 
 Each dot is one completed story; diamonds mark model averages. The shaded band is the 600–800-word target. The chart includes 10,362 completed stories from all 26 displayed models. This measures length rather than writing quality.
+
+Six stories that exceeded 800 words were regenerated using their original prompts; the first replacement within 600–800 words was retained. The 12 comparisons that used a replaced story were rerun with the same evaluators and both story orders. The rankings and charts use these replacements. All 10,362 displayed stories now fall within the word limit.
 
 ### Combining Evaluations Over Time
 
@@ -133,7 +135,7 @@ New analyses give recurring writing habits, range and adaptability, and consiste
 
 Story prompts are available under `prompts_wc/`, and generated stories under `stories_wc/<model>/`.
 
-[Current ratings and chart data](data/writing_predecessors_20260927/README.md) include scores, uncertainty intervals, and individual comparisons. [Earlier benchmark data](data/README.md) includes previous results and an archived release of prompts, stories, and written evaluations.
+[Current ratings and chart data](data/writing_length_repair_20260927/README.md) include scores, uncertainty intervals, and individual comparisons. [Earlier benchmark data](data/README.md) includes previous results and an archived release of prompts, stories, and written evaluations.
 
 ---
 
