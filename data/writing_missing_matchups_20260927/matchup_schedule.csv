@@ -1,0 +1,71 @@
+model_name,opponent_name,prompts,grader_calls,gap,interval_gap,model,opponent
+Claude Opus 5.5 (high),MiniMax-M3,3,18,3.896004862799568,3.645658943130712,claude-opus-5-5-high,minimax-m3
+Claude Opus 5.5 (high),Xiaomi MiMo V2.5 Pro,3,18,4.529098587113501,4.296886036693959,claude-opus-5-5-high,mimo-v2.5-pro
+Claude Opus 5.5 (high),Qwen3.8-27B,3,18,4.532305006480893,4.233992754109314,claude-opus-5-5-high,qwen3.8-27b
+Claude Opus 5.5 (high),Gemini 3.7 Flash (high),3,18,4.57848540858869,4.3130894858769135,claude-opus-5-5-high,gemini-3.7-flash-high
+Claude Opus 5.5 (high),Baidu Ernie 5.1,3,18,5.087280919333374,4.798216493081617,claude-opus-5-5-high,ernie-5.1
+Claude Opus 5.5 (high),Mistral Large 3,3,18,5.637577323065102,5.399749929363468,claude-opus-5-5-high,mistral-large-2512
+Claude Opus 5.5 (high),Gemma 4 31B Reasoning,3,18,5.748682131355344,5.536461120332515,claude-opus-5-5-high,gemma-4-31b-it-reasoning
+Claude Opus 5.5 (high),ByteDance Seed2.0 Pro,3,18,5.858383983234512,5.598445582369882,claude-opus-5-5-high,seed-2.0-pro
+Claude Opus 5.5 (high),Gemini 3.1 Pro Preview,3,18,6.082557263619161,5.852875234176192,claude-opus-5-5-high,gemini-3.1-pro-preview
+Claude Opus 5.5 (high),Mistral Medium 3.5,3,18,6.409169705827967,6.14057474366182,claude-opus-5-5-high,mistral-medium-3.5
+Claude Opus 5.5 (high),Grok 4.6 (high),3,18,6.7167025910773015,6.448148748304538,claude-opus-5-5-high,grok-4.6-high
+Claude Opus 5.5 (high),GPT-OSS-120B,3,18,7.010685409736675,6.768389463109418,claude-opus-5-5-high,gpt-oss-120b
+Claude Opus 5 (high),MiniMax-M3,4,24,3.5736243973106623,3.330908267397859,claude-opus-5-high,minimax-m3
+Claude Opus 5 (high),Xiaomi MiMo V2.5 Pro,3,18,4.206718121624596,3.982135360961108,claude-opus-5-high,mimo-v2.5-pro
+Claude Opus 5 (high),Qwen3.8-27B,3,18,4.209924540991988,3.919242078376463,claude-opus-5-high,qwen3.8-27b
+Claude Opus 5 (high),Gemini 3.7 Flash (high),3,18,4.256104943099785,3.9983388101440624,claude-opus-5-high,gemini-3.7-flash-high
+Claude Opus 5 (high),Baidu Ernie 5.1,3,18,4.764900453844469,4.483465817348765,claude-opus-5-high,ernie-5.1
+Claude Opus 5 (high),Mistral Large 3,3,18,5.315196857576197,5.084999253630617,claude-opus-5-high,mistral-large-2512
+Claude Opus 5 (high),Gemma 4 31B Reasoning,3,18,5.426301665866439,5.221710444599663,claude-opus-5-high,gemma-4-31b-it-reasoning
+Claude Opus 5 (high),ByteDance Seed2.0 Pro,3,18,5.536003517745607,5.283694906637031,claude-opus-5-high,seed-2.0-pro
+Claude Opus 5 (high),Gemini 3.1 Pro Preview,3,18,5.760176798130256,5.538124558443341,claude-opus-5-high,gemini-3.1-pro-preview
+Claude Opus 5 (high),Mistral Medium 3.5,3,18,6.086789240339062,5.825824067928968,claude-opus-5-high,mistral-medium-3.5
+Claude Opus 5 (high),Grok 4.6 (high),3,18,6.394322125588396,6.133398072571686,claude-opus-5-high,grok-4.6-high
+Claude Opus 5 (high),GPT-OSS-120B,3,18,6.68830494424777,6.453638787376567,claude-opus-5-high,gpt-oss-120b
+Xiaomi MiMo V2.6 Pro (thinking),MiniMax-M3,10,60,1.6097133264645094,1.317933219006758,mimo-v2.6-pro,minimax-m3
+Xiaomi MiMo V2.6 Pro (thinking),Qwen3.8-27B,7,42,2.246013470145836,1.9062670299853617,mimo-v2.6-pro,qwen3.8-27b
+Xiaomi MiMo V2.6 Pro (thinking),Gemini 3.7 Flash (high),7,42,2.292193872253632,1.9853637617529607,mimo-v2.6-pro,gemini-3.7-flash-high
+Xiaomi MiMo V2.6 Pro (thinking),Baidu Ernie 5.1,5,30,2.8009893829983152,2.4704907689576645,mimo-v2.6-pro,ernie-5.1
+Xiaomi MiMo V2.6 Pro (thinking),Mistral Large 3,4,24,3.351285786730044,3.072024205239515,mimo-v2.6-pro,mistral-large-2512
+Xiaomi MiMo V2.6 Pro (thinking),Gemma 4 31B Reasoning,4,24,3.462390595020286,3.2087353962085614,mimo-v2.6-pro,gemma-4-31b-it-reasoning
+Xiaomi MiMo V2.6 Pro (thinking),ByteDance Seed2.0 Pro,4,24,3.572092446899454,3.270719858245929,mimo-v2.6-pro,seed-2.0-pro
+Xiaomi MiMo V2.6 Pro (thinking),Gemini 3.1 Pro Preview,3,18,3.796265727284103,3.52514951005224,mimo-v2.6-pro,gemini-3.1-pro-preview
+Xiaomi MiMo V2.6 Pro (thinking),Mistral Medium 3.5,3,18,4.122878169492909,3.8128490195378673,mimo-v2.6-pro,mistral-medium-3.5
+Xiaomi MiMo V2.6 Pro (thinking),Grok 4.6 (high),3,18,4.430411054742244,4.120423024180585,mimo-v2.6-pro,grok-4.6-high
+Xiaomi MiMo V2.6 Pro (thinking),GPT-OSS-120B,3,18,4.724393873401617,4.4406637389854655,mimo-v2.6-pro,gpt-oss-120b
+Grok 4.7 (high),MiniMax-M3,10,60,0.4263406144659204,0.0816718629321303,grok-4.7-high,minimax-m3
+Grok 4.7 (high),Xiaomi MiMo V2.5 Pro,10,60,1.0594343387798544,0.7328989564953787,grok-4.7-high,mimo-v2.5-pro
+Grok 4.7 (high),Qwen3.8-27B,10,60,1.0626407581472466,0.6700056739107341,grok-4.7-high,qwen3.8-27b
+Grok 4.7 (high),Gemini 3.7 Flash (high),10,60,1.1088211602550426,0.7491024056783335,grok-4.7-high,gemini-3.7-flash-high
+Grok 4.7 (high),Baidu Ernie 5.1,10,60,1.6176166709997266,1.234229412883037,grok-4.7-high,ernie-5.1
+Grok 4.7 (high),Mistral Large 3,7,42,2.167913074731455,1.835762849164888,grok-4.7-high,mistral-large-2512
+Grok 4.7 (high),Gemma 4 31B Reasoning,7,42,2.279017883021697,1.9724740401339336,grok-4.7-high,gemma-4-31b-it-reasoning
+Grok 4.7 (high),ByteDance Seed2.0 Pro,7,42,2.388719734900865,2.0344585021713018,grok-4.7-high,seed-2.0-pro
+Grok 4.7 (high),Gemini 3.1 Pro Preview,6,36,2.612893015285514,2.2888881539776125,grok-4.7-high,gemini-3.1-pro-preview
+Grok 4.7 (high),Mistral Medium 3.5,5,30,2.93950545749432,2.57658766346324,grok-4.7-high,mistral-medium-3.5
+Grok 4.7 (high),GPT-OSS-120B,4,24,3.5410211614030285,3.204402382910838,grok-4.7-high,gpt-oss-120b
+Gemini 3.8 Flash (high),MiniMax-M3,10,60,0.1542101599720964,0.0,gemini-3.8-flash-high,minimax-m3
+Gemini 3.8 Flash (high),Xiaomi MiMo V2.5 Pro,10,60,0.7873038842860303,0.5297663607792747,gemini-3.8-flash-high,mimo-v2.5-pro
+Gemini 3.8 Flash (high),Qwen3.8-27B,10,60,0.7905103036534225,0.4668730781946301,gemini-3.8-flash-high,qwen3.8-27b
+Gemini 3.8 Flash (high),Gemini 3.7 Flash (high),10,60,0.8366907057612186,0.5459698099622295,gemini-3.8-flash-high,gemini-3.7-flash-high
+Gemini 3.8 Flash (high),Baidu Ernie 5.1,10,60,1.3454862165059025,1.031096817166933,gemini-3.8-flash-high,ernie-5.1
+Gemini 3.8 Flash (high),Mistral Large 3,9,54,1.8957826202376309,1.6326302534487838,gemini-3.8-flash-high,mistral-large-2512
+Gemini 3.8 Flash (high),Gemma 4 31B Reasoning,8,48,2.006887428527873,1.76934144441783,gemini-3.8-flash-high,gemma-4-31b-it-reasoning
+Gemini 3.8 Flash (high),ByteDance Seed2.0 Pro,8,48,2.116589280407041,1.8313259064551977,gemini-3.8-flash-high,seed-2.0-pro
+Gemini 3.8 Flash (high),Gemini 3.1 Pro Preview,6,36,2.3407625607916898,2.0857555582615084,gemini-3.8-flash-high,gemini-3.1-pro-preview
+Gemini 3.8 Flash (high),Mistral Medium 3.5,5,30,2.667375003000496,2.373455067747136,gemini-3.8-flash-high,mistral-medium-3.5
+Gemini 3.8 Flash (high),Grok 4.6 (high),5,30,2.9749078882498305,2.6810290723898533,gemini-3.8-flash-high,grok-4.6-high
+Gemini 3.8 Flash (high),GPT-OSS-120B,4,24,3.2688907069092044,3.001269787194734,gemini-3.8-flash-high,gpt-oss-120b
+DeepSeek V4.1 Flash (high),Qwen3.8-27B,10,60,0.0108166117043637,0.0,deepseek-v4.1-flash-high,qwen3.8-27b
+DeepSeek V4.1 Flash (high),Xiaomi MiMo V2.5 Pro,10,60,0.0140230310717559,0.0,deepseek-v4.1-flash-high,mimo-v2.5-pro
+DeepSeek V4.1 Flash (high),Gemini 3.7 Flash (high),10,60,0.0353637904034324,0.0,deepseek-v4.1-flash-high,gemini-3.7-flash-high
+DeepSeek V4.1 Flash (high),Baidu Ernie 5.1,10,60,0.5441593011481163,0.2364710247069175,deepseek-v4.1-flash-high,ernie-5.1
+DeepSeek V4.1 Flash (high),MiniMax-M3,10,60,0.6471167553856898,0.3733335175229193,deepseek-v4.1-flash-high,minimax-m3
+DeepSeek V4.1 Flash (high),Mistral Large 3,10,60,1.0944557048798444,0.8380044609887682,deepseek-v4.1-flash-high,mistral-large-2512
+DeepSeek V4.1 Flash (high),Gemma 4 31B Reasoning,10,60,1.2055605131700868,0.9747156519578144,deepseek-v4.1-flash-high,gemma-4-31b-it-reasoning
+DeepSeek V4.1 Flash (high),ByteDance Seed2.0 Pro,10,60,1.3152623650492548,1.0367001139951824,deepseek-v4.1-flash-high,seed-2.0-pro
+DeepSeek V4.1 Flash (high),Gemini 3.1 Pro Preview,10,60,1.5394356454339035,1.2911297658014929,deepseek-v4.1-flash-high,gemini-3.1-pro-preview
+DeepSeek V4.1 Flash (high),Mistral Medium 3.5,9,54,1.86604808764271,1.5788292752871202,deepseek-v4.1-flash-high,mistral-medium-3.5
+DeepSeek V4.1 Flash (high),Grok 4.6 (high),7,42,2.1735809728920445,1.8864032799298376,deepseek-v4.1-flash-high,grok-4.6-high
+DeepSeek V4.1 Flash (high),GPT-OSS-120B,6,36,2.4675637915514184,2.2066439947347183,deepseek-v4.1-flash-high,gpt-oss-120b
