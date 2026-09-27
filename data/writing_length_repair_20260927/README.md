@@ -8,6 +8,8 @@ Bootstrap intervals describe the pooled observed comparison set; they do not pro
 
 [Previous calibrated-v4 analysis](../writing_v4_opus50/README.md) remains a separate snapshot with a different target and uncertainty method. Its wide bounded intervals are not reused as pooled bootstrap intervals.
 
+The tables cover 56 writers, 838 direct model pairings, 14,624 distinct story pairs, and 99,309 judgments. All rated writers retain their overall ranks.
+
 | Rank | Model | Comparison score | Estimated win chance | 95% bootstrap interval |
 | ---: | --- | ---: | ---: | --- |
 | 1 | **Claude Opus 5.5 (high)** | 3.870 | 94% | 3.754 to 3.990 |
@@ -66,3 +68,14 @@ Bootstrap intervals describe the pooled observed comparison set; they do not pro
 | 54 | MiniMax-M2.7 | -3.748 | 7% | -3.882 to -3.629 |
 | 55 | Grok 4.3 | -4.237 | 4% | -4.409 to -4.038 |
 | 56 | Grok 4.5 (high) | -5.067 | 2% | -5.158 to -4.992 |
+
+### Coverage Note
+
+- † Claude Opus 4.7: 347 of 400 stories completed.
+- ‡ Claude Opus 4.8 high: 399 of 400 stories completed.
+- § Claude Fable 5 high: 395 of 400 stories completed.
+- ¶ Qwen 3.8 Max: 398 of 400 stories completed.
+- ^ Qwen3.8-27B: 389 of 400 stories completed.
+- ※ MiMo V2.6 Pro: 375 of 400 stories completed.
+
+Only completed stories were compared.
