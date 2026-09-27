@@ -2,6 +2,9 @@
 
 These reports compare model releases with their immediate benchmark predecessors across matched short-fiction prompts. Each combines balanced-order evaluator judgments with source-grounded qualitative analysis of recurring differences in reasoning, narrative control, characterization, causality, prose, and endings.
 
+- [Grok 4.7 (high) vs. Grok 4.6 (high)](grok-4.7-high__vs__grok-4.6-high__comparator_v2_eval_v4_grok47_mimo26_predecessors_20260927_n50_cap3__subjective_v5_habits_range.md)
+- [MiMo V2.6 Pro (thinking) vs. MiMo V2.5 Pro](mimo-v2.6-pro__vs__mimo-v2.5-pro__comparator_v2_eval_v4_grok47_mimo26_predecessors_20260927_n50_cap3__subjective_v5_habits_range.md)
+- [Claude Opus 5.5 (high) vs. Claude Opus 5 (high)](claude-opus-5-5-high__vs__claude-opus-5-high__comparator_v2_eval_v4_opus55_predecessor_20260927_n50__subjective_v5_habits_range.md)
 - [GPT-6 Astra (high) vs. GPT-5.6 Sol (high)](gpt-6-astra-high__vs__gpt-5.6-high__comparator_v2_eval_v2_v3_astra_predecessor_depth_n50__subjective_v4_extended_reader_summary.md)
 - [Muse Spark 1.3 (high) vs. Muse Spark 1.2 (high)](muse-spark-1.3-high__vs__muse-spark-1.2-high__comparator_v2_eval_v2_v3_combined_public__subjective_v3_reader_summary.md)
 - [Claude Fable 5.1 (high) vs. Claude Fable 5 (high)](claude-fable-5-1-high__vs__claude-fable-5-high__comparator_v2_eval_v2_v3_fable51_predecessor_depth_n50__subjective_v4_extended_reader_summary.md)

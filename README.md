@@ -1,112 +1,87 @@
 # LLM Creative Story-Writing Benchmark
 
-This benchmark compares short stories written to the same constrained creative briefs. Separate evaluator models read matched story pairs and choose which one is better. Those choices are combined into a relative comparison score.
+This benchmark compares short stories written to the same constrained creative briefs. Separate evaluator models read matched stories in both orders and judge which is better. Their judgments produce relative scores for each writer model.
 
-Higher scores mean stronger performance against the other models tested. Scores are relative, not grades: zero is near the middle of this comparison set, and overlapping uncertainty ranges can indicate similarly rated models.
-
----
+Higher ratings mean stronger estimated performance within this comparison set. Scores are centered at zero across all writer models in the comparison set.
 
 ## Current Results
 
-![Comparison ratings](images/inter_llm_comparison_thurstone_ratings.png)
+![Comparison ratings](images/inter_llm_comparison_thurstone_ratings_highlighted.png)
+
+The ranking combines judgments from earlier and newer evaluator models. It uses **99,309 judgments** across **14,624 distinct story pairs** and 56 writer models. The chart shows 26 current models, with the six recent additions highlighted.
+
+The shaded ranges show how much scores vary across 300 resamples of stories and evaluators (bootstrap). The table gives the 95% bootstrap intervals. Estimated win chance is a model's average predicted probability of beating another model in the full comparison set.
 
 ### Leaderboard
 
-Current comparison set:
+| Rank | Model | Comparison score | Estimated win chance | 95% bootstrap interval |
+| ---: | --- | ---: | ---: | --- |
+| 1 | **Claude Opus 5.5 (high)** | 3.870 | 94% | 3.755 to 3.990 |
+| 2 | Claude Fable 5.1 (high) | 3.822 | 93% | 3.721 to 3.921 |
+| 3 | Claude Opus 5 (xhigh) | 3.805 | 93% | 3.752 to 3.865 |
+| 4 | **Claude Opus 5 (high)** | 3.548 | 92% | 3.440 to 3.665 |
+| 5 | GPT-6 Astra (high) | 3.439 | 91% | 3.362 to 3.506 |
+| 6 | GLM-5.3 (max) | 3.022 | 88% | 2.905 to 3.120 |
+| 7 | Kimi K3 | 2.451 | 82% | 2.371 to 2.520 |
+| 8 | **Xiaomi MiMo V2.6 Pro (thinking)※** | 1.584 | 72% | 1.427 to 1.731 |
+| 9 | Muse Spark 1.3 (high) | 0.584 | 59% | 0.490 to 0.675 |
+| 10 | DeepSeek V4 Pro (high) | 0.544 | 58% | 0.429 to 0.658 |
+| 11 | **Grok 4.7 (high)** | 0.400 | 56% | 0.191 to 0.610 |
+| 12 | Qwen 3.8 Max¶ | 0.201 | 53% | 0.074 to 0.323 |
+| 13 | **Gemini 3.8 Flash (high)** | 0.128 | 52% | -0.013 to 0.315 |
+| 14 | MiniMax-M3 | -0.026 | 50% | -0.148 to 0.109 |
+| 15 | Xiaomi MiMo V2.5 Pro | -0.659 | 40% | -0.793 to -0.542 |
+| 16 | Qwen3.8-27B^ | -0.662 | 40% | -0.849 to -0.480 |
+| 17 | **DeepSeek V4.1 Flash (high)** | -0.673 | 40% | -0.807 to -0.522 |
+| 18 | Gemini 3.7 Flash (high) | -0.708 | 40% | -0.825 to -0.559 |
+| 19 | Baidu Ernie 5.1 | -1.217 | 32% | -1.392 to -1.044 |
+| 20 | Mistral Large 3 | -1.767 | 25% | -1.884 to -1.645 |
+| 21 | Gemma 4 31B Reasoning | -1.879 | 24% | -1.988 to -1.782 |
+| 22 | ByteDance Seed2.0 Pro | -1.988 | 22% | -2.117 to -1.844 |
+| 23 | Gemini 3.1 Pro Preview | -2.212 | 20% | -2.305 to -2.098 |
+| 24 | Mistral Medium 3.5 | -2.539 | 16% | -2.678 to -2.386 |
+| 25 | Grok 4.6 (high) | -2.847 | 13% | -2.988 to -2.694 |
+| 26 | GPT-OSS-120B | -3.141 | 11% | -3.275 to -3.014 |
 
-- 50 rated models
-- 773 direct model pairings
-- 79,507 evaluator judgments
-- the rating combines compatible evaluator-v2 and evaluator-v3 evidence after bridge validation
-- the chart focuses on selected current models; the table retains all rated models for historical comparison
-- striped bars and markers identify models that completed fewer than 400 stories
-
-
-| Rank | Model | Comparison score | Estimated win chance | Uncertainty range |
-|-----:|:------|-----------------:|---------------------:|:------------------|
-| 1 | Claude Opus 5 (xhigh) | 4.0 | 95% | 3.9 to 4.1 |
-| 2 | Claude Fable 5.1 (high) | 4.0 | 94% | 3.9 to 4.1 |
-| 3 | GPT-6 Astra (high) | 3.5 | 92% | 3.4 to 3.6 |
-| 4 | GLM-5.3 (max) | 3.1 | 89% | 3.0 to 3.3 |
-| 5 | Claude Fable 5 (high)§ | 3.1 | 88% | 3.0 to 3.1 |
-| 6 | Kimi K3 | 2.7 | 85% | 2.6 to 2.8 |
-| 7 | GPT-5.6 Sol (xhigh) | 2.7 | 84% | 2.6 to 2.7 |
-| 8 | GPT-5.5 (xhigh) | 2.6 | 84% | 2.6 to 2.7 |
-| 9 | GPT-5.6 Sol (high) | 2.5 | 83% | 2.4 to 2.6 |
-| 10 | GPT-5.4 (medium) | 2.2 | 79% | 2.1 to 2.3 |
-| 11 | GPT-5.4 (xhigh) | 2.2 | 79% | 2.1 to 2.3 |
-| 12 | Claude Opus 4.7 (high)† | 2.0 | 77% | 1.9 to 2.1 |
-| 13 | Claude Sonnet 4.6 Thinking 16K | 1.9 | 76% | 1.8 to 2.0 |
-| 14 | Claude Opus 4.6 Thinking 16K | 1.4 | 69% | 1.2 to 1.5 |
-| 15 | Claude Opus 4.8 (xhigh) | 1.0 | 64% | 0.9 to 1.1 |
-| 16 | Muse Spark 1.1 (high) | 1.0 | 64% | 0.9 to 1.1 |
-| 17 | Muse Spark 1.3 (high) | 0.8 | 61% | 0.7 to 0.9 |
-| 18 | DeepSeek V4 Pro (high) | 0.7 | 61% | 0.6 to 0.9 |
-| 19 | GLM-5.2 (max) | 0.6 | 60% | 0.5 to 0.7 |
-| 20 | GPT-5.2 (medium) | 0.5 | 58% | 0.4 to 0.7 |
-| 21 | Qwen 3.8 Max¶ | 0.5 | 57% | 0.3 to 0.6 |
-| 22 | Claude Opus 4.8 (high)‡ | 0.5 | 57% | 0.3 to 0.6 |
-| 23 | Kimi K2.6 | 0.3 | 55% | 0.2 to 0.4 |
-| 24 | Muse Spark 1.2 (high) | 0.2 | 52% | 0.0 to 0.3 |
-| 25 | MiniMax-M3 | 0.1 | 52% | 0.0 to 0.3 |
-| 26 | Mistral Medium 3.1 | -0.2 | 47% | -0.3 to 0.0 |
-| 27 | DeepSeek V4 Pro Preview | -0.3 | 45% | -0.4 to -0.2 |
-| 28 | Xiaomi MiMo V2.5 Pro | -0.4 | 44% | -0.6 to -0.3 |
-| 29 | Qwen 3 Max Preview | -0.5 | 43% | -0.6 to -0.3 |
-| 30 | Qwen3.8-27B^ | -0.5 | 43% | -0.7 to -0.3 |
-| 31 | Gemini 3.7 Flash (high) | -0.5 | 42% | -0.7 to -0.4 |
-| 32 | Qwen 3.6 Max Preview | -0.7 | 39% | -0.9 to -0.6 |
-| 33 | GLM-5.1 | -0.8 | 38% | -1.0 to -0.7 |
-| 34 | Kimi K2.5 Thinking | -0.9 | 37% | -1.0 to -0.7 |
-| 35 | Xiaomi MiMo V2 Pro | -1.0 | 35% | -1.2 to -0.8 |
-| 36 | Baidu Ernie 5.1 | -1.0 | 35% | -1.2 to -0.9 |
-| 37 | Mistral Large 3 | -1.6 | 27% | -1.7 to -1.5 |
-| 38 | Gemma 4 31B Reasoning | -1.7 | 26% | -1.8 to -1.6 |
-| 39 | Gemini 3.5 Flash | -1.8 | 24% | -1.9 to -1.7 |
-| 40 | ByteDance Seed2.0 Pro | -1.8 | 24% | -2.0 to -1.7 |
-| 41 | Gemini 3.1 Pro Preview | -2.1 | 22% | -2.1 to -1.9 |
-| 42 | Qwen 3.6 Plus | -2.1 | 21% | -2.3 to -1.9 |
-| 43 | Mistral Medium 3.5 | -2.4 | 18% | -2.5 to -2.2 |
-| 44 | Qwen 3.7 Max | -2.5 | 17% | -2.6 to -2.3 |
-| 45 | DeepSeek V3.2 | -2.7 | 15% | -3.0 to -2.4 |
-| 46 | Grok 4.6 (high) | -2.7 | 14% | -2.9 to -2.6 |
-| 47 | GPT-OSS-120B | -3.0 | 12% | -3.1 to -2.8 |
-| 48 | MiniMax-M2.7 | -3.6 | 8% | -3.7 to -3.4 |
-| 49 | Grok 4.3 | -4.1 | 5% | -4.3 to -3.9 |
-| 50 | Grok 4.5 (high) | -4.9 | 2% | -5.0 to -4.8 |
+[All 56 writers and machine-readable results](data/writing_predecessors_20260927/README.md)
 
 ### Coverage Note
 
-- † Claude Opus 4.7 completed 347 of 400 stories. Only completed stories were compared.
-- ‡ Claude Opus 4.8 high completed 399 of 400 stories. Only completed stories were compared.
-- § Claude Fable 5 high completed 395 of 400 stories. Only completed stories were compared.
-- ¶ Qwen 3.8 Max completed 398 of 400 stories after one audited recovery pass. Only completed stories were compared.
-- ^ Qwen3.8-27B completed 389 of 400 stories after one audited recovery pass. Only completed stories were compared.
+- ※ MiMo V2.6 Pro: 375/400 stories completed.
+- ¶ Qwen 3.8 Max: 398/400 stories completed.
+- ^ Qwen3.8-27B: 389/400 stories completed.
 
----
+Striped bars and badges identify incomplete story sets. Quality comparisons concern completed stories. The latest evaluations returned 19,802/19,860 planned judgments; 58 unavailable judgments are excluded from the scores. The Opus 5.5 high versus Opus 5 high comparison covers 50 matched prompts, with 298/300 usable judgments.
+
+Grok 4.7 (high) versus Grok 4.6 (high): 50 matched prompts, 300/300 judgments. Xiaomi MiMo V2.6 Pro (thinking) versus Xiaomi MiMo V2.5 Pro: 50 matched prompts, 300/300 judgments.
 
 ## Head-to-Head Comparisons
 
-![Pairwise margin heatmap](images/inter_llm_comparison_pair_margin_heatmap.png)
+![Pairwise margin heatmap](images/inter_llm_comparison_pair_margin_heatmap_highlighted.png)
 
-Read each cell by row. Red means the row model performed better, blue means the column model performed better, and grey means the models were not directly compared. Near-white cells indicate close results. Both axes follow the leaderboard order.
+Read each cell by row. Red means the row model performed better, blue means the column model performed better, and grey means the models were not directly compared. Near-white cells indicate close results. Both axes follow the leaderboard order. Earlier and newer evaluations contribute to both this chart and the rankings.
 
----
-
-## Diagnostics
+## Additional Results
 
 ### Evaluator Agreement
 
 ![Evaluator agreement matrix](images/inter_llm_comparison_evaluator_agreement.png)
 
-This chart shows how similarly the evaluator models scored the same story pairs. Values closer to 1 indicate stronger agreement; 0 means no consistent relationship, and negative values mean opposing scoring patterns. Its colorblind-safe scale uses orange for negative relationships and blue for positive relationships.
+The matrix includes earlier and newer evaluator models. Each number shows how similarly two evaluators scored the story pairs they both read: positive correlations indicate agreement, and negative correlations indicate disagreement. Blank cells lack enough varied judgments to calculate a correlation; the diagonal is omitted. Agreement on these stories does not establish evaluator accuracy.
+
+GLM-5.1 / Muse Spark 1.1 (high): only two shared stories. [Shared-story counts](data/writing_predecessors_20260927/evaluator_agreement.csv) accompany every evaluator pair.
 
 ### Word Count Compliance
 
-![Word count compliance](images/inter_llm_comparison_word_count_ci.png)
+![Story word counts](images/inter_llm_comparison_word_count_ci_highlighted.png)
 
-Each dot is one story, and each diamond is a model's average length. Thin vertical lines show uncertainty around the averages. The shaded band is the 600-800-word target. This chart measures story length, not writing quality.
+Each dot is one completed story; diamonds mark model averages. The shaded band is the 600–800-word target. The chart includes 10,362 completed stories from all 26 displayed models. This measures length rather than writing quality.
 
+### Combining Evaluations Over Time
+
+Earlier and newer evaluators use the same instructions and scoring criteria. They have judged 1,200 of the same story pairs, covering all previously tested writer models. Different evaluator versions count separately, with one averaged judgment per evaluator on each story pair. Each story pair receives equal weight in the ranking. Ratings use a Thurstone statistical model with a correction for story presentation order.
+
+The intervals reflect variation in completed comparisons. They do not account for how missing stories or judgments might change the scores, or how results would differ if only newer evaluators were used. Overlapping intervals mean small differences in rank may be uncertain.
 
 ---
 
@@ -125,7 +100,7 @@ Every story must meaningfully incorporate ten required elements:
 - motivation
 - tone
 
-Candidate combinations are proposed for coherence and originality, then independently rated; the strongest set for each seed becomes a fixed brief used by every writer model. A typical brief might combine a neutron-star researcher, butterfly-wing dust, gradual change, a storm-damaged greenhouse, "after the flood," and kindled humility.
+Candidate combinations are independently rated for coherence and originality. The highest-rated combinations become fixed briefs used by every writer model. A typical brief might combine a neutron-star researcher, butterfly-wing dust, gradual change, a storm-damaged greenhouse, "after the flood," and kindled humility.
 
 Evaluators reward integration rather than keyword inclusion: the required object should affect the plot, the motivation should produce a consequential choice, and the tone should shape the story's development. Both stories in every comparison answer the same brief, holding prompt difficulty constant. Evaluators also consider prose, coherence, character, originality, and overall effectiveness. The public score combines their choices; it is not an average 0-10 grade.
 
@@ -139,23 +114,26 @@ Because the combinations are pre-screened for creative potential, the benchmark 
 2. Build matched story-comparison prompts for models that wrote to the same required elements.
 3. Show each pair in both story orders to reduce first- or second-position effects.
 4. Repeat comparisons across evaluators and combine their choices.
-5. When an evaluator roster changes, validate shared prompts and bridge matchups before combining evidence.
+5. When evaluator models change, compare their judgments on shared stories before combining results.
 6. Calculate relative model scores and their uncertainty ranges.
 
 ---
 
 ## Qualitative Pair Reports
 
+Each report describes the models and stories compared. The Opus 5.5, Grok 4.7, and MiMo V2.6 Pro reports use newer evaluators; earlier reports use the evaluators available at the time.
 
-[New Models Compared with Their Predecessors](reports/pair_analysis/new_models_compared_with_predecessors.md) collects nine release-to-predecessor reports on a separate page.
+[New Models Compared with Their Predecessors](reports/pair_analysis/new_models_compared_with_predecessors.md) collects twelve release-to-predecessor reports on a separate page.
+
+New analyses give recurring writing habits, range and adaptability, and consistency separate treatment, with examples across different prompts. They examine repeated phrasing and story patterns as well as how flexibly each model changes its voice, tone, form, and narrative approach.
 
 ---
 
-## Public Artifacts
+## Data, Stories, and Prompts
 
-The published bundle includes the story prompts and generated story text files for models visible in the public comparison charts, plus the linked qualitative reports. Prompt files are under `prompts_wc/`; model outputs are under `stories_wc/<model>/`.
+Story prompts are available under `prompts_wc/`, and generated stories under `stories_wc/<model>/`.
 
-[Public benchmark data](data/README.md) provides machine-readable leaderboard, head-to-head, pair-story, and evaluator-diagnostic tables. It also links to an immutable data release containing the exact evaluator prose for both story orders, excluded or superseded responses, and the referenced story and prompt texts. Provider envelopes, request identifiers, internal paths, and implementation code are not published.
+[Current ratings and chart data](data/writing_predecessors_20260927/README.md) include scores, uncertainty intervals, and individual comparisons. [Earlier benchmark data](data/README.md) includes previous results and an archived release of prompts, stories, and written evaluations.
 
 ---
 
@@ -167,9 +145,13 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 
 ## Recent Updates
 
+- September 27, 2026: Added Grok 4.7 versus Grok 4.6 and MiMo V2.6 Pro versus V2.5 Pro comparisons across 50 matched prompts each, with detailed reports.
+
+- September 27, 2026: Updated the rankings using earlier and newer evaluations. Expanded the Opus 5.5 high versus Opus 5 high comparison to 50 matched prompts and added a detailed report.
+- September 26, 2026: Added six writer models and updated the evaluators.
 - September 5, 2026: Added GPT-6 Astra high, Muse Spark 1.3.
 - September 2, 2026: Added Claude Fable 5.1.
-- August 23, 2026: Published machine-readable comparison data and an auditable evaluator-prose release.
+- August 23, 2026: Published comparison data and written evaluations.
 - August 20, 2026: Added Muse Spark 1.2 high, DeepSeek V4 Pro high, Qwen 3.8 Max, Gemini 3.7 Flash high, and Grok 4.6 high. Added predecessor reports.
 - July 25, 2026: Added Claude Opus 5.
 - July 18, 2026: Added Kimi K3, updated evaluators.
