@@ -1,0 +1,13 @@
+model,opponent,prompts,kind,grader_calls
+claude-opus-5-5-high,claude-fable-5-1-high,30,top_models,180
+claude-opus-5-5-high,claude-opus-5-xhigh,40,top_models,240
+claude-opus-5-5-high,gpt-6-astra-high,20,top_models,120
+claude-fable-5-1-high,claude-opus-5-xhigh,15,top_models,90
+claude-fable-5-1-high,minimax-m3,3,matched_anchor,18
+claude-fable-5-1-high,ernie-5.1,3,matched_anchor,18
+claude-fable-5-1-high,gemini-3.1-pro-preview,3,matched_anchor,18
+claude-fable-5-1-high,gpt-oss-120b,3,matched_anchor,18
+claude-opus-5-xhigh,minimax-m3,3,matched_anchor,18
+claude-opus-5-xhigh,ernie-5.1,3,matched_anchor,18
+claude-opus-5-xhigh,gemini-3.1-pro-preview,3,matched_anchor,18
+claude-opus-5-xhigh,gpt-oss-120b,3,matched_anchor,18
