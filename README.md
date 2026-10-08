@@ -8,7 +8,7 @@ Higher ratings mean stronger estimated performance within this comparison set. S
 
 ![Comparison ratings](images/inter_llm_comparison_thurstone_ratings_highlighted.png)
 
-The ranking combines judgments from earlier and newer evaluator models. It covers **56 writer models**, **908 direct model pairings**, **15,172 distinct story pairs**, and **102,592 judgments**. Each direct model pairing can include stories from multiple matched prompts. The chart shows 26 selected models, with the six recent additions highlighted; the table lists every rated model with its overall rank.
+The ranking combines judgments from earlier and newer evaluator models. It covers **57 writer models**, **934 direct model pairings**, **15,692 distinct story pairs**, and **105,704 judgments**. Each direct model pairing can include stories from multiple matched prompts. The chart shows 22 selected models; the table lists every rated model with its overall rank. Mistral Large 4 (high) is the only highlighted model.
 
 The shaded ranges show how much scores vary across 300 resamples of stories and evaluators (bootstrap). The table gives the 95% bootstrap intervals. Estimated win chance is a model's average predicted probability of beating another model in the full comparison set.
 
@@ -16,62 +16,63 @@ The shaded ranges show how much scores vary across 300 resamples of stories and 
 
 | Rank | Model | Comparison score | Estimated win chance | 95% bootstrap interval |
 | ---: | --- | ---: | ---: | --- |
-| 1 | Claude Fable 5.1 (high) | 3.796 | 93% | 3.702 to 3.896 |
-| 2 | Claude Opus 5 (xhigh) | 3.777 | 93% | 3.726 to 3.836 |
-| 3 | **Claude Opus 5.5 (high)** | 3.767 | 93% | 3.676 to 3.882 |
-| 4 | GPT-6 Astra (high) | 3.455 | 91% | 3.381 to 3.519 |
-| 5 | **Claude Opus 5 (high)** | 3.453 | 91% | 3.344 to 3.557 |
-| 6 | GLM-5.3 (max) | 3.031 | 88% | 2.928 to 3.127 |
-| 7 | Claude Fable 5 (high)§ | 2.872 | 86% | 2.803 to 2.946 |
-| 8 | GPT-5.6 Sol (xhigh) | 2.488 | 83% | 2.407 to 2.561 |
-| 9 | Kimi K3 | 2.452 | 82% | 2.383 to 2.527 |
-| 10 | GPT-5.5 (xhigh) | 2.451 | 82% | 2.386 to 2.522 |
-| 11 | GPT-5.6 Sol (high) | 2.299 | 81% | 2.217 to 2.368 |
-| 12 | GPT-5.4 (medium) | 1.989 | 77% | 1.858 to 2.094 |
-| 13 | GPT-5.4 (xhigh) | 1.982 | 77% | 1.864 to 2.080 |
-| 14 | Claude Opus 4.7 (high)† | 1.782 | 75% | 1.683 to 1.872 |
-| 15 | Claude Sonnet 4.6 Thinking 16K | 1.674 | 74% | 1.564 to 1.780 |
-| 16 | **Xiaomi MiMo V2.6 Pro (thinking)※** | 1.594 | 73% | 1.449 to 1.747 |
-| 17 | Claude Opus 4.6 Thinking 16K | 1.149 | 67% | 0.974 to 1.333 |
-| 18 | Claude Opus 4.8 (xhigh) | 0.778 | 62% | 0.666 to 0.888 |
-| 19 | Muse Spark 1.1 (high) | 0.774 | 62% | 0.672 to 0.876 |
-| 20 | Muse Spark 1.3 (high) | 0.584 | 59% | 0.488 to 0.669 |
-| 21 | DeepSeek V4 Pro (high) | 0.547 | 58% | 0.448 to 0.651 |
-| 22 | GLM-5.2 (max) | 0.475 | 57% | 0.380 to 0.561 |
-| 23 | **Grok 4.7 (high)** | 0.448 | 57% | 0.246 to 0.655 |
-| 24 | GPT-5.2 (medium) | 0.353 | 55% | 0.201 to 0.517 |
-| 25 | Claude Opus 4.8 (high)‡ | 0.263 | 54% | 0.163 to 0.371 |
-| 26 | **Gemini 3.8 Flash (high)** | 0.215 | 53% | 0.079 to 0.368 |
-| 27 | Qwen 3.8 Max¶ | 0.204 | 53% | 0.088 to 0.325 |
-| 28 | Kimi K2.6 | 0.095 | 52% | 0.006 to 0.200 |
-| 29 | Muse Spark 1.2 (high) | -0.028 | 50% | -0.126 to 0.067 |
-| 30 | MiniMax-M3 | -0.063 | 49% | -0.197 to 0.069 |
-| 31 | Mistral Medium 3.1 | -0.367 | 45% | -0.497 to -0.249 |
-| 32 | **DeepSeek V4.1 Flash (high)** | -0.465 | 43% | -0.604 to -0.319 |
-| 33 | DeepSeek V4 Pro Preview | -0.524 | 42% | -0.636 to -0.424 |
-| 34 | Qwen3.8-27B^ | -0.641 | 40% | -0.813 to -0.480 |
-| 35 | Qwen 3 Max Preview | -0.670 | 40% | -0.829 to -0.510 |
-| 36 | Xiaomi MiMo V2.5 Pro | -0.677 | 40% | -0.801 to -0.545 |
-| 37 | Gemini 3.7 Flash (high) | -0.729 | 39% | -0.853 to -0.614 |
-| 38 | Qwen 3.6 Max Preview | -0.927 | 36% | -1.060 to -0.809 |
-| 39 | GLM-5.1 | -1.030 | 35% | -1.229 to -0.844 |
-| 40 | Kimi K2.5 Thinking | -1.071 | 34% | -1.225 to -0.904 |
-| 41 | Xiaomi MiMo V2 Pro | -1.213 | 32% | -1.447 to -0.972 |
-| 42 | Baidu Ernie 5.1 | -1.252 | 32% | -1.371 to -1.093 |
-| 43 | Mistral Large 3 | -1.753 | 25% | -1.874 to -1.628 |
-| 44 | Gemma 4 31B Reasoning | -1.869 | 24% | -1.985 to -1.778 |
-| 45 | Gemini 3.5 Flash | -1.974 | 22% | -2.062 to -1.891 |
-| 46 | ByteDance Seed2.0 Pro | -1.984 | 22% | -2.101 to -1.869 |
-| 47 | Gemini 3.1 Pro Preview | -2.180 | 20% | -2.288 to -2.057 |
-| 48 | Qwen 3.6 Plus | -2.263 | 19% | -2.423 to -2.101 |
-| 49 | Mistral Medium 3.5 | -2.542 | 16% | -2.682 to -2.408 |
-| 50 | Qwen 3.7 Max | -2.648 | 15% | -2.783 to -2.523 |
-| 51 | Grok 4.6 (high) | -2.837 | 13% | -2.977 to -2.700 |
-| 52 | DeepSeek V3.2 | -2.864 | 13% | -3.126 to -2.592 |
-| 53 | GPT-OSS-120B | -3.109 | 11% | -3.238 to -2.992 |
-| 54 | MiniMax-M2.7 | -3.753 | 7% | -3.898 to -3.622 |
-| 55 | Grok 4.3 | -4.243 | 4% | -4.428 to -4.058 |
-| 56 | Grok 4.5 (high) | -5.070 | 2% | -5.160 to -4.974 |
+| 1 | Claude Opus 5 (xhigh) | 3.777 | 93% | 3.722 to 3.839 |
+| 2 | Claude Fable 5.1 (high) | 3.760 | 93% | 3.675 to 3.860 |
+| 3 | Claude Opus 5.5 (high) | 3.718 | 93% | 3.630 to 3.810 |
+| 4 | GPT-6 Astra (high) | 3.461 | 91% | 3.388 to 3.535 |
+| 5 | Claude Opus 5 (high) | 3.414 | 91% | 3.313 to 3.531 |
+| 6 | GLM-5.3 (max) | 3.025 | 88% | 2.928 to 3.113 |
+| 7 | Claude Fable 5 (high)§ | 2.901 | 87% | 2.838 to 2.974 |
+| 8 | GPT-5.6 Sol (xhigh) | 2.519 | 83% | 2.452 to 2.600 |
+| 9 | GPT-5.5 (xhigh) | 2.482 | 83% | 2.415 to 2.565 |
+| 10 | Kimi K3 | 2.469 | 83% | 2.387 to 2.546 |
+| 11 | GPT-5.6 Sol (high) | 2.329 | 81% | 2.250 to 2.409 |
+| 12 | GPT-5.4 (medium) | 2.018 | 78% | 1.896 to 2.149 |
+| 13 | GPT-5.4 (xhigh) | 2.012 | 78% | 1.905 to 2.134 |
+| 14 | Claude Opus 4.7 (high)† | 1.815 | 75% | 1.696 to 1.923 |
+| 15 | Claude Sonnet 4.6 Thinking 16K | 1.705 | 74% | 1.611 to 1.812 |
+| 16 | Xiaomi MiMo V2.6 Pro (thinking)※ | 1.617 | 73% | 1.469 to 1.754 |
+| 17 | Claude Opus 4.6 Thinking 16K | 1.178 | 67% | 0.995 to 1.338 |
+| 18 | Claude Opus 4.8 (xhigh) | 0.808 | 62% | 0.710 to 0.910 |
+| 19 | Muse Spark 1.1 (high) | 0.804 | 62% | 0.714 to 0.910 |
+| 20 | Muse Spark 1.3 (high) | 0.624 | 60% | 0.539 to 0.718 |
+| 21 | DeepSeek V4 Pro (high) | 0.590 | 59% | 0.483 to 0.720 |
+| 22 | GLM-5.2 (max) | 0.505 | 58% | 0.419 to 0.600 |
+| 23 | Grok 4.7 (high) | 0.444 | 57% | 0.236 to 0.641 |
+| 24 | GPT-5.2 (medium) | 0.383 | 56% | 0.214 to 0.546 |
+| 25 | Claude Opus 4.8 (high)‡ | 0.294 | 55% | 0.204 to 0.397 |
+| 26 | Gemini 3.8 Flash (high) | 0.266 | 54% | 0.139 to 0.401 |
+| 27 | Qwen 3.8 Max¶ | 0.258 | 54% | 0.137 to 0.368 |
+| 28 | Kimi K2.6 | 0.128 | 52% | 0.028 to 0.235 |
+| 29 | Muse Spark 1.2 (high) | 0.000 | 50% | -0.091 to 0.102 |
+| 30 | MiniMax-M3 | -0.013 | 50% | -0.136 to 0.117 |
+| 31 | Mistral Medium 3.1 | -0.335 | 45% | -0.453 to -0.192 |
+| 32 | DeepSeek V4.1 Flash (high) | -0.407 | 44% | -0.529 to -0.273 |
+| 33 | DeepSeek V4 Pro Preview | -0.490 | 43% | -0.591 to -0.384 |
+| 34 | Qwen3.8-27B^ | -0.562 | 42% | -0.742 to -0.393 |
+| 35 | Xiaomi MiMo V2.5 Pro | -0.628 | 41% | -0.765 to -0.480 |
+| 36 | Qwen 3 Max Preview | -0.640 | 41% | -0.808 to -0.491 |
+| 37 | Gemini 3.7 Flash (high) | -0.653 | 40% | -0.748 to -0.537 |
+| 38 | Qwen 3.6 Max Preview | -0.893 | 37% | -1.018 to -0.754 |
+| 39 | GLM-5.1 | -0.996 | 35% | -1.184 to -0.831 |
+| 40 | Kimi K2.5 Thinking | -1.039 | 35% | -1.203 to -0.853 |
+| 41 | Xiaomi MiMo V2 Pro | -1.178 | 33% | -1.413 to -0.945 |
+| 42 | Baidu Ernie 5.1 | -1.198 | 32% | -1.348 to -1.058 |
+| 43 | **Mistral Large 4 (high)** | -1.585 | 27% | -1.698 to -1.458 |
+| 44 | Mistral Large 3 | -1.720 | 25% | -1.836 to -1.603 |
+| 45 | Gemma 4 31B Reasoning | -1.840 | 24% | -1.941 to -1.742 |
+| 46 | ByteDance Seed2.0 Pro | -1.936 | 23% | -2.060 to -1.802 |
+| 47 | Gemini 3.5 Flash | -1.939 | 23% | -2.043 to -1.843 |
+| 48 | Gemini 3.1 Pro Preview | -2.139 | 20% | -2.251 to -2.027 |
+| 49 | Qwen 3.6 Plus | -2.232 | 19% | -2.406 to -2.053 |
+| 50 | Mistral Medium 3.5 | -2.509 | 16% | -2.635 to -2.379 |
+| 51 | Qwen 3.7 Max | -2.614 | 15% | -2.748 to -2.485 |
+| 52 | DeepSeek V3.2 | -2.829 | 13% | -3.075 to -2.565 |
+| 53 | Grok 4.6 (high) | -2.833 | 13% | -2.967 to -2.678 |
+| 54 | GPT-OSS-120B | -3.130 | 11% | -3.249 to -3.006 |
+| 55 | MiniMax-M2.7 | -3.719 | 7% | -3.845 to -3.573 |
+| 56 | Grok 4.3 | -4.208 | 4% | -4.376 to -4.025 |
+| 57 | Grok 4.5 (high) | -5.040 | 2% | -5.135 to -4.956 |
 
 ### Coverage Note
 
@@ -82,17 +83,15 @@ The shaded ranges show how much scores vary across 300 resamples of stories and 
 - ^ Qwen3.8-27B: 389 of 400 stories completed.
 - ※ MiMo V2.6 Pro: 375 of 400 stories completed.
 
-Striped bars and badges identify incomplete story sets. Quality comparisons concern completed stories. The latest evaluations returned 23,085/23,148 planned judgments; 63 unavailable judgments are excluded from the scores. The Opus 5.5 high versus Opus 5 high comparison covers 50 matched prompts, with 298/300 usable judgments.
+Striped bars and badges identify incomplete story sets. Quality comparisons concern completed stories. The latest evaluations returned 26,197/26,268 planned judgments; 71 unavailable judgments are excluded from the scores. The Opus 5.5 high versus Opus 5 high comparison covers 50 matched prompts, with 298/300 usable judgments.
 
-Grok 4.7 (high) versus Grok 4.6 (high): 50 matched prompts, 300/300 judgments. Xiaomi MiMo V2.6 Pro (thinking) versus Xiaomi MiMo V2.5 Pro: 50 matched prompts, 300/300 judgments.
+Mistral Large 4 (high) completed all 400 prompts. Stories outside 600–800 words were regenerated from their original prompts, retaining the first response within range; 43 prompts required another draw, for 446 total generation calls. Its comparisons cover 26 opponents, including Mistral Large 3, with 20 matched stories per opponent and 3,112/3,120 usable judgments. [Comparison coverage](data/writing_mistral_large4_20261007/mistral_matchup_coverage.csv).
 
 ## Head-to-Head Comparisons
 
 ![Pairwise margin heatmap](images/inter_llm_comparison_pair_margin_heatmap_highlighted.png)
 
 Read each cell by row. Red means the row model performed better, blue means the column model performed better, and grey means the models were not directly compared. Near-white cells indicate close results. Both axes follow the leaderboard order. Earlier and newer evaluations contribute to both this chart and the rankings.
-
-Every highlighted model has direct comparisons against all 25 other displayed models. Opus 5.5 high has now been compared with Fable 5.1 high on 50 matched prompts, Opus 5 xhigh on 60, and GPT-6 Astra high on 40. Fable 5.1 high versus Opus 5 xhigh covers 20 prompts. An additional 24 story comparisons check Fable and Opus 5 xhigh against four weaker opponents using prompts and evaluators already used for Opus 5.5. [Comparison sample sizes](data/writing_opus_precision_20260927/pair_stats.csv), [the additional comparison schedule](data/writing_opus_precision_20260927/matchup_schedule.csv), and [rank stability and evaluator sensitivity](data/writing_opus_precision_20260927/rank_uncertainty.md) provide the details.
 
 ## Additional Results
 
@@ -102,15 +101,15 @@ Every highlighted model has direct comparisons against all 25 other displayed mo
 
 The matrix includes earlier and newer evaluator models. Each number shows how similarly two evaluators scored the story pairs they both read. Values closer to 1 indicate stronger agreement; 0 means no consistent relationship, and negative values mean opposing scoring patterns. Orange indicates negative correlations, and blue indicates positive correlations. Blank cells lack enough varied judgments to calculate a correlation; the diagonal is omitted. Agreement on these stories does not establish evaluator accuracy.
 
-GLM-5.1 / Muse Spark 1.1 (high): only two shared stories. [Shared-story counts](data/writing_opus_precision_20260927/evaluator_agreement.csv) accompany every evaluator pair.
+GLM-5.1 / Muse Spark 1.1 (high): only two shared stories. [Shared-story counts](data/writing_mistral_large4_20261007/evaluator_agreement.csv) accompany every evaluator pair.
 
 ### Word Count Compliance
 
 ![Story word counts](images/inter_llm_comparison_word_count_ci_highlighted.png)
 
-Each dot is one completed story; diamonds mark model averages. Thin vertical lines show uncertainty around the averages. The shaded band is the 600–800-word target. The chart includes 10,362 completed stories from all 26 displayed models. This measures length rather than writing quality.
+Each dot is one completed story; diamonds mark model averages. Thin vertical lines show uncertainty around the averages. The shaded band is the 600–800-word target. The chart includes 8,762 completed stories from all 22 displayed models. This measures length rather than writing quality.
 
-Six stories that exceeded 800 words were regenerated using their original prompts; the first replacement within 600–800 words was retained. The 12 comparisons that used a replaced story were rerun with the same evaluators and both story orders. The rankings and charts use these replacements. All 10,362 displayed stories now fall within the word limit.
+Before the Mistral intake, six stories that exceeded 800 words were regenerated using their original prompts; the first replacement within 600–800 words was retained. The 12 comparisons that used a replaced story were rerun with the same evaluators and both story orders. The rankings and charts use these replacements.
 
 ### Combining Evaluations Over Time
 
@@ -168,7 +167,7 @@ New analyses give recurring writing habits, range and adaptability, and consiste
 
 Story prompts are available under `prompts_wc/`, and generated stories under `stories_wc/<model>/`.
 
-[Current ratings and chart data](data/writing_opus_precision_20260927/README.md) include machine-readable leaderboard scores and uncertainty intervals, direct head-to-head results, matched story-pair results, and evaluator diagnostics.
+[Current ratings and chart data](data/writing_mistral_large4_20261007/README.md) include machine-readable leaderboard scores and uncertainty intervals, direct head-to-head results, matched story-pair results, and evaluator diagnostics.
 
 [Earlier benchmark data](data/README.md) links to the immutable August 23, 2026 data release. That archive contains the exact evaluator commentary for both story orders, excluded or superseded responses, and the accompanying source story and prompt texts.
 
@@ -182,6 +181,7 @@ Earlier versions of this benchmark used absolute 0-10 rubric ratings rather than
 
 ## Recent Updates
 
+- October 8, 2026: Added Mistral Large 4 high.
 - September 26, 2026: Added Claude Opus 5.5 high, Claude Opus 5 high, MiMo V2.6 Pro thinking, DeepSeek V4.1 Flash high, Gemini 3.8 Flash high, and Grok 4.7 high.
 - September 5, 2026: Added GPT-6 Astra high, Muse Spark 1.3.
 - September 2, 2026: Added Claude Fable 5.1.
