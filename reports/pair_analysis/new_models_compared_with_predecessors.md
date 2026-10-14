@@ -1,7 +1,8 @@
 # New Models Compared with Their Predecessors
 
-These reports compare model releases with their immediate benchmark predecessors across matched short-fiction prompts. Each combines balanced-order evaluator judgments with source-grounded qualitative analysis of recurring differences in reasoning, narrative control, characterization, causality, prose, and endings.
+These reports compare model releases with their benchmark predecessors or selected earlier models across matched short-fiction prompts. Each combines balanced-order evaluator judgments with source-grounded qualitative analysis of recurring differences in reasoning, narrative control, characterization, causality, prose, and endings.
 
+- [Gemini 4 Argon (high) vs. Gemini 3.1 Pro Preview](gemini-4-argon-high__vs__gemini-3.1-pro-preview__comparator_v2_eval_v4_gemini_argon_vs_gemini31_20261013_n50__subjective_v5_habits_range.md) · [50-story quantitative comparison](gemini-4-argon-high__vs__gemini-3.1-pro-preview__comparator_v2_eval_v4_gemini_argon_vs_gemini31_20261013_n50__quantitative.md)
 - [Grok 4.7 (high) vs. Grok 4.6 (high)](grok-4.7-high__vs__grok-4.6-high__comparator_v2_eval_v4_grok47_mimo26_predecessors_20260927_n50_cap3__subjective_v5_habits_range.md)
 - [MiMo V2.6 Pro (thinking) vs. MiMo V2.5 Pro](mimo-v2.6-pro__vs__mimo-v2.5-pro__comparator_v2_eval_v4_grok47_mimo26_predecessors_20260927_n50_cap3__subjective_v5_habits_range.md)
 - [Claude Opus 5.5 (high) vs. Claude Opus 5 (high)](claude-opus-5-5-high__vs__claude-opus-5-high__comparator_v2_eval_v4_opus55_predecessor_20260927_n50__subjective_v5_habits_range.md)
