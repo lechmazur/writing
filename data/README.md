@@ -4,20 +4,20 @@ Snapshot `2026-08-23` covers the canonical `comparator_v2_eval_v2_v3_combined_pu
 
 ## Repository Tables
 
-- [Leaderboard](leaderboard.csv)
-- [Direct head-to-head results](head_to_head.csv)
-- [Pair-story aggregates](pair_story_aggregates.csv)
-- [Judgment index](judgments_index.csv)
-- [Evaluator diagnostics](evaluator_diagnostics.csv)
-- [Evaluator agreement](evaluator_agreement.csv)
-- [Rating diagnostics](rating_diagnostics.csv)
-- [Tie sensitivity](tie_sensitivity.csv)
-- [Side-bias corrections](side_bias_corrections.csv)
-- [Scope compatibility](scope_compatibility.csv)
-- [Judgment JSON Schema](judgments_schema.json)
-- [Browsable judgment sample](judgments_sample.jsonl)
-- [Comparison prompt](methodology/comparison_prompt.txt)
-- [Comparison rubric](methodology/comparison_rubric.txt)
+- [Leaderboard](https://github.com/lechmazur/writing/blob/main/data/leaderboard.csv)
+- [Direct head-to-head results](https://github.com/lechmazur/writing/blob/main/data/head_to_head.csv)
+- [Pair-story aggregates](https://github.com/lechmazur/writing/blob/main/data/pair_story_aggregates.csv)
+- [Judgment index](https://github.com/lechmazur/writing/blob/main/data/judgments_index.csv)
+- [Evaluator diagnostics](https://github.com/lechmazur/writing/blob/main/data/evaluator_diagnostics.csv)
+- [Evaluator agreement](https://github.com/lechmazur/writing/blob/main/data/evaluator_agreement.csv)
+- [Rating diagnostics](https://github.com/lechmazur/writing/blob/main/data/rating_diagnostics.csv)
+- [Tie sensitivity](https://github.com/lechmazur/writing/blob/main/data/tie_sensitivity.csv)
+- [Side-bias corrections](https://github.com/lechmazur/writing/blob/main/data/side_bias_corrections.csv)
+- [Scope compatibility](https://github.com/lechmazur/writing/blob/main/data/scope_compatibility.csv)
+- [Judgment JSON Schema](https://github.com/lechmazur/writing/blob/main/data/judgments_schema.json)
+- [Browsable judgment sample](https://github.com/lechmazur/writing/blob/main/data/judgments_sample.jsonl)
+- [Comparison prompt](https://github.com/lechmazur/writing/blob/main/data/methodology/comparison_prompt.txt)
+- [Comparison rubric](https://github.com/lechmazur/writing/blob/main/data/methodology/comparison_rubric.txt)
 
 The index contains 67,178 accepted ordered judgments and
 163 excluded or superseded response records. Both `ab`
