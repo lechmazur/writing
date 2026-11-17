@@ -1,0 +1,6 @@
+model,overall_rank,opponents,baseline,added,matched_story_pairs,usable_judgments
+gpt-6.2-astra-high,1,25,500,150,650,3898
+qwen4-max-high,3,26,520,130,650,3900
+claude-fable-5-2-high,2,28,560,90,650,3899
+claude-opus-5-5-high,6,36,636,14,650,3885
+gpt-6-astra-high,7,66,1060,30,1090,7137
